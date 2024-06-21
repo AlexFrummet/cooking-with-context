@@ -1,0 +1,115 @@
+question_id,recipe_id,question,target_answer,generated_answer
+9,83,How large should the candy bars be?,"4 (1.55 ounce) bars milk chocolate candy bar, broken into rectangles","4 (1.55 ounce) bars milk chocolate candy bar, broken into rectangles"
+225,244,"OK, and which should be the size of the can?","1 (15 ounce) can chickpeas (garbanzo beans), drained","1 (15 ounce) can chickpeas (garbanzo beans), drained"
+317,22,"How many tomatoes, peppers and onions do I need to add?",1 (14.5 ounce) can diced tomatoes with green peppers and onions,1 (14.5 ounce) can diced tomatoes with green peppers and onions
+342,111,Ok no problem. What are the next ingredients?,1 1/4 cups all-purpose flour,1/2 cup packed light brown sugar
+343,111,OK I have them. What are the next?,1/2 cup packed light brown sugar,1 1/4 cups all-purpose flour
+345,111,Ok. What are the next ingredients?,1/2 cup sweetened condensed milk,1/2 cup packed light brown sugar
+347,111,Ok. Do you know how much that is in Celsius?,176 degrees C,176 degrees C
+403,34,How large should the package be?,1 (10 ounce) package frozen mixed berries,1 (10 ounce) package frozen mixed berries
+405,34,How large should the can of peaches be?,"1 (15 ounce) can sliced peaches, drained","1 (15 ounce) can sliced peaches, drained"
+421,107,Ok. I have both of them. What are the next?,1/2 cup chopped onion,1/2 cup chopped green bell pepper
+423,107,Ok. what is next?,1 1/2 cups shredded Cheddar cheese,2 tablespoons Dijon-style prepared mustard
+425,107,Ok no problem. What is next?,2 tablespoons Dijon-style prepared mustard,1 tablespoon minced garlic
+668,81,OK. Thank you. What are the next ingredients?,1 cup crushed seasoned croutons,"1 (6 ounce) can crabmeat, drained"
+676,81,How many crushed croutons do I need?,1 cup crushed seasoned croutons,1 cup crushed seasoned croutons
+679,81,How much lobster and garlic do I need?,"1 pound lobster tail, cleaned and chopped","1 pound lobster tail, cleaned and chopped"
+820,188,"Ok nice, I have chicken broth and rice here. Could you tell me the next two ingredients?",1/4 teaspoon Italian seasoning,1/4 teaspoon Italian seasoning
+822,188,"Ok, no worries! What are the next ingredients?","1 (10 ounce) package frozen chopped broccoli, thawed and drained",1/4 teaspoon garlic powder
+825,188,"Ok good, what is the size of the onion can?","1 (2.8 ounce) can French-fried onions, divided","1 (2.8 ounce) can French-fried onions, divided"
+828,188,"Ok, could you tell me how much is 375 F into celsius?",190 degrees C,190 degrees C
+833,188,"OK, I baked it for 25 minutes, can I bake it a bit longer?",until the fish flakes easily with a fork,20-25 minutes longer
+993,193,"Ok good, yes what are the first two ingredients?","2 tablespoons olive oil, divided","2 tablespoons olive oil, divided"
+994,193,"Ok how big should the chicken be? Ok thanks. I got them, what is next.","2 (6 ounce) skinless, boneless chicken breast halves","2 (6 ounce) skinless, boneless chicken breast halves"
+995,193,"Ok thanks. I got them, what is next?",1 1/2 tablespoons Cajun seasoning,1 1/2 tablespoons Cajun seasoning
+996,193,Ok I have them ready. What are the next ingredients?,1 tablespoon balsamic vinegar,1 1/2 tablespoons Cajun seasoning
+998,193,"Ok no problem,  what are the next ingredients?",salt and black pepper to taste,"2 cloves garlic, crushed"
+999,193,"Alright, I got it. What is next?",1 cup arugula,1 1/2 tablespoons Cajun seasoning
+1000,193,Ok I prepared both ingredients. Are there more ingredients left?,"12 oil-packed sun-dried tomatoes, drained and sliced",salt and black pepper to taste
+1030,250,Ok. Can you give them 2 by 2?,"1 (4 ounce) bar German sweet chocolate, chopped","1 (4 ounce) bar German sweet chocolate, chopped"
+1031,250,Ok. The next two?,"4 ounces cream cheese, softened","1 (12 ounce) container frozen whipped topping, thawed"
+1032,250,Ok. The last two are?,"1 (12 ounce) container frozen whipped topping, thawed",1 (9 inch) prepared graham cracker crust
+1034,250,How long shall I microwave it?,1 1/2 to 2 minutes,until chocolate is almost melted
+1422,118,Ok they are ready! What next?,"1 green bell pepper, chopped",2 cups cubed cooked ham
+1423,118,Ok good I have them ready what next?,2 (15 ounce) cans black beans,2 (15 ounce) cans black beans
+1425,118,Oh. What is the size of the bean cans? Could I have that in grams?,2 (15 ounce) cans black beans,2 (15 ounce) cans black beans
+1428,118,Ok good! They are ready. What next?,ground black pepper to taste,2 cups cubed cooked ham
+1443,183,Ok thanks the is a good plan. Ok I have both ingredients. What is next?,2 cups all-purpose baking mix,1 pound sausage
+1498,70,How large should the can be?,1 (28 ounce) can crushed tomatoes,1 (28 ounce) can crushed tomatoes
+1500,70,How large should the package of vegetables be?,1 (16 ounce) package frozen mixed vegetables,1 (16 ounce) package frozen mixed vegetables
+1681,240,"Right, could you tell me more ingredients?",1/2 cup butter,1/2 cup butter
+1698,120,Ok good. What are the next?,"1 egg, lightly beaten","1 egg, lightly beaten"
+1711,120,Ok good! How long will it take?,3 to 5 minutes,until tender but still firm
+1892,223,Ok what are the next ingredients?,1/4 cup sliced almonds,1/4 cup sliced almonds
+1894,223,Ok sure I will try. What are the last ingredients?,2/3 cup white sugar,2/3 cup white sugar
+1917,136,Ok. thanks! You pronounce it in a funny way. Can I have two more ingredients?,"1 green bell pepper, cut into 1 inch pieces","1 cucumber - peeled, seeded and chopped"
+1918,136,Great! They are ready! What is the next step?,"1 carrot, coarsely chopped",the next step
+2125,197,Ok I have prepared the ingredients. What should I do now?,1/2 tablespoon orange juice,1/2 tablespoon pineapple juice
+2126,197,"Alright, what is next?",1/4 teaspoon ground cumin,salt to taste
+2214,117,Ok I have them. What are the next ingredients?,1 teaspoon ground cinnamon,2 cups white sugar
+2215,117,Ok. Are there more ingredients left?,1/4 teaspoon baking powder,1/2 cup sour cream
+2237,259,How large should the cans be?,"1 (15 ounce) can kidney beans, undrained","1 (15 ounce) can kidney beans, undrained"
+2239,259,How large does the can have to be?,"1 (11 ounce) can whole kernel corn, drained","1 (15 ounce) can kidney beans, undrained"
+2243,259,How large should the can of tomato paste be?,1 (6 ounce) can roasted garlic tomato paste,"1 (6 ounce) can whole kernel corn, drained"
+2329,114,Ok good! Can I have the next ingredients?,2 cups semisweet chocolate chips,2 cups semisweet chocolate chips
+2331,114,Ok good. Can I have more ingredients?,2 (3.5 ounce) packages instant vanilla pudding mix,2 cups semisweet chocolate chips
+2332,114,Ok. How big should the vanilla pudding mix packages be?,2 (3.5 ounce) packages instant vanilla pudding mix,2 (3.5 ounce) packages instant vanilla pudding mix
+2333,114,Ok good. What next?,"2 large bananas, sliced",4 1/2 cups miniature marshmallows
+2424,217,Ok no problem. What are the next ingredients?,1/4 cup molasses,1 teaspoon ground cinnamon
+2426,217,Ok thanks! What is next?,1 1/2 teaspoons ground ginger,2 cups all-purpose flour
+2438,159,Ok I have them ready. What is next?,cayenne pepper to taste,later
+2452,142,Ok no problem. Can I have two more ingredients?,1 egg,1 tablespoon chopped fresh parsley
+2453,142,"Ok good, can I have 2 more?",1/2 teaspoon salt,1/2 teaspoon salt
+2454,142,"Ok good. I have them, is there more ingredients?",1/4 cup lard or other cooking fat,1/4 cup lard or other cooking fat
+2474,31,Ok. how much flour and sugar should I add?,1 cup rye flour,1/4 cup sugar
+2485,31,Ok. when do I know that they are ready?,a toothpick inserted near the center comes out clean,until moistened
+2651,178,"Ok good, I have them ready. What are the next ingredients?","5 button mushrooms, chopped","5 button mushrooms, chopped"
+2652,178,"Ok, good. which are the next ingredients?",1 egg,"6 ounces shredded Swiss cheese, divided"
+2653,178,"Ok good, are there more ingredients?","6 ounces shredded Swiss cheese, divided",1 egg
+2698,138,Ok. No problem. What are the next two ingredients?,2 cups heavy cream,5 cups milk
+2699,138,Ok. Good. They are ready! Can I have the last two ingredients?,1/2 teaspoon salt,1/2 teaspoon salt
+2708,50,I have both ingredients. What else?,1 teaspoon salt,1 teaspoon salt
+2709,50,Ok. done. What is the last ingredient?,"1 (2 to 3 pound) whole chicken, cut into pieces","1 (2 to 3 pound) whole chicken, cut into pieces"
+2722,123,How big should the chicken and the package be?,"1 (1.27 ounce) packet dry fajita seasoning, divided","1 (1.27 ounce) packet dry fajita seasoning, divided"
+2723,123,"Ok, and the chicken breasts?","2 skinless, boneless chicken breast halves","2 skinless, boneless chicken breast halves"
+2724,123,OK what are the next ingredients?,1 tablespoon vegetable oil,"1 onion, chopped"
+2727,123,"Ok thanks, what are the next ingredients?",1 (10 ounce) package mixed salad greens,"1 onion, chopped"
+2730,123,Ok when do I know if it's ready?,until juices run clear,until juices run clear
+2733,123,Ok. For how long should I do that?,until warm,until juices run clear
+2823,116,Ok good I have them ready. Which are the next ones?,1/4 teaspoon salt,2 cups chopped dates
+2824,116,Ok I also have those ready. What next?,"4 eggs, lightly beaten",1/4 teaspoon salt
+2827,116,Ok should I use all the dates?,2 cups chopped dates,2 cups chopped walnuts or pecans
+2831,116,Ok I am doing that. Is there a way to see that it's ready?,until golden brown,until golden brown
+2896,218,"Ok, good i'll try that, are there more ingredients to prepare?",2 cups semisweet chocolate chips,1/2 cup coarsely chopped walnuts
+2908,156,Ok I did that! what next?,1 cup lemonade,1 cup lemonade
+2910,156,Ok no problem can I have two more ingredients?,1 1/2 teaspoons Worcestershire sauce,1 tablespoon lime juice
+2911,156,Ok can I have more ingredients?,1/2 teaspoon onion powder,"1 head lettuce, shredded"
+2912,156,Ok how big should the package be?,1 (12 ounce) package corn tortillas,1 (12 ounce) package corn tortillas
+2913,156,Ok good are there more ingredients?,1 (8 ounce) package shredded sharp Cheddar cheese,1 (8 ounce) package shredded sharp Cheddar cheese
+2914,156,Ok can I have the quantities of these ingredients?,1 (8 ounce) package shredded sharp Cheddar cheese,1 (12 ounce) package corn tortillas
+2920,156,"Ok good, for how long should I warm the tortillas in the oven?",until soft,until soft
+2946,33,Ok. how much should I add?,1 1/2 scoops vanilla ice cream,1 1/2 cups milk
+3097,222,"Ok, I went and bought it then! Could you tell me the next two ingredients?",1 cup egg substitute,1 cup fat-free milk
+3102,222,Yes that would be nice.,"1 (10 ounce) package frozen chopped spinach, thawed and squeezed dry","1 (10 ounce) package frozen chopped spinach, thawed and squeezed dry"
+3103,222,Great! Could I have the last ingredients now?,"1 cup frozen chopped broccoli, thawed and well drained","1 cup frozen chopped broccoli, thawed and squeezed dry"
+3110,222,"Great! It's been 45 minutes since I put the pan in the oven, but it doesn't look ready... Should I wait 10 more minutes?",until a knife inserted near the center comes out clean,until a knife inserted near the center comes out clean
+3154,137,How large is the package? And can I use scamorza in stead of mozzarella.,1 (6 ounce) package herb-seasoned dry bread stuffing mix,1 (6 ounce) package herb-seasoned dry bread stuffing mix
+3225,121,Yes thanks. What are the ingredients?,"1 onion, chopped","1 onion, chopped"
+3226,121,Ok what is the size of the can?,1 (10.75 ounce) can condensed tomato soup,1 (10 ounce) can diced tomatoes with green chile peppers
+3227,121,Ok thank you. What else do I need?,1 (10.75 ounce) can condensed cream of mushroom soup,1 (10.75 ounce) can condensed cream of mushroom soup
+3228,121,Could you also give me the sizes of these cans?,1 (10.75 ounce) can condensed cream of mushroom soup,1 (10 ounce) can diced tomatoes with green chile peppers
+3229,121,Ok thanks I have both of them. What is next?,"1 1/2 pounds crawfish, peeled",1 (10.75 ounce) can condensed cream of mushroom soup
+3231,121,Ok how long does that take?,until clear,until clear
+3235,121,Ok 20 minutes have passed. How do I know that it is ready?,25 minutes,25 minutes
+3349,234,"Ok I'll use that one then, can you tell me which are the next ingredients?",1/2 teaspoon dried oregano,1/2 teaspoon ground cumin
+3350,234,"Ok good, can I have the size of the can?","1 (15 ounce) can black beans, rinsed and drained","1 (15 ounce) can black beans, rinsed and drained"
+3351,234,Top! Can we keep on going with the ingredients?,"1 (15 ounce) can whole kernel corn, drained","1 (15 ounce) can black beans, rinsed and drained"
+3352,234,Perfect! WHat next?,1/2 cup salsa,1/2 cup salsa
+3443,208,"Ok good, can you tell me more ingredients?","2 pounds frozen crawfish, cleaned","2 pounds frozen crawfish, cleaned"
+3445,208,"Ok I got those cans, are there any other ingredients left?","4 ounces cream cheese, softened",2 cups half-and-half cream
+3778,94,How long should I cook them for them to be very done inside?,3 to 4 minutes,3 to 4 minutes
+4000,144,Ok. I have them ready. What are the next ingredients?,1/2 teaspoon ground cinnamon,1/2 teaspoon salt
+4002,144,Ok good. Can I have more ingredients?,"2 cups chopped, peeled apples",1 cup chopped walnuts
+4003,144,Ok. good! What next?,1 cup raisins,1 cup chopped walnuts
+4009,144,Ok good. I baked it for 45 minutes. How do I see that it's ready?,45 minutes,45 minutes
+4371,0,Are the degrees in Celsius?,400 degrees F,205 degrees C

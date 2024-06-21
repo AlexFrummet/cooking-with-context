@@ -1,0 +1,41 @@
+name: "baseline_experiment"
+log_level: "INFO"
+
+#################################################################
+# FILE PATHS
+#################################################################
+
+data_path: "datasets"
+
+
+#################################################################
+# EXPERIMENT PARAMETERS
+#################################################################
+base_models:
+    - model_type: "t5"
+      parameters:
+       checkpoint: "t5-base"
+       batch_size: 16
+       random_seed: 42
+       num_epochs: 5
+       learning_rate: 2e-5
+       optimizing_metric: "val_qa_answer_f1"
+    - model_type: "bart"
+      parameters:
+       checkpoint: "facebook/bart-base"
+       batch_size: 16
+       random_seed: 42
+       num_epochs: 5
+       learning_rate: 2e-5
+       optimizing_metric: "val_qa_answer_f1"
+
+query_representation:
+    - "canard_rewritten"
+    - "quretec_expansion"
+    - "prepend_context"
+    
+context_window:
+    - "n_2"
+    - "n_0"
+    - "n_3"
+    - "n_all"

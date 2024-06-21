@@ -1,0 +1,237 @@
+question_id,recipe_id,question,target_answer,generated_answer
+0,212,I do! Let's do it! Can we first prepare the ingredients?,1 cup butterscotch chips,1 cup butterscotch basketball cookies
+1,212,"Ok, I have them ready, what are the next ones?",1/2 cup packed brown sugar,1/2 cup packed brown sugar
+3,212,That's ok! Can you tell me more ingredients?,2 teaspoons vanilla extract,1/2 cup sugar
+4,212,"Good, I have them in my baking shelf! Is that it?",1/4 cup water,Paste food coloring
+5,212,Good! I have water baking powder and vanilla exctract!,4 cups confectioners' sugar,1/4 cup water
+7,212,"Ok, for how long should I cook them i the microwave?",<no_answer>,no_answer>
+12,212,"Ok, I am doing that. Should I use all the chips?",<no_answer>,no_answer>
+19,212,"Ok, 7 minutes passed. Should I wait until they look nicely brown?",<no_answer>,no_answer>
+22,212,Should I add all of the sugar?,<no_answer>,no_answer>
+66,236,"Ok, I have brandy and orange juice!",1 (16 ounce) can frozen lemonade concentrate,1 (16 ounce) can frozen lemonade concentrate
+67,236,And do you think bluebbery juice will be nice instead of cranberriies one?,1 (16 ounce) can frozen lemonade concentrate,2 quarts cranberry juice
+74,236,"Oh, it looks great! Should I wait until it melts or should I eat it with a spoon?",<no_answer>,no_answer>
+77,181,Ok I have them. What is next?,1 cup quick-cooking oats,1/2 cup canola oil
+78,181,Ok what is next?,2 teaspoons baking powder,2 teaspoons baking powder
+79,181,Ok I have them as well.,1/2 cup unsweetened applesauce,1/2 cup chopped walnuts or pecans
+80,181,Ok what is next?,"2 egg, lightly beaten",2 teaspoons baking powder
+81,181,Ok are there more ingredients?,1/2 cup chopped walnuts or pecans,1 cup miniature chocolate chips
+84,181,Ok should I use another bowl for that?,<no_answer>,no_answer>
+115,228,"Ok, I'll take them! What should I prepare afterwards?",1 cup white sugar,1 cup packed brown sugar
+116,228,"Great, I've got it! What now?",1 teaspoon vanilla extract,1 teaspoon salt
+117,228,"Good, are the ingredients over?",4 teaspoons cream of tartar,4 teaspoons cream of tartar
+118,228,Could you repeat the first ingredient?,4 teaspoons cream of tartar,1 teaspoon salt
+119,228,"Sorry, I still don't understant...",4 teaspoons cream of tartar,4 teaspoons cream of tartar
+120,228,"Ooooh, ok thanks!! How should I go on?",2 cups semisweet chocolate chips,4 teaspoons cream of tartar
+125,228,"Ok, should I use all of the cream of tartar?",<no_answer>,no_answer>
+129,228,"Okay, good. Can you remind me how warm should the oven be?",<no_answer>,no_answer>
+282,144,Ok good! Can you start to tell me which ingredients I should prepare?,4 cups milk,4 cups milk
+283,144,Ok good. Could I use white sugar instead of brown sugar?,2 teaspoons butter or margarine,4 cups milk
+284,144,Ok. I have them ready. What are the next ingredients?,1/2 teaspoon ground cinnamon,1/2 teaspoon ground cinnamon
+285,144,Is the second ingredient old fashion oats? Is that a brand?,2 cups old-fashioned oats,2 cups old-fashioned oats
+286,144,Ok good. Can I have more ingredients?,"2 cups chopped, peeled apples",1/2 teaspoon ground cinnamon
+287,144,Ok. good! What next?,1 cup raisins,"2 cups chopped, peeled apples"
+288,144,Sorry I didn't understand the second ingredient.,1 cup wheat germ,1/2 teaspoon ground cinnamon
+290,144,"Ok, I am heating those ingredients in the saucepan. For how long should I do that?",<no_answer>,no_answer>
+293,144,Ok good. I baked it for 45 minutes. How do I see that it's ready?,45 minutes,45 minutes
+314,139,Ok. Great. What should I do?,6 cups all-purpose flour,2 teaspoons salt
+315,139,Ok. alright. I have them. What is next?,3 tablespoons sugar,2 cups warm milk
+316,139,Ok. I have both of them as well.,2 teaspoons salt,2 teaspoons salt
+613,154,Great! Can I have all the ingredients first?,"3 (10 ounce) packages frozen chopped spinach, thawed","3 (10 ounce) packages frozen chopped spinach, thawed"
+614,154,Ok! how big should the spinach packages be?,"3 (10 ounce) packages frozen chopped spinach, thawed","3 (10 ounce) packages frozen chopped spinach, thawed"
+615,154,"Ok good, what are the next two ingredients?",1/2 teaspoon onion salt,"3/4 cup grated Parmesan cheese, divided"
+616,154,Ok good! which are the next ones?,"3/4 cup grated Parmesan cheese, divided","3/4 cup grated Parmesan cheese, divided"
+617,154,"Ok good, which are the next ones?",salt and pepper to taste,"3/4 cup grated Parmesan cheese, divided"
+618,154,Ok good! I have those ready. Is there any more ingredient?,"6 tablespoons butter or margarine, divided",1/2 teaspoon ground nutmeg
+619,154,Ok good I have those ready! what next?,1/2 teaspoon salt,3 eggs
+620,154," Okay, good! I have them ready. What next?",2 cups shredded Cheddar cheese,3 eggs
+631,154,"Ok I did that, how do I see if it's ready?",until chicken juices run clear,no_answer>
+717,46,Ok. I have that.,1/2 cup packed brown sugar,1 1/2 teaspoons ground cinnamon
+718,46,Good I have them all in front of me now.,1/2 teaspoon ground nutmeg,1 1/2 teaspoons ground cinnamon
+719,46,Could you repeat the last one please?,1 recipe pastry for a 9 inch double crust pie,1 recipe pastry
+729,46,How do I know when it is ready?,<no_answer>,no_answer>
+731,158,"Good, could I have them first so I can prepare them?","1/2 cup butter, softened","1/2 cup butter, softened"
+732,158,"Good, can I use Solo instead of butter?","1/2 cup butter, softened","1/2 cup butter, softened"
+734,158,"Ok good, can I use lentil flour instead of the all-purpose one?",1 (3 ounce) package cream cheese,1 cup sifted all-purpose flour
+735,158,"Ok, no problem, are there more ingredients?",1/3 cup white sugar,1 teaspoon ground cinnamon
+779,25,How long should I drain the artichokes?,<no_answer>,no_answer>
+787,25,"Alright, my fault. How many onions do I need?","1 small onion, finely chopped","1 small onion, finely chopped"
+813,113,Could you repeat the second ingredient?,1/3 cup Hidden Valley Original Ranch Salad Dressing,1 cup shredded Cheddar cheese
+814,113,Ok I have them. What are the next?,Sliced green onions (optional),1 cup shredded Cheddar cheese
+815,113,Could you repeat the second ingredient?,Bacon pieces (optional),1 cup shredded Cheddar cheese
+816,113,"Ah ok, alright. I have them ready.",Bacon pieces (optional),1 cup shredded Cheddar cheese
+909,101,Ok. sounds nice. I like salmon. What are the first two ingredients?,24x8x1 inch untreated cedar plank,24x8x1 inch untreated cedar plank
+910,101,Sorry I didn't get the first ingredient. Could you repeat it?,24x8x1 inch untreated cedar plank,"1 large red onion, chopped"
+911,101,Ok. thanks. I have both ingredients ready. What are the next?,1/2 cup extra virgin olive oil,"1 large red onion, chopped"
+912,101,Ok. I have the oil and chopped the onion. What is next?,"1 lemon, sliced","1 lemon, sliced"
+914,101,Ok. For how long should it be in?,<no_answer>,no_answer>
+917,101,Ok. I have done that. How long should it be there?,<no_answer>,no_answer>
+920,101,Ok. Should I use all the olive oil or leave some for later?,<no_answer>,no_answer>
+1209,9,Ok. in the oven right?,<no_answer>,no_answer>
+1210,9,Ok. thanks. And how long should I bake them?,<no_answer>,no_answer>
+1313,142,Ok good. Can I use almond flour instead of all purpose flour?,1 1/2 pounds russet potatoes,1 egg
+1314,142,Ok no problem. Can I have two more ingredients?,1 egg,1 egg
+1315,142,"Ok good, can I have 2 more?",1/2 teaspoon salt,1/2 teaspoon salt
+1316,142,"Ok good. I have them, is there more ingredients?",1/4 cup lard or other cooking fat,1/4 teaspoon freshly ground nutmeg
+1317,142,Sorry I didn't understand this ingredient.,1/4 cup lard or other cooking fat,1 1/2 pounds russet potatoes
+1319,142,Ok good. I did that! They boiled for 25 minutes. How do I see that they are ready?,<no_answer>,15 minutes
+1390,150,Okay good. Could you give me the ingredients first?,1 1/2 cups packed brown sugar,1 1/2 cups packed brown sugar
+1391,150,Okay good. Can I use Stevia instead of brown sugar?,1 1/2 cups packed brown sugar,1/2 cup white sugar
+1392,150,Okay no problem. Can I have the next ingredients?,1 teaspoon vanilla extract,1/4 teaspoon baking soda
+1393,150,Okay good. Can I have more ingredients?,1 1/2 cups all-purpose flour,1/2 teaspoon salt
+1394,150,Good. Can I use whole-wheat flour instead of the all-purpose one?,1 1/2 cups all-purpose flour,1 1/2 cups all-purpose flour
+1395,150,Okay no problem. Can you tell me two more ingredients please?,1/4 teaspoon baking soda,1 tablespoon water
+1396,150,Ok good. Are there more ingredients?,1/2 cup evaporated milk,1/4 teaspoon baking soda
+1398,150,Ok no problem! Are there more ingredients to prepare?,"2 egg yolks, beaten",1/4 teaspoon baking soda
+1399,150,"Ok, eggs and vanilla extract are ready! What next?",1/2 cup chopped pecans,1 1/2 cups all-purpose flour
+1400,150,Could you repeat the first ingredient?,1/2 cup chopped pecans,"2 egg yolks, beaten"
+1411,150,Ok good! How warm should the oven be?,<no_answer>,no_answer>
+1418,33,Ok. how much should I add?,1 1/2 scoops vanilla ice cream,1/4 cup whipped cream
+1596,206,"Ok, could we prepare them before we start with the recipe?",6 frozen prepared bean and cheese burritos,6 frozen prepared bean and cheese burritos
+1597,206,"Ok good, can I have three more ingredients?",1 3/4 cups water,1 1/2 teaspoons chili powder
+1598,206,"Ok, how big should the tomato sauce be?",1 (8 ounce) can tomato sauce,1 (8 ounce) can tomato sauce
+1599,206,"Ok good, are there any more ingredients left to prepare?",1 (8 ounce) can tomato sauce,1/3 cup chopped green onions
+1600,206,Ok could you tell me the next 3?,1 teaspoon beef bouillon granules,1 (8 ounce) can tomato sauce
+1601,206,Ok I have them in the slices rack. Which ingredients are left?,2 cups shredded Mexican blend cheese or Cheddar cheese,1/3 cup chopped green onions
+1602,206,"Ok, how big should the olive can be?","1 (2.25 ounce) can sliced ripe olives, drained","1 (2.25 ounce) can sliced ripe olives, drained"
+1606,206,"Ok, should I add all of the water?",<no_answer>,no_answer>
+1611,206,"Ok, good, could I have the temperature in Celsius?",<no_answer>,176 degrees C
+1624,220,Great! Could you tell them to me beforehand?,1 recipe pastry for a 9 inch double crust pie,1 recipe pastry for a 9 inch double crust pie
+1625,220,"Ok, I've got those. Could you tell me 3 more ingredients?",1/4 teaspoon ground cinnamon,1 teaspoon lemon zest
+1626,220,"Okay, good. Are there any other spices that I should use?",1/3 cup white sugar,1/4 teaspoon ground cinnamon
+1627,220,"Ok, cool! So now there are 4 ingredients left?",1 egg,1 tablespoon lemon juice
+1631,220,How long should i let it rest?,<no_answer>,no_answer>
+1641,220,"Alright, 25 minuted passed! Is there a way I can see that the pie is ready?",until golden brown,until golden brown
+1645,97,Yes. What are the first two ingredients?,"1 1/2 pounds skinless, boneless chicken breast meat","1 1/2 pounds skinless, boneless chicken breast meat"
+1646,97,Ok. I have them. What are the next ingredients?,1/2 teaspoon salt,1/4 teaspoon ground black pepper
+1647,97,Ok. I have them as well. What are the next?,1 1/2 cups milk,"2 cups frozen mixed vegetables, thawed"
+1649,97,Ok. No problem. What are the next ingredients?,"1 onion, chopped",1 cup chopped celery
+1650,97,Ok. I have them. What is next?,1/3 cup all-purpose flour,"2 cups frozen mixed vegetables, thawed"
+1651,97,Could you repeat the last part?,"2 cups frozen mixed vegetables, thawed",1 (9 inch) pastry for a 9 inch single crust pie
+1652,97,Ok. I have them. Are there more ingredients?,1 tablespoon chopped fresh parsley,1 tablespoon chopped fresh parsley
+1653,97,OK. What are the last two ingredients?,1 (9 inch) pastry for a 9 inch single crust pie,1 cup chopped celery
+1655,97,Ok. For how long should it stay? On the heat?,<no_answer>,no_answer>
+1667,97,Ok. How long should I do that?,until the sauce thickens and boils,no_answer>
+1735,185,"Ok great, it does! How should I start?","1 (3 1/2) pound broiler-fryer chicken, cut up","1 (3 1/2) pound broiler-fryer chicken, cut up"
+1736,185,Ok I have prepared the first two ingredients. What is next?,2 tablespoons cooking oil,"1 pound new potatoes, cut into chunks"
+1739,185,Ok I got it.,3/4 cup sliced green onions,3/4 cup sliced green onions
+1750,185,Ok for how long should I do that?,<no_answer>,no_answer>
+1773,204,"Good, I have butter, water and honey. Could you tell me three more ingredients?",1 1/2 cups bread flour,1 1/2 cups bread flour
+1774,204,"Ok, I have them, do you think it's okay to add chickpea flour?",1 1/2 cups bread flour,1 1/3 cups whole wheat bread flour
+1775,204,Ok that's cool. Can you tell me which are the last ingredients?,1 teaspoon active dry yeast,1 teaspoon salt
+1868,68,How large should the bunch of onions be?,<no_answer>,1 teaspoon salt
+1873,68,Can you repeat the last ingredient please?,1 cup sliced cabbage,1 cup sliced cabbage
+1877,68,Ok. that's a lot. What is the last ingredient?,2 tablespoons cornstarch,"1 red bell pepper, thinly sliced"
+1948,19,How many minutes I have to cook them?,according to package directions,no_answer>
+1958,19,350 degrees Fahrenheit right?,350 degrees,350 degrees Fahrenheit
+2221,173,Ok good what should I do?,2 tablespoons evaporated milk,no_answer>
+2228,10,What kind of leaves?,<no_answer>,2 pandan leaves
+2278,45,Ok. should it be large ?,<no_answer>,no_answer>
+2280,45,Ok. how much butter and sugar should I add?,3/4 cup butter,3/4 cup butter
+2472,237,How much flour and how many breadcrumbs?,1/4 cup all-purpose flour,1/4 cup all-purpose flour
+2503,92,I am ready and looking very forward!! Which are the ingredients that I should prepare?,1 cup warm water (110 degrees F),1 cup warm water (110 degrees F)
+2505,92,Ok no problem. Could I have the next two ingredients?,3 cups bread flour,1/4 cup white sugar
+2506,92,Ok good. Is it ok if I use brown sugar?,3 cups bread flour,1 tablespoon ground cinnamon
+2507,92,Ok no problem. Can I have the next two ingredients?,3 tablespoons instant powdered milk,1/4 cup white sugar
+2508,92,"Ok. I've prepared them, what next?","5 tablespoons butter, softened","5 tablespoons butter, softened"
+2509,92,Ok. I've got them. Which ingredients should I prepare next?,1/2 cup vanilla ice cream,1/4 cup white sugar
+2510,92,Ok good. Are the ingredients over?,1 tablespoon ground cinnamon,1 tablespoon ground cinnamon
+2532,92,Ok. How do I see that they are ready?,until golden brown,no_answer>
+2556,258,"Sorry, I need to know the amount of cream and butter.","1/2 cup butter, softened","1/2 cup butter, softened"
+2558,258,Can you repeat the last ingredient?,2 eggs,1 teaspoon salt
+2560,258,How much flour for this?,1 1/2 cups all-purpose flour,1 1/2 cups all-purpose flour
+2562,258,How many exactly?,1/2 cup chopped walnuts,"3 bananas, mashed"
+2569,213,Ok I have the squash and the curry powder. What is next?,2 tablespoons butter or trans fat-free margarine,2 tablespoons butter or trans fat-free margarine
+2570,213,Ok I have the butter. Can I also use ahorn syrup instead?,2 tablespoons butter or trans fat-free margarine,2 tablespoons butter or trans fat-free margarine
+2571,213,Ok I will try it out. What are the next ingredients?,"1/2 teaspoon Salt, to taste",1 1/2 tablespoons curry powder
+2572,213,Ok I have the ingredients. What is next?,"3 tablespoons sweetened coconut flakes, toasted (optional)",2 tablespoons butter or trans fat-free margarine
+2573,213,That sounds like a nice addition. Are there any ingredients left?,<no_answer>,"3 tablespoons sweetened coconut flakes, toasted (optional)"
+2579,201,Ok good. What are the first two ingredients?,"1 (10 ounce) can asparagus tips, drained","1 (10 ounce) can asparagus tips, drained"
+2581,201,"Ok good, I also have the next ingredients ready.","1 (1 pound) loaf soft, sliced white bread",2 tablespoons finely chopped onion
+2610,90,I am ready! Could I have all the ingredients to prepare two by two?,"3/4 cup butter, divided","3/4 cup butter, divided"
+2611,90,Ok. I took them. Is it ok if I use margarine instead of butter?,"3/4 cup butter, divided","3/4 cup butter, divided"
+2612,90,Ok no problem. Could I have the next two ingredients?,"4 portobello mushroom caps, sliced","1 clove garlic, chopped"
+2613,90,Ok good. What are the next two ingredients?,"3/4 cup all-purpose flour, divided","4 portobello mushroom caps, sliced"
+2615,90,Ok no problem. What are the next two ingredients?,1/2 cup dry Marsala wine,"3/4 cup all-purpose flour, divided"
+2616,90,Ok. Can I use white pepper instead of black pepper?,1/2 cup dry Marsala wine,ground black pepper to taste
+2617,90,Ok no problem. Are the ingredients over?,1 tablespoon browning sauce,1 tablespoon browning sauce
+2629,90,Ok. Can I bake it a little bit more?,until chicken juices run clear,until browned
+2632,190,"Ok, I've got it! Can you give me two more?","1 (8 ounce) package cream cheese, softened",1 cup grated Parmesan cheese
+2633,190,"Ok, good, how big should the package be?","1 (8 ounce) package cream cheese, softened","1 (10 ounce) package frozen chopped spinach, thawed and drained"
+2634,190,Good! Are there other ingredients?,1 cup grated Parmesan cheese,1 cup shredded Pepper Jack cheese
+2635,190,"Ok, good, those are on my kitchen counter. What is the last ingredient?","1 (10 ounce) package frozen chopped spinach, thawed and drained","1 (10 ounce) package frozen chopped spinach, thawed and drained"
+2642,190,In which kind of foil should I wrap them?,<no_answer>,no_answer>
+2643,190,"Ok, I used alluminum foil then. I baked for 20 minutes now, are they ready?",<no_answer>,"1 (10 ounce) package frozen chopped spinach, thawed and drained"
+2771,211,Ok I have these 3 ingredients ready. What are the next ones?,1/2 cup chopped pecans,1/2 cup chopped pecans
+2772,211,Could you repeat the second ingredient?,2 cups all-purpose flour,1 cup white sugar
+2773,211,Ok I have the. What are the next ingredients?,1 teaspoon baking soda,1/2 cup chopped pecans
+2774,211,Ok those I have all in my kitchen closet and fridge. What is next?,1 cup white sugar,"1/2 cup butter, softened"
+2775,211,"Ok nice, I like apple butter. Are there more ingredients left?",1/2 cup whole bran cereal or wheat germ,1 teaspoon baking powder
+2777,211,Ok what is the in degrees Celsius?,175 degrees C,no_answer>
+2787,211,OK. 40 minutes have passed. How do I know if it is good to go?,<no_answer>,no_answer>
+3023,24,"Yes, could you specify the quantity of each of these ingredients?",1/2 cup mixed salad greens,"3 ounces Colby-Monterey Jack cheese, sliced"
+3240,223,"Ok nice, I have them ready. How many ingredients are left?",1 1/4 cups all-purpose flour,2/3 cup white sugar
+3241,223,Ok what are the next ingredients?,1/4 cup sliced almonds,1/4 cup sliced almonds
+3242,223,Ok could I use walnuts instead as well?,1/4 cup sliced almonds,1/4 cup sliced almonds
+3243,223,Ok sure I will try. What are the last ingredients?,2/3 cup white sugar,1/2 teaspoon vanilla extract
+3244,223,Ok good I have all of them ready.,2/3 cup white sugar,"1 egg, beaten"
+3420,179,Ok what are the next ingredients?,2 (14.5 ounce) cans petite diced tomatoes,2 (14.5 ounce) cans petite diced tomatoes
+3421,179,Ok what is the size of the cans?,2 (14.5 ounce) cans petite diced tomatoes,2 (14.5 ounce) cans petite diced tomatoes
+3422,179,OK what is next?,1/2 teaspoon dried basil,2 (14.5 ounce) cans petite diced tomatoes
+3424,179,Nice. Ok I have done that. What is a Dutch oven?,<no_answer>,a large saucepan
+3444,104,"Yes, I am ready I love bacon!! Could I ask you to tell me the ingredients first?","1 pound sliced bacon, cut into thirds","1 pound sliced bacon, cut into thirds"
+3446,104,Ok. No problem. Could you tell me the last two ingredients please?,1 (14 ounce) package beef cocktail wieners,1 (14 ounce) package beef cocktail wieners
+3447,104,Ok. Can I ask how big should the package of wieners be?,1 (14 ounce) package beef cocktail wieners,1 (14 ounce) package beef cocktail wieners
+3448,104,Ok. Good. And can I use stevia instead of brown sugar?,1 (14 ounce) package beef cocktail wieners,1 (14 ounce) package beef cocktail wieners
+3449,104,Ok. Good. I'll get it. Could I ask you also which tools I need for the recipe?,1 (14 ounce) package beef cocktail wieners,1 (14 ounce) package beef cocktail wieners
+3453,104,Ok. Cool the oven is preheated and the bacon is in the fridge. How long should it stay in the fridge?,<no_answer>,no_answer>
+3457,104,Ok. Good. They stayed in the oven for 40 minutes. How do I see that they are ready?,until the sugar is bubbly,until the sugar is bubbly
+3459,104,"Ah right, cool! I did it. For how long should it stay?",<no_answer>,no_answer>
+3460,104,"Ok, cool. How do I see that they are ready?",<no_answer>,no_answer>
+3481,167,Ok I have them. What is next?,1 teaspoon baking powder,1/2 teaspoon salt
+3482,167,Ok cool. What is next?,1/2 teaspoon salt,1/2 teaspoon salt
+3483,167,"Ok alright, what is next?",1 teaspoon vanilla extract,1 egg
+3484,167,"I have them now, what next?",1 teaspoon vanilla extract,1/2 teaspoon baking soda
+3496,167,Ok how do I know when it is done?,<no_answer>,no_answer>
+3549,75,Ok. should I use all of the beaten eggs?,<no_answer>,no_answer>
+3558,75,When do I know if it's ready?,until a cake tester inserted in the center comes out clean,until a cake tester inserted in the center comes out clean
+3664,30,Should it be a large or a small saucepan?,<no_answer>,no_answer>
+3673,30,"I have added the flour, can you repeat the quantity of salt?",<no_answer>,1/3 cup chopped onion
+3676,30,How long should I stir?,<no_answer>,no_answer>
+3747,77,Ok. how large should the package be?,1 (9 ounce) package refrigerated small cheese tortellini,1 (9 ounce) package refrigerated small cheese tortellini
+3749,77,Ok. what is next?,1 (14.5 ounce) can diced tomatoes,1 teaspoon dried basil
+3760,177,Ok I have them.,1/2 cup white sugar,1 1/2 cups candy-coated milk chocolate pieces
+3761,177,Ok what is next?,2 teaspoons vanilla extract,2 teaspoons vanilla extract
+3763,177,Ok what are the next ingredients?,1 teaspoon baking soda,2 teaspoons vanilla extract
+3764,177,Ok I have them.,1 1/2 cups candy-coated milk chocolate pieces,1 1/2 cups candy-coated milk chocolate pieces
+3810,114,Ok good! Can I have the next ingredients?,2 cups semisweet chocolate chips,"1 cup frozen whipped topping, thawed"
+3811,114,Ok. Could you repeat the last ingredient?,4 1/2 cups miniature marshmallows,"1 cup frozen whipped topping, thawed"
+3812,114,Ok good. Can I have more ingredients?,2 (3.5 ounce) packages instant vanilla pudding mix,"1 cup frozen whipped topping, thawed"
+3813,114,Ok. How big should the vanilla pudding mix packages be?,2 (3.5 ounce) packages instant vanilla pudding mix,2 (3.5 ounce) packages instant vanilla pudding mix
+3814,114,Ok good. What next?,"2 large bananas, sliced",2 cups semisweet chocolate chips
+3816,114,Ok no problem. Are the ingredients over?,<no_answer>,4 cups milk
+3818,114,Ok. I did so! Is there a way I can see that they are ready?,<no_answer>,no_answer>
+3912,6,What kind of flour should it be? Is all-purpose flour good?,<no_answer>,2 cups all-purpose flour
+3916,6,I have added the salt and butter milk. What's the quantity of the vegetable oil again?,1/4 cup vegetable oil,1/4 cup vegetable oil
+3930,205,Sounds just like it. How should I start?,1 cup water,1 cup water
+3931,205,Ok good. I have the first two ingredients ready.,3 tablespoons olive oil,1 cup water
+3932,205,Ok nice I have those all in my place. What is next?,"2 cloves garlic, minced",1 1/2 teaspoons salt
+3933,205,"Ok I got it, what are the next ingredients?",1 1/2 teaspoons salt,1/8 teaspoon cayenne pepper
+3934,205,Ok could you repeat the last ingredient?,3 tablespoons wheat bran,3 tablespoons chopped onion
+3935,205,Ok good. What are the next ingredients?,3 cups bread flour,3 tablespoons chopped onion
+3974,242,Took them from the spice rack! What next?,1/4 teaspoon salt,1/2 cup butter or margarine
+3975,242,Top! Can you give me three more ingredients?,1/2 cup butter or margarine,1/2 cup vegetable oil
+3976,242,I prepared maragine cocoa and eggs!,1/2 cup buttermilk,1/2 cup butter or margarine
+3977,242,"Cool, I have those here already.",1/2 cup butter or margarine,1 1/2 teaspoons ground cinnamon
+3978,242,"Great, I've got them.",1 1/2 teaspoons ground cinnamon,1 1/2 teaspoons ground cinnamon
+3979,242,I have cinnamon and sugar now. Is there more?,1 teaspoon vanilla extract,1 teaspoon vanilla extract
+4049,96,Ok. Great! What are the ingredients?,<no_answer>,1 (8 ounce) package cream cheese spread
+4050,96,Ok. How big should the cheese package be?,1 (8 ounce) package cream cheese spread,1 (8 ounce) package cream cheese spread
+4052,96,Sorry I didn't understand which bread I should use.,12 slices pumpernickel rye bread,12 slices pumpernickel rye bread
+4056,196,Great!! sounds like the deal! Can you list the ingredients before we start with the recipe?,1 cup brown sugar,1 cup brown sugar
+4057,196,"Ok, good! Could you tell me which are the next two ingredients that I should prepare?",1/2 cup rum,1 cup brown sugar
+4058,196,"Good, is it ok if I use oyster sauce instead of the soy sauce?",1/2 cup rum,1/4 cup soy sauce
+4059,196,"Ok, I'll try it! Are there more ingredients to prepare?",1/4 cup ketchup,1 teaspoon ground dry mustard
+4060,196,"Ok, good!",1 teaspoon ground dry mustard,ground black pepper to taste
+4061,196,"Sorry, I didn't understand the first ingredient.",1 teaspoon ground dry mustard,1 cup brown sugar
+4062,196,"Ok great, is that all for the ingredients?",1 teaspoon ground dry mustard,ground black pepper to taste

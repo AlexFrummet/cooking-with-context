@@ -1,0 +1,210 @@
+question_id,recipe_id,question,target_answer,generated_answer
+4_4,41,what type of cream do I need?,cream cheese.,cream cheese.
+4_5,41,how much butter do I need to use?,1/2 cup (1 stick).,1 stick.
+4_10,41,what mixture?,the mixture for the dough so far.,flour.
+9_1,38,what do I use to remove the breast meat from the breast bone?,sharp boning knife.,sharp boning knife.
+9_2,38,how long can I keep the turkey in the fridge before the next step?,5 days.,5 days.
+9_3,38,what temperature should the water bath be in Fahrenheit?,to 145°f.,63°c.
+9_4,38,how many degrees Celsius do I set the water bath to?,63°c.,63°c.
+9_5,38,what is it that I preheat?,oven.,oven.
+9_6,38,how many degrees Celsius do I set the oven to?,200°c.,200°c.
+9_7,38,what is the maximum time that I should roast the skin for?,45 minutes.,30 to 45 minutes.
+9_8,38,for how long should I simmer the gravy?,for 1 hour.,for 1 hour.
+9_9,38,what do I use to strain the gravy?,fine-mesh strainer.,cleaver.
+9_10,38,what volume should I make the stock up to?,1 quart.,1 quart.
+9_11,38,what do I melt the butter in?,medium saucepan.,medium saucepan.
+9_12,38,when I melt the butter which temperature do I use?,medium heat.,medium heat.
+9_13,38,once I add the flour to the butter how long do I cook it?,about 3 minutes.,about 3 minutes.
+11_1,40,what do I need to cook a pumpkin seeds in?,large dutch oven.,large dutch oven.
+11_2,40,what is the temperature I need to cook the pumpkin seeds?,medium-high heat.,medium-high heat.
+11_3,40,how long do I need to cook for?,about 4 minutes.,about 40 minutes.
+11_4,40,what meat do I need to add?,chicken.,chicken.
+11_5,40,what do I need to season the food with?,salt.,"diced avocado and radish, oregano, epazote (if using), and chopped white onion."
+11_6,40,how long do I cook the chicken wings and vegetables for?,about 40 minutes.,about 40 minutes.
+11_7,40,what do I use to move the chicken?,tongs.,tongs.
+11_8,40,what do I need to put the chicken on?,bowl.,large plate or bowl.
+11_9,40,what do I need to strain?,broth.,broth.
+11_10,40,where do I need to put the tablespoons of fat?,dutch oven.,dutch oven.
+11_11,40,what should I season the dish with?,salt.,diced avocado and radish.
+11_12,40,what do I need to stir back into the soup?,chicken.,chicken.
+11_13,40,what should I garnish with?,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion.","diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion."
+11_14,40,what else can I use to garnish?,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion.","diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion."
+11_15,40,what do I use to garnish?,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion.","diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion."
+18_1,37,what temperature do I have to set the oven to?,500°f (260°c).,to 500°f.
+18_2,37,how many grams are in a tablespoon?,15g.,1 tablespoon (15g).
+18_3,37,how much black pepper do you have to add?,1/2 teaspoon.,1/2 teaspoon.
+18_5,37,what temperature does the chicken have to be cooked to?,66°c.,high heat.
+18_6,37,how long do I need to cook chicken for?,about 45 minutes.,about 45 minutes.
+18_9,37,what did I need to add off heat?,"soy sauce, butter, and lemon juice.",butter.
+18_10,37,where do I need to remove the chicken from?,oven.,oven.
+18_11,37,how long do I need to leave the chicken to rest?,5 minutes.,5 minutes.
+21_1,35,what do I cover the lasagna noodles with?,warm water.,warm water.
+21_2,35,how long do I soak the lasagna noodles for?,15 minutes.,15 minutes.
+21_3,35,what do I dry the lasagna noodles with?,clean kitchen towel.,warm water.
+21_4,35,what ingredient do I place a quarter of into the food processor?,mushrooms.,mushrooms.
+21_5,35,what do I pull the grated brussel sprouts into?,large bowl.,large bowl.
+26_1,37,how long does the chicken need to go into the oven for?,about 45 minutes.,5 minutes.
+26_3,37,does the chicken need to be seasoned?,yes.,yes.
+26_5,37,would that be cracked black pepper or normal??,ground black pepper.,normal.
+28_1,7,bring the grill to what temperature?,high heat.,high heat.
+28_2,7,how long do I preheat for?,for 5 minutes.,for 5 minutes.
+28_3,7,what do I dry with the towel?,tuna steaks.,tuna steaks.
+28_4,7,what needs to release from the grill?,fish.,fish.
+28_5,7,what do I use to lift the fish?,thin metal spatula.,thin metal spatula.
+28_6,7,what else can I use to lift the fish?,carving fork.,thin metal spatula.
+28_7,7,what do I need to watch penetrate the fish?,heat.,heat.
+28_8,7,so the heat should penetrate the what?,fish.,fish.
+28_9,7,what should change color dramatically?,tuna.,tuna.
+30_1,10,what do you combine the olive with?,"garlic, and anchovies (if using).",garlic.
+30_5,10,how much salt do I need to add?,<no answer>.,no answer>.
+30_6,10,how long do I leave the mixture to simmer?,10 to 15 minutes.,10 to 15 minutes.
+30_7,10,what do I need to cook for less than about 3 minutes?,pasta.,pasta.
+30_9,10,how much pasta cooking water do I need?,1 cup (240ml).,1 cup (240ml).
+30_10,10,how should the pasta be cooked?,al dente.,"until softened on the exterior, but still uncooked in the center (about 3 minutes less than the package directions)."
+30_11,10,how much sauce should coat the noodles?,<no answer>.,no answer>.
+30_12,10,how much grated cheese do I need?,2 1/4 ounces (3/4 cup; 65g).,3/4.
+31_1,33,what do I need to discard once I have removed the dish from the oven?,thyme.,thyme.
+31_2,33,what should I reduce the temperature to?,to 350°f.,reduce oven temperature to 350°f.
+31_4,33,how long do the mushrooms need cooking for?,about 12 minutes.,about 12 minutes.
+31_5,33,how long do I cook after I've added the garlic?,about 1 minute.,about 30 seconds.
+31_6,33,I need to add tarragon chives and what else?,"half of parsley, and chervil.",chervil.
+31_7,33,I need to add parsley tarragon chives and what else?,chervil.,chervil.
+31_8,33,what should I season it with?,salt.,salt and pepper.
+31_9,33,I need to add salt and what else?,pepper.,pepper.
+31_10,33,how long must I roast them for?,about 35 minutes.,about 35 minutes.
+31_11,33,what should I put the mixture into?,work bowl.,bowl.
+31_12,33,what should I adjust the temperature on?,oven.,oven.
+31_13,33,how long should I cook it for?,about 12 minutes.,about 40 minutes.
+31_14,33,what should I add as well as pepper?,salt.,salt.
+31_15,33,what do I need to put it into?,food processor work bowl.,bowl.
+31_16,33,what should I transfer the seeds into?,bowl.,food processor.
+31_17,33,what should I use to scrape down the sides?,rubber spatula.,rubber spatula.
+31_18,33,I should add the palsy tarragon chives and what else?,chervil.,chervil.
+31_19,33,I should season it with pepper and what?,salt.,salt.
+31_20,33,i should add half of what of the mixture?,cup.,"parsley, tarragon, chives, and chervil."
+31_21,33,spread half of the what?,mushroom.,mushroom duxelles.
+31_22,33,lay what in?,roasted carrots.,phyllo.
+31_23,33,what should I spread into a thin even layer?,mixture.,beans.
+31_24,33,I need to roughly fit it on a piece of phyllo what?,dough.,dough.
+31_25,33,I need to place the existing carrot and what?,mushroom.,mushroom.
+31_26,33,what kind of oil should I use?,olive.,olive.
+31_27,33,what should I score it with?,sharp paring knife.,sharp paring knife.
+31_28,33,how long should I bake it for?,about 40 minutes.,about 40 minutes.
+31_29,33,how long do I need to let it cool?,for 10 minutes.,for 10 minutes.
+31_30,33,what should I use to stir it?,whisk.,whisk.
+31_31,33,what should I drizzle?,stock.,stock.
+31_32,33,I should add soy sauce bay leaves and what?,thyme.,bourbon.
+35_4,20,how much chicken?,2 pounds (900g).,4 tablespoons (40g).
+35_5,20,what kind of aluminium?,aluminium-foil.,aluminum-foil boat.
+35_7,20,what kind of salt should I use?,diamond crystal kosher salt.,black salt.
+35_8,20,what is a shortcut spice mix?,preground spices.,pre-ground spices.
+35_10,20,how many cashew nuts?,1 ounce (28g).,1 1/2 ounces (40g).
+35_11,20,how long exactly?,about 1 minute.,about 14 minutes.
+35_15,20,is it okay to do it longer?,yes.,yes.
+35_16,20,how many onions?,1 medium.,"1 medium white onion, 1/4 teaspoon baking soda, 14 g ginger, 4 medium cloves garlic, 1/2 cup heavy cream."
+35_25,20,how much butter should I add?,4 tablespoons (60g).,1 1/2 (240ml).
+35_26,20,how much chicken per serving?,"2 pounds (900g) boneless, skinless chicken thighs (about 4).","1 boneless, skinless chicken thighs (1 3/4 ounces) of water."
+35_28,20,what size bowls should I use?,serving bowl.,small bowl.
+39_1,20,what do I need to use to toast the fenugreek?,small skillet.,small skillet.
+39_2,20,what do I need to toast in a small skillet?,fenugreek.,fenugreek leaves.
+39_3,20,what heat does the fenugreek need to be toasted?,medium heat.,medium heat.
+39_4,20,how many inches does the foil boat need to be?,9- by 13-inch with 1-inch sides.,1-inch.
+39_5,20,what needs to be grated?,ginger.,ginger.
+39_6,20,what ground leaves do I need?,fenugreek.,fenugreek.
+39_7,20,what cut of chicken do I need to use?,chicken thigh.,reserved broiled chicken.
+39_8,20,what needs to be added to the bowl?,chicken thigh pieces.,chicken thigh.
+39_9,20,what do I add the chicken to?,prepared baking sheet.,bowl.
+46_1,10,what sort of oil should be used for the pasta?,olive.,olive.
+46_2,10,what should I use to scrape up any bits that are stuck to the pan?,wooden spoon.,wooden spoon.
+46_3,10,what needs to be emulsified with the olive oil?,wine.,wine.
+46_4,10,what should I season the sauce with?,salt.,salt.
+46_5,10,what is in the bean mixture?,"1 pound 5 ounces (3 cups; 600g) cooked dry white beans (such as cannellini or great northern) or two (15-ounce; 425g) cans low-sodium white beans, drained and rinsed.",starch.
+46_6,10,how much less should I cook the pasta so that it is shy of al dente?,about 3 minutes.,about 3 minutes.
+46_7,10,what vegetables should I add to the pasta?,kale.,kale.
+46_8,10,what liquid should I add to the pasta beans and vegetables?,pasta cooking water.,bean cooking liquid.
+46_9,10,what should I top the pasta with?,grated cheese.,beans and greens.
+50_1,20,Alexa what do I have to marinate?,chicken.,chicken.
+50_3,20,Alexa which leaves do I need to use?,fenugreek.,fenugreek.
+50_6,20,Alexa how much of the fenugreek seeds should I mix in?,2 teaspoons.,2 teaspoons.
+53_1,35,Alexa what do I need to cover the baking dish with?,warm water.,warm water.
+53_2,35,how long do I need to soak it for?,15 minutes.,15 minutes.
+53_3,35,what do I put the noodles on to dry them with?,clean kitchen towel.,clean kitchen towel.
+53_4,35,what do I need to put in the food processor?,mushrooms.,mushrooms.
+53_5,35,what else do I need to put in the food processor?,emaining three batches of mushrooms.,mushrooms.
+53_6,35,where do I put the mushrooms after I have put them in the food processor?,large bowl.,bowl.
+53_8,35,how long do I cook the mixture for?,about 2 minutes.,about 2 minutes.
+53_9,35,what do I put everything in after it's all cooked?,large bowl.,oven.
+58_1,20,what ingredients should I marinate?,chicken.,chicken.
+58_2,20,which pan or pot should I use to toast leaves?,small skillet.,small skillet.
+58_3,20,what seeds are used for the marinade?,fenugreek.,fenugreek.
+58_4,20,which size and type of dish should I use for the marinade?,medium mixing bowl.,small skillet.
+58_5,20,"what should I add besides yogurt, garam masala, salt, Ginger and the fenugreek leaves?",black salt.,seeds.
+58_7,20,where should I put the chicken thighs?,bowl.,bowl.
+58_8,20,which ingredients should I put on the prepared baking sheet?,chicken.,chicken.
+58_9,20,which material should I use to make a boat on the oven tray to put the chicken in?,aluminum.,aluminum-foil.
+58_10,20,how hot should the stove be where I place the small skillet?,medium heat.,medium heat.
+58_11,20,which Spice should I transfer to a grinder besides the toasted up spices and garam masala?,salt.,salt.
+58_12,20,what type of spice can I use if I don't want to mix my own spices?,shortcut spice mix.,kosher salt.
+58_13,20,which liquid should I put with the cashews?,water.,water.
+58_14,20,which ingredient should I microwave now?,cashews.,cashews.
+58_15,20,for how long should I microwave the cashews?,about 1 minute.,about 1 minute.
+58_16,20,which type of oven do I need now?,dutch oven.,dutch oven.
+58_18,20,where should I stir the onions in?,pot.,pot.
+58_19,20,how long should I stir ginger and garlic for?,about 1 minute.,about 1 minute.
+58_20,20,to which ingredients should I add the ground spice mixture to?,onions.,onions.
+58_21,20,what type of utensils should I use to crush the tomatoes?,wooden spoon.,wooden spoon.
+58_23,20,which ingredient should be completely broken down?,tomatoes.,tomatoes.
+58_24,20,for how long should I cook the tomatoes?,about 40 minutes.,about 40 minutes.
+58_25,20,which ingredients should I constantly check to see if it's burning?,chicken.,chicken.
+58_26,20,for how long should I cook the chicken?,about 14 minutes.,about 14 minutes.
+58_27,20,which type of kitchen utensil should I use to mix up the sauce?,immersion blender.,immersion blender.
+58_28,20,what should I add besides cream?,butter.,butter.
+58_29,20,which ingredients should be well incorporated and warmed through?,chicken.,chicken.
+58_31,20,which type of dish do I use to serve the curry?,bowl.,chicken.
+63_5,20,how much salt do I need?,2 teaspoons.,1 teaspoon.
+63_6,20,do I use all the fenugreek powder?,yes.,yes.
+63_7,20,what size bowl should I use?,medium mixing bowl.,medium mixing bowl.
+63_9,20,is the aluminium going to be strong enough?,yes.,yes.
+63_11,20,do I use black salt?,no.,yes.
+63_13,20,how much water was it?,1/4 cup (60ml).,1/4 cup (60ml).
+63_14,20,how many cashews should I use?,1 ounce (28g).,1 1/2 (40g).
+63_15,20,how long do I do it for a minute?,about 1 minute.,about 1 minute.
+63_17,20,what temperature do I need to heat it?,medium-high heat.,medium-high heat.
+63_24,20,how long do I need to reduce the liquid for 40 minutes?,"yes, about 40 minutes.",about 40 minutes.
+63_31,20,where am I putting the chicken?,sheet pan.,bowl.
+63_33,20,what's the bowl for?,serving bowl.,small.
+73_1,37,what should I use to remove the backbone from the chicken?,sharp kitchen shears.,sharp kitchen shears.
+73_2,37,what should I drizzle 1 tbsp of oil on?,chicken.,chicken.
+77_1,15,what is 150 degrees Celsius in Fahrenheit?,to 300°f.,150°c.
+77_2,15,what is 300 degrees Fahrenheit in Celsius?,150°c.,150°c.
+77_3,15,what type of oil is used?,olive.,olive.
+77_4,15,how long do I need to cook the meat for?,about 10 minutes.,about 10 minutes.
+77_5,15,what other herbs am I using?,"sage, and half of parsley.",parsley.
+77_6,15,what heat should it be on?,high heat.,high heat.
+77_7,15,how long should I leave it on the heat?,about 10 minutes.,about 10 minutes.
+77_8,15,after the wine what ingredients am I adding?,"reserved stock, tomatoes, milk, and bay leaves.","reserved stock, tomatoes, milk, and bay leaves."
+77_9,15,after the reserved stock what ingredients am I adding?,"tomatoes, milk, and bay leaves.","tomatoes, milk, and bay leaves."
+77_10,15,after the reserved stock and tomatoes what ingredients am I adding?,"milk, and bay leaves.","milk, and bay leaves."
+77_11,15,for how long do I leave the pot in the oven?,4 hours.,about 10 minutes.
+77_12,15,how much time does the pot need in the oven?,4 hours.,about 10 minutes.
+77_13,15,how much fat should I leave behind?,1 cup.,1 cup.
+77_14,15,how much fat should I add back?,1 cup.,1 cup.
+77_15,15,how much fat should I reserve?,cup.,1 cup.
+77_16,15,after the heavy cream and Parmesan what sauce am I adding?,fish.,fish.
+87_1,35,what do I cover the noodles with?,warm water.,warm water.
+87_2,35,how long do I leave it to soak?,15 minutes.,15 minutes.
+87_3,35,what do I use to dry it?,clean kitchen towel.,paper towels.
+87_4,35,what do I put in the food processor?,mushrooms.,mushrooms.
+87_5,35,what are the remaining three batches of?,mushrooms.,mushrooms.
+87_6,35,what do I transfer them into a?,large bowl.,large bowl.
+87_7,35,which ingredient do I add one cup of?,heavy cream.,heavy cream.
+87_8,35,how long do I cook the heavy cream for?,about 2 minutes.,about 2 minutes.
+87_11,35,how much of the heavy cream do I use?,cup.,1 cup.
+87_12,35,where should I transfer this to?,large bowl.,oven.
+87_13,35,what temperature do I melt the butter on?,medium-high heat.,medium-high heat.
+87_14,35,what do I add to the butter?,flour.,flour.
+87_15,35,how long do I cook the flour for?,about 2 minutes.,about 2 minutes.
+87_16,35,what do I assemble this in?,lasagna pan.,pan.
+87_18,35,which type of sauce do I add?,cheese.,cheese.
+87_19,35,where do I cook this?,oven.,oven.
+87_20,35,what do I sprinkle on top with the parmesan?,parsley.,parsley.

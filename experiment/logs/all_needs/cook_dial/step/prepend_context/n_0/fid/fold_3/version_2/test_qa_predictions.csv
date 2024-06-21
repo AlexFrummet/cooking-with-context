@@ -1,0 +1,731 @@
+question_id,recipe_id,question,target_answer,generated_answer
+180,93,Ok. Can I hear the ingredients two by two so I can prepare them?,3 tablespoons crushed black peppercorns,3 tablespoons brandy
+181,93,How large should the steaks be?,2 (8 ounce) beef top sirloin steaks,2 (8 ounce) beef top sirloin steaks
+182,93,Ok I have them ready. What are the next ingredients?,1 tablespoon lemon pepper,1/2 cup heavy cream
+183,93,Can I also use another type of pepper?,1 tablespoon lemon pepper,1 tablespoon lemon pepper
+184,93,What are the next ingredients?,5 tablespoons butter,1/2 cup heavy cream
+185,93,Ok I took the butter and garlic. Are there more ingredients?,1/2 cup red wine,5 tablespoons butter
+186,93,Is there any clarification of what kind of red wine I need?,1/2 cup red wine,1/2 cup red wine
+187,93,Ok no problem. What are the next ingredients?,1/4 cup chopped green onions,1 teaspoon salt
+188,93,Ok I have them. What are the next?,1/2 cup heavy cream,1/2 cup heavy cream
+189,93,Could I use another type of sugar as well?,1/2 cup heavy cream,1 teaspoon white sugar (optional)
+190,93,Ok no problem. What should I do now?,0) Press crushed peppercorns into both sides of each steak.,"8) Sprinkle green onion and shallot around the steaks, and circle the steaks with cream."
+191,93,Ok I have done that. What is next?,"1) Sprinkle with lemon pepper, and salt.","1) Sprinkle with lemon pepper, and salt."
+192,93,Ok. What should I do after that?,2) Melt butter in a large skillet over medium-high heat.,"8) Sprinkle green onion and shallot around the steaks, and circle the steaks with cream."
+193,93,Ok. The butter is melted. What should I do now?,"3) Stir in garlic and wine, and cook for 1 minute.","3) Stir in garlic and wine, and cook for 1 minute."
+194,93,Ok 1 minute has passed. What is next?,"4) Arrange steaks in pan, and cook for 5 to 10 minutes per side, or until desired doneness.","4) Arrange steaks in pan, and cook for 5 to 10 minutes per side, or until desired doneness."
+195,93,Ok the steaks are done now. What is next?,5) Reduce heat to low.,"11) Stir sugar into sauce, and then spoon over meat."
+196,93,How long should I let it burn?,<no_answer>,no_answer>
+197,93,Ok I have done all of that. What should I do now?,"9) Cook, stirring sauce, until hot.","8) Sprinkle green onion and shallot around the steaks, and circle the steaks with cream."
+198,93,Ok. It is hot now. What is next?,10) Transfer steaks to plates.,10) Transfer steaks to plates.
+199,93,Ok. The sauce is over the meat. Is there something to do?,10) Transfer steaks to plates.,"12) Stir sugar into sauce, and then spoon over meat."
+256,27,Hi. how do I make baked spaghetti squash lasagna style?,"1 spaghetti squash, halved lengthwise and seeded",0) Preheat oven to 325 degrees F (165 degrees C)
+257,27,Ok. that would be nice. What is the first ingredient?,"1 spaghetti squash, halved lengthwise and seeded","1 spaghetti squash, halved lengthwise and seeded"
+258,27,Ok. thanks I have it here. What is the next ingredient?,"1 onion, chopped","1 onion, chopped"
+259,27,Ok. what is next?,2 tablespoons minced garlic,"8) Cook for about 15 minutes, or until you have a medium thick sauce."
+260,27,Ok. should the two cans of stewed tomatoes be big or small or with some specific measurements?,2 (14 ounce) cans stewed tomatoes,2 (14 ounce) cans stewed tomatoes
+261,27,Ok. thanks. I have them now. What are the next ingredients?,1 tablespoon dried basil,"1 onion, chopped"
+262,27,Ok. I have those as well. What is next?,black pepper to taste,1 tablespoon dried basil
+263,27,Ok. thanks I will chop them now in advance. What is the next ingredient?,1 cup shredded mozzarella cheese,"1 onion, chopped"
+264,27,Ok. I shredded both the cheeses. What is next?,1 cup shredded mozzarella cheese,"1 (15 ounce) can black olives, chopped"
+265,27,Ok. nice I have them all ready. What is the first step now to take in order to cook the dish?,0) Preheat oven to 325 degrees F (165 degrees C).,0) Preheat oven to 325 degrees F (165 degrees C).
+266,27,Ok. the oven is starting to preheat. What should I do now?,1) Spray a baking sheet with a thin layer of cooking spray.,1) Spray a baking sheet with a thin layer of cooking spray.
+267,27,Ok. the baking sheet is prepared. What is next?,2) Place squash halves cut side down on the baking sheet.,"3) Bake squash 35 minutes in the preheated oven, or until a knife can be easily inserted."
+268,27,Ok. it's 35 minutes now. I guess it is ready. What should I do now?,"4) Remove from oven, and cool.","4) Remove from oven, and cool."
+269,27,Ok. how long should it cool down?,<no_answer>,no_answer>
+271,27,Ok. the pan is ready. What is next?,"6) Over medium heat, saute the onion and garlic until golden brown.","6) Over medium heat, saute the onion and garlic until golden brown."
+272,27,"Ok. it looks fine, what should I add now?","7) Stir in tomatoes, basil, bouillon cube, and black pepper.","7) Stir in tomatoes, basil, bouillon cube, and black pepper."
+273,27,Ok. I added al those ingredients and stirred them. What is the next step?,"8) Cook for about 15 minutes, or until you have a medium thick sauce.","8) Cook for about 15 minutes, or until you have a medium thick sauce."
+274,27,Ok. the sauce looks Ok. now. What is next?,"9) Remove squash strands with a fork, reserving the shells.","9) Remove squash strands with a fork, reserving the shells."
+275,27,Ok. what should I do with both?,"10) Layer each half with a spoonful of the sauce, a layer of spaghetti squash strands, olives, and mozzarella cheese.","10) Layer each half with a spoonful of the sauce, a layer of spaghetti squash strands, olives, and mozzarella cheese."
+276,27,Ok. I have done that. What is next?,"10) Layer each half with a spoonful of the sauce, a layer of spaghetti squash strands, olives, and mozzarella cheese.",2) Place squash halves cut side down on the baking sheet.
+277,27,Ok. I added all those things on top. What should I do with it?,"11) Repeat layers until shells are full, or until all of the ingredients are used.","8) Cook for about 15 minutes, or until you have a medium thick sauce."
+278,27,Ok. The shells are full now. What is the next step?,12) Top with Parmesan cheese.,12) Top with Parmesan cheese.
+279,27,Ok. it's all topped now with the Parmesan. What is next?,"13) Bake for 20 minutes in the preheated oven, or until Parmesan cheese melts.","13) Bake for 20 minutes in the preheated oven, or until Parmesan cheese melts."
+280,27,Ok. great. I baked all the shells and they look really nice. Is there anything else I should still do?,"13) Bake for 20 minutes in the preheated oven, or until Parmesan cheese melts.","9) Remove squash strands with a fork, reserving the shells."
+408,35,I have the bowl. What should I do now?,"1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.","0) Preheat oven to 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top."
+409,35,"Sorry could you repeat the first part, in this bowl?","1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.","1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion."
+410,35,"Ok. alright, I added both and stirred. What is next?","1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+411,35,Ah that is true. What are those?,1/2 cup mayonnaise,1 cup grated Parmesan cheese
+412,35,Ok. thanks I still added a bit to make it right. What is the next step?,"1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+413,35,Ok. I stirred everything. Is there more to add?,"2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+414,35,Ok. What is next?,"2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper.","1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion."
+415,35,Ok. thanks. I did that. What should I do with the mixture?,3) Transfer mixture to a shallow baking dish.,3) Transfer mixture to a shallow baking dish.
+416,35,Ok. done. What is the next step?,"4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+417,35,Ok. thanks. I baked the mixture for about 20 minutes now. How do I know it is ready?,"4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top.",until light brown on top
+418,35,Ok. is there something else I should do?,"4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top.",3) Transfer mixture to a shallow baking dish.
+419,135,Yes it would be good to prepare. What are the ingredients?,2 cups all-purpose flour,2 cups all-purpose flour
+420,135,Ok. I have both of them. What are the next ingredients?,1/4 teaspoon salt,1/4 teaspoon salt
+422,135,"Ok. no problem, that sounds good. What are the next ingredients?",3/4 cup chopped pecans,3/4 cup chopped pecans
+423,135,Ok. I have all of them ready.,0) Preheat oven to 375 degrees F (190 degrees C).,0) Preheat oven to 375 degrees F (190 degrees C).
+425,135,Ok. I did that. What else can I do?,2) Empty jar of brownie mix into a large mixing bowl; stir to break up lumps.,"3) Add 3/4 cup softened butter, 2 beaten eggs, and 2 teaspoons of vanilla extract; mix until well blended."
+426,135,Ok. I have stirred it. What should I do now?,"3) Add 3/4 cup softened butter, 2 beaten eggs, and 2 teaspoons of vanilla extract; mix until well blended.","3) Add 3/4 cup softened butter, 2 beaten eggs, and 2 teaspoons of vanilla extract; mix until well blended."
+427,135,Ok. It is well blended now. What is next?,4) Spread batter evenly in the prepared pan.,4) Spread batter evenly in the prepared pan.
+562,11,Hi. how do I make the deep fried turkey?,"0) In a large stockpot or turkey fryer, heat oil to 400 degrees F (200 degrees C).","0) In a large stockpot or turkey fryer, heat oil to 400 degrees F (175 degrees C)"
+563,11,Yes I have a turkey fryer.,"0) In a large stockpot or turkey fryer, heat oil to 400 degrees F (200 degrees C).","0) In a large stockpot or turkey fryer, heat oil to 400 degrees F (200 degrees C)."
+564,11,Ok. is that Fahrenheit or Celsius?,400 degrees F,no_answer>
+565,11,Ok. Thanks. done. What is the next step?,"1) Be sure to leave room for the turkey, or the oil will spill over.","9) Maintain the temperature of the oil at 350 degrees F (175 degrees C), and cook turkey for 3 1/2 minutes per pound, about 45 minutes."
+567,11,Ok. done. What should I do next?,"3) Rinse turkey, and thoroughly pat dry with paper towels.","3) Rinse turkey, and thoroughly pat dry with paper towels."
+568,11,Ok. can you repeat the first part before drying it with paper towels?,"3) Rinse turkey, and thoroughly pat dry with paper towels.",4) Rub Creole seasoning over turkey inside and out.
+569,11,Ok. thanks for the clarification. What is the next step?,4) Rub Creole seasoning over turkey inside and out.,"9) Maintain the temperature of the oil at 350 degrees F (175 degrees C), and cook turkey for 3 1/2 minutes per pound, about 45 minutes."
+570,11,Ok. done. What should I do next?,5) Make sure the hole at the neck is open at least 2 inches so the oil can flow freely through the bird.,"3) Rinse turkey, and thoroughly pat dry with paper towels."
+571,11,Ok. the whole is at least 2 inches. What is next?,6) Place the whole onion and turkey in drain basket.,6) Place the whole onion and turkey in drain basket.
+572,11,Ok. Done. I put it in the fryer. What should I do now?,7) The turkey should be placed in basket neck end first.,"1) Be sure to leave room for the turkey, or the oil will spill over."
+573,11,Ok. it is. What should I do with it?,8) Slowly lower basket into hot oil to completely cover turkey.,4) Rub Creole seasoning over turkey inside and out.
+574,11,Ok. the turkey is in the fryer. How long should it stay?,<no_answer>,no_answer>
+575,11,Ok. it's now 45 minutes later. What should I do now?,"10) Carefully remove basket from oil, and drain turkey.","10) Carefully remove basket from oil, and drain turkey."
+576,11,Ok. I let the turkey drain. What is the next step?,11) Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C).,11) Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C).
+577,11,Yes the temperature is 80 degrees Celsius. What should I do now?,12) Finish draining turkey on the prepared platter.,12) Finish draining turkey on the prepared platter.
+578,11,Ok. done. Is there another step to take?,12) Finish draining turkey on the prepared platter.,6) Place the whole onion and turkey in drain basket.
+834,62,Yes I am ready. What ingredients do I need?,1 cup corn,1 cup corn
+835,62,That's a lot. I have the first two ingredients. What are the next ones?,"1 cup peeled, chopped jicama",1 cup corn
+836,62,Can you repeat the first one please?,"1 cup peeled, chopped jicama","6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+837,62,Ok. I have that. Continue please.,"1 lime, zested and juiced","6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+838,62,Ok. I have them all. What's next?,2 tablespoons salt,0) Preheat grill for high heat.
+839,62,Can you repeat the last one?,2 tablespoons olive oil,"1 lime, zested and juiced"
+840,62,Ok. anything else?,0) Preheat grill for high heat.,"6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+841,62,Ok. I have the medium bowl and the grill is preheating.,"1) In a medium bowl, mix together corn, red onion, jicama, red bell pepper, and cilantro.",0) Preheat grill for high heat.
+842,62,Ok. I have added the four ingredients to the bowl.,2) Stir in lime juice and zest.,"1) In a medium bowl, mix together corn, red onion, jicama, red bell pepper, and cilantro."
+843,62,Yes done. What should I do now?,"3) In a small bowl, combine cayenne pepper, ground black pepper, and salt.","5) Arrange fillets on grill grate, and cook for 3 minutes per side."
+844,62,Ok. What's next?,"4) Brush each fillet with olive oil, and sprinkle with spices.","6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+845,62,Done. What should I do now?,"5) Arrange fillets on grill grate, and cook for 3 minutes per side.","5) Arrange fillets on grill grate, and cook for 3 minutes per side."
+846,62,I have cooked all the fillets 6 minutes in total. 3 minutes on each side.,"6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa.","6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+847,62,Done. What should I do now?,"6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa.","5) Arrange fillets on grill grate, and cook for 3 minutes per side."
+849,162,Okay good what are the next ingredients?,"1/2 green bell pepper, cut into thin strips","1 medium onion, chopped"
+850,162,"Okay, great, what are the next ingredients?","3 teaspoons fresh ginger root, grated","1 medium onion, chopped"
+851,162,"Hey, good, what next?",1 1/2 tablespoons molasses,1 1/2 (14 ounce) packages egg roll wrappers
+853,162,"Okay no problem, are there more ingredients?",1 1/2 (14 ounce) packages egg roll wrappers,1 1/2 (14 ounce) packages egg roll wrappers
+854,162,"Cool, can I have the size of the eggroll package?",1 1/2 (14 ounce) packages egg roll wrappers,1 1/2 (14 ounce) packages egg roll wrappers
+855,162,"Okay, great. Can we start with the recipe now?",0) Cook pork in a large wok over medium-high heat.,0) Cook pork in a large wok over medium-high heat.
+856,162,"Okay, I did that, what should I do next?",1) Drain and set aside.,8) Heat 1 quart oil in a deep fryer to 365 degrees F (185 degrees C).
+857,162,"Okay, it looks smooth now. What is the next step?","3) In a small bowl, mix the cornstarch, soy sauce, and molasses until smooth.",4) Heat 2 tablespoons oil in wok.
+858,162,"Okay, I did that. Should I put the cabbage mixture in the wok?","5) Stir in cabbage mixture in batches, cooking each batch 3 to 4 minutes, just until tender.","5) Stir in cabbage mixture in batches, cooking each batch 3 to 4 minutes, just until tender."
+859,162,"Okay, do you know how much should a batch weight?",<no_answer>,no_answer>
+860,162,"Okay, I mixed pork and vegetables in a bowl. What should I do with these mixture?",7) Stir in the cornstarch mixture.,7) Stir in the cornstarch mixture.
+861,162,"Sorry, I didn't understand the instruction?",8) Heat 1 quart oil in a deep fryer to 365 degrees F (185 degrees C).,9) Place about 1 tablespoon filling on each egg roll wrapper.
+862,162,"Okay, thanks for that. What is the next step?",9) Place about 1 tablespoon filling on each egg roll wrapper.,8) Heat 1 quart oil in a deep fryer to 365 degrees F (185 degrees C).
+863,162,"Okay, I did that. What now?",10) Fold one corner of wrapper over filling.,8) Heat 1 quart oil in a deep fryer to 365 degrees F (185 degrees C).
+864,162,"Okay, done. What is the next?",11) Fold wrapper sides over filling.,"3) In a small bowl, mix the cornstarch, soy sauce, and molasses until smooth."
+865,162,Okay I folded the wraps. What next?,12) Roll wrappers to form egg rolls.,12) Roll wrappers to form egg rolls.
+866,162,"Okay, I made the egg rolls. Should I put them in the fryer?",13) Fry egg rolls in batches in the hot oil until golden brown.,13) Fry egg rolls in batches in the hot oil until golden brown.
+867,162,"Okay, how long will it take?",until golden brown,3 to 4 minutes
+868,162,"Hey, they are golden brown now. What should I do next?",14) Drain on paper towels and serve with sweet and sour sauce.,14) Drain on paper towels and serve with sweet and sour sauce.
+869,162,"Okay, good. Is it ready to eat?",14) Drain on paper towels and serve with sweet and sour sauce.,14) Drain on paper towels and serve with sweet and sour sauce.
+1021,257,"Okay, please list me the ingredients one by one together with the necessary amount.","3 hard-cooked eggs, chopped","3 hard-cooked eggs, chopped"
+1022,257,Is that all?,1 tablespoon diced pimientos,3) Spoon about 1/3 cup onto each muffin half; place on an ungreased baking sheet.
+1023,257,"Okay, got it. Any other ingredients I need?",1/8 teaspoon salt,1/2 cup mayonnaise
+1024,257,Found them all. What's next?,"2 English muffins, split and toasted","0) In a bowl, combine the eggs, crackers, celery and pimientos."
+1025,257,"Alright, they are here. What is your first instruction for me?","0) In a bowl, combine the eggs, crackers, celery and pimientos.","0) In a bowl, combine the eggs, crackers, celery and pimientos."
+1026,257,I have combined them all. What now?,"1) In another bowl, combine the mayonnaise, milk, salt, garlic salt and pepper; mix well.","1) In another bowl, combine the mayonnaise, milk, salt, garlic salt and pepper; mix well."
+1027,257,The other bowl is also combined and ready.,"1) In another bowl, combine the mayonnaise, milk, salt, garlic salt and pepper; mix well.","1) In another bowl, combine the mayonnaise, milk, salt, garlic salt and pepper; mix well."
+1028,257,They are stirred in the egg mixture. What do I need to do now?,3) Spoon about 1/3 cup onto each muffin half; place on an ungreased baking sheet.,3) Spoon about 1/3 cup onto each muffin half; place on an ungreased baking sheet.
+1029,257,The mixture is spread over the muffin halves and are placed onto the baking sheets.,4) Broil for 3-4 minutes or until lightly browned.,4) Broil for 3-4 minutes or until lightly browned.
+1030,257,It is likley brown now. Anything else I need to do?,4) Broil for 3-4 minutes or until lightly browned.,5) Spoon about 1/3 cup onto each muffin half; place on an ungreased baking sheet.
+1058,234,"Ok, that's fine! Could you list the ingredients for me?",2 1/2 teaspoons vegetable oil,2 1/2 teaspoons vegetable oil
+1059,234,"Ok, I have oil and cut tortillas!",3 cups chicken broth,2 1/2 teaspoons vegetable oil
+1060,234,"Good! I have vegetable broth at home, can I use that one?",3 cups chicken broth,3 cups chicken broth
+1061,234,"Ok I'll use that one then, can you tell me which are the next ingredients?",1/2 teaspoon dried oregano,1/2 teaspoon ground cumin
+1062,234,"Ok good, can I have the size of the can?","1 (15 ounce) can black beans, rinsed and drained","1 (15 ounce) can black beans, rinsed and drained"
+1063,234,Top! Can we keep on going with the ingredients?,"1 (15 ounce) can whole kernel corn, drained","4) Add the broth, cumin, chili powder and oregano to the pot."
+1064,234,Perfect! WHat next?,1/2 cup salsa,"6) Add the beans, corn, chicken and salsa."
+1065,234,Salsa and cilantro are on the table! How should I start?,0) Heat 2 teaspoons of the oil in a large pot over medium heat.,2 1/2 teaspoons vegetable oil
+1066,234,The oil is warm now. What should I do?,"1) Add half of the tortilla strips, stirring often, until crisp.","1) Add half of the tortilla strips, stirring often, until crisp."
+1067,234,"Ok they look crunchy now, should I take them out?",2) Drain on paper towels.,2) Drain on paper towels.
+1068,234,"Goos they are dry now, should I also to cook the other half?",3) Repeat with remaining 1/2 teaspoon of oil and remaining tortilla strips and set aside.,8) Add the cilantro and half of the reserved tortilla strips.
+1069,234,Ok I cooked the other half of the tortilla and set them aside!,"4) Add the broth, cumin, chili powder and oregano to the pot.","4) Add the broth, cumin, chili powder and oregano to the pot."
+1070,234,"I added broth and spices to the pan, what can I do now?",5) Raise heat to high and bring to a boil.,5) Raise heat to high and bring to a boil.
+1071,234,It's boiling now!,"6) Add the beans, corn, chicken and salsa.","6) Add the beans, corn, chicken and salsa."
+1072,234,Ok they are in!,"7) Reduce heat to low, stir and simmer for about 2 minutes, or until chicken is cooked through and no longer pink inside.","6) Add the beans, corn, chicken and salsa."
+1073,234,"Ok, two minutes passed, is that it with the recipe?","7) Reduce heat to low, stir and simmer for about 2 minutes, or until chicken is cooked through and no longer pink inside.",8) Add the cilantro and half of the reserved tortilla strips.
+1074,234,Yes it's white inside so it's ok right?,8) Add the cilantro and half of the reserved tortilla strips.,"7) Reduce heat to low, stir and simmer for about 2 minutes, or until chicken is cooked through and no longer pink inside."
+1075,234,Cilantro and half of the tortillas are in the soup. Can I also add some pepper?,9) Ladle into individual bowls and garnish each bowl with some of the remaining strips.,8) Add the cilantro and half of the reserved tortilla strips.
+1076,234,"Well I'll add some pepper then! I put the soup in the bowls and added the tortilla strips, can I eat it now?",9) Ladle into individual bowls and garnish each bowl with some of the remaining strips.,9) Ladle into individual bowls and garnish each bowl with some of the remaining strips.
+1148,78,Ok. What is the first step to prepare chicken fried chops?,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.","0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops."
+1149,78,Ok. Which ingredients should I have?,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.",1/2 cup all-purpose flour
+1151,78,Ok. Are these all the ingredients I need for the recipe?,"6 pork loin chops (3/4 inch thick), trimmed",no_answer>
+1153,78,Ok. So what is the first step ?,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.","0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops."
+1154,78,Is it ok if I use whole grain flour?,1/2 cup all-purpose flour,1/2 cup all-purpose flour
+1155,78,Ok. I have the flour and the salt. What should I do next?,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.",1 1/2 teaspoons ground mustard
+1156,78,Ok. Done. what should I do next?,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.",3) Combine soup and water; pour over chops.
+1157,78,Ok. Done. What is next?,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.","0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops."
+1158,78,What is the ideal temperature for the chops to be mixed?,<no_answer>,no_answer>
+1159,78,Ok. Good. What should I do next?,"1) In a skillet, brown the chops on both sides in oil.","0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops."
+1160,78,Ok. How much oil should I use?,2 tablespoons vegetable oil,2 tablespoons vegetable oil
+1161,78,Ok. Done. What should I do next?,"1) In a skillet, brown the chops on both sides in oil.",3) Combine soup and water; pour over chops.
+1162,78,Ok. For how long should I brown the chops?,<no_answer>,no_answer>
+1163,78,Ok. Done. What is next?,2) Place in a slow cooker.,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops."
+1165,78,Ok. Done. What next?,3) Combine soup and water; pour over chops.,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops."
+1166,78,Ok. Done. What next?,4) Cover and cook on low for 6-8 hours or until meat is tender.,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops."
+1167,78,Ok. What is the exact temperature I should have?,low,no_answer>
+1168,78,Ok. Thanks. What next?,"5) If desired, thicken pan juices and serve with the pork chops.","0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops."
+1169,78,"Sorry, I didn't understand. Could you repeat the first part of the sentence?","5) If desired, thicken pan juices and serve with the pork chops.","0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops."
+1170,78,Ok. Perfect. Is the recipe over?,"5) If desired, thicken pan juices and serve with the pork chops.",4) Cover and cook on low for 6-8 hours or until meat is tender.
+1171,178,Great! Sounds delicious! Could you tell me the ingredients to prepare?,12 ounces chopped raw bacon,12 ounces chopped raw bacon
+1172,178,"Ok good, I have them ready. What are the next ingredients?","5 button mushrooms, chopped","5 button mushrooms, chopped"
+1173,178,"Ok, good. which are the next ingredients?",1 egg,"5 button mushrooms, chopped"
+1174,178,"Ok good, are there more ingredients?","6 ounces shredded Swiss cheese, divided","6 ounces shredded Swiss cheese, divided"
+1175,178,"Ok, good! Can we start with the recipe?",0) Preheat oven to 350 degrees F (175 degrees C).,0) Preheat oven to 350 degrees F (175 degrees C)
+1176,178,Ok good the oven is warm now. What should I do next?,1) Place bacon in a skillet and cook over medium heat until the pieces are browned.,1) Place bacon in a skillet and cook over medium heat until the pieces are browned.
+1177,178,Ok the bacon is browned now. What next?,2) Remove with a slotted spoon to paper towels.,2) Remove with a slotted spoon to paper towels.
+1178,178,Ok I did that. What is the next step?,3) Discard all but 1 tablespoon of bacon grease.,7) Stir in the onion and mushrooms.
+1179,178,What shall I do with the remaining grease?,"4) Stir in onions and mushrooms, and cook until soft.","4) Stir in onions and mushrooms, and cook until soft."
+1180,178,Ok. They are tender now. What is next?,5) Remove from heat.,2) Remove with a slotted spoon to paper towels.
+1181,178,I have it now. What shall I do with the bowl?,"6) In a large bowl, stir together beef, egg, and milk.","6) In a large bowl, stir together beef, egg, and milk."
+1182,178,How much milk should I add?,1/4 cup evaporated milk,1/4 cup evaporated milk
+1183,178,Thanks. Shall I put the onions and mushrooms into the bowl?,7) Stir in the onion and mushrooms.,"8) Mix in about 4 ounces of Swiss cheese, and all but 1 tablespoon of bacon."
+1184,178,"Ok, I add them as well. Next?","8) Mix in about 4 ounces of Swiss cheese, and all but 1 tablespoon of bacon.",7) Stir in the onion and mushrooms.
+1185,178,"Sorry, how much cheese? Could you repeat that?","6 ounces shredded Swiss cheese, divided","6 ounces shredded Swiss cheese, divided"
+1186,178,"Ohh, thanks. I add it and the bacon. What shall I do now?","9) Stir in cornflake crumbs, and mix until well blended.","9) Stir in cornflake crumbs, and mix until well blended."
+1187,178,I think it is well blended now. What is next?,"10) Shape into a loaf, and place in a meatloaf pan.","10) Shape into a loaf, and place in a meatloaf pan."
+1188,178,"Sorry, I don't have that kind of pan. Can I just use a normal pan?","10) Shape into a loaf, and place in a meatloaf pan.",no_answer>
+1189,178,Never mind. Continue please.,11) Bake in a preheated oven for 1 hour.,7) Stir in the onion and mushrooms.
+1190,178,Ok. 1 hour is gone and I have taken it out. Is it over?,"12) Drain fat, and sprinkle with remaining cheese and bacon.","12) Drain fat, and sprinkle with remaining cheese and bacon."
+1191,178,Ok. It is done. Anything else?,"13) Return to oven, and bake until cheese is melted, about 5 minutes.",7) Stir in the onion and mushrooms.
+1277,117,Ok I have them. What are the next ingredients?,1 teaspoon ground cinnamon,1 teaspoon baking soda
+1278,117,Ok. Are there more ingredients left?,1/4 teaspoon baking powder,1/2 cup sour cream
+1279,117,Ok I have them as well.,0) Preheat oven to 350 degrees F (175 degrees C).,1/2 cup sour cream
+1281,117,Ok I have done that. What is next?,"2) Beat together eggs, sugar, and oil.","2) Beat together eggs, sugar, and oil."
+1283,117,OK what is the next step?,"3) Blend in applesauce, and then sour cream or buttermilk.","2) Beat together eggs, sugar, and oil."
+1284,117,Ok I have done that.,"4) Mix in flour, baking powder, soda, and cinnamon.",7) Bake for 80 minutes.
+1285,117,Ok I have mixed them in. What should I do now?,5) Stir in raisins.,5) Stir in raisins.
+1286,117,Ok they are also stirred in.,6) Pour batter into prepared pans.,6) Pour batter into prepared pans.
+1287,117,Ok the mixture is in the pan.,7) Bake for 80 minutes.,7) Bake for 80 minutes.
+1288,117,Ok is there a way to see if it's done?,<no_answer>,no_answer>
+1289,117,Ok. I took it out of the oven and let it cool. What should I do now?,7) Bake for 80 minutes.,9) x 5 inch loaf pans.
+1333,42,Hi. how do I make Asian ginger dressing?,"0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water.","0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water."
+1334,42,I have a pint jar. What's next?,"0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water.","0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water."
+1335,42,Can you repeat the second ingredient?,2 tablespoons minced fresh ginger root,3 tablespoons honey
+1336,42,Thank you. What's next?,"0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water.","0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water."
+1337,42,Both added. Anything else?,"0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water.","0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water."
+1338,42,I have added the soy sauce and the water. How much honey do I need to add?,3 tablespoons honey,"0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water."
+1339,42,Done. What should I do now?,"1) Cover the jar with a tight fitting lid, and shake well.","3) Let cool, and shake well before serving."
+1340,42,Ok. I have shaken it well. What is the next step?,"2) Remove lid, and heat jar in the microwave for 1 minute just to dissolve the honey.","2) Remove lid, and heat jar in the microwave for 1 minute just to dissolve the honey."
+1341,42,Done. What's next?,"2) Remove lid, and heat jar in the microwave for 1 minute just to dissolve the honey.","0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water."
+1449,199,Ok good I had those already at home. What are the next ingredients?,"1 onion, chopped",2 quarts water
+1450,199,OK I chopped the onions and the water is ready. What is next?,"3 large potatoes, chopped","3 large potatoes, chopped"
+1451,199,Ok I have them and both chopped.,"1 bunch fresh asparagus, trimmed and cut into 1 inch pieces","2 large carrots, chopped"
+1452,199,Ok I have prepared the asperges. Could I also use brown rice instead?,"1 bunch fresh asparagus, trimmed and cut into 1 inch pieces",1/3 cup uncooked long-grain white rice
+1453,199,Ok no problem. Are there more ingredients left?,4 teaspoons salt,4 teaspoons salt
+1454,199,OK I got it. All the ingredients are ready to go. Can we start making the French soup?,0) Melt the butter in a large pot over medium heat.,0) Melt the butter in a large pot over medium heat.
+1455,199,Sorry I didn't understand the beginning of your instruction. Could you repeat it?,0) Melt the butter in a large pot over medium heat.,0) Melt the butter in a large pot over medium heat.
+1456,199,"Ok no problem. I did that, the butter is melted.","1) Stir in the leeks and onion, and cook until tender.","1) Stir in the leeks and onion, and cook until tender."
+1457,199,Ok for how many minutes should I do that?,<no_answer>,no_answer>
+1458,199,Ok they are tender now. What should I do?,2) Pour water into the pot.,2) Pour water into the pot.
+1459,199,Ok should I use all the water?,<no_answer>,no_answer>
+1460,199,Ok good. What is next?,"3) Mix in potatoes, carrots, asparagus, and rice.","2 large carrots, chopped"
+1461,199,Ok I got it. What should I do now?,4) Season with salt.,0) Melt the butter in a large pot over medium heat.
+1462,199,Ok I have done that. Are there many more steps to take?,"5) Bring to a boil, reduce heat, and simmer 30 minutes, until vegetables and rice are tender.","6) Stir spinach and heavy cream into the soup mixture, and continue cooking about 5 minutes before serving."
+1463,199,Ok I let it simmer for 30 minutes. Everything looks tender now.,"6) Stir spinach and heavy cream into the soup mixture, and continue cooking about 5 minutes before serving.","6) Stir spinach and heavy cream into the soup mixture, and continue cooking about 5 minutes before serving."
+1464,199,"Nice it became really creamy, thanks it looks delicious.","6) Stir spinach and heavy cream into the soup mixture, and continue cooking about 5 minutes before serving.","6) Stir spinach and heavy cream into the soup mixture, and continue cooking about 5 minutes before serving."
+1561,95,Ok. Nice. What are the first two ingredients?,"6 figs, halved","6 figs, halved"
+1562,95,OK. I have them. What are the next ingredients?,"1/2 cup toasted, chopped pecans","1/2 cup toasted, chopped pecans"
+1563,95,Ok. I have them. What should I do now.,0) Preheat the broiler.,0) Preheat the broiler.
+1564,95,Ok. Is there some temperature indication?,<no_answer>,no_answer>
+1565,95,Ok. What is the next step?,1) Stuff fig halves with goat cheese.,4) Arrange on a medium baking sheet.
+1566,95,Ok. I have done that. What is next?,2) Press pecans into the cheese.,2) Press pecans into the cheese.
+1567,95,Ok. I have done that as well. What is next?,"3) Wrap each stuffed fig half with half a slice of bacon, securing with toothpicks.","3) Wrap each stuffed fig half with half a slice of bacon, securing with toothpicks."
+1568,95,Ok. I have arranged them on the sheet. What should I do now?,"5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned.","5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned."
+1569,95,Ok. It looks ready now. Is there something else to do?,"5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned.","5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned."
+1795,208,"Ok good, can you tell me more ingredients?","2 pounds frozen crawfish, cleaned",1/2 teaspoon cayenne pepper
+1796,208,"Top, I have them.",1 (10.75 ounce) can condensed cream of mushroom soup,"4 ounces cream cheese, softened"
+1797,208,"Ok I got those cans, are there any other ingredients left?","4 ounces cream cheese, softened","4 ounces cream cheese, softened"
+1798,208,"Great, thanks! What's the plan now?",0) Melt 1/4 cup of butter in a large skillet over medium heat.,"6) Stir in half-and-half, sauteed green onions, and crawfish."
+1799,208,"Butter is melted, should I put something inside the pan?",1) Saute green onions in butter until tender.,1) Saute green onions in butter until tender.
+1800,208,"They look tender now, how should I proceed?","2) Remove from pan, and set aside.","2) Remove from pan, and set aside."
+1801,208,Ok also this butter is melted.,"3) In the same skillet, melt 1/2 cup of butter, and saute the crawfish for 5 minutes; set aside.",1) Saute green onions in butter until tender.
+1802,208,"Good, I out the crawfish aside.","4) In a large pot over medium heat, combine potato soup, mushroom soup, corn, and cream cheese.","4) In a large pot over medium heat, combine potato soup, mushroom soup, corn, and cream cheese."
+1804,208,"Cool, did it. What now?",7) Season with cayenne pepper.,"8) Bring to a low boil, and simmer 5 minutes to blend flavors."
+1805,208,Ok pepper is in.,"8) Bring to a low boil, and simmer 5 minutes to blend flavors.","8) Bring to a low boil, and simmer 5 minutes to blend flavors."
+1806,208,"Ok, I left it simmer for 5 minutes. Is there some way I can see that it's ready to eat?",<no_answer>,no_answer>
+1807,208,No worries! Is it ready now?,"8) Bring to a low boil, and simmer 5 minutes to blend flavors.",7) Season with cayenne pepper.
+1882,176,Ok good. Could I prepare the ingredients first?,1 cup semisweet chocolate chips,1 cup semisweet chocolate chips
+1883,176,"Ok good, I have them ready. Could I use margarine instead of butter?",1 cup semisweet chocolate chips,"1/2 cup butter, softened"
+1884,176,Ok could you tell me which other ingredients should I prepare?,1/2 cup white sugar,1/2 cup packed brown sugar
+1885,176,"Ok good I have them, what next?",2 eggs,1/2 cup packed brown sugar
+1886,176,"Ok good, are there more ingredients?",1/2 teaspoon baking powder,1/2 teaspoon baking powder
+1887,176,Ok good I have them ready now! Can we start with the recipe?,0) Melt the chocolate chips in a heavy saucepan over very low heat.,0) Melt the chocolate chips in a heavy saucepan over very low heat.
+1888,176,Good I am doing that! For how long should I keep them in the saucepan?,<no_answer>,no_answer>
+1889,176,"Ok good, it's ok now I think. What is the next step?",2) Cream together the butter and sugars until light.,6) Add to the butter mixture slowly.
+1890,176,"Ok I did that, what should I do with the mixture?","3) Beat in the eggs, one at a time.",6) Add to the butter mixture slowly.
+1892,176,"Ok good, chocolate and vanilla are in. What should I do next?","5) In a bowl, whisk together the flour, baking powder and baking soda.","5) In a bowl, whisk together the flour, baking powder and baking soda."
+1893,176,Ok I did that. What is the next step?,6) Add to the butter mixture slowly.,6) Add to the butter mixture slowly.
+1894,176,Good I did that now I just have one mixture right?,7) Blend thoroughly.,7) Blend thoroughly.
+1895,176,Ok I did blend it! What should I do with it?,8) Shape into 1-inch balls and place on a greased cookie sheet.,8) Shape into 1-inch balls and place on a greased cookie sheet.
+1896,176,Ok they are on the cookie sheet now. Should I put it in the oven now?,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.
+1897,176,"Ok good, 14 minutes passed. Is there a way I can see that it's ready?",<no_answer>,no_answer>
+1898,176,Ok for how long should I cool them?,<no_answer>,no_answer>
+1899,176,"Ok no problem, they are cool now. Is the recipe over?",10) Let sit on cookie sheet for a minute or two before removing to a rack to cool.,11) Let sit on cookie sheet for a minute or two before removing to a rack to cool.
+1901,76,I have cut the eggplant into slices. What should I do now?,"1 red bell pepper, sliced into thin strips","4) Spread bottom half with goat cheese, followed by tapenade."
+1902,76,How large should the French baguette be?,"1 red bell pepper, sliced into thin strips",no_answer>
+1903,76,Ok. what should I do now?,2 ounces soft goat cheese,3) Cut baguette in half lengthwise.
+1904,76,What kind of tapenade should I use?,1/4 cup tapenade (olive spread),1/4 cup tapenade (olive spread)
+1905,76,Thank you. What should I do with these three ingredients?,0) Preheat the oven broiler.,"1 eggplant, seeded and cut lengthwise into 1/4 inch slices"
+1906,76,Can you repeat the last word?,0) Preheat the oven broiler.,"4) Spread bottom half with goat cheese, followed by tapenade."
+1907,76,Ok. done. What's next?,"1) Place the eggplant and red bell pepper on a medium baking sheet, and season with salt and pepper.","4) Spread bottom half with goat cheese, followed by tapenade."
+1908,76,I have placed them on the baking sheet. What should I do now?,"2) Broil 5 to 10 minutes, until tender and slightly browned.","2) Broil 5 to 10 minutes, until tender and slightly browned."
+1909,76,Ok. when do I know it is ready?,until tender and slightly browned,until tender and slightly browned
+1910,76,Ok. they seem ready. What can I do now?,3) Cut baguette in half lengthwise.,3) Cut baguette in half lengthwise.
+1911,76,I have done that. What should I do with it?,"4) Spread bottom half with goat cheese, followed by tapenade.","1) Place the eggplant and red bell pepper on a medium baking sheet, and season with salt and pepper."
+1912,76,Done. What's next?,"5) Layer with eggplant and red pepper, then sprinkle with Parmesan cheese.",6) Cover with top half of baguette.
+1913,76,Both done. Is that all?,6) Cover with top half of baguette.,8) Serve hot or cold.
+1914,76,That's done!,8) Serve hot or cold.,7) Cut into 4 pieces.
+1979,164,Ok good could you tell me the ingredients first then?,40 rectangular shortbread cookies,40 rectangular shortbread cookies
+1980,164,"Ok good, can you tell me more ingredients?","35 individually wrapped caramels, unwrapped",40 rectangular shortbread cookies
+1981,164,"Ok good, what is the next ingredients?",1/4 cup water,1/4 cup water
+1982,164,Ok great! Can we start with the recipe?,0) Place shortbread cookies on a baking sheet or tray.,0) Place shortbread cookies on a baking sheet or tray.
+1983,164,"Ok I did that, what next?",0) Place shortbread cookies on a baking sheet or tray.,2) Spoon a thin line of caramel over each cookie.
+1984,164,"Ok, I placed the cookies on the tray. What is the next step?","1) In a small saucepan over medium-low heat, melt caramels in water, stirring frequently.","1) In a small saucepan over medium-low heat, melt caramels in water, stirring frequently."
+1985,164,"Ok, good I am doing that, the mixture looks good now. What should I do with it?",2) Spoon a thin line of caramel over each cookie.,"6) Dip cookies in chocolate one at a time, tapping against the side of the bowl to remove excess."
+1986,164,"Ok I did that, what next?",3) Place cookies in refrigerator until caramel is set.,2) Spoon a thin line of caramel over each cookie.
+1987,164,"Ok, how long will that take?",until caramel is set,no_answer>
+1988,164,"Ok no problem, the caramel is set now. What next?",4) Line baking sheets or trays with waxed paper.,4) Line baking sheets or trays with waxed paper.
+1989,164,"Ok I did that, what is the next step?","5) In a double boiler over simmering water, melt chocolate.","5) In a double boiler over simmering water, melt chocolate."
+1990,164,"Ok the chocolate looks nicely melted now, what next?","6) Dip cookies in chocolate one at a time, tapping against the side of the bowl to remove excess.","6) Dip cookies in chocolate one at a time, tapping against the side of the bowl to remove excess."
+1991,164,"Ok good, should I use all of the chocolate mixture?",<no_answer>,no_answer>
+1992,164,"Ok good, what next?","7) Place on prepared sheets and let rest at room temperature several hours, until set.",4) Line baking sheets or trays with waxed paper.
+1993,164,"Ok good, they are resting now. What now? is there something else I should do?","7) Place on prepared sheets and let rest at room temperature several hours, until set.","8) Place on prepared sheets and let rest at room temperature several hours, until set."
+2043,152,Sorry I didn't understand the first ingredient :).,1 (8 pound) bone-in shank ham,1 (8 pound) bone-in shank ham
+2044,152,"Oh ok sure, thanks! What are the next ingredients?",1/2 cup honey,1/2 cup honey
+2045,152,"Okay, good! What are the next ingredients?",2 tablespoons liquid smoke flavoring,2 tablespoons liquid smoke flavoring
+2046,152,Okay good they are ready what's next?,0) Preheat the oven to 275 degrees F (135 degrees C).,2 tablespoons liquid smoke flavoring
+2047,152,Ok the oven is preheated. What should I do now?,1) Place ham in a roasting pan.,1) Place ham in a roasting pan.
+2048,152,Ok I did that! What is the next step?,3) Cover with a tight fitting lid.,"8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves."
+2049,152,"Ok, 7 hours passed, how do I see that it is ready?",<no_answer>,7 hours
+2050,152,Ok I did that! what should I do with it?,"6) Debone ham, removing any excess fat as well, and return to the roasting pan.","8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves."
+2051,152,"Ok I removed bones and fat, is it time to serve it?","7) Skim fat from the top of the drippings, and discard.","7) Skim fat from the top of the drippings, and discard."
+2052,152,Ok I did that! what next?,"8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves.",2) Pour in water to a 2 inch depth.
+2053,152,Ok! I did that! Should I use all the honey?,"8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves.",no_answer>
+2054,152,Ok good! what is the next step?,"9) Pour this over the ham, cover and return to the oven.","8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves."
+2055,152,Ok I did that! should the oven keep the same temperature then before?,11) Bake for another 30 to 40 minutes in the preheated oven.,1) Place ham in a roasting pan.
+2056,152,Ok good! I did that. What now?,12) Let stand for 10 minutes before serving.,"8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves."
+2057,152,Ok good! is there something else I should do? it looks great?,12) Let stand for 10 minutes before serving.,"5) Remove from the oven, pour off drippings and reserve."
+2161,61,Ok. how do I start?,0) Heat oil in a large skillet over medium-high heat.,0) Heat oil in a large skillet over medium-high heat.
+2162,61,Ok. I have done that. What is the next step?,"1) Dip eggplant slices in egg, then in crumbs, and place in hot oil.","1) Dip eggplant slices in egg, then in crumbs, and place in hot oil."
+2163,61,Ok. I have done that. What should I do now?,"1) Dip eggplant slices in egg, then in crumbs, and place in hot oil.",3) Drain on paper towels.
+2165,61,Ok. I have done that. What is the next step?,"1) Dip eggplant slices in egg, then in crumbs, and place in hot oil.","1) Dip eggplant slices in egg, then in crumbs, and place in hot oil."
+2166,61,Ok. what is next?,"2) Fry 2 to 3 minutes on each side, or until golden brown.",0) Heat oil in a large skillet over medium-high heat.
+2167,61,Ok. I have done that. What should I do with it now?,3) Drain on paper towels.,4) Drain on paper towels.
+2168,61,Ok. done. What is next?,3) Drain on paper towels.,"2) Fry 2 to 3 minutes on each side, or until golden brown."
+2268,138,I love ice cream! I scream ice cream! Which ingredients should I prepare?,2 (14 ounce) cans sweetened condensed milk,2 (14 ounce) cans sweetened condensed milk
+2270,138,Ok. No problem. What are the next two ingredients?,2 cups heavy cream,"0) Combine condensed milk, milk, cream, vanilla, salt and fruit in freezer canister of ice cream maker."
+2271,138,Ok. Good. They are ready! Can I have the last two ingredients?,1/2 teaspoon salt,3 cups chopped strawberries
+2272,138,Can you repeat the second ingredient please?,3 cups chopped strawberries,3 cups chopped strawberries
+2273,138,Ok. good! Can we start then?,"0) Combine condensed milk, milk, cream, vanilla, salt and fruit in freezer canister of ice cream maker.","0) Combine condensed milk, milk, cream, vanilla, salt and fruit in freezer canister of ice cream maker."
+2274,138,Ok. good I did so!,1) Freeze according to manufacturer's directions.,1) Freeze according to manufacturer's directions.
+2275,138,Ok. it's in the freezer now. What next?,1) Freeze according to manufacturer's directions.,1) Freeze according to manufacturer's directions.
+2308,26,Hi. how do I make British bread pudding?,0) Preheat oven to 375 degrees F (190 degrees C).,0) Preheat oven to 375 degrees F (190 degrees C).
+2310,26,Ok. I have added the cubed bread and milk into the bowl. What else?,"1) In a large bowl, combine bread and milk, and set aside to soak for 5 minutes.","2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon."
+2312,26,Ok. the 5 minutes have passed and the eggs and butter are added. Anything else?,"2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon.","2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon."
+2313,26,That's a lot. Can you repeat the last ingredient?,"2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon.",1/2 cup brown sugar
+2314,26,Yes everything is added. Continue please.,"2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon.","2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon."
+2315,26,Done. Anything else?,3) Mix well.,"2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon."
+2316,26,For how long should I mix it?,<no_answer>,no_answer>
+2317,26,No problem. What's next?,4) Press the mixture into a  9-inch square baking pan.,"2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon."
+2319,26,Yes what's the next instruction?,"5) Bake in preheated oven until golden and firm to touch, about 35 minutes.","2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon."
+2321,26,Ok. I have adjusted it to 35 minutes.,"5) Bake in preheated oven until golden and firm to touch, about 35 minutes.","6) Leave in baking pan to cool, then cut into squares."
+2322,26,The 35 minutes have passed now. What's the next instruction?,"6) Leave in baking pan to cool, then cut into squares.","6) Leave in baking pan to cool, then cut into squares."
+2323,26,Ok. I have done that. They are delicious. Bye!,"6) Leave in baking pan to cool, then cut into squares.","6) Leave in baking pan to cool, then cut into squares."
+2423,254,Great. What shall I prepare for this salad?,"1 (11 ounce) can mandarin oranges, drained","1 (11 ounce) can mandarin oranges, drained"
+2424,254,Can you tell me its weight?,"1 (11 ounce) can mandarin oranges, drained","1 (11 ounce) can mandarin oranges, drained"
+2425,254,Ok. Anything else? Like any sauce?,"1 (8 ounce) can crushed pineapple, drained","3 1/2 cups frozen whipped topping, thawed"
+2426,254,Good. Also 11 ounce?,"1 (8 ounce) can crushed pineapple, drained","1 (8 ounce) can crushed pineapple, drained"
+2427,254,Thanks. Next thing is?,"3 1/2 cups frozen whipped topping, thawed","0) In a large bowl, combine the oranges, pineapple, whipped topping, coconut, marshmallows and milk."
+2428,254,I got that. Next?,2 cups shredded coconut,"3 1/2 cups frozen whipped topping, thawed"
+2429,254,Ok. Is it all?,2 cups miniature marshmallows,1) Mix together well and chill 1 hour before serving.
+2430,254,"Ok. I have it now. Go on, pls.",1/2 cup milk,"0) In a large bowl, combine the oranges, pineapple, whipped topping, coconut, marshmallows and milk."
+2431,254,Ok. A lot of things on board. Can I start now?,"0) In a large bowl, combine the oranges, pineapple, whipped topping, coconut, marshmallows and milk.","0) In a large bowl, combine the oranges, pineapple, whipped topping, coconut, marshmallows and milk."
+2432,254,Ok. I add them to the bowl. What else?,1) Mix together well and chill 1 hour before serving.,1) Mix together well and chill 1 hour before serving.
+2433,254,Ohh. 1 hour passed. Can I eat it?,2) Garnish with cherries.,2) Garnish with cherries.
+2536,192,"Ok, here are bread and eggs! What else should I prepare?","1 (1 pound) loaf French bread, cut diagonally in 1 inch slices",2 cups milk
+2538,192,Ok I have those! Could you tell me which are the next ingredients?,2 teaspoons vanilla extract,1 1/2 cups half-and-half cream
+2539,192,Good! Is it ok if I use butter replacement instead of butter?,2 teaspoons vanilla extract,"7) Bake in preheated oven, uncovered, for 40 minutes."
+2540,192,"Ok, good! So is that it with the ingredients?",1 1/3 cups brown sugar,no_answer>
+2541,192,"Ok, I didn't understand which kind of Syrup I should use.",3 tablespoons light corn syrup,3 tablespoons light corn syrup
+2542,192,Ok good! Do you want to start then?,0) Butter a 9x13 inch baking dish.,0) Butter a 9x13 inch baking dish.
+2543,192,Ok I buttered the dish up!,1) Arrange the slices of bread in the bottom.,1) Arrange the slices of bread in the bottom.
+2544,192,"Ok, I put the slices on!","2) In a large bowl, beat together eggs, milk, cream, vanilla and cinnamon.","2) In a large bowl, beat together eggs, milk, cream, vanilla and cinnamon."
+2545,192,"Ok the ingredients are in the bowl, what now?","3) Pour over bread slices, cover, and refrigerate overnight.","3) Pour over bread slices, cover, and refrigerate overnight."
+2546,192,"Ok, good I'll wait for the night then! Ok a night passed, what now?","4) The next morning, preheat oven to 350 degrees F (175 degrees C).","3) Pour over bread slices, cover, and refrigerate overnight."
+2548,192,Ok it's bubbling noe. *now.,6) Pour over bread and egg mixture.,6) Pour over bread and egg mixture.
+2549,192,Ok the bread is soaked now! What is the next step?,"7) Bake in preheated oven, uncovered, for 40 minutes.",6) Pour over bread and egg mixture.
+2550,192,Ok I did bake it for 40 minutes. Can I bake it for a little longer to make the bread more crunchy?,<no_answer>,"7) Bake in preheated oven, uncovered, for 40 minutes."
+2646,239,Ah yes sounds great! How should I start.,1 fluid ounce dark rum,1 fluid ounce dark rum
+2647,239,Ok how many are there in total? I got the first two ingredients.,3 1/2 fluid ounces fruit punch,1 fluid ounce dark rum
+2648,239,"Alright, sounds like a party. How should I start?","0) In a mixing glass combine the rum, apricot brandy, fruit punch and pina colada mix.",1 fluid ounce dark rum
+2649,239,Ok should I use all of it?,<no_answer>,no_answer>
+2650,239,"Alright, what is the next step?",1) Stir to blend and serve over ice.,1) Stir to blend and serve over ice.
+2653,244,"OK, and which should be the size of the can?","1 (15 ounce) can chickpeas (garbanzo beans), drained","1 (15 ounce) can chickpeas (garbanzo beans), drained"
+2654,244,"Good, I've got it!",1/2 cup drained marinated artichoke hearts,1 tablespoon chopped fresh parsley
+2655,244,"Alrighty, done!",2 tablespoons water,5) Dip or spread each Quakes Ranch Flavor Rice Snack with hummus.
+2656,244,I have them!,Quaker Quakes Ranch or Sour Cream and Onion Flavor Rice Snacks,1 tablespoon chopped fresh parsley
+2657,244,Do you think I can use chips instead?,Quaker Quakes Ranch or Sour Cream and Onion Flavor Rice Snacks,"1 (15 ounce) can chickpeas (garbanzo beans), drained"
+2658,244,"Ok, I'll use chips then! Should we start with the preparation?",0) Combine all ingredients except parsley and Quaker Rice Snacks in work bowl of food processor.,0) Combine all ingredients except parsley and Quaker Rice Snacks in work bowl of food processor.
+2660,244,"Ok, it's in a serving bowl now.",3) Cover and refrigerate until ready to serve.,3) Cover and refrigerate until ready to serve.
+2661,244,"Ok, I did that! And it's amazing with chips!!",4) Stir in parsley.,5) Dip or spread each Quakes Ranch Flavor Rice Snack with hummus.
+2734,256,Ok. Hope it is not too fatty. What shall I prepare?,0) Place flour in a shallow bowl.,"5) In small batches, fry chicken 6 to 8 minutes, or until golden brown."
+2735,256,How much flour?,1 cup all-purpose flour,1 cup all-purpose flour
+2736,256,"Fine. Continue, please.","1) Place breadcrumbs in a separate shallow bowl, and mix with ground black pepper and cayenne pepper.","6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard."
+2737,256,How much bread crumbs?,2 cups Italian-style seasoned bread crumbs,2 cups Italian-style seasoned bread crumbs
+2738,256,Ok. I mix them. Next?,2) Place eggs and water in a small bowl.,2) Place eggs and water in a small bowl.
+2739,256,Could you specify how many eggs and water I need?,"2 eggs, beaten","2 eggs, beaten"
+2740,256,Thanks! What next?,"3) One piece at a time, coat the chicken in the flour, the eggs and the bread crumbs, and set aside.","6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard."
+2742,256,Thanks for clarification. I coat them all. Shall I fry them now?,4) Heat oil in a deep fryer to 375 degrees F (190 degrees C).,4) Heat oil in a deep fryer to 375 degrees F (190 degrees C).
+2743,256,The chicken are golden brown now. What do I need to do?,"6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard.","6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard."
+2744,256,I want to know the exact amout of each. Could you tell me that?,1 cup mayonnaise,1/2 teaspoon ground black pepper
+2745,256,Great. Thanks for that. What about the others?,1/2 cup sour cream,"6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard."
+2746,256,Ok. Next is?,1/2 cup sour cream,"6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard."
+2804,112,Sounds good! I am ready! Are there many ingredients? Can I have the ingredients first?,4 egg whites,4 egg whites
+2805,112,Ok good! Can I have more ingredients?,1 teaspoon lemon juice,2 teaspoons cornstarch
+2806,112,Ok good. I prepared them. Can I have the next two?,1 pint heavy cream,1 teaspoon lemon juice
+2807,112,Ok. They are ready! Can we start with the recipe?,0) Preheat oven to 300 degrees F (150 degrees C).,0) Preheat oven to 300 degrees F (150 degrees C).
+2808,112,Ok. The oven is warm. What next?,1) Line a baking sheet with parchment paper.,1) Line a baking sheet with parchment paper.
+2809,112,Ok I did it! What should I do with it?,"3) In a large bowl, beat egg whites until stiff but not dry.",6) Overbeaten egg whites lose volume and deflate when folded into other ingredients.
+2810,112,Ok. The eggs look good. What is the next step?,"4) Gradually add in the sugar, 1 tablespoon at a time, beating well after each addition.","4) Gradually add in the sugar, 1 tablespoon at a time, beating well after each addition."
+2811,112,Ok. I added the sugar! What next?,5) Beat until thick and glossy.,5) Beat until thick and glossy.
+2812,112,Ok good. How long will it take before it's thick and glossy?,<no_answer>,no_answer>
+2813,112,Ok now it should be ok! What is the next step?,"8) Gently fold in vanilla extract, lemon juice and cornstarch.","8) Gently fold in vanilla extract, lemon juice and cornstarch."
+2814,112,"Ok. I added vanilla, lemon juice and corn starch. Can I also add some butter?","8) Gently fold in vanilla extract, lemon juice and cornstarch.",9) Spoon mixture inside the circle drawn on the parchment paper.
+2815,112,Ok no problem. What is the next step?,9) Spoon mixture inside the circle drawn on the parchment paper.,"8) Gently fold in vanilla extract, lemon juice and cornstarch."
+2816,112,Ok I did so! What should I do next?,"10) Working from the center, spread mixture toward the outside edge, building edge slightly.","8) Gently fold in vanilla extract, lemon juice and cornstarch."
+2818,112,Ok good! What next?,12) Bake for 1 hour.,"6 kiwi, peeled and sliced"
+2819,112,Ok. 1 hour passed. How do I see that it's ready?,<no_answer>,1 hour
+2820,112,Sorry I didn't understand the instruction.,13) Cool on a wire rack.,6) Overbeaten egg whites lose volume and deflate when folded into other ingredients.
+2821,112,Ok good. For how long should I let it cool for?,<no_answer>,no_answer>
+2822,112,Ok no problem. Is the recipe over?,"14) Remove the paper, and place meringue on a flat serving plate.",12) Bake for 1 hour.
+2823,112,Ok good. I did so. It smells great! Is it done now?,"15) Fill the center of the meringue with whipped cream, sweetened if desired.","14) Remove the paper, and place meringue on a flat serving plate."
+2824,112,Ok can I use brown sugar to sweeten?,"15) Fill the center of the meringue with whipped cream, sweetened if desired.",1 teaspoon vanilla extract
+2825,112,Ok no problem. Is there a next step?,16) Top whipped cream with kiwifruit slices.,7) Be absolutely sure not a particle of grease or egg yolk gets into the whites.
+2826,112,Ok good. I put some fruits! Can I eat it now?,16) Top whipped cream with kiwifruit slices.,"15) Fill the center of the meringue with whipped cream, sweetened if desired."
+2854,100,Great. I love fruit dip. Which are the ingredients that I have to prepare?,8 ounces cream cheese,8 ounces cream cheese
+2855,100,Can you repeat the second ingredient?,1/2 cup marshmallow creme,"2 cups frozen whipped topping, thawed"
+2856,100,Ok. Good. Could I have two more ingredients?,"2 cups frozen whipped topping, thawed",1/4 cup unsweetened pineapple juice juice
+2857,100,Sorry I didn't understand the first ingredient.,"2 cups frozen whipped topping, thawed",8 ounces cream cheese
+2858,100,Ok. Good. What is the first step of the recipe?,"0) Blend together the cream cheese, marshmallow cream and thawed topping.","0) Blend together the cream cheese, marshmallow cream and thawed topping."
+2860,100,Ok. I blended all the ingredients apart from the pineapple. What should I do now?,1) Add enough pineapple juice to make it dipping consistency.,1) Add enough pineapple juice to make it dipping consistency.
+2861,100,"Ok. I added some, happy with the consistency now. What is the next step?",2) Chill for 1 hour.,2) Chill for 1 hour.
+2862,0,Hi. What's the first step I need to take?,0) Preheat oven to 400 degrees F (205 degrees C).,"0) Preheat oven to 400 degrees F (150 degrees C), and continue baking for 35 to 45 minutes."
+2863,0,Are the degrees in Celsius?,400 degrees F,205 degrees C
+2864,0,Ok. thank you. What's the next instruction?,1) Beat the eggs in a large bowl.,0) Preheat oven to 400 degrees F (150 degrees C)
+2865,0,Ok. I did it. What's next?,"2) Mix in sugar, salt, vanilla, and syrup.","2) Mix in sugar, salt, vanilla, and syrup."
+2866,0,Could you repeat the last ingredient please?,"2) Mix in sugar, salt, vanilla, and syrup.",1 (9 inch) deep dish pie crust
+2867,0,Thank you. What is the next instruction?,"3) Melt the butter or margarine, and add it to the egg mixture.","3) Melt the butter or margarine, and add it to the egg mixture."
+2868,0,That's done. What's next?,4) Stir in the nuts.,"2) Mix in sugar, salt, vanilla, and syrup."
+2869,0,Ok. what shall I do next?,4) Stir in the nuts.,"3) Melt the butter or margarine, and add it to the egg mixture."
+2870,0,Yes it worked.,0) Preheat oven to 400 degrees F (205 degrees C).,6) Bake in preheated oven for 10 minutes.
+2871,0,Yes the oven is preheated and I have put the filling in a pie shell.,6) Bake in preheated oven for 10 minutes.,1) Beat the eggs in a large bowl.
+2872,0,I have baked the cake for 10 minutes. Can you repeat the next step?,"7) Reduce heat to 300 degrees F (150 degrees C), and continue baking for 35 to 45 minutes.","7) Reduce heat to 300 degrees F (150 degrees C), and continue baking for 35 to 45 minutes."
+2873,0,Thank you for the clarification. What's the next step?,"7) Reduce heat to 300 degrees F (150 degrees C), and continue baking for 35 to 45 minutes.","2) Mix in sugar, salt, vanilla, and syrup."
+2874,0,It's ready now.,"7) Reduce heat to 300 degrees F (150 degrees C), and continue baking for 35 to 45 minutes.",6) Bake in preheated oven for 10 minutes.
+2929,36,Hi. how do I make Atomic Canuck Chili?,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.","0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper"
+2930,36,I have the large skillet. What should I do now?,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.","0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper."
+2931,36,Ok. what's next?,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.","2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker."
+2932,36,Can you repeat what I should add?,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.","2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker."
+2933,36,That's done. Anything else?,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.","2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker."
+2934,36,I have added the first two. What is the last one?,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.","0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper."
+2935,36,Ok. what is the next instruction?,"1) Drain off the fat, and place the mixture into a slow cooker.","0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper."
+2936,36,Ok. I placed it in a slow cooker without the fat.,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.","2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, tomato paste, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker."
+2937,36,Yes I am ready. What's the first ingredient?,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.",2 pounds lean ground beef
+2938,36,How large should the cans be?,"2 (4 ounce) cans mushroom pieces, drained",2 (15.25 ounce) cans kidney beans with liquid
+2939,36,"Good, what's next?","2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.","0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper."
+2940,36,"That's added, anything else?","2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.","2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker."
+2941,36,Ok. what are the next ingredients?,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.",2 (6 ounce) cans tomato paste
+2942,36,What is the third one?,"1 green bell pepper, diced","2 (4 ounce) cans mushroom pieces, drained"
+2943,36,Ok. I have add these three ingredients. What's next?,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.","2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker."
+2944,36,Ok. that's done. Are there any other ingredients?,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.",no_answer>
+2945,36,I have added the Canadian beer. What should I do now?,3) Season with hot sauce and more crushed red pepper.,3) Season with hot sauce and more crushed red pepper.
+2947,36,Ok. I have cooked it for 5 hours now. What should I do now?,3) Season with hot sauce and more crushed red pepper.,5) Hours
+2949,128,"Ok, how big should the carrot package be?","1 (16 ounce) package baby carrots, sliced","1 (16 ounce) package baby carrots, sliced"
+2950,128,"Ok, can I have the next two ingredients?",1 cup shredded Cheddar cheese,1 cup shredded Cheddar cheese
+2951,128,Ok good I prepared them. What are the next two ingredients?,3 tablespoons all-purpose flour,1 cup shredded Cheddar cheese
+2953,128,"Ok no problem, can I have the next two ingredients?",1/2 teaspoon salt,1 cup shredded Cheddar cheese
+2954,128,"Ok good, can I start with the recipe now?",1 tablespoon butter,0) Preheat oven to 350 degrees F (175 degrees C)
+2955,128,Ok good! I am ready to start now.,0) Preheat oven to 350 degrees F (175 degrees C).,0) Preheat oven to 350 degrees F (175 degrees C).
+2956,128,The oven is heated up.,"1) Place carrots and onions in a pot with enough lightly salted water to cover, and bring to a boil.","1) Place carrots and onions in a pot with enough lightly salted water to cover, and bring to a boil."
+2957,128,Ok it's boiling now. What should I do next?,"2) Cook 5 minutes, or until tender but firm.","2) Cook 5 minutes, or until tender but firm."
+2958,128,Ok. 5 minutes passed. What is the next step?,"3) Drain, and spread 1/2 the carrots and onions in a baking dish.","3) Drain, and spread 1/2 the carrots and onions in a baking dish."
+2959,128,Ok done! What then?,"4) Cover with 3/4 cup cheese, layer with remaining carrots and onions, and top with remaining cheese.","4) Cover with 3/4 cup cheese, layer with remaining carrots and onions, and top with remaining cheese."
+2960,128,Ok I did it! Can I eat it?,"5) In a saucepan, melt 3 tablespoons butter and mix in flour until smooth.","7) Pour over the carrots, onions, and cheese in the baking dish."
+2962,128,Ok good. What should I do next?,"6) Gradually stir in milk until thickened, and season with salt and pepper.","3) Drain, and spread 1/2 the carrots and onions in a baking dish."
+2963,128,Ok done! What is the next step?,"7) Pour over the carrots, onions, and cheese in the baking dish.","6) Gradually stir in milk until thickened, and season with salt and pepper."
+2964,128,"Ok, I poured the mixture! Should I put it in the fridge?","8) Melt 1 tablespoon butter in a small pot, and mix in bread crumbs.","8) Melt 1 tablespoon butter in a small pot, and mix in bread crumbs."
+2965,128,Ok I did it. What should I do with this mixture?,"10) Bake 20 minutes in the preheated oven, or until bubbly and lightly browned.","8) Melt 1 tablespoon butter in a small pot, and mix in bread crumbs."
+2966,128,Ok good! How do I see that it's ready?,until bubbly and lightly browned,until bubbly and lightly browned
+2967,128,"Ok good, can I take it out and eat? It looks great!","10) Bake 20 minutes in the preheated oven, or until bubbly and lightly browned.","7) Pour over the carrots, onions, and cheese in the baking dish."
+2969,28,"Alright, just tell me the details when it is needed. What is the first step I can do?","0) In a mixing bowl, cream butter, shortening and sugars.","0) In a mixing bowl, cream butter, shortening and sugars."
+2970,28,Is it an electrical one or just a normal bowl?,a mixing bowl,no_answer>
+2971,28,Ok. What should I add?,"0) In a mixing bowl, cream butter, shortening and sugars.",2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2972,28,It is added. Next?,"0) In a mixing bowl, cream butter, shortening and sugars.",2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2973,28,It is done. Should I add flour now?,1) Add egg and extracts; mix well.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2974,28,"Alright, egg is added.",1) Add egg and extracts; mix well.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2975,28,It seems well mixed. Please continue.,2) Combine the next eight ingredients; gradually add to the creamed mixture.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2976,28,8 ingredients? What do you mean specifically?,2) Combine the next eight ingredients; gradually add to the creamed mixture.,1/2 cup packed brown sugar
+2977,28,Ok. I add the flour now.,2) Combine the next eight ingredients; gradually add to the creamed mixture.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2978,28,"Yeah, what are the rest? I think I can add them together.",<no_answer>,"0) In a mixing bowl, cream butter, shortening and sugars."
+2979,28,"Stir all of them, right?",2) Combine the next eight ingredients; gradually add to the creamed mixture.,1) Add egg and extracts; mix well.
+2980,28,Ok. It looks good. What is next?,3) Shape into 1-in balls; roll in sugar apart on ungreased baking sheets.,5)namon Crackle Cookies
+2981,28,The sheet is greased. What should I do with it?,3) Shape into 1-in balls; roll in sugar apart on ungreased baking sheets.,3) Shape into 1-in balls; roll in sugar apart on ungreased baking sheets.
+2982,28,The balls are all rolled. What is next?,4) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.,4) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.
+2983,28,Can you tell me the temperature in Celsius?,177 degrees C,177 degrees C
+2984,28,Ok. The cookies are baked very well.,4) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.,4) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.
+2987,155,"Ok I have them, what is next?","2 large onions, chopped",salt and pepper to taste
+2988,155,"Alright, they are ready.","1 rutabaga, diced","4 potatoes, peeled and quartered"
+2989,155,Could you repeat the first ingredient ?,"1 rutabaga, diced","2 large onions, chopped"
+2990,155,Ok great thanks for the clarification. What are the next ingredients?,"4 potatoes, peeled and quartered",salt and pepper to taste
+2991,155,Ok I have them as well.,"1 small head cabbage, sliced",salt and pepper to taste
+2992,155,"Ok ready, can we start with the recipe now?",0) Bring water to boil in a large pot.,0) Bring water to boil in a large pot.
+2995,155,Ok I have done that. What is the next step?,"3) Lift meat out, trim off gristle and cut meat into medium sized pieces; set aside.",7) Season with salt and pepper.
+2996,155,Ok I have done that. What is next?,"4) Skim fat from surface of stock, or strain through a fine sieve.",7) Season with salt and pepper.
+2997,155,Ok I strained it through a fine sieve.,"5) Return stock to heat, and bring to a boil.","5) Return stock to heat, and bring to a boil."
+2998,155,Ok it is boiling.,"6) Add onions, carrots and rutabaga.","1) Place beef shank in, and simmer 1 1/2 hours."
+2999,155,Ok I added them. What is next?,7) Season with salt and pepper.,7) Season with salt and pepper.
+3001,155,Ok it looks tinder now. Is it ready to be eaten?,"10) Stir in the leeks, cabbage, parsley and reserved meat.","12) Simmer 10 minutes, or until cabbage is tender."
+3002,155,"Alright, I have done that. What should I do with the meat?","11) Simmer 10 minutes, or until cabbage is tender.","4) Skim fat from surface of stock, or strain through a fine sieve."
+3003,155,Ok I have done that as well. Ok it looks tender.,"11) Simmer 10 minutes, or until cabbage is tender.","12) Simmer 10 minutes, or until cabbage is tender."
+3027,124,Great!! Can you tell me the ingredients first?,"6 large potatoes, cooked, peeled and cubed","6 large potatoes, cooked, peeled and cubed"
+3028,124,Ok good! Can I have two more ingredients?,"2 celery ribs, sliced","4 hard-cooked eggs, sliced"
+3029,124,Can you repeat the first ingredient?,"2 celery ribs, sliced","6 radishes, sliced"
+3030,124,Ok good! I have them ready. What are the next two ingredients?,"6 radishes, sliced","4 hard-cooked eggs, sliced"
+3031,124,Ok I have them! What next?,1/2 teaspoon pepper,"4 hard-cooked eggs, sliced"
+3033,124,Ok no problem. Are these all of the ingredients?,1/4 cup sugar,no_answer>
+3034,124,"Ok good, they are ready. Can I have the last two ingredients?",1/2 teaspoon dry mustard,1/4 cup vinegar
+3035,124,Ok good then! Can we start with the recipe?,"0) In a large bowl, combine potatoes, eggs, celery, green onions, radishes, salt and pepper; set aside.","0) In a large bowl, combine potatoes, eggs, celery, green onions, radishes, salt and pepper; set aside."
+3037,124,"Ok good, all the stuff is in the bowl now! What next?","0) In a large bowl, combine potatoes, eggs, celery, green onions, radishes, salt and pepper; set aside.","0) In a large bowl, combine potatoes, eggs, celery, green onions, radishes, salt and pepper; set aside."
+3038,124,Ok I took the saucepan.,"1) For dressing, combine eggs, vinegar, sugar, dry mustard and salt in a saucepan.","1) For dressing, combine eggs, vinegar, sugar, dry mustard and salt in a saucepan."
+3039,124,"Ok good, how long is it gonna take before it becomes thick?",<no_answer>,no_answer>
+3040,124,"Ok no problem, it looks kind of thick now. What is the next step?",3) Cool.,3) Cool.
+3041,124,Ok it is cool now. What next?,4) Stir in mayonnaise; mix well.,4) Stir in mayonnaise; mix well.
+3042,124,"Ok I mixed it, is it ready?",5) Pour over potato mixture; toss to coat.,5) Pour over potato mixture; toss to coat.
+3043,124,"Ok nice, can I eat it?",6) Refrigerate for several hours.,3) Cool.
+3044,124,"Ok, how do I see it's ready?",<no_answer>,no_answer>
+3088,147,Ok. I have them. What are the next ingredients?,1 quart vegetable broth,"1/4 large onion, chopped"
+3089,147,Ok. I have them ready.,1 quart vegetable broth,"1/4 large onion, chopped"
+3091,147,"Ok, they are in the saucepan. What should I do with it?","1) Bring to a boil, and cook until the carrots are tender, about 10 minutes.","1) Bring to a boil, and cook until the carrots are tender, about 10 minutes."
+3092,147,"Ok, ten minutes has passed. Is it ready?",2) Remove from heat and allow to cool slightly.,2) Remove from heat and allow to cool slightly.
+3093,147,Ok. I have done that. How long should it cool?,<no_answer>,no_answer>
+3094,147,"Ok, is there something else I should do still, or can I eat it?",4) Reheat before serving if necessary.,4) Reheat before serving if necessary.
+3178,231,Ok nice I have all of them ready. Easy.,"0) In a medium saucepan combine whipping cream, butter or margarine, and grated Parmesan cheese.","0) In a medium saucepan combine whipping cream, butter or margarine, and grated Parmesan cheese."
+3179,231,Ok the ingredients are inside. What should I do with it?,1) Cook over medium low heat until smooth.,2) Remove from heat.
+3180,231,Ok it looks smooth now. What is next?,2) Remove from heat.,2) Remove from heat.
+3181,231,Ok the sauce became thicker. Can I eat it?,2) Remove from heat.,4) Sauce will thicken upon standing.
+3183,252,Ok. Just tell me one by one pls.,"6 large potatoes, peeled and diced","6 large potatoes, peeled and diced"
+3184,252,I got the potatoes. Next?,"1 (12 ounce) can corned beef, cut into chunks","6 large potatoes, peeled and diced"
+3185,252,Ok. How large is the can?,"1 (12 ounce) can corned beef, cut into chunks","1 (12 ounce) can corned beef, cut into chunks"
+3186,252,Thanks. The next ingredient?,"1 medium onion, chopped","1 medium onion, chopped"
+3187,252,Ok. Anything else?,1 cup beef broth,"0) In a large deep skillet, over medium heat, combine the potatoes, corned beef, onion, and beef broth."
+3188,252,Great. I have them all. How should I start?,"0) In a large deep skillet, over medium heat, combine the potatoes, corned beef, onion, and beef broth.","6 large potatoes, peeled and diced"
+3189,252,Ok. I did it. Then?,"0) In a large deep skillet, over medium heat, combine the potatoes, corned beef, onion, and beef broth.","2) Mix well, and serve."
+3191,252,"Alright, what is next?","0) In a large deep skillet, over medium heat, combine the potatoes, corned beef, onion, and beef broth.","0) In a large deep skillet, over medium heat, combine the potatoes, corned beef, onion, and beef broth."
+3192,252,Easy job. What to do with it?,"0) In a large deep skillet, over medium heat, combine the potatoes, corned beef, onion, and beef broth.","2) Mix well, and serve."
+3193,252,Ok. I add the three to the skillet. Shall I keep heating it?,"1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone.",no_answer>
+3194,252,Ok. Do you have a specific time for me to wait?,"until potatoes are of mashing consistency, and the liquid is almost gone",no_answer>
+3195,252,"Alright, I think it is done. Next?","2) Mix well, and serve.","2) Mix well, and serve."
+3196,252,That's it?,"2) Mix well, and serve.","0) In a large deep skillet, over medium heat, combine the potatoes, corned beef, onion, and beef broth."
+3199,198,"Ok, can I use stevia instead of white sugar?",1 tablespoon baking powder,1/2 cup white sugar
+3200,198,"Ok, I have baking powder and salt ready, what should I prepare next?",1/2 cup semisweet chocolate chips,1/2 cup semisweet chocolate chips
+3201,198,"Ok, oil and chocolate chip are also ready on my counter. Are there any more ingredients? And if so how many?",1/4 cup milk,no_answer>
+3202,198,"Ok, good, do you think it's ok if I replace the milk with coconut milk?",1/4 cup milk,no_answer>
+3203,198,"Ok, no problem! So we can start with the recipe?","0) Measure flour, sugar, baking powder, salt, and chocolate chips into a large bowl.","0) Measure flour, sugar, baking powder, salt, and chocolate chips into a large bowl."
+3204,198,"Ok, should I use all the flour?",<no_answer>,1 3/4 cups all-purpose flour
+3205,198,"Ok I made a hole in the center, what should I put inside it?",2) Beat the egg in a small bowl until frothy.,2) Beat the egg in a small bowl until frothy.
+3206,198,"Ok, it looks kinda foamy now, what is the next step?","3) Mix in cooking oil, milk, and bananas.","3) Mix in cooking oil, milk, and bananas."
+3208,198,Ok I did that!,4) Pour mixture into the well.,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.
+3209,198,Ok the the mixture are stirred together. what now?,6) Fill greased muffin cups 3/4 full.,4) Pour mixture into the well.
+3210,198,Ok the muffin cups have the mixture inside. should I bake now?,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.
+3211,198,"Ok, They've been in for 20 minutes, but they don't look golden brown... should I wait a bit more?",<no_answer>,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.
+3212,198,"Ok, I took them out then.",7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.,6) Fill greased muffin cups 3/4 full.
+3214,98,"Yes, I am ready! Which ingredients should I prepare?",1 (8.5 ounce) package corn bread/muffin mix,1 (8.5 ounce) package corn bread/muffin mix
+3215,98,Ok. How big should the corn bread mix package be?,1 (8.5 ounce) package corn bread/muffin mix,1 (8.5 ounce) package corn bread/muffin mix
+3217,98,Ok. No problem. Can I have two more ingredients please?,1/3 cup milk,1 egg
+3218,98,"Ok. I have skimmed milk, is that ok?",1/3 cup milk,1/3 cup milk
+3219,98,Ok. No problem. Can I have two more ingredients?,1/2 cup chopped onion,1 egg
+3220,98,Ok. Could you repeat the second ingredient?,1 (26 ounce) jar meatless spaghetti sauce,"1 (4 ounce) can chopped green chilies, drained"
+3221,98,"Ok. Great, sounds delicious. What are the next two ingredients?",1 (26 ounce) jar meatless spaghetti sauce,1 egg
+3223,98,Ok. Good. What next?,1 cup frozen corn,"2) Stir in the spaghetti sauce, corn, chilies and sloppy joe mix."
+3224,98,Ok. I drained them. Are the ingredients over?,2 (1.3 ounce) envelopes sloppy joe mix,"2) Stir in the spaghetti sauce, corn, chilies and sloppy joe mix."
+3225,98,Ok. What is sloppy joe mix?,2 (1.3 ounce) envelopes sloppy joe mix,7) Top with sloppy joe mixture.
+3226,98,Ok. Good. What is the first step of the recipe?,"0) Prepare and bake corn bread according to package directions, using the egg and milk.","0) Prepare and bake corn bread according to package directions, using the egg and milk."
+3227,98,Ok. And should I use all the milk?,1/3 cup milk,no_answer>
+3228,98,Ok. That's good. What next?,"1) Meanwhile, in a large skillet, cook beef and onion over medium heat until meat is no longer pink; drain.","2) Stir in the spaghetti sauce, corn, chilies and sloppy joe mix."
+3229,98,Ok. How long should I cook them for?,until meat is no longer pink,no_answer>
+3230,98,Ok. The meat is no longer pink and I drained the liquid out. What should I do next?,"2) Stir in the spaghetti sauce, corn, chilies and sloppy joe mix.","2) Stir in the spaghetti sauce, corn, chilies and sloppy joe mix."
+3231,98,Ok. I did it. What next?,3) Bring to a boil.,7) Top with sloppy joe mixture.
+3232,98,Ok. It's boiling now. What is the next step?,"4) Reduce heat; simmer, uncovered, for 10 minutes.","4) Reduce heat; simmer, uncovered, for 10 minutes."
+3233,98,Ok. I let it simmer for 10 minutes. Can I add some pepper?,5) Sprinkle with cheese; cover and cook for 1 minute or until cheese is melted.,5) Sprinkle with cheese; cover and cook for 1 minute or until cheese is melted.
+3234,98,"Ok. I cooked for one minute, but the cheese doesn't look ready. Can I leave it one more minute?",until cheese is melted,6) Cut corn bread into six pieces; cut each piece in half.
+3235,98,Ok. Good. The cheese is nicely melted now. What is the next step?,6) Cut corn bread into six pieces; cut each piece in half.,6) Cut corn bread into six pieces; cut each piece in half.
+3237,98,Ok. I have 12 pieces of bread. How should I continue?,7) Top with sloppy joe mixture.,"0) Prepare and bake corn bread according to package directions, using the egg and milk."
+3238,98,Ok. Done. Is the food ready?,7) Top with sloppy joe mixture.,7) Top with sloppy joe mixture.
+3361,132,Ok good. What are the next two?,"3 cloves garlic, diced","1 (1 inch) piece peeled fresh ginger, diced"
+3362,132,"Ok I diced garlic and ginger, what next?","1 bunch green onions, chopped","1 (1 inch) piece peeled fresh ginger, diced"
+3363,132,"Ok good, are the ingredients over?",4 pounds chicken wings,12 slices pickled jalapeno peppers
+3364,132,Great! Can we start with the recipe?,"0) Place the jerk seasoning, oil, garlic, ginger, green onions, and jalapeno slices in a blender, and blend until thick and smooth.","0) Place the jerk seasoning, oil, garlic, ginger, green onions, and jalapeno slices in a blender, and blend until thick and smooth."
+3365,132,Ok the mix looks smooth now. What is the next step?,"1) Dunk wings in the mixture, and arrange in single layer on baking sheets.","1) Dunk wings in the mixture, and arrange in single layer on baking sheets."
+3366,132,"Ok I did that, should I put them in the oven?","2) Cover with aluminum foil, and refrigerate 8 hours, or overnight.",5)6)7)
+3367,132,Ok the oven is warm and a night passed. What should I do now?,3) Preheat oven to 300 degrees F (150 degrees C).,4) Bake wings 2 hours in the preheated oven.
+3368,132,"Ok good, how do I see that they are ready?",<no_answer>,no_answer>
+3369,132,"Ok, can I eat the wings now?",3) Preheat oven to 300 degrees F (150 degrees C).,4) Bake wings 2 hours in the preheated oven.
+3370,32,That sounds good. What is the first step?,"0) In a large saucepan, combine the eggs, milk and 1/3 cup sugar.","0) In a large saucepan, combine the eggs, milk and 1/3 cup white sugar."
+3371,32,That's done. What else?,"0) In a large saucepan, combine the eggs, milk and 1/3 cup sugar.",7) Transfer chilled egg mixture to a punch bowl.
+3372,32,Can you repeat the quantities please?,2 1/4 cups milk,"6 eggs, beaten"
+3373,32,Thank you. Something else?,1) Cook and stir over medium heat until mixture coats a metal spoon.,"0) In a large saucepan, combine the eggs, milk and 1/3 cup white sugar."
+3374,32,Ok. it seems good. What should I do now?,2) Remove from heat.,"6) Before serving, whip the cream and 2 tablespoons sugar until soft peaks form."
+3375,32,When do I know it is ready?,<no_answer>,no_answer>
+3376,32,Ok. what's next?,4) Stir in the vanilla.,7) Transfer chilled egg mixture to a punch bowl.
+3378,32,I have the whipping creme. How many sugar do I need to add?,2 teaspoons white sugar,2 teaspoons white sugar
+3379,32,Thank you. The whipping creme is ready now. Anything else?,7) Transfer chilled egg mixture to a punch bowl.,7) Transfer chilled egg mixture to a punch bowl.
+3380,32,Can you repeat the last sentence please?,8) Sprinkle each serving with nutmeg.,7) Transfer chilled egg mixture to a punch bowl.
+3381,32,Thank you. Anything else I need to do for serving?,8) Sprinkle each serving with nutmeg.,7) Transfer chilled egg mixture to a punch bowl.
+3394,51,Ok. where do we start with?,0) Heat the olive oil in a large skillet over medium heat.,0) Heat the olive oil in a large skillet over medium heat.
+3395,51,"Ok. I have done that, what should I do now?",1) Mix in the yogurt and vinegar.,6) Place the chicken in the skillet.
+3396,51,Ok. I have done that. What is next?,"2) Place the onion in the skillet, and cook until tender.",8) Bring the water and rice to a boil in a large pot.
+3397,51,Ok. I also added that. What is next?,"3) Mix in the garlic, ginger paste, green chile peppers, and tomatoes.",4) Cook and stir until tomatoes are tender.
+3398,51,"Ok. I added both, what are the next two ingredients?","3) Mix in the garlic, ginger paste, green chile peppers, and tomatoes.","3) Mix in the garlic, ginger paste, green chile peppers, and tomatoes."
+3399,51,Ok. both added as well. What should I do now?,4) Cook and stir until tomatoes are tender.,4) Cook and stir until tomatoes are tender.
+3400,51,Ok. The tomatoes are tender. What should I do?,"5) Season with garam masala, mint, salt, and pepper, and mix in the cilantro.","3) Mix in the garlic, ginger paste, green chile peppers, and tomatoes."
+3401,51,Ok. What else?,"5) Season with garam masala, mint, salt, and pepper, and mix in the cilantro.","9) Mix in the bay leaf, green cardamom, black cardamom, and cinnamon."
+3402,51,5 what?,5 sprigs cilantro,6) Place the chicken in the skillet.
+3403,51,Ok. It is being seasoned. What is next?,6) Place the chicken in the skillet.,"11) Cover, reduce heat to low, and simmer 20 minutes."
+3404,51,How big should the chicken be?,"1 (3 pound) whole chicken, skin removed and cut into pieces","1 (3 pound) whole chicken, skin removed and cut into pieces"
+3405,51,Ok. I have added the chicken as well. What is next?,"7) Reduce heat to medium-low, cover, and continue cooking 45 minutes, stirring occasionally, until chicken juices run clear.","12) In a separate pot, alternate the rice and chicken mixture in layers, topping with rice."
+3406,51,Ok. I have done that. For how long should I continue to cook?,45 minutes,no_answer>
+3407,51,Ok. it's 45 minutes later. What is the next step?,8) Bring the water and rice to a boil in a large pot.,8) Bring the water and rice to a boil in a large pot.
+3408,51,Ok. the rice is boiling. What is next?,"9) Mix in the bay leaf, green cardamom, black cardamom, and cinnamon.","9) Mix in the garlic, ginger paste, green chile peppers, and tomatoes."
+3409,51,Could you repeat the first part?,"9) Mix in the bay leaf, green cardamom, black cardamom, and cinnamon.",0) Heat the olive oil in a large skillet over medium heat.
+3411,51,What are the other 2 ingredients?,"9) Mix in the bay leaf, green cardamom, black cardamom, and cinnamon.",2 tablespoons distilled white vinegar
+3412,51,Ok. I also added both. What should I do now?,10) Season with salt to taste.,4) Cook and stir until tomatoes are tender.
+3413,51,Ok. I have done that. Is there something else to do?,"11) Cover, reduce heat to low, and simmer 20 minutes.",10) Season with salt to taste.
+3415,51,Ok. what is next?,"12) In a separate pot, alternate the rice and chicken mixture in layers, topping with rice.","9) Mix in the bay leaf, green cardamom, black cardamom, and tomatoes."
+3416,51,Could you repeat the first part?,"12) In a separate pot, alternate the rice and chicken mixture in layers, topping with rice.",0) Heat the olive oil in a large skillet over medium heat.
+3417,51,Ok. thanks to clarify. I have done that. What is the next step?,"13) Sprinkle with the food coloring, and mix to serve.",8) Bring the water and rice to a boil in a large pot.
+3418,51,Ok. I have done that. Is that all?,"13) Sprinkle with the food coloring, and mix to serve.",10) Season with salt to taste.
+3462,4,"Yes I'm ready, what's the first step?","0) In a small bowl, mix together the mustard and onion soup mix.","0) In a small bowl, mix together the mustard and onion soup mix."
+3463,4,"I have taken a small bowl, what's next?","0) In a small bowl, mix together the mustard and onion soup mix.","0) In a small bowl, mix together the mustard and onion soup mix."
+3464,4,Ok. I have added the mustard and onions to the bowl.,1) Lay out two long sheets of aluminum foil crosswise.,1) Lay out two long sheets of aluminum foil crosswise.
+3465,4,How long do the sheets need to be or does it not matter?,<no_answer>,no_answer>
+3466,4,"Ok. I have two long sheets now, what's next?",1) Lay out two long sheets of aluminum foil crosswise.,1) Lay out two long sheets of aluminum foil crosswise.
+3467,4,I have taken the five pound beef  but could you repeat the last part please?,"2) Pat the roast dry, and place in the center of the foil.",1 (5 pound) beef rump roast
+3469,4,Ok. what's next?,"4) Wrap the foil tightly around the roast, then apply one more piece of foil to really seal it in so that the roast can be rotated without all of the juices spilling out.","8) Cook for about 2 hours, turning every 30 to 45 minutes, or until the internal temperature is at least 145 degrees F (63 degrees C)."
+3470,4,The roast is all covered now.,"4) Wrap the foil tightly around the roast, then apply one more piece of foil to really seal it in so that the roast can be rotated without all of the juices spilling out.","8) Cook for about 2 hours, turning every 30 to 45 minutes, or until the internal temperature is at least 145 degrees F (63 degrees C)."
+3471,4,Ok. what's next?,5) Prepare an outdoor grill for indirect heat.,"8) Cook for about 2 hours, turning every 30 to 45 minutes, or until the internal temperature is at least 145 degrees F (63 degrees C)."
+3472,4,Yes I have some charcoal. The grill is now ready.,"6) For charcoal, light the coals, then move to one side of the grill.","6) For charcoal, light the coals, then move to one side of the grill."
+3474,4,Ok. that's clear. What's next?,"8) Cook for about 2 hours, turning every 30 to 45 minutes, or until the internal temperature is at least 145 degrees F (63 degrees C).","0) In a small bowl, mix together the mustard and onion soup mix."
+3475,4,Ok. I have cooked the roast for two hours now and I have turned the roast regularly.,"8) Cook for about 2 hours, turning every 30 to 45 minutes, or until the internal temperature is at least 145 degrees F (63 degrees C).",9) Let stand for about 10 minutes before carving.
+3476,4,Yes the internal temperature is about 65 degrees celsius.,9) Let stand for about 10 minutes before carving.,9) Let stand for about 10 minutes before carving.
+3477,4,That's done. Is it done now?,10) Place on a deep serving plate before unwrapping so you can be sure to save the juices and mustard rub to slather on the beef slices.,9) Let stand for about 10 minutes before carving.
+3478,4,Ok. I placed it on a deep serving plate. What's next?,10) Place on a deep serving plate before unwrapping so you can be sure to save the juices and mustard rub to slather on the beef slices.,11 Place on a deep serving plate before unwrapping so you can be sure to save the juices and mustard rub to slather on the beef slices.
+3479,4,Ok. I have done it. Thank you for the instructions.,10) Place on a deep serving plate before unwrapping so you can be sure to save the juices and mustard rub to slather on the beef slices.,9) Let stand for about 10 minutes before carving.
+3588,108,Oh! I guess it is vege-food. So could I ask the first two ingredients?,3 pounds ground beef,3 pounds ground beef
+3589,108,Ok I took them! What next?,1/2 cup milk,1 1/2 teaspoons garlic powder
+3591,108,Ok no problem! Are there more ingredients that I should prepare?,1/4 teaspoon ground black pepper,"1 pinch salt, or to taste"
+3592,108,Ok good. Is it ok if I use whole grain flour?,1/4 teaspoon ground black pepper,no_answer>
+3593,108,Ok no problem. Are the ingredients over?,1 tablespoon vegetable oil,"1 pinch salt, or to taste"
+3594,108,Ok I took them. Can I also have the last two ingredients?,1 (10.75 ounce) can  condensed beef and mushroom soup,"1 pinch salt, or to taste"
+3595,108,Ok. Could I have the quantities for the packages?,1 (10.75 ounce) can  condensed beef and mushroom soup,1 (.75 ounce) packet dry brown gravy mix
+3596,108,Ok good! Which tools do I need for the recipe?,1 (10.75 ounce) can  condensed beef and mushroom soup,3 pounds ground beef
+3597,108,Ok good! How should I start?,"0) In a large bowl, mix together the ground beef, saltine crackers and milk.",3 pounds ground beef
+3598,108,Ok I did it! What is the next step?,"1) Season with garlic powder, onion powder, salt and pepper, and mix until well blended.","6) Remove plastic wrap from meat, and rub flour over the top side of the beef."
+3599,108,Ok good. I did it. Can I also add a bit of oil?,"1) Season with garlic powder, onion powder, salt and pepper, and mix until well blended.",9) Heat oil in a large heavy skillet over medium-high heat.
+3600,108,Ok no problem! What is the next step?,2) Line a 10x15 inch jellyroll pan with waxed paper.,3) Press the beef mixture firmly into the pan.
+3601,108,Ok. I pressed the beef inside! What next?,"4) Cover with plastic wrap, and refrigerate 8 to 10 hours, or overnight.",14) Cover the dish loosely with aluminum foil.
+3602,108,"Ok, I'll go to sleep then. Good morning, I took it out of the fridge now. What is the next step?",5) Preheat the oven to 350 degrees F (175 degrees C).,5) Preheat the oven to 350 degrees F (175 degrees C)
+3604,108,Ok. I did it!,"7) Flip out of the pan onto waxed paper, and rub flour on the other side as well.","6) Remove plastic wrap from meat, and rub flour over the top side of the beef."
+3605,108,Ok. I coated it onto wax paper and rubbed flour. What is the next step?,8) Cut into pieces (I use a pizza cutter).,"7) Flip out of the pan onto waxed paper, and rub flour on the other side as well."
+3607,108,Ok. So what is the next step?,9) Heat oil in a large heavy skillet over medium-high heat.,13) Pour over the meat in the dish.
+3608,108,Ok. I heated the oil.,"10) Fry the meat until browned on each side, turning only once.","10) Fry the meat until browned on each side, turning only once."
+3610,108,Ok I did it. How long should I cook it for?,until browned on each side,no_answer>
+3612,108,Sorry I didnt understand the second part of the instructions.,"12) In a medium bowl, mix together the water, condensed soup, and gravy mix.",9) Heat oil in a large heavy skillet over medium-high heat.
+3613,108,Ok I did it. What next?,"12) In a medium bowl, mix together the water, condensed soup, and gravy mix.",8) Cut into pieces (I use a pizza cutter).
+3614,108,Ok I mixed them. What should I do with the mixture?,13) Pour over the meat in the dish.,"1) Season with garlic powder, onion powder, salt and pepper, and mix until well blended."
+3615,108,Ok. It's cool enough now.,14) Cover the dish loosely with aluminum foil.,"16) Serve fake steak and gravy with potatoes, rice, or noodles."
+3685,41,"Sure, what should I do?","0) In a saucepan, bring applesauce to a boil.",1) Remove from the heat; stir in gelatin until dissolved.
+3686,41,Could you repeat what kind of sauce I need to boil please?,"0) In a saucepan, bring applesauce to a boil.","0) In a saucepan, bring applesauce to a boil."
+3687,41,Ok. what size should the cup be?,<no_answer>,1 cup applesauce
+3688,41,Ok. the sauce is boiling. What is next?,1) Remove from the heat; stir in gelatin until dissolved.,1) Remove from the heat; stir in gelatin until dissolved.
+3689,41,How much gelatin should I add?,2 (3 ounce) packages cherry gelatin,2 (3 ounce) packages cherry gelatin
+3690,41,Ok. thanks. I added and stirred. What is next?,2) Slowly add soda and pineapple.,2) Slowly add soda and pineapple.
+3691,41,Ok. what size do they need to have?,1 (12 ounce) can lemon-lime soda,no_answer>
+3692,41,Ok. thanks. I added both. What should I do now?,3) Refrigerate until firm.,3) Refrigerate until firm.
+3693,41,Ok. I will do that. Was that it?,3) Refrigerate until firm.,3) Refrigerate until firm.
+3701,22,"Yes, I am. What is the first step?",0) Season both sides of chicken breasts with salt and pepper.,0) Season both sides of chicken breasts with salt and pepper.
+3702,22,How many salt and pepper do I need to use?,<no_answer>,2 teaspoons olive oil
+3703,22,Ok. that's done now.,1) Heat oil in a large skillet over medium-high heat.,"6) Cover, and reduce heat to medium."
+3704,22,The oil is heated now. Should I add the chicken breasts now?,"2) Place chicken in skillet; cook, turning once to brown each side.","2) Place chicken in skillet; cook, turning once to brown each side."
+3705,22,Ok. the 4 breasts are brown now.,"3) Remove chicken from pan, and set aside.","3) Remove chicken from pan, and set aside."
+3706,22,"How many tomatoes, peppers and onions do I need to add?",1 (14.5 ounce) can diced tomatoes with green peppers and onions,1 (14.5 ounce) can diced tomatoes with green peppers and onions
+3707,22,Ok. thank you for the clarification. What's next?,"4) Pour tomatoes into pan; cook for 1 minute, stirring constantly, and incorporating any brown bits from bottom of pan.",0) Season both sides of chicken breasts with salt and pepper.
+3708,22,One minute has passed.,"5) Stir in pesto and artichokes, and return chicken to pan.","5) Stir in pesto and artichokes, and return chicken to pan."
+3709,22,Ok. I have added it.,"5) Stir in pesto and artichokes, and return chicken to pan.","5) Stir in pesto and artichokes, and return chicken to pan."
+3712,22,I have added the chicken again. For how long should I cook it?,<no_answer>,no_answer>
+3713,22,The chicken is ready now.,"7) Simmer for 5 to 10 minutes, or until chicken is cooked through.","7) Simmer for 5 to 10 minutes, or until chicken is cooked through."
+3714,122,Ok good. Can I hear them 2 by 2 so I prepare them?,1 pound cubed beef stew meat,"1 medium yellow onion, thinly sliced"
+3715,122,"Ok good, can I use lentil flour instead of the all-purpose one?",1 pound cubed beef stew meat,1 tablespoon all-purpose flour
+3716,122,Ok no problem. Could I ask the next two ingredients?,2 tablespoons olive oil,"1 medium yellow onion, thinly sliced"
+3717,122,"Ok good, could I have the next two?","1 medium yellow onion, thinly sliced","1 medium yellow onion, thinly sliced"
+3718,122,How many cups of red wine sorry?,1/4 cup red wine,1/4 cup red wine
+3719,122,"Sorry I don't understand ""one stroke 4 cups"". Did you mean one fourth of a cup?",1/4 cup red wine,no_answer>
+3720,122,"Ok good, what are the next two ingredients?",1 beef bouillon cube,"1 medium yellow onion, thinly sliced"
+3722,122,Ok no problem. Can I ask for two more ingredients?,"1 large potato, cubed","1 medium yellow onion, thinly sliced"
+3723,122,Ok good. Can I have two more ingredients?,1/2 teaspoon rosemary,"1 medium yellow onion, thinly sliced"
+3724,122,"Ok they are ready, can I have two more?",1/2 tablespoon garlic powder,"1 medium yellow onion, thinly sliced"
+3725,122,"Ok, can I use crushed garlic instead of garlic powder?",1/2 tablespoon garlic powder,1/2 teaspoon garlic powder
+3726,122,Ok no problem! Can I have two more ingredients?,1/4 cup water,"1 medium yellow onion, thinly sliced"
+3728,122,"No problem, I will google it myself! Can I have two more ingredients?",1/4 cup water,"1 medium yellow onion, thinly sliced"
+3729,122,Yes I was born ready! What should I start with?,0) Place cubed beef and flour in a resealable plastic bag.,0) Place cubed beef and flour in a resealable plastic bag.
+3730,122,Ok I did that it's now evenly coated! What next?,"2) Heat the oil in a skillet over medium heat, and brown beef on all sides.","2) Heat the oil in a skillet over medium heat, and cook onion until tender."
+3731,122,Ok the beef is nicely browned now. Can I eat it?,3) Transfer to a slow cooker.,3) Transfer to a slow cooker.
+3732,122,Ok. Done that. The onions are tender. What next?,5) Transfer to the slow cooker with the beef.,5) Transfer to the slow cooker with the beef.
+3733,122,"Ok onions and beef are in, what is the next step?","6) Pour wine into the skillet to deglaze, then pour wine into slow cooker.","4) Melt the butter in the skillet over medium heat, and cook onion until tender."
+3734,122,"Ok done, what next?","7) Dissolve the beef bouillon cube in 1 cup hot water, and pour into slow cooker.","8) Place potato and carrots in slow cooker, and season with rosemary, thyme, garlic powder, and pepper."
+3735,122,Ok I poured the boullion in the slow cooker. What should I do now?,"8) Place potato and carrots in slow cooker, and season with rosemary, thyme, garlic powder, and pepper.","8) Place potato and carrots in slow cooker, and season with rosemary, thyme, garlic powder, and pepper."
+3736,122,Ok it is seasoned now! Is it ready?,9) Mix in remaining water and Worcestershire sauce.,9) Mix in remaining water and Worcestershire sauce.
+3737,122,Ok I added them! What next?,10) Add more water if needed to cover all ingredients.,10) Add more water if needed to cover all ingredients.
+3738,122,"They are not completely covered, I'll add a bit more thanks! What should I do now?","11) Cover slow cooker, and cook stew 7 to 8 hours on low heat.","11) Cover slow cooker, and cook stew 7 to 8 hours on low heat."
+3739,122,Ok I'll do that. Ok. 7 hours passed. How do I see if it's ready?,<no_answer>,7 hours
+3740,122,"Ok no problem. I'll wait one more hour. Ok it looks ready, what should I do now?","11) Cover slow cooker, and cook stew 7 to 8 hours on low heat.","6) Pour wine into the skillet to deglaze, then pour wine into slow cooker."
+3867,118,Ok they are ready! What next?,"1 green bell pepper, chopped","1 large carrot, peeled and thinly sliced"
+3868,118,Ok good I have them ready what next?,2 (15 ounce) cans black beans,"1 large carrot, peeled and thinly sliced"
+3869,118,Ok good I did it! Can I use red beans instead?,2 (15 ounce) cans black beans,2 (15 ounce) cans black beans
+3870,118,Oh. What is the size of the bean cans? Could I have that in grams?,2 (15 ounce) cans black beans,2 (15 ounce) cans black beans
+3872,118,No problem! Are the ingredients over?,2 cups cubed cooked ham,1/4 teaspoon cumin
+3873,118,Ok good! They are ready. What next?,ground black pepper to taste,"1 large carrot, peeled and thinly sliced"
+3874,118,Ok good. Can I use gouda instead of cheddar?,ground black pepper to taste,1 cup shredded Cheddar cheese
+3875,118,Ok can we start with the recipe or are there still some ingredients to prepare?,<no_answer>,0) Heat the oil in a large pot over medium heat.
+3876,118,Ok the oil is warm. What should I do next?,"1) Stir in the onion, bell pepper, carrot, and garlic, and cook 5 minutes, until tender.","1) Stir in the onion, bell pepper, carrot, and garlic, and cook 5 minutes, until tender."
+3877,118,Ok good it is now tender. What should I do with it?,2) Mix in 1 can black beans and chicken broth.,2) Mix in 1 can black beans and chicken broth.
+3878,118,Ok I added beans and broth. Can I add also parsley?,"3) In a blender, puree remaining can of beans until smooth.","3) In a blender, puree remaining can of beans until smooth."
+3879,118,Ok they are smooth now. What is the next step?,4) Mix into the pot.,4) Mix into the pot.
+3880,118,Ok I mixed it in the pot! What should I do now?,5) Bring soup to a boil.,5) Bring soup to a boil.
+3881,118,Ok the soup is boiling now!,6) Reduce heat to low.,6) Reduce heat to low.
+3882,118,Ok I reduced the heat to low!,"7) Mix in ham, cumin, salt, and pepper.","7) Mix in ham, cumin, salt, and pepper."
+3884,118,Ok I mixed it in! What now? Can I eat it? I am hungry.,9) Garnish with Cheddar cheese and sour cream to serve.,"3) In a blender, puree remaining can of beans until smooth."
+3940,209,Ok I will do that. Can I also use almond milk instead?,"4 skinless, boneless chicken breast halves",1 cup dry bread crumbs
+3941,209,Ok no problem. What are the next ingredients?,1 cup grated Parmesan cheese,1 cup dry bread crumbs
+3942,209,Ok I have all 3 of them. What is next?,"1 orange, sliced into rounds",0) Slice chicken breasts in thirds horizontally to make 12 thin chicken fillets.
+3943,209,Ok good I took all the ingredients and prepared them. What are the next ingredients?,1 (10.5 ounce) can chicken broth,1 cup dry bread crumbs
+3944,209,Ok good I still had some Grand Marnier at home.,0) Slice chicken breasts in thirds horizontally to make 12 thin chicken fillets.,1/4 cup brandy-based orange liqueur (Grand Marnier)
+3945,209,Ok I made the 12 chicken filets. What should I do with it?,1) Lightly pound each piece.,1) Lightly pound each piece.
+3946,209,Ok I poured milk over them. What is next?,3) Soak for 10 minutes.,3) Soak for 10 minutes.
+3947,209,Ok I stirred them together. What should I do with it?,5) Set aside.,5) Set aside.
+3948,209,Ok I have done that.,5) Set aside.,"7) Dredge chicken pieces in the bread crumb mixture, and place in the hot oil."
+3949,209,Ok the olive oil is heated.,"7) Dredge chicken pieces in the bread crumb mixture, and place in the hot oil.","7) Dredge chicken pieces in the bread crumb mixture, and place in the hot oil."
+3950,209,Ok i. I have done that. What is next?,"8) Quickly brown on both sides, then remove to a buttered 9x13 inch baking dish, or similar size.","7) Dredge chicken pieces in the bread crumb mixture, and place in the hot oil."
+3951,209,Yummy yes I have moved them to the baking dish.,9) Season with salt and pepper to taste.,9) Season with salt and pepper to taste.
+3952,209,Ok I have done that. What should I do now?,10) Place orange slices over the top of the chicken.,9) Season with salt and pepper to taste.
+3953,209,Ok it looks good. What now?,11) Preheat the oven to 350 degrees F (175 degrees C).,"17) Bake for 20 to 25 minutes in the preheated oven, until bubbly."
+3954,209,Ok the oven is preheated. What should I do?,"12) Drain the oil from the skillet, reserving 1/4 cup.","12) Drain the oil from the skillet, reserving 1/4 cup."
+3955,209,Ok the oil is now reduced by half. What should I do with it?,"14) Add broth and orange juice, and reduce by 1/2 again.","14) Add broth and orange juice, and reduce by 1/2 again."
+3956,209,Ok good I have done that. I reduced it again by half.,"15) Pour the sauce over the chicken, then drizzle with Grand Marinier.","14) Add broth and orange juice, and reduce by 1/2 again."
+3957,209,"Ok it looks good, is it time to eat already?","16) Bake for 20 to 25 minutes in the preheated oven, until bubbly.","16) Bake for 20 to 25 minutes in the preheated oven, until bubbly."
+3958,209,Ok 25 minutes have passed. How do I know if it is ready?,until bubbly,until bubbly
+4084,184,"Ok, I took the out of the fridge. Can you tell me the next two ingredients?","1 stalk celery, chopped","1 medium tomato, diced"
+4085,184,"Ok, I also took those. What are the next ingredients?",1 cup shredded Cheddar cheese,"1 stalk celery, chopped"
+4086,184,"Ok, do you know if I can use gouda instead of cheddar?",1 cup shredded Cheddar cheese,1/4 teaspoon chili powder
+4087,184,"Ok, no worries. Are there other ingredients left to prepare?",1/4 teaspoon salt,4 slices white bread
+4088,184,"Ok, good, could I use brown bread?",4 slices white bread,4 slices white bread
+4089,184,"Ok no problem, can we start to cook now?",0) Preheat your oven's broiler.,0) Preheat your oven's broiler.
+4090,184,"Ok, the broiler is warm now! What can I do?","1) In a medium bowl, stir together the onion, tomato, celery, bell pepper, cheese, chili powder and salt.","1) In a medium bowl, stir together the onion, tomato, celery, bell pepper, cheese, chili powder and salt."
+4091,184,"Ok, I stirred in the ingredients. what would you like me to do?",2) Arrange slices of bread on a baking sheet or broiling pan.,2) Arrange slices of bread on a baking sheet or broiling pan.
+4092,184,"Ok I've placed them in the broiler, what next?","3) Top each one with 1/4 of the mixture, spreading out to the edges.",2) Arrange slices of bread on a baking sheet or broiling pan.
+4093,184,"Ok, I did spread the mixture. Is there anything else to do before I bake them?","4) Broil for 4 to 5 minutes, or until cheese melts.","4) Broil for 4 to 5 minutes, or until cheese melts."
+4094,184,"Ok, good, 5 minutes passed, are the toasts ready?","4) Broil for 4 to 5 minutes, or until cheese melts.",6) Serve immediately.
+4095,184," yes, it looks nicely melted.",6) Serve immediately.,5) Watch closely to prevent burning.

@@ -1,0 +1,232 @@
+question_id,recipe_id,question,target_answer,generated_answer
+1_1,45,what kind of dough do I need to make?,old-fashioned flaky pie dough.,chilled dough.
+1_3,45,for how long does a dough take to settle in the most efficient time?,2 hours.,2 hours.
+1_4,45,how do I prepare peaches and what kind of peaches do I need?,ripe peaches.,recipe.
+1_6,45,what size bowl is needed?,medium bowl.,medium bowl.
+1_7,45,what kind of slices are domino slices?,peaches.,no answer>.
+1_8,45,what kind of knife is needed for such a delicate job?,sharp knife.,sharp knife.
+1_9,45,how many eggs are needed for the egg yolk and the egg mixture?,1 large egg|1 large egg yolk.,1 large egg.
+1_12,45,what kind of what kind of rum is needed and how should I disperse it on the pie?,silver rum.,ounces.
+1_13,45,amount of sugar in it?,3 1/2 ounces sugar (1/2 cup; 100g).,3 1/2 ounces.
+5_2,3,Alexa what ingredients must I drain?,potatoes.,potatoes.
+5_3,3,Alexa what should I use to drain the potatoes?,colander.,colander.
+5_4,3,Alexa what ingredient do I remove with a slotted spoon?,chorizo.,chorizo.
+5_5,3,Alexa what must I put the chorizo in once it is rendered out?,large bowl.,large bowl.
+5_6,3,Alexa what must I render the fat out of?,chorizo.,chorizo.
+5_7,3,Alexa what must I drain at the beginning of the step?,potatoes.,potatoes.
+5_8,3,Alexa what do I toss and stir occasionally while cooking?,potatoes.,bowl.
+5_9,3,Alexa what should be added to the bowl with chorizo in it?,potatoes.,potatoes.
+5_10,3,Alexa what should I use to place all the ingredients in?,bowl.,skillet.
+5_11,3,Alexa what must I break into a pan?,egg.,egg.
+5_12,3,Alexa what should I use to put the egg into?,small bowl.,small bowl.
+5_13,3,Alexa what should be swirled gently?,egg.,egg.
+5_14,3,Alexa how long does it take to cook until the whites are barely charred but the yolks are still runny?,about 10 minutes.,about 10 minutes.
+5_15,3,Alexa what should I use to cook this meal?,oven.,tablespoon oil.
+5_16,3,Alexa what should i serve this meal with other than salsa?,tortillas.,tortillas.
+6_1,13,what do I need to put in the colander?,tomatoes.,tomatoes.
+6_2,13,how much is 2 tsp of kosher salt in grams?,8g.,8g.
+6_3,13,how long do I leave the mixture to drain?,15 minutes.,for a minimum of 15 minutes.
+6_4,13,what should I preheat?,oven.,oven.
+6_5,13,how hot should the oven be?, 350°f (180°c) .,to 350°f.
+6_6,13,what condiment do I add to the bowl?,mustard.,"mustard, and vinegar."
+6_7,13,what juice do I add to the bowl?,tomato.,tomato.
+6_8,13,how much olive oil should I use?,1/2 cup (120ml).,1/2 cup (120ml).
+6_9,13,what herb do I use?,basil.,basil.
+6_10,13,what do I add with the salt?,pepper.,pepper.
+6_11,13,how long should the mixture rest?,30 minutes.,30 minutes.
+7_1,42,what do I need to whisk with the yeast and the baking soda?,flour.,flour.
+7_2,42,what can I use to stir the butter and sugar together with?,stiff rubber spatula.,stiff rubber spatula.
+7_3,42,what do I wipe out?,bowl.,bowl that had flour mixture.
+7_4,42,what do I add to the yogurt?,egg.,egg.
+7_5,42,what should I use to mix the yoghurt and the egg together with?,spatula.,spatula.
+7_6,42,what size bowl should I use?,medium bowl.,medium bowl.
+7_7,42,what should I make the filling in?,medium bowl.,medium bowl.
+7_8,42,"what do I add to the Walnut, the sugar and the salt?",flour.,flour.
+7_9,42,what do I add along with the vanilla extract?,butter.,butter.
+7_10,42,what temperature should I preheat the oven till?,to 375°f.,to 375°f.
+7_11,42,what should I do sit up the dough with?,flour.,spatula.
+7_12,42,shall I close the cracks in?,dough.,dough.
+7_13,42,where does the filling go in the center of?,dough.,dough.
+7_15,42,what do I press down on top of?,dough.,dough.
+7_16,42,what do I pinch around the edge?,dough.,dough.
+7_17,42,how far apart do I put the decorative points?,1 inch.,about 1 inch.
+7_18,42,what kind of wash do I use on top of the dough?,egg.,egg.
+7_19,42,how long do I let it cool for?,20 minutes.,20 minutes.
+8_1,24,what type of chicken do I need to use?,boneless skinless chicken thighs.,chicken.
+8_2,24,how big a knife should I use?,sharp knife.,sharp knife.
+8_3,24,what should I prick with the fork?,chicken thighs.,chicken thighs.
+8_5,24,should I use coarse or fine salt?,coarse.,coarse salt.
+8_10,24,what type of vinegar should I use?,apple cider vinegar.,chinkiang vinegar.
+8_12,24,how much salt should I use?,1 teaspoon.,1 1/2 teaspoons.
+8_16,24,do I need to preheat the oven?,yes.,yes.
+8_17,24,what temperature should the oven be in gas mark?,350°f (175°c).,to 350°f.
+8_18,24,can I cook for longer on a lower temperature?,about 30 minutes.,"no, medium heat."
+14_1,45,how long do I need to chill the dough for?,2 hours or up to 24.,2 hours.
+14_2,45,what is the equivalent of 18 oz in grams?,510g.,510g.
+14_3,45,what should I combine the peaches in?,medium bowl.,medium bowl.
+14_4,45,how should I arrange the peaches in the dough?,dominoes.,ring.
+14_5,45,what should I use to cut a series of slits in the border of the dough?,sharp knife.,sharp knife.
+14_6,45,what is it that I should fold each segment of dough over?,peaches.,peaches.
+14_7,45,what is the name of this wash that I am preparing called?,egg.,egg.
+14_8,45,what should I whisk with the egg yolk cream and salt?,egg.,egg.
+14_9,45,what should I brush the egg wash over?,dough.,chilled dough.
+14_10,45,how long should I bake the pie until?,about 20 minutes.,about 20 minutes.
+14_11,45,what should I brush over any undissolved pockets of sugar?,rum.,rum.
+14_12,45,what should I brush the rum over if the sugar is all dissolved?,sugar.,undissolved pockets of sugar.
+15_1,24,What knife do I use to score the chicken thighs??,sharp knife.,sharp knife.
+15_2,24,What utensil do I use to prick the chicken??,fork.,sharp knife.
+16_1,47,"which ingredients do I add to the fish sauce, sesame oil and sugar?",lime juice.,lime juice.
+16_2,47,what type of sauce goes in the dressing?,fish.,fish.
+16_3,47,what is used to sweeten the dressing?,sugar.,sugar.
+16_4,47,what do I cook first?,cashews.,duck.
+16_5,47,what do I add to the pineapple?,onion.,duck.
+16_6,47,what do I add to the onion?,pineapple.,"pineapple, and cilantro."
+16_7,47,what do I put on the duck?,salt and pepper.,dressing.
+16_8,47,what will I cook on the charcoal?,duck.,coals.
+16_9,47,what temperature will the duck be when cooked?,130 degrees.,130 degrees.
+16_10,47,what do I prepare first?,duck.,dressing.
+16_11,47,what do I add to the pineapple sauce?,duck.,duck.
+16_12,47,what do I pour over the duck?,pineapple.,dressing.
+17_1,21,what ingredients do I need for the recipe?,"for the spice mix (see note):  1 1/2 teaspoons whole cumin seeds, toasted 1 1/2 teaspoons coriander seeds, toasted 1 whole star anise, toasted 2 cloves 1/2 teaspoon black peppercorns, toasted 1/2 teaspoon ground cinnamon 1/4 teaspoon grated nutmeg 1 blade mace 1/2 teaspoon ground turmeric 1 black or green cardamom pod for the curry:  3 tablespoons vegetable oil, butter, or ghee 1 small onion, finely minced (about 1 cup) 4 cloves garlic, grated on the medium holes of a box grater 1 tablespoon fresh ginger, grated on the medium holes of a box grater 1 small red or green chili, finely chopped 1/4 teaspoon cayenne pepper 1/2 cup cashew nuts 1 (14-ounce) can coconut milk 2 (14-ounce) cans chickpeas, drained and rinsed 1 bunch (about 3 ounces) flat spinach leaves, trimmed, rinsed, and roughly chopped kosher salt 1/4 cup fresh juice from 3 to 4 limes 1/2 cup fresh cilantro leaves and tender stems, coarsely chopped.","onion, garlic, ginger, and chili."
+17_2,21,what spices do I need for the recipe?,"1 1/2 teaspoons whole cumin seeds, toasted 1 1/2 teaspoons coriander seeds, toasted 1 whole star anise, toasted 2 cloves 1/2 teaspoon black peppercorns, toasted 1/2 teaspoon ground cinnamon 1/4 teaspoon grated nutmeg 1 blade mace 1/2 teaspoon ground turmeric 1 black or green cardamom pod.","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom."
+17_3,21,Alexa are there any of the spices that I need?,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom.","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom."
+17_4,21,what ingredients do I need to heat with the oil and the butter in the large saucepan?,ghee.,"onion, garlic, ginger, and chili."
+17_5,21,what do I need add with the cayenne under the half of spice mixture?,cashews.,cashews.
+17_6,21,what do I need to add of the spices?,mixture.,"chickpeas, spinach, and cardamom."
+17_7,21,where do I need to transfer the mixture?,blender.,blender.
+17_8,21,what do I need half of?,cilantro.,cilantro.
+19_1,44,what do I cover the chickpeas with?,cold water.,cold water.
+19_3,44,how do I dry the chickpeas?,in a salad spinner.,salad spinner.
+19_4,44,do I add garlic to the food processor?,yes.,yes.
+19_5,44,should I add salt for the bowl in this food processor?,yes.,yes.
+19_6,44,how long should I pulse the chickpeas?,until chickpeas are very finley minced.,until chickpeas are very finely minced.
+19_7,44,what do I transfer the mixture into?,a bowl.,bowl.
+19_8,44,do I scoop spoonfuls of mixture into my hand?,yes.,tablespoon measure.
+19_9,44,what temperature should the instant read thermometer read?,375°f.,375°f.
+19_10,44,how many minutes should it take to Brown?,about 4 minutes.,about 4 minutes.
+19_11,44,what should I transfer the chickpea balls into?,a paper towel–lined plate.,bowl.
+19_12,44,do I add tomatoes to the pita bread?,yes.,yes.
+25_3,47,how much sugar do I need to include I am not very clear?,1 teaspoon.,1 teaspoon.
+25_4,47,"I have a packet of salted cashews is it okay to use salted cashews or do they have to be plain, unsalted??",raw unsalted.,yes.
+27_1,24,what should I use to score the top of the chicken thighs?,sharp knife.,sharp knife.
+27_2,24,what should I use to prick the chicken thighs?,fork.,sharp knife.
+27_3,24,what seasoning should I use in the mixture?,salt.,"scallions, mint, peppercorns, garlic, ginger, chile, turmeric, and salt."
+37_3,47,should I use white or brown sugar?,light brown sugar.,no.
+37_6,47,Should the pineapple be cut into cubes?,diced pineapple.,yes.
+37_7,47,how much salt should I use?,1 teaspoon.,2 tablespoons.
+37_8,47,Is that 130 centigrade?,yes.,yes.
+45_1,17,what do I need to mix it in??,large bowl.,whisk.
+45_2,17,"so I've got  honey and sesame oil, what's next thing to add?",coffee.,"coffee, fish sauce, cider vinegar, and garlic."
+45_3,17,after the fish sauce what's the last thing I need to add apart from the garlic?,vinegar.,vinegar.
+45_4,17,what temperature should I heat the oil to?,high heat.,high heat.
+45_5,17,where do I put the brussels sprouts leaves?,pan.,pan.
+45_6,17,what should I shake?,pan.,pan.
+45_7,17,where should I put the cool brussel sprouts?,bowl.,bowl.
+45_8,17,what else do I add to the Brussels sprouts apart from the dressing and mustard?,leeks.,leeks and Dijon.
+45_10,17,how long can I store it in the fridge?,1 day.,1 day.
+52_1,21,what do I need to combine in spice grinder?,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom.","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom."
+52_2,21,what do I need to combine in the spice grinder?,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom.","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom."
+52_3,21,what do I need to combine in spice grinder?,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom.","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom."
+52_5,21,how much heat should I use?,medium-high heat.,medium-high heat.
+52_6,21,what do I add to the onion chili?,"garlic, ginger.","garlic, ginger."
+52_7,21,what do I add to chickpeas and remaining spice mix?,spinach.,spinach.
+52_8,21,how much salt should I add?,<no answer>.,1/2 cup (1 teaspoon).
+52_9,21,how much lime should I add?,1/4 cup fresh juice from 3 to 4 limes.,1/2 cup.
+57_1,17,for how many minutes should I shake the pan?,3 minutes.,2 to 3 minutes.
+57_2,17,for how many minutes should I cool it?,about 5 minutes.,about 5 minutes.
+57_3,17,where do I have to add brussel sprouts?,bowl.,pan.
+57_4,17,for how many days can salad be refrigerated in an airtight container?,1 day.,1 day.
+64_1,32,Alexa for the chili gravy what do I have to set to a medium heat?,heavy 12-inch cast iron skillet.,heavy 12-inch cast iron skillet.
+64_2,32,Alexa what do I have to cook the Chili's in and press down with a spatula?,skillet.,skillet.
+64_3,32,Alexa how long should I let the meal stand for?,30 minutes.,30 minutes.
+66_1,21,what do I put the oil or butter in?,large saucepan.,large saucepan.
+66_2,21,how long until the onion garlic ginger and chili go golden brown?,about 10 minutes.,about 10 minutes.
+66_3,21,after adding the coconut milk where do I remove the saucepan from?,heat.,heat.
+66_4,21,where do I transfer the mixture to?,blender.,blender.
+66_5,21,after adding chickpeas and spinach what temperature should I use to cook?,low heat.,low heat.
+66_6,21,how long until the spinach is wilted?,about 10 minutes.,about 10 minutes.
+72_1,24,what do I use to score the top side of the chicken thighs?,sharp knife.,sharp knife.
+72_2,24,what tool do I use to prick the chicken all over?,fork.,sharp knife.
+72_3,24,what do I need to pour all over the chicken?,yogurt.,yogurt.
+72_4,24,what do I need to pickle?,nectarines.,nectarines.
+72_5,24,what do I need to heat over medium Heat?,small dry skillet.,small dry skillet.
+72_6,24,what kind of seeds do I need to toast?,coriander.,coriander.
+72_7,24,what kind of condiment do I need to whisk in a medium Bowl?,vinegar.,"vinegar, honey, and salt."
+72_8,24,what is the third ingredient I need to mix with vinegar and honey?,salt.,salt.
+72_9,24,to what mixture do I need to add the nectarines segments?,vinegar.,vinegar.
+72_10,24,what herb do I need to add to the vinegar mixture?,thyme.,thyme.
+72_11,24,what's the minimum I should refrigerate the mixture for?,30 minutes.,2 hours.
+72_12,24,what do I need to heat to 175 degrees Celsius?,oven.,oven.
+72_13,24,for how long should I bake the chicken?,about 30 minutes.,about 30 minutes.
+74_1,32,what should I cook the chili gravy in?,heavy 12-inch cast iron skillet.,heavy 12-inch cast iron skillet.
+74_2,32,where do I put the chilies?,skillet.,blender.
+74_3,32,how long should I leave the chilies in the hot water?,30 minutes.,30 minutes.
+74_4,32,I've put the ground beef in the skillet on medium heat how long should this be cooking for?,about 5 minutes.,about 5 minutes.
+74_5,32,what should I use to move the beef to the medium Bowl?,slotted spoon.,slotted spoon.
+74_7,32,what kind of liquid do I add to the chillies and onions and garlic and the spices?,stock.,mixture.
+74_8,32,how long should I blend everything together for?,2 minutes.,2 minutes.
+74_9,32,if I don't have a rubber spatula what should I use to remove the paste out of the blender?,wooden spoon.,wooden spoon.
+74_10,32,where should I put the Blended stuff out?,strainer.,cup.
+74_11,32,what should I add to the skillet first?,flour.,flour.
+74_12,32,I've got my roux and I've added in the chili mixture what should I add now?,beef.,broth.
+74_13,32,my sauce is really thick I think it's too thick what should I add?,little water.,little water.
+74_14,32,what should I preheat the oven to?,to 375°f.,to 375°f.
+74_18,32,what do I put into the tortilla which i have dipped in the sauce?,onions.,fried tortilla.
+74_19,32,once I've added the onions and cheese in the tortilla where do I put them?,pan.,9-by-11-inch baking pan.
+74_20,32,what do I put on top of the enchiladas now?,remaining cheese and onion.,remaining sauce.
+74_22,32,how long should I bake them in the oven for?,10 to 15 minutes.,10 to 15 minutes.
+76_1,47,Alexa  which fruits do I whisk in the bowl to make the sauce?,lime.,"lime juice, fish sauce, sesame oil, sugar, and chili."
+76_2,47,Alexa what sort of sauce do I whisk in the bowl?,fish.,fish.
+76_3,47,Alexa what do I whisk with the lime juice fish sauce sesame oil and chili?,sugar.,dressing.
+76_4,47,what do I put in the cast iron skillet?,cashews.,cashews.
+76_5,47,what do I add with the pineapple and cilantro?,onion.,onion.
+76_6,47,what do I add with the onion and cilantro?,pineapple.,pineapple.
+76_7,47,what do I season the duck with?,salt and pepper.,salt.
+76_8,47,what is the temperature of the inside of the duct needs to get to?,130 degrees.,torn.
+76_9,47,what do I need to thinly slice?,duck.,duck.
+76_10,47,what do I mix with a pineapple mixture?,duck.,duck.
+76_11,47,what do I add the duck to?,pineapple mixture.,bowl.
+79_1,47,how much lime juice should I add?,2 tablespoons.,2 tablespoons.
+79_2,47,how much fish sauce should I add?,1 tablespoon.,1 tablespoon.
+79_3,47,should I use a teaspoon or tablespoon for the sugar?,1 teaspoon.,1 teaspoon.
+80_1,44,what do I cover with water?,chickpeas.,large bowl.
+80_2,44,when do I drain the chickpeas?,the next day.,day.
+80_4,44,what comes after the scallions?,"garlic, cumin, coriander, and salt.","garlic, cumin, coriander, and salt."
+80_5,44,what comes after the coriander?,salt.,cumin.
+80_6,44,what do I pulse in the food processor?,chickpeas.,chickpeas.
+80_7,44,what do I put into my hands?,mixture.,mixture.
+80_8,44,what will I not be able to roll the mixture like?,dough.,cookie dough.
+80_9,44,how do I check the oil temperature?,instant-read thermometer.,instant-read thermometer.
+80_10,44,how long do I need to cook them for?,about 4 minutes.,about 4 minutes.
+80_11,44,what do I transfer to a paper towel lined plate?,chickpea balls.,mixture.
+80_12,44,what ingredient is after tahini?,tomatoes.,"tomatoes, cucumber, pickles, and shredded cabbage."
+80_13,44,what comes after tomatoes?,cucumber.,cucumber.
+80_14,44,what was after cucumber?,pickles.,tomatoes.
+86_1,47,how much lime juice should I add?,2 tablespoons.,2 tablespoons.
+86_2,47,how much fish sauce should I add?,1 tablespoon.,1 tablespoon.
+86_3,47,what should I use to measure out the sugar?,teaspoon.,teaspoon.
+86_4,47,what heat should the skillet be on for the cashews?,medium heat.,medium heat.
+86_6,47,do I need pineapple juice or pineapple chunks?,diced pineapple.,yes.
+86_7,47,what type of salt should I use?,kosher salt.,diamond crystal kosher salt.
+86_8,47,how big should my duck breast be?,about 1 pound.,1/2-inch.
+86_9,47,what temperature does the thermometer need to be when it goes into the duck?,130 degrees.,130 degrees.
+86_11,47,how much duck should I add to the bowl?,"1 large duck breast, about 1 pound.",1 pound.
+88_3,42,Alexa what size of bowl should I use?,medium bowl.,medium bowl.
+88_4,42,Alexa what size of eggs should I use with a yogurt?,large.,large egg.
+88_5,42,Alexa should I use my hands or spatula to mix?,spatula followed by hands.,flour and butter mixtures together.
+88_6,42,Alexa what size of Bowl should I use?,medium bowl.,medium bowl.
+88_8,42,Alexa what would I use to hold together the sugar salt and walnuts?,flour.,medium bowl.
+88_9,42,Alexa what should I use to lubricate the bowl?,butter.,butter.
+88_10,42,Alexa what temperature should I preheat the oven?,to 375°f.,to 375°f.
+88_11,42,Alexa what should I use to dust the dough?,flour.,flour.
+88_17,42,Alexa how far apart should the decorative points be?,1 inch.,1 inch.
+88_18,42,Alexa what should I use to garnish the cake before putting it in the oven?,egg wash.,no answer>.
+88_19,42,Alexa how long should I let the cake cool for?,20 minutes.,20 minutes.
+89_1,24,what size are the chicken pieces?,8 boneless skinless chicken thighs (1 3/4 pounds; 800g).,1 800g.
+89_4,24,must I peel the garlic?,yes.,yes.
+89_5,24,how much salt do I need?,1 1/2 teaspoons.,1 1/2 teaspoons.
+89_6,24,what kind of yogurt should I use?,plain unsweetened yogurt.,yogurt.
+89_9,24,how many coriander seeds should I use?,2 teaspoons.,2 teaspoons.
+89_10,24,what kind of vinegar should I use?,apple cider vinegar.,chinkiang vinegar.
+89_11,24,how much honey do I need?,2 tablespoons (30ml).,2 tablespoons.
+89_12,24,how much salt should I use?,1 teaspoon.,1 1/2 teaspoons.

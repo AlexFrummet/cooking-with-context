@@ -1,0 +1,67 @@
+name: "node"
+log_level: "INFO"
+
+#################################################################
+# FILE PATHS
+#################################################################
+
+data_path: "datasets"
+
+
+#################################################################
+# MODEL PARAMETERS
+#################################################################
+base_models:
+    - model_type: "monoqa"
+      parameters:
+       checkpoint: "9meo/monoQA"
+       batch_size: 16
+       random_seed: 42
+       num_epochs: 5
+       learning_rate: 2e-5
+       optimizing_metric: "val_qa_answer_f1"
+    - model_type: "monot5uqa"
+      parameters:
+       checkpoint: "castorini/monot5-base-msmarco-10k"
+       batch_size: 16
+       random_seed: 42
+       num_epochs: 5
+       learning_rate: 2e-5
+       optimizing_metric: "val_qa_answer_f1"
+    - model_type: "cross-encoder-monoqa"
+      parameters:
+       checkpoint: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+       batch_size: 16
+       random_seed: 42
+       num_epochs: 5
+       learning_rate: 2e-5
+       optimizing_metric: "val_qa_answer_f1"
+       filter_size: 50
+    - model_type: "fid"
+      parameters:
+       checkpoint: "fid"
+       fid_env: "./fid_37/bin/python"
+       fid_path: "../FiD"
+       fid_lr: 0.00005
+       fid_optim: adamw
+       fid_scheduler: linear
+       fid_weight_decay: 0.01
+       fid_max_evidences: 125
+       fid_num_beams: 20
+       fid_text_maxlength: 250
+       fid_answer_maxlength: 10
+       fid_total_step: 15000
+       fid_warmup_step: 1000
+       fid_per_gpu_batch_size: 1
+       
+  
+query_representation:
+    - "canard_rewritten"
+    - "quretec_expansion"
+    - "prepend_context"
+    
+context_window:
+    - "n_2"
+    - "n_0"
+    - "n_3"
+    - "n_all"

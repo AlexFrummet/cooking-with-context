@@ -1,0 +1,134 @@
+question_id,recipe_id,question,target_answer,generated_answer
+78,98,Ok. How big should the corn bread mix package be?,1 (8.5 ounce) package corn bread/muffin mix,1 (8.5 ounce) package corn bread/muffin mix
+80,98,Ok. No problem. Can I have two more ingredients please?,1/3 cup milk,1 (26 ounce) jar meatless spaghetti sauce
+82,98,Ok. No problem. Can I have two more ingredients?,1/2 cup chopped onion,1 (26 ounce) jar meatless spaghetti sauce
+86,98,Ok. Good. What next?,1 cup frozen corn,1 cup frozen corn
+92,98,Ok. How long should I cook them for?,until meat is no longer pink,until meat is no longer pink
+97,98,"Ok. I cooked for one minute, but the cheese doesn't look ready. Can I leave it one more minute?",until cheese is melted,until cheese is melted
+565,1,Oh that was to much. How many eggs?,2 eggs,2 eggs
+570,1,How much flour and water?,1/4 cup water,6 tablespoons all-purpose flour
+574,1,How much butter and onions do I need? Do I chop the onions or slice them into rings?,2 tablespoons chopped onion,1 tablespoon butter
+615,132,Ok good. What are the next two?,"3 cloves garlic, diced","1 (1 inch) piece peeled fresh ginger, diced"
+616,132,"Ok I diced garlic and ginger, what next?","1 bunch green onions, chopped","1 bunch green onions, chopped"
+617,132,"Ok good, are the ingredients over?",4 pounds chicken wings,12 slices pickled jalapeno peppers
+688,169,"Ok I have them ready, What is next?","2 cups assorted wild mushrooms, chopped","2 tablespoons garlic, minced"
+689,169,"Ok, what is next?","2 tablespoons garlic, minced","9 cups chicken stock, unsalted"
+691,169,Ok thanks. What is next?,"9 cups chicken stock, unsalted","9 cups chicken stock, unsalted"
+692,169,"Ok I have them what is next? Hi, good morning, what is next?","1/4 cup fresh herbs; tarragon, parsley, chives, diced","2 cups assorted wild mushrooms, chopped"
+694,169,"Ah yes I missed that, thanks. What is next?",Salt and pepper to taste,"1/2 white onion, chopped"
+1012,210,"Cool! I have mushrooms and chicken ready, can you tell me which are the next ingredients'.","4 celery ribs, sliced","4 celery ribs, sliced"
+1014,210,"Ok I have al of those in my cupboard, are there other ingredients?","1 garlic clove, minced",pepper to taste
+1015,210,Good! what now?,3 tablespoons cornstarch,1 cup tomato juice
+1021,210,"Ok, I am cooking now for 4 hours, is it ok if I stop?",until meat juices run clear,until meat juices run clear
+1104,145,"Ok. I have both the sauces, what is next?",1/4 cup soy sauce,1/4 cup soy sauce
+1107,145,Ok No problem. What is next?,2 dashes liquid smoke flavoring,2 tablespoons garlic powder
+1109,145,Ok no problem. What is next?,"1 1/2 pounds chicken wings, separated at joints, tips discarded",2 tablespoons garlic powder
+1179,179,Ok what are the next ingredients?,2 (14.5 ounce) cans petite diced tomatoes,1/2 teaspoon dried basil
+1180,179,Ok what is the size of the cans?,2 (14.5 ounce) cans petite diced tomatoes,2 (14.5 ounce) cans petite diced tomatoes
+1181,179,OK what is next?,1/2 teaspoon dried basil,1/2 teaspoon dried basil
+1378,87,Ok. I have put them ready. What is next?,"1 (10 ounce) package frozen chopped broccoli, thawed",1/2 cup chopped onion
+1379,87,Should the package contain frozen broccoli and sour cream?,"1 (10 ounce) package frozen chopped broccoli, thawed","1 (10 ounce) package frozen chopped broccoli, thawed"
+1382,87,Ok. For how long should I cook the potatoes and onion?,until potatoes are lightly browned,until potatoes are lightly browned
+1591,115,"Ok, what are the next ingredients?","1 (8 ounce) container reduced-fat frozen whipped topping, thawed, divided",1 1/2 cups cold skim milk
+1593,115,Ok. How large should the container be?,"1 (8 ounce) container reduced-fat frozen whipped topping, thawed, divided","1 (8 ounce) container reduced-fat frozen whipped topping, thawed, divided"
+1594,115,Ok. Thanks. I have both of them. What are the next ingredients?,1 (1.4 ounce) package instant  sugar-free chocolate pudding mix,2 tablespoons heat-stable granular sugar substitute
+1595,115,Ok. How large should the package be?,1 (1.4 ounce) package instant  sugar-free chocolate pudding mix,"1 (8 ounce) package light cream cheese, softened"
+1803,93,How large should the steaks be?,2 (8 ounce) beef top sirloin steaks,2 (8 ounce) beef top sirloin steaks
+1804,93,Ok I have them ready. What are the next ingredients?,1 tablespoon lemon pepper,1 teaspoon salt
+1806,93,What are the next ingredients?,5 tablespoons butter,1 tablespoon lemon pepper
+1809,93,Ok no problem. What are the next ingredients?,1/4 cup chopped green onions,1/4 cup chopped green onions
+1810,93,Ok I have them. What are the next?,1/2 cup heavy cream,1 teaspoon salt
+1825,235,Ok I have them prepared. What are the next ingredients?,1/2 cup minced onion,1/4 teaspoon salt
+1826,235,Ok easy I have them here in my kitchen already. What is next?,2 cups diced fresh tomatoes,1/2 cup minced onion
+1828,235,Ok thanks I will try. What are the last ingredients?,1/4 teaspoon salt,4 (6 ounce) halibut steaks
+1829,235,Ok nice what are the last two ingredients?,4 (6 ounce) halibut steaks,4 (6 ounce) halibut steaks
+1830,235,Nice. What size should the steaks be?,4 (6 ounce) halibut steaks,4 (6 ounce) halibut steaks
+1851,48,Done. Anything else?,"2 red bell pepper, seeded and chopped",1 teaspoon salt
+1852,48,I have chopped two red bell peppers. What's next?,"1 jalapeno pepper, seeded and minced","1 jalapeno pepper, seeded and chopped"
+1853,48,Done. what's next?,"6 roma (plum) tomatoes, diced","2 (15 ounce) cans black beans, drained and rinsed"
+1857,48,Ten minutes have passed now. How do I know when they are ready?,10 minutes,until the onions are translucent
+1861,48,How large should the cans be?,"2 (15 ounce) cans black beans, drained and rinsed","2 (15 ounce) cans black beans, drained and rinsed"
+2198,24,"Yes, could you specify the quantity of each of these ingredients?",1/2 cup mixed salad greens,"3 ounces Colby-Monterey Jack cheese, sliced"
+2204,157,"Ok I have them, what is next?",3 1/2 cups unbleached bread flour,1/2 cup warm water
+2284,27,Ok. that would be nice. What is the first ingredient?,"1 spaghetti squash, halved lengthwise and seeded","1 spaghetti squash, halved lengthwise and seeded"
+2285,27,Ok. thanks I have it here. What is the next ingredient?,"1 onion, chopped","1 onion, chopped"
+2286,27,Ok. what is next?,2 tablespoons minced garlic,1 cube vegetable bouillon
+2287,27,Ok. should the two cans of stewed tomatoes be big or small or with some specific measurements?,2 (14 ounce) cans stewed tomatoes,2 (14 ounce) cans stewed tomatoes
+2288,27,Ok. thanks. I have them now. What are the next ingredients?,1 tablespoon dried basil,1 cup shredded mozzarella cheese
+2350,241,"Alright, what are the sizes of the packages?",2 (10 ounce) packages pretzels,2 (10 ounce) packages pretzels
+2358,194,Ok I have cabbage and potatoes. What is the next thing to do?,"1 medium onion, chopped","1 medium onion, chopped"
+2359,194,"Ok, good! Onions, salt and pepper are ready! Which are the next one's?",1 (14.5 ounce) can chicken broth,1 (14.5 ounce) can chicken broth
+2360,194,Ok! How big should the can be?,1 (14.5 ounce) can chicken broth,1 (14.5 ounce) can chicken broth
+2502,199,Ok good I had those already at home. What are the next ingredients?,"1 onion, chopped","3 large potatoes, chopped"
+2503,199,OK I chopped the onions and the water is ready. What is next?,"3 large potatoes, chopped","3 large potatoes, chopped"
+2506,199,Ok no problem. Are there more ingredients left?,4 teaspoons salt,4 teaspoons salt
+2561,175,Ok what are the first two ingredients?,1 (12 ounce) package refrigerated biscuit dough,1 (12 ounce) package refrigerated biscuit dough
+2562,175,Ok good. What are the next ones?,1 cup diced onion,"1/2 cup butter, softened"
+2563,175,"Ok I have them, what is next?","1/2 cup butter, softened","1/2 cup butter, softened"
+2564,175,"Ok, what are the next ingredients?",1/2 teaspoon ground black pepper,1 cup diced onion
+2586,6,I have added the salt and butter milk. What's the quantity of the vegetable oil again?,1/4 cup vegetable oil,1/4 cup vegetable oil
+2676,90,Ok no problem. Could I have the next two ingredients?,"4 portobello mushroom caps, sliced","2 tablespoons vegetable oil, divided"
+2677,90,Ok good. What are the next two ingredients?,"3/4 cup all-purpose flour, divided","4 portobello mushroom caps, sliced"
+2679,90,Ok no problem. What are the next two ingredients?,1/2 cup dry Marsala wine,"4 portobello mushroom caps, sliced"
+2693,90,Ok. Can I bake it a little bit more?,until chicken juices run clear,1 (14.5 ounce) can beef broth
+2809,196,"Ok, good! Could you tell me which are the next two ingredients that I should prepare?",1/2 cup rum,1/4 cup ketchup
+2811,196,"Ok, I'll try it! Are there more ingredients to prepare?",1/4 cup ketchup,ground black pepper to taste
+2882,25,"Alright, my fault. How many onions do I need?","1 small onion, finely chopped","1 small onion, finely chopped"
+3051,255,How much of the green cheese do we need?,"1 (8 ounce) package cream cheese, softened","1 (8 ounce) package cream cheese, softened"
+3052,255,What are the other ingredients?,2 cups all-purpose flour,2 cups all-purpose flour
+3053,255,"Okay, anything else required?",1/2 pound ground walnuts,1/3 cup milk
+3056,255,How many flour do I have to add again?,2 cups all-purpose flour,2 cups all-purpose flour
+3060,255,How much milk do I have to add again?,1/3 cup milk,1/3 cup milk
+3141,177,Ok what is next?,2 teaspoons vanilla extract,1 teaspoon salt
+3143,177,Ok what are the next ingredients?,1 teaspoon baking soda,2 teaspoons vanilla extract
+3201,161,Ok what are the next ingredients?,2 cups packed brown sugar,1/2 cup flaked coconut
+3368,106,Ok good. Then could I have the next two ingredients?,1 teaspoon vanilla extract,1 teaspoon vanilla extract
+3369,106,"Ok good. they are ready, could you tell me the next two?",1 1/2 cups semisweet chocolate chips,1 teaspoon next two
+3377,106,What should I use to grease the sheets?,ungreased baking sheets,1 teaspoon vanilla extract
+3379,106,Ok good. When do I see that they are ready?,until edges and bottom are lightly browned,until edges and bottom are lightly browned
+3461,146,"Ok, also those are ready, what next?",1/2 teaspoon ground allspice,1 cup confectioners' sugar for rolling
+3462,146,Ok. What are the next 2?,2 cups chopped dried figs,2 cups chopped dried figs
+3475,146,Ok good. I baked for 25 mins! How do I see that it's ready?,until lightly toasted,until lightly toasted
+3483,213,Ok I have the squash and the curry powder. What is next?,2 tablespoons butter or trans fat-free margarine,2 tablespoons butter or trans fat-free margarine
+3485,213,Ok I will try it out. What are the next ingredients?,"1/2 teaspoon Salt, to taste","1/2 teaspoon Salt, to taste"
+3486,213,Ok I have the ingredients. What is next?,"3 tablespoons sweetened coconut flakes, toasted (optional)",2 tablespoons butter or trans fat-free margarine
+3497,186,"Okay, are there any other ingredients?",3 cups all-purpose flour,1 teaspoon salt
+3498,186,"Ok, I got them from the cupboard. Is that it?",1 teaspoon salt,1 teaspoon salt
+3506,186,Ok! Can I bake it a little longer then that?,until lightly browned,until lightly browned
+3596,245,"What exactly do you mean? I understood that I need 8 ingredients in total, right? What are the ingredients?",1 cup chopped peeled mango,1 cup chopped peeled mango
+3597,245,"Ok, are there more ingredients? what do I need to do with these ingredients?",1/4 cup minced fresh cilantro,1/4 teaspoon salt
+3598,245,"Ok, what else do we need?",2 tablespoons minced fresh mint,1/4 teaspoon salt
+3599,245,"Ok, I have got that, what next?",1/2 teaspoon olive oil,1/2 teaspoon olive oil
+3713,229,Ok I have peeled and cubed the potatoes. What is next?,2 tablespoons butter,2 tablespoons butter
+3715,229,Ok thanks. I have both tablespoons ready. What are the last ingredients?,2 teaspoons black pepper,1 2/3 tablespoons brown sugar
+3728,167,Ok I have them. What is next?,1 teaspoon baking powder,1/2 teaspoon baking soda
+3729,167,Ok cool. What is next?,1/2 teaspoon salt,1 egg
+3730,167,"Ok alright, what is next?",1 teaspoon vanilla extract,1 egg
+3731,167,"I have them now, what next?",1 teaspoon vanilla extract,1/2 teaspoon baking soda
+3748,127,"Ok I have them, what is next?","1 egg, beaten",1/4 cup milk
+3749,127,How many eggs?,"1 egg, beaten","1 egg, beaten"
+3750,127,Ok. What is next?,1/4 cup minced onion,"1 egg, beaten"
+3752,127,Ok I have them ready as well. What is next?,1 (8 ounce) can tomato sauce,1/4 cup milk
+3896,99,Ok. I have the cranberries and water. What is next?,2 cups orange juice,2 cups orange juice
+3898,99,Ok. No problem. What are the next ingredients?,1/4 cup lemon juice,1 teaspoon whole cloves
+3954,251,How much oil?,2 quarts vegetable oil for deep frying,2 quarts vegetable oil for deep frying
+3955,251,And next?,4 tablespoons butter,4 tablespoons butter
+3956,251,OK. next step?,5 tablespoons hot pepper sauce,4 tablespoons butter
+3967,251,High heat?,low heat,low heat
+3977,211,Ok I have these 3 ingredients ready. What are the next ones?,1/2 cup chopped pecans,1/2 cup chopped pecans
+3979,211,Ok I have the. What are the next ingredients?,1 teaspoon baking soda,1 teaspoon vanilla extract
+3980,211,Ok those I have all in my kitchen closet and fridge. What is next?,1 cup white sugar,2 cups all-purpose flour
+3981,211,"Ok nice, I like apple butter. Are there more ingredients left?",1/2 cup whole bran cereal or wheat germ,1/2 teaspoon salt
+3983,211,Ok what is the in degrees Celsius?,175 degrees C,175 degrees C
+4030,77,Ok. how large should the package be?,1 (9 ounce) package refrigerated small cheese tortellini,1 (9 ounce) package refrigerated small cheese tortellini
+4128,112,Ok good! Can I have more ingredients?,1 teaspoon lemon juice,2 teaspoons cornstarch
+4129,112,Ok good. I prepared them. Can I have the next two?,1 pint heavy cream,2 teaspoons cornstarch
+4233,149,Yes please. What are the ingredients?,3 pounds beef roast,3 pounds beef roast
+4234,149,Ok ready. What is next?,2 (12 fluid ounce) cans or bottles beer,2 teaspoons ground black pepper
+4235,149,What size should the cans be?,2 (12 fluid ounce) cans or bottles beer,2 (12 fluid ounce) cans or bottles beer
+4237,149,"Ok, what are the next ingredients?",1 (18 ounce) bottle barbecue sauce,salt to taste
+4238,149,"Ok, is there any indication of what the size or brand should be of the bottle?",1 (18 ounce) bottle barbecue sauce,salt to taste
+4429,80,Ok thanks! Could I ask also the other ingredients?,1 cup heavy cream,1/2 teaspoon black pepper
+4430,80,Ok. thanks. Can I have two more?,1/2 teaspoon black pepper,1 cup shredded Monterey Jack cheese
+4432,80,Ok. no problem. Can I have two more ingredients.,1 cup shredded Monterey Jack cheese,3 dashes hot pepper sauce (e.g. Tabasco)
+4433,80,Ok thanks. Can I have two more?,"1 (8 ounce) package imitation crabmeat, flaked",1 cup shredded Monterey Jack cheese

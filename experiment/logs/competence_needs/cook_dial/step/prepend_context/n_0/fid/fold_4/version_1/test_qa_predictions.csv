@@ -1,0 +1,383 @@
+question_id,recipe_id,question,target_answer,generated_answer
+6,212,Great! I look forward to start then!,"0) In a microwave, melt butterscotch chips; cool for 10 minutes.","0) In a microwave, melt butterscotch chips; cool for 10 minutes."
+8,212,"Oook, it should be ok. What can I do now?","1) In a mixing bowl, cream butter and sugars.","1) In a mixing bowl, cream butter and sugars."
+9,212,"Ok, I made the mixture, what should I do with it.","2) Add egg, milk and vanilla; mix well.",12) gradually beat in sugar.
+11,212,No worries! What should I do now?,3) Beat in melted chips.,"0) In a microwave, melt butterscotch chips; cool for 10 minutes."
+13,212,Tremendous! Can I tell me what is the next step?,5) Cover and refrigerate for 1 hour.,7) Cut with a floured 4-1/2-in. gingerbread man cookie cutter and a 3-in. round cutter.
+14,212,"Ok, one hour passed!","6) On a floured surface, roll out dough to 1/4-in. thickness.","6) On a floured surface, roll out dough to 1/4-in. thickness."
+15,212,"Ok, I am rolling the dough.",7) Cut with a floured 4-1/2-in. gingerbread man cookie cutter and a 3-in. round cutter.,7) Cut with a floured 4-1/2-in. gingerbread man cookie cutter and a 3-in. round cutter.
+16,212,Sorry I didn't understand.,7) Cut with a floured 4-1/2-in. gingerbread man cookie cutter and a 3-in. round cutter.,13) Place 1 cup frosting in a plastic bag; cut a small hole in corner of bag.
+17,212,"Ok, I cut it!",8) Place 2 in. apart on greased baking sheets.,14) Pipe shirt and shorts on players.
+18,212,"They are on the baking sheets now, should I bake them in the oven?",9) Bake at 375 degrees F for 5-8 minutes or until edges are lightly browned.,9) Bake at 375 degrees F for 5-8 minutes or until edges are lightly browned.
+20,212,Ok they are cool I think. Can I eat them now?,"11) For frosting, combine shortening, water, flour and vanilla in a mixing bowl; mix well.",10) Cool for 1 minute; remove to wire racks to cool completely.
+21,212,"Ok, I am mixing now, what should I do with this mixture'.",12) gradually beat in sugar.,12) gradually beat in sugar.
+23,212,And what should I do after?,13) Place 1 cup frosting in a plastic bag; cut a small hole in corner of bag.,12) gradually beat in sugar.
+24,212,So what should I do after i make a hole in the plastic bag?,14) Pipe shirt and shorts on players.,14) Pipe shirt and shorts on players.
+25,212,Ok good so I did that rght I think! What now?,15) Fill in outline and smooth with a metal spatula.,5) Cover and refrigerate for 1 hour.
+26,212,"Ok, I smoothed them out. Are they ready?",16) Tint 1/4 cup frosting black; place in a plastic bag.,16) Tint 1/4 cup frosting black; place in a plastic bag.
+27,212,Ok the frosting black is in the bag!,"17) Pipe lines on round cookies to create basketballs; pipe hair, eyes and noses on players.","17) Pipe lines on round cookies to create basketballs; pipe hair, eyes and noses on players."
+28,212,"Ok, I did that. I think it doesn't look that great but that's my fault probably...",18) Tint 1/4 cup frosting red; pipe a mouth on each player.,15) Fill in outline and smooth with a metal spatula.
+29,212,"Ok, I  piped a mouth on each player. They are smiling. Is it normal that they look creepy?",19) Tint remaining frosting to match team colors of your choice; pipe around shirts and shorts and add a letter on shirts if desired.,19) Tint remaining frosting to match team colors of your choice; pipe around shirts and shorts and add a letter on shirts if desired.
+30,212,"Oh nice, I used yellow and purple like LA Lakers.",19) Tint remaining frosting to match team colors of your choice; pipe around shirts and shorts and add a letter on shirts if desired.,19) Tint remaining frosting to match team colors of your choice; pipe around shirts and shorts and add a letter on shirts if desired.
+35,200,"Ok, I have evrything here! Should we start to make the cake?",0) Preheat oven to 375 degrees F (190 degrees C).,0) Preheat oven to 375 degrees F (190 degrees C).
+37,200, ok the dish is ready. What now?,2) Dump cherry pie filling into dish and spread evenly.,2) Dump cherry pie filling into dish and spread evenly.
+38,200,Ok I dumped the cherry pie filling in the dish. What can I do next?,"3) Repeat with cherries, including juice.","3) Repeat with cherries, including juice."
+39,200,Ok so I added the cherries to the cherry pie filling.,4) Sprinkle cake mix over the top - DO NOT STIR.,"3) Repeat with cherries, including juice."
+40,200,"Ok, thanks for stressing that. what now?",5) Sprinkle with chopped nuts.,5) Sprinkle with chopped nuts.
+41,200,"Okay, I have sprinkled with nuts. Is it time to bake?",6) Distribute butter pieces evenly over the top.,6) Distribute butter pieces evenly over the top.
+42,200,"Hey, the butter is in.",7) Bake in the preheated oven for 45 minutes.,7) Bake in the preheated oven for 45 minutes.
+82,181,"Ok cool, can we make the cookies now?","0) In a large mixing bowl, combine the first six ingredients.","0) In a large mixing bowl, combine the first six ingredients."
+83,181,Ok what should I do with it?,"1) Combine the applesauce, oil and eggs.","1) Combine the applesauce, oil and eggs."
+85,181,Ok I mixed all the mixtures and mixed it well.,3) Stir in the chocolate chip and walnuts.,3) Stir in the chocolate chip and walnuts.
+86,181,Ok I have done that.,4) Drop by rounded teaspoonfuls 2 in apart onto baking sheets coated with nonstick cooking spray.,4) Drop by rounded teaspoonfuls 2 in apart onto baking sheets coated with nonstick cooking spray.
+87,181,"Could you repeat that, I didn't really understand.",4) Drop by rounded teaspoonfuls 2 in apart onto baking sheets coated with nonstick cooking spray.,5) Flatten slightly with a glass bottom coated with nonstick cooking spray.
+88,181,Ok thanks for the clarification. What is next?,5) Flatten slightly with a glass bottom coated with nonstick cooking spray.,4) Drop by rounded teaspoonfuls 2 in apart onto baking sheets coated with nonstick cooking spray.
+89,181,Ok I have done that. What should I do now?,6) Bake at 350 degrees F for 10-12 minutes or until edges are lightly browned and cookies are set.,4) Drop by rounded teaspoonfuls 2 in apart onto baking sheets coated with nonstick cooking spray.
+90,181,Ok what is next?,7) Cool for 1 minute before removing to wire racks.,6) Bake at 350 degrees F for 10-12 minutes or until edges are lightly browned and cookies are set.
+295,44,Sounds good. What's the first step?,0) Wash chicken breasts in water and then place in a pot with water just to cover the chicken.,0) Wash chicken breasts in water and then place in a pot with water just to cover the chicken.
+297,44,Ok. what's next?,1) Add some salt and pepper and garlic powder.,9) Add flour and cook about 30 seconds.
+298,44,Done. Anything else?,2) Let cool in the pot.,0) Wash chicken breasts in water and then place in a pot with water just to cover the chicken.
+300,44,Done. What should I do now?,5) Drain and set aside.,1) Add some salt and pepper and garlic powder.
+301,44,That's done. Anything else?,7) Cut onion to bite-size pieces.,0) Wash chicken breasts in water and then place in a pot with water just to cover the chicken.
+302,44,Ok. what's next?,"8) In a large heavy skillet, over medium heat, saute celery and onion with 2 tablespoons oil, for 5 to 8 minutes.",9) Add flour and cook about 30 seconds.
+306,44,Ok. the 5 minutes have passed. What should I do now?,10) Add flour and cook about 30 seconds.,10) Add flour and cook about 30 seconds.
+307,44,The chicken broth is boiling now.,"12) After it has become thick, add potatoes.","12) After it has become thick, add potatoes."
+308,44,Done. What's next?,13) Remove chicken from pot and cut into bite-size pieces and add to vegetable mixture.,2) Let cool in the pot.
+309,44,I have done that. What's next?,14) Add salt and pepper to taste.,2) Let cool in the pot.
+310,44,Ok. is it done now?,16) Make sure you crimp the edges of the pie shell to the plate so no juices spill in oven.,17) Bake at 350 degrees F (175 degrees C) for 45 minutes or until pie shell is cooked and golden brown.
+311,44,Can you repeat that please?,16) Make sure you crimp the edges of the pie shell to the plate so no juices spill in oven.,6) Wash celery and cut to bite-size pieces and cover with pie shell.
+312,44,Ok. done.,17) Bake at 350  degrees F (175 degrees C) for 45 minutes or until pie shell is cooked and golden brown.,6) Wash celery and cut to bite-size pieces and boil till almost fork tender.
+313,44,Ok. I have baked it for 45 minutes.,17) Bake at 350  degrees F (175 degrees C) for 45 minutes or until pie shell is cooked and golden brown.,17) Bake at 350 degrees F (175 degrees C) for 45 minutes or until pie shell is cooked and golden brown.
+318,139,Ok. I have combined them. What is next?,1) Add milk and egg; beat on low speed until smooth.,1) Add milk and egg; beat on low speed until smooth.
+319,139,Ok. It looks smooth now.,2) Stir in enough remaining flour to form a soft dough.,2) Stir in enough remaining flour to form a soft dough.
+320,139,Ok. I have done that. What is next?,"3) Turn onto a floured surface; knead until smooth and elastic, about 6-8 minutes.",2) Stir in enough remaining flour to form a soft dough.
+322,139,Ok. I have done that. What should I do now?,"5) Cover and let rise in a warm place until doubled, about 1 hour.","4) Place in a greased bowl, turning once to grease top."
+324,139,Ok. 1 hour passed. What is next?,6) Punch dough down.,6) Punch dough down.
+325,139,Ok. I have divided it into two halves. What should I do now?,8) Place in two greased 9-in pans.,8) Place in two greased 9-in pans.
+326,139,Ok. I have done that. What is the next step?,"9) Cover and let rise until doubled, about 45 minutes.",1) Add milk and egg; beat on low speed until smooth.
+328,139,Ok alright. I have done that. It is golden brown now. Anything else I should still do?,11) Remove from pans to cool on wire racks.,10) Bake at 375 degrees F for 25-30 minutes or until golden brown.
+387,148,Okay good. I have them ready. Can we start with the recipe?,0) Bring a large pot of lightly salted water to a boil.,0) Bring a large pot of lightly salted water to a boil.
+388,148,Okay it is boiling. What next?,"1) Cook pasta for 8 to 10 minutes, or until al dente; drain.","1) Cook pasta for 8 to 10 minutes, or until al dente; drain."
+389,148,Okay I cooked it for six minutes because I like it al dente. Is that okay with you?,"1) Cook pasta for 8 to 10 minutes, or until al dente; drain.","2) In a large skillet, brown beef over medium heat."
+390,148,"Okay, it is drained now. What is the next step to follow?","2) In a large skillet, brown beef over medium heat.","2) In a large skillet, brown beef over medium heat."
+392,148,"Okay, done. The meat is in the bowl. What is the next step?","4) In the same skillet, cook onion and bell pepper in butter until tender.","4) In the same skillet, cook onion and bell pepper in butter until tender."
+393,148,Okay the onions are now tender. What next?,"5) Stir in tomatoes, mushrooms, olives, and  beef, and season with oregano.","5) Stir in tomatoes, mushrooms, olives, and beef, and season with oregano."
+394,148,I added all of that. What next?,6) Simmer for 10 minutes.,"5) Stir in tomatoes, mushrooms, olives, and beef, and season with oregano."
+396,148,"Okay, the oven is not warm and 10 minutes passed. What is the next step to follow?",8) Lightly grease a 9x13 inch baking dish.,7) Preheat oven to 350 degrees F (175 degrees C).
+397,148,"Okay I did that, should I put the mixture in the pan?","9) Arrange half of the cooked fettuccine in the prepared dish, top with half of the beef and vegetable mixture, and sprinkle with 1/2 cup of Cheddar cheese and 1/2 cup of mozzarella cheese.","4) In the same skillet, cook onion and bell pepper in butter until tender."
+398,148,Okay I will try to change it and vegetable and beef mixture. Should I put another layer now?,"9) Arrange half of the cooked fettuccine in the prepared dish, top with half of the beef and vegetable mixture, and sprinkle with 1/2 cup of Cheddar cheese and 1/2 cup of mozzarella cheese.","11) Mix together soup and beef broth until smooth, and pour over casserole."
+399,148,Okay I added cheddar and mozzarella. What a great cheese combination. What next?,10) Repeat layers.,"11) Mix together soup and beef broth until smooth, and pour over casserole."
+400,148,Okay I made another layer. What should I do now?,"11) Mix together soup and beef broth until smooth, and pour over casserole.","11) Mix together soup and beef broth until smooth, and pour over casserole."
+401,148,"Okay, good. I poured the soup and broth on the lasagna. What is the next step?",12) Sprinkle with Parmesan cheese.,12) Sprinkle with Parmesan cheese.
+402,148,Okay I sprinkled the Parmesan. Should I now put the lasagna in the oven?,"13) Bake in preheated oven for 30 to 35 minutes, or until heated through.","13) Bake in preheated oven for 30 to 35 minutes, or until heated through."
+404,148,Okay good. Can I eat it now?,"13) Bake in preheated oven for 30 to 35 minutes, or until heated through.",12) Sprinkle with Parmesan cheese.
+408,35,I have the bowl. What should I do now?,"1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.",0) Preheat oven to 400 degrees F (200 degrees C).
+409,35,"Sorry could you repeat the first part, in this bowl?","1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.","1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion."
+410,35,"Ok. alright, I added both and stirred. What is next?","1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper to taste."
+412,35,Ok. thanks I still added a bit to make it right. What is the next step?,"1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+413,35,Ok. I stirred everything. Is there more to add?,"2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+414,35,Ok. What is next?,"2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+415,35,Ok. thanks. I did that. What should I do with the mixture?,3) Transfer mixture to a shallow baking dish.,"4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top."
+416,35,Ok. done. What is the next step?,"4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+417,35,Ok. thanks. I baked the mixture for about 20 minutes now. How do I know it is ready?,"4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top.","5) Taste Artichoke Dip context: 1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion."
+418,35,Ok. is there something else I should do?,"4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top.","4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top."
+423,135,Ok. I have all of them ready.,0) Preheat oven to 375 degrees F (190 degrees C).,0) Preheat oven to 375 degrees F (190 degrees C).
+425,135,Ok. I did that. What else can I do?,2) Empty jar of brownie mix into a large mixing bowl; stir to break up lumps.,"3) Add 3/4 cup softened butter, 2 beaten eggs, and 2 teaspoons of vanilla extract; mix until well blended."
+426,135,Ok. I have stirred it. What should I do now?,"3) Add 3/4 cup softened butter, 2 beaten eggs, and 2 teaspoons of vanilla extract; mix until well blended.","3) Add 3/4 cup softened butter, 2 beaten eggs, and 2 teaspoons of vanilla extract; mix until well blended."
+427,135,Ok. It is well blended now. What is next?,4) Spread batter evenly in the prepared pan.,4) Spread batter evenly in the prepared pan.
+596,72,Yes I am. What's the first step?,"0) Cream together butter, peanut butter and sugars.","0) Cream together butter, peanut butter and sugars."
+597,72,"I have done the first two ingredients, what is the third one?","0) Cream together butter, peanut butter and sugars.","0) Cream together butter, peanut butter and sugars."
+599,72,"No problem, what's the next step?","2) In a separate bowl, sift together flour, baking powder, baking soda, and salt.","2) In a separate bowl, sift together flour, baking powder, baking soda, and salt."
+601,72,Thank you. What are the other two ingredients?,"2) In a separate bowl, sift together flour, baking powder, baking soda, and salt.","2) In a separate bowl, sift together flour, baking powder, baking soda, and salt."
+602,72,What's next?,3) Stir into batter.,"0) Cream together butter, peanut butter and sugars."
+604,72,Ok. I have rolled the mixture into one inch balls and I have placed them on baking sheets. What should I do now?,"6) Flatten each ball with a fork, making a criss-cross pattern.","6) Flatten each ball with a fork, making a criss-cross pattern."
+605,72,I have done that.,7) Bake in a preheated 375 degrees F oven for about 10 minutes or until cookies begin to brown.,"2) In a separate bowl, sift together flour, baking powder, baking soda, and salt."
+607,72,Ok. they are ready now. Should I do anything else?,8) Do not over-bake.,5) Roll into 1 inch balls and put on baking sheets.
+670,37,Hi. how do I make baked aloha chicken?,0) Preheat oven to 350 degrees F (175 degrees C).,0) Preheat oven to 350 degrees F (175 degrees C)
+673,37,Ok. I added both. What are the next ingredients?,"1) Stir together lemon juice, corn syrup, soy sauce, salt, ginger, and corn oil in a bowl until smooth.","1) Stir together lemon juice, corn syrup, soy sauce, salt, ginger, and corn oil in a bowl until smooth."
+674,37,Ok. both added as well. What is next?,"1) Stir together lemon juice, corn syrup, soy sauce, salt, ginger, and corn oil in a bowl until smooth.",2) Stir in the crushed pineapple with its liquid.
+675,37,Ok. also added. What should I do with it now?,"1) Stir together lemon juice, corn syrup, soy sauce, salt, ginger, and corn oil in a bowl until smooth.",2) Stir in the crushed pineapple with its liquid.
+676,37,Ok. What is the next step?,2) Stir in the crushed pineapple with its liquid.,"1) Stir together lemon juice, corn syrup, soy sauce, salt, ginger, and corn oil in a bowl until smooth."
+677,37,Could you repeat what comes after stir?,2) Stir in the crushed pineapple with its liquid.,2) Stir in the crushed pineapple with its liquid.
+678,37,Ah ok. It's added. What is next?,"3) Place the chicken legs in an ovenproof glass baking dish, and pour sauce over top.",2) Stir in the crushed pineapple with its liquid.
+679,37,Ok. I have done that. Something else I should add?,"4) Bake in preheated oven for 30 minutes, then turn the chicken over, and continue cooking until the chicken is tender, and no longer pink, about 20 minutes.",2) Stir in the crushed pineapple with its liquid.
+680,37,Ok. 30 minutes haves passed. Is there something else I should do?,"4) Bake in preheated oven for 30 minutes, then turn the chicken over, and continue cooking until the chicken is tender, and no longer pink, about 20 minutes.",5) Baste with sauce frequently while baking.
+682,37,Ok. Thanks. is there something else still?,"4) Bake in preheated oven for 30 minutes, then turn the chicken over, and continue cooking until the chicken is tender, and no longer pink, about 20 minutes.",5) Baste with sauce frequently while baking.
+768,125,Ok thanks for the clarification. What is the next step?,"0) To Make Glaze: In a medium bowl combine the ketchup, pineapple juice, molasses, rum, mustard and garlic.","4) Also, refrigerate remaining glaze."
+769,125,Ok I have them combined. What should I do with it?,1) Season with salt and pepper to taste and mix well.,1) Season with salt and pepper to taste and mix well.
+770,125,Ok I have done that. What is next?,"2) Place chicken pieces in a lightly oiled 9x13 inch baking dish; brush both sides with prepared glaze, using about 1/2 of the glaze.","2) Place chicken pieces in a lightly oiled 9x13 inch baking dish; brush both sides with prepared glaze, using about 1/2 of the glaze."
+771,125,Ok I have done that. What is next?,"2) Place chicken pieces in a lightly oiled 9x13 inch baking dish; brush both sides with prepared glaze, using about 1/2 of the glaze.","2) Place chicken pieces in a lightly oiled 9x13 inch baking dish; brush both sides with prepared glaze, using about 1/2 of the glaze."
+772,125,Ok. What is next?,3) Cover dish and refrigerate to marinate for at least 2 hours or overnight.,6) Lightly brush chicken pieces on one side with some of the reserved glaze and bake uncovered in preheated oven for about 25 minutes.
+773,125,OK I will wait overnight.,5) Preheat oven to 375  degrees F (190 degrees C).,"4) Also, refrigerate remaining glaze."
+774,125,I'm back. Ok I will preheat the oven. What should I do now?,6) Lightly brush chicken pieces on one side with some of the reserved glaze and bake uncovered in preheated oven for about 25 minutes.,"9) Put chicken under broiler and lightly brown on both sides, about 2 to 3 minutes each side."
+776,125,Ok it looks like the chicken is tender and ready. What should I do?,8) Preheat oven to broil.,8) Preheat oven to broil.
+777,125,Ok I have done that. Both sides are brown. What is next?,8) Preheat oven to broil.,"10) Put chicken under broiler and lightly brown on both sides, about 2 to 3 minutes each side."
+840,62,Ok. anything else?,0) Preheat grill for high heat.,"4) Brush each fillet with olive oil, and sprinkle with spices."
+841,62,Ok. I have the medium bowl and the grill is preheating.,"1) In a medium bowl, mix together corn, red onion, jicama, red bell pepper, and cilantro.","1) In a medium bowl, mix together corn, red onion, jicama, red bell pepper, and cilantro."
+842,62,Ok. I have added the four ingredients to the bowl.,2) Stir in lime juice and zest.,"3) In a small bowl, combine cayenne pepper, ground black pepper, and salt."
+843,62,Yes done. What should I do now?,"3) In a small bowl, combine cayenne pepper, ground black pepper, and salt.",0) Preheat grill for high heat.
+844,62,Ok. What's next?,"4) Brush each fillet with olive oil, and sprinkle with spices.","6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+845,62,Done. What should I do now?,"5) Arrange fillets on grill grate, and cook for 3 minutes per side.","1) In a medium bowl, mix together corn, red onion, jicama, red bell pepper, and cilantro."
+846,62,I have cooked all the fillets 6 minutes in total. 3 minutes on each side.,"6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa.","6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+847,62,Done. What should I do now?,"6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa.","1) In a medium bowl, mix together corn, red onion, jicama, red bell pepper, and cilantro."
+913,101,Ok. I have them. What should I do now?,0) Submerge untreated cedar plank in water.,0) Submerge untreated cedar plank in water.
+915,101,Ok. What is the next step?,2) Preheat an outdoor grill for high heat.,"9) Cook salmon, covered, 10 to 12 minutes, or until opaque and easily flaked with a fork."
+916,101,Ok. The outdoor grill is on high heat.,"3) Place prepared plank on the grill, and sprinkle with coarse salt.","3) Place prepared plank on the grill, and sprinkle with coarse salt."
+918,101,Ok. It is dry now. What is next?,5) Adjust grill temperature for medium heat.,5) Adjust grill temperature for medium heat.
+919,101,Ok. It's on medium heat. What should I do now?,6) Rub salmon filets with olive oil.,6) Rub salmon filets with olive oil.
+921,101,Ok. No problem. What is the next step?,7) Arrange on the plank.,"9) Cook salmon, covered, 10 to 12 minutes, or until opaque and easily flaked with a fork."
+922,101,Ok. I have done that. What is next?,"8) Top salmon with red onion, lemon slices and black peppercorns.","8) Top salmon with red onion, lemon slices and black peppercorns."
+923,101,Ok. I have topped the salmon. What should I do now?,"9) Cook salmon, covered, 10 to 12 minutes, or until opaque and easily flaked with a fork.","9) Cook salmon, covered, 10 to 12 minutes, or until opaque and easily flaked with a fork."
+924,101,Ok. It seems to fine now. Is there something else to do?,"9) Cook salmon, covered, 10 to 12 minutes, or until opaque and easily flaked with a fork.","9) Cook salmon, covered, 10 to 12 minutes, or until opaque and easily flaked with a fork."
+986,191,Ok I have all the ingredients. Can we make dads flatbread?,"0) In a large mixing bowl, dissolve yeast in 1/2 cup of water.","0) In a large mixing bowl, dissolve yeast in 1/2 cup of water."
+987,191,Ok I have done that.,"1) Add sugar, oil, salt, rye or whole wheat flour, 3 cups all-purpose flour, and remaining water; beat until smooth.","8) On a greased baking sheet, flatten each half to 1-in."
+988,191,Ok it looks pretty smooth now. What is next?,2) Add enough remaining all-purpose flour to form a soft dough.,2) Add enough remaining all-purpose flour to form a soft dough.
+989,191,Ok I have done that. What should I do with the soft dough?,"3) Turn onto a floured surface; knead until smooth and elastic, about 6-8 minutes.","3) Turn onto a floured surface; knead until smooth and elastic, about 6-8 minutes."
+990,191,Ok I have waited 8 minutes. What should I do with it?,"4) Place in a greased bowl, turning once to grease top.","4) Place in a greased bowl, turning once to grease top."
+991,191,Ok I got it. What should I do afterwards?,"5) Cover and let rise in a warm place until doubled, about 1 hour.","8) On a greased baking sheet, flatten each half to 1-in."
+993,191,Ok it looks fine now. What should I do?,6) Punch dough down.,"1) Add sugar, oil, salt, rye or whole wheat flour, 3 cups all-purpose flour, and remaining water; beat until smooth."
+994,191,Ok I have divided in half. What should I do with it?,"8) On a greased baking sheet, flatten each half to 1-in.","8) On a greased baking sheet, flatten each half to 1-in."
+995,191,Ok I did that. What is the next step?,9) Pierce each loaf several times with a fork.,"3) Turn onto a floured surface; knead until smooth and elastic, about 6-8 minutes."
+996,191,Ok I have done that several times.,"10) Cover and let rise in a warm place until nearly doubled, about 30 minutes.","10) Cover and let rise in a warm place until nearly doubled, about 30 minutes."
+997,191,Ok 30 minutes has passed. It looks nearly doubled. What should I do?,11) Bake at 375 degrees F (190 degrees C) for 25-30 minutes or until golden brown.,6) Punch dough down.
+1401,150,Oh Ok good! Then we can start with the recipe?,"0) Combine brown sugar, 2/3 cup shortening, water, and 1 teaspoon vanilla in large bowl.","0) Combine brown sugar, 2/3 cup shortening, water, and 1 teaspoon vanilla in large bowl."
+1402,150,Ok. I did that! What is the next step?,1) Beat eggs into creamed mixture.,7) Cool for 2 minutes on baking sheet.
+1403,150,Ok. I added them! Should I put them one by one?,1) Beat eggs into creamed mixture.,"9) To Make Frosting: Begin by combining evaporated milk, white sugar, 1/4 cup shortening, water, and 1 teaspoon vanilla in large bowl."
+1404,150,Ok good! What is the next step to follow?,"2) In another bowl, combine flour, cocoa, salt, and baking soda.","9) To Make Frosting: Begin by combining evaporated milk, white sugar, 1/4 cup shortening, and egg yolks in medium saucepan."
+1405,150,Ok I combined them! Should I use all the salt?,3) Mix this mixture into creamed mixture until just blended.,3) Mix this mixture into creamed mixture until just blended.
+1406,150,Ok good. It's creamy now. I love creamy. What is the next step?,4) Stir in chocolate chips.,"2) In another bowl, combine flour, cocoa, salt, and baking soda."
+1407,150,"Ok, the chocolate chips are in! What next?",4) Stir in chocolate chips.,5) Drop rounded tablespoonfuls of dough onto ungreased baking sheet about 2 inches apart.
+1408,150,Ok. I mixed the mixtures! What next?,5) Drop rounded tablespoonfuls of dough onto ungreased baking sheet about 2 inches apart.,4) Stir in chocolate chips.
+1409,150,"Ok, I did that. Should I repeat that more times?",5) Drop rounded tablespoonfuls of dough onto ungreased baking sheet about 2 inches apart.,5) Drop rounded tablespoonfuls of dough onto ungreased baking sheet about 2 inches apart.
+1410,150,Ok. The mix is finished! Should I bake them now?,6) Place cookie sheet in the middle of the oven.,7) Cool for 2 minutes on baking sheet.
+1412,150,"Ok. I guess I will follow my heart :). They are cool now, is the recipe over?","9) To Make Frosting: Begin by combining evaporated milk, white sugar, 1/4 cup shortening, and egg yolks in medium saucepan.","11) Cool completely, and frost cooled cookies."
+1413,150,Ok. I mixed the ingredients. What should I do with them?,"10) Stir 1/2 teaspoon vanilla, pecans, and coconut into the warm mixture.","10) Stir 1/2 teaspoon vanilla, pecans, and coconut into the warm mixture."
+1414,150,"Ok, I did that. What next?","11) Cool completely, and frost cooled cookies.",7) Cool for 2 minutes on baking sheet.
+1415,150,Ok. I frosted them with the mixture once it cooled. Is the recipe over?,"11) Cool completely, and frost cooled cookies.","12) Cool completely, and frost cooled cookies."
+1429,133,Ok. I have it as well. Can we make the cocktail now?,0) Pour all the ingredients into a shaker with lots of ice.,0) Pour all the ingredients into a shaker with lots of ice.
+1431,133,Ok. I have done that. What is next?,1) Shake vigorously for several seconds and strain into a cocktail glass.,2) Garnish with a lime twist.
+1432,133,Ok. the cocktail glass is filled. What is next?,2) Garnish with a lime twist.,2) Garnish with a lime twist.
+1433,133,Ok. Was that all? Can I drink it now?,2) Garnish with a lime twist.,0) Pour all the ingredients into a shaker with lots of ice.
+1505,187,Ok I have both ingredients. What should I do now?,0) Peel and dice apples.,0) Peel and dice apples.
+1507,187,Ok what should I do now?,1) Add sugar and cinnamon.,11) Heat oil in a large skillet on medium-high heat.
+1508,187,Ok I have done that. What is next?,2) Cook in a saucepan on low heat.,11) Heat oil in a large skillet on medium-high heat.
+1509,187,Ok it became a thick apple sauce now. What is the following step?,4) Sift flour and salt together.,4) Sift flour and salt together.
+1512,187,Ok good. What should I do now?,6) Add water and mix with fork.,0) Peel and dice apples.
+1513,187,Ok I did that. What is the next step?,7) Roll out to about 1/8 inch thick on a floured board.,1) Add sugar and cinnamon.
+1514,187,Ok it looks fine now. What should I do with it?,8) Cut with a large cookie cutter (4 inches in diameter).,11) Heat oil in a large skillet on medium-high heat.
+1515,187,Ok I have done that. What is next?,"9) In each round, place 1 heaping tablespoon fruit.",11) Heat oil in a large skillet on medium-high heat.
+1516,187,"Ah ok, yes I have done that.","10) Moisten edges with cold water, fold and press edge with a fork.",11) Heat oil in a large skillet on medium-high heat.
+1518,187,"Aha, ok the oil is heated. What should I do now?","12) Fry pies, a few at a time, 2 to 3 minutes on each side; cook until golden brown.","12) Fry pies, a few at a time, 2 to 3 minutes on each side; cook until golden brown."
+1519,187,Yes they reached a golden brown colour. Is there anything else I should still do?,13) Drain on paper towels.,13) Drain on paper towels.
+1532,195,I got it! Can we start preparing the ice cream cake?,0) Crush half the cookies (about 20) to make crumbs.,0) Crush half the cookies (about 20) to make crumbs.
+1533,195,Ok I crushed half of the cookies. What should I do now?,1) Combine crumbs with melted margarine and press into the bottom of a 9-inch springform pan or pie plate.,1) Combine crumbs with melted margarine and press into the bottom of a 9-inch springform pan or pie plate.
+1534,195,Ok they are combined and pressed in the bottom of the plate. What should I do with it?,2) Stand remaining cookies around edge of pan.,2) Stand remaining cookies around edge of pan.
+1535,195,"Ok, what is the following step?",3) Spread 3/4 cup fudge topping over crust.,9) Freeze 15 minutes.
+1536,195,"Alright, I have done that.",4) Freeze 15 minutes.,2) Stand remaining cookies around edge of pan.
+1537,195,Ok 15 minutes have passed. What should I do with it?,"5) Meanwhile, soften 1 quart of ice cream in microwave or on countertop.","5) Meanwhile, soften 1 quart of ice cream in microwave or on countertop."
+1538,195,Ok the ice cream is soft. What should I do with it?,"6) After crust has chilled, spread softened ice cream over fudge layer.","6) After crust has chilled, spread softened ice cream over fudge layer."
+1539,195,Ok. Is it ready to be eaten now?,7) Freeze 30 minutes.,"10) To serve, garnish with remainder of fudge topping, whipped cream and cherries."
+1540,195,Alright. Ok 30 minutes have passed. What is next?,8) Scoop remaining quart of ice cream into balls and arrange over spread ice cream layer.,"5) Meanwhile, soften 1 quart of ice cream in microwave or on countertop."
+1541,195,Ok I arranged the ice cream balls. What is the following thing to do?,"9) Freeze until firm, 4 hours or overnight.","9) Freeze until firm, 4 hours or overnight."
+1542,195,"Ok, I want to eat it still today. 4 hours have passed. What should I do with the cake?","10) To serve, garnish with remainder of fudge topping, whipped cream and cherries.","10) To serve, garnish with remainder of fudge topping, whipped cream and cherries."
+1543,195,Hm nice. Was that all?,"10) To serve, garnish with remainder of fudge topping, whipped cream and cherries.","10) To serve, garnish with remainder of fudge topping, whipped cream and cherries."
+1577,214,"Great!! Thanks, can we start with the recipe?","0) In a medium bowl, mix chicken, celery, green onions and peanuts.","0) In a medium bowl, mix chicken, celery, green onions and peanuts."
+1578,214,I mixed those!,"1) In a small bowl, whisk lime juice, fish sauce, ginger, sugar, red pepper, cilantro and mint, plus 2 Tbs. water.","1) In a small bowl, whisk lime juice, fish sauce, ginger, sugar, red pepper, cilantro and mint, plus 2 Tbs. water."
+1579,214,"Ok I made this kind of sauce, what should I do with it?",2) Toss dressing with chicken mixture and serve on a bed of Boston lettuce with the suggested accompaniments.,"1) In a small bowl, whisk lime juice, fish sauce, ginger, sugar, red pepper, cilantro and mint, plus 2 Tbs. water."
+1580,214,Ok I mixed the contents of the two bowls together.,2) Toss dressing with chicken mixture and serve on a bed of Boston lettuce with the suggested accompaniments.,"1) In a small bowl, whisk lime juice, fish sauce, ginger, sugar, red pepper, cilantro and mint, plus 2 Tbs. water."
+1654,97,Ok. I have all of them. What is next?,"0) In a large saucepan over medium high heat, combine the chicken meat, chicken broth, salt and pepper.","0) In a large saucepan over medium high heat, combine the chicken meat, chicken broth, salt and pepper."
+1656,97,Ok. I reduced the heat to low now. What is next?,"2) Cover and let simmer for 30 minutes, or until chicken is no longer pink in the center and the juices run clear.","2) Cover and let simmer for 30 minutes, or until chicken is no longer pink in the center and the juices run clear."
+1658,97,Ok. I have done that. What is next?,4) Pour the remaining chicken broth mixture into a measuring cup.,21) Brush pastry with beaten egg and bake in the preheated oven for 30 minutes or until the crust is golden brown and the filling is bubbling.
+1659,97,Ok. I have done that. What is the next step?,5) Let stand; spoon off fat.,1) Bring to a boil and reduce heat to low.
+1660,97,Ok. I have done that. What should I do now?,6) Add enough milk to the broth mixture to equal 2 1/2 cups.,1) Bring to a boil and reduce heat to low.
+1661,97,"Ok. it is 2, 1/2 cups now. What is next?",7) Cut chicken into 1/2 inch pieces.,7) Cut chicken into 1/2 inch pieces.
+1662,97,Ok. I have done that. What is next?,"8) In the same pan, melt butter or margarine over medium heat.",21) Brush pastry with beaten egg and bake in the preheated oven for 30 minutes or until the crust is golden brown and the filling is bubbling.
+1663,97,Ok. It's melted now. What should I do?,9) Add the onion and celery.,9) Add the onion and celery.
+1664,97,Ok. Added. What is next?,"10) Saute, stirring, for 3 minutes.",15) Pour mixture into a 1 1/2 quart deep casserole dish.
+1665,97,Ok. 3 minutes have passed.,12) Gradually stir in broth mixture.,11) Stir in flour until well blended.
+1666,97,It's well blended now! Ok. I have stirred in the broth mixture. What is next?,"13) Simmer, stirring constantly, until the sauce thickens and boils.",12) Gradually stir in broth mixture.
+1668,97,Ok. It is thick now. What is next?,"14) Add the chicken, vegetables, parsley and thyme.","14) Add the chicken, vegetables, parsley and thyme."
+1669,97,Ok. I have added all of them. What should I do?,15) Pour mixture into a 1 1/2 quart deep casserole dish.,15) Pour mixture into a 1 1/2 quart deep casserole dish.
+1670,97,Ok. It is in the dish. What should I do now?,17) Roll out pastry 1 inch larger than the diameter of the casserole dish on a lightly floured surface.,16) Preheat oven to 400 degrees F (200 degrees C).
+1671,97,Ok. I have done that. What is next?,19) Place pastry on top of casserole.,21) Brush pastry with beaten egg and bake in the preheated oven for 30 minutes or until the crust is golden brown and the filling is bubbling.
+1672,97,Ok. The pastry is on top. What should I do now?,20) Roll edges and cut away extra pastry; flute edges by pinching together.,20) Roll edges and cut away extra pastry; flute edges by pinching together.
+1673,97,Ok. I have done all of that. What is next?,21) Brush pastry with beaten egg and bake in the preheated oven for 30 minutes or until the crust is golden brown and the filling is bubbling.,1) Bring to a boil and reduce heat to low.
+1674,97,Ok. 30 minutes have passed. What is next? It is golden brown now.,22) Let cool for 10 minutes and serve.,22) Let cool for 10 minutes and serve.
+1740,185,Ok good I have all the ingredients ready. Can we make the chicken?,"0) In a large skillet over medium heat, brown chicken and potatoes in oil for 10-15 minutes.","0) In a large skillet over medium heat, brown chicken and potatoes in oil for 10-15 minutes."
+1741,185,"Ok I have done it for 13 minutes, is it ready now?",1) Remove chicken and potatoes; set aside.,1) Remove chicken and potatoes; set aside.
+1742,185,Ok I have done that. What is the next step?,2) Discard all but 1 tablespoon drippings.,"7) With a slotted spoon, remove chicken and potatoes to a serving platter; keep warm."
+1745,185,Ah ok I have done that. What should I do with the mixture?,4) Return chicken and potatoes to skillet.,"3) To drippings, add cream, salt and pepper; stir to mix."
+1746,185,Ok they are back in the skillet.,5) Sprinkle with onions and dill.,5) Sprinkle with onions and dill.
+1747,185,Ok I have sprinkled it with the onions and dille. What is next?,6) Cover and simmer for 50-60 minutes or until chicken juices run clear and potatoes are tender.,6) Cover and simmer for 50-60 minutes or until chicken juices run clear and potatoes are tender.
+1748,185,Ok it looks done now. Is it ready to eat now?,"7) With a slotted spoon, remove chicken and potatoes to a serving platter; keep warm.",9) Serve with chicken and potatoes.
+1749,185,Ok alright. What should I do next?,8) Add sour cream to pan; stir to mix and heat through.,4) Return chicken and potatoes to skillet.
+1887,176,Ok good I have them ready now! Can we start with the recipe?,0) Melt the chocolate chips in a heavy saucepan over very low heat.,0) Melt the chocolate chips in a heavy saucepan over very low heat.
+1889,176,"Ok good, it's ok now I think. What is the next step?",2) Cream together the butter and sugars until light.,7) Blend thoroughly.
+1890,176,"Ok I did that, what should I do with the mixture?","3) Beat in the eggs, one at a time.",6) Add to the butter mixture slowly.
+1892,176,"Ok good, chocolate and vanilla are in. What should I do next?","5) In a bowl, whisk together the flour, baking powder and baking soda.","5) In a bowl, whisk together the flour, baking powder and baking soda."
+1893,176,Ok I did that. What is the next step?,6) Add to the butter mixture slowly.,4) Stir in the melted chocolate and vanilla.
+1894,176,Good I did that now I just have one mixture right?,7) Blend thoroughly.,6) Add to the butter mixture slowly.
+1895,176,Ok I did blend it! What should I do with it?,8) Shape into 1-inch balls and place on a greased cookie sheet.,8) Shape into 1-inch balls and place on a greased cookie sheet.
+1896,176,Ok they are on the cookie sheet now. Should I put it in the oven now?,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.
+1899,176,"Ok no problem, they are cool now. Is the recipe over?",10) Let sit on cookie sheet for a minute or two before removing to a rack to cool.,10) Let sit on cookie sheet for a minute or two before removing to a rack to cool.
+1905,76,Thank you. What should I do with these three ingredients?,0) Preheat the oven broiler.,0) Preheat the oven broiler.
+1906,76,Can you repeat the last word?,0) Preheat the oven broiler.,"5) Layer with eggplant and red pepper, then sprinkle with Parmesan cheese."
+1907,76,Ok. done. What's next?,"1) Place the eggplant and red bell pepper on a medium baking sheet, and season with salt and pepper.","4) Spread bottom half with goat cheese, followed by tapenade."
+1908,76,I have placed them on the baking sheet. What should I do now?,"2) Broil 5 to 10 minutes, until tender and slightly browned.","2) Broil 5 to 10 minutes, until tender and slightly browned."
+1910,76,Ok. they seem ready. What can I do now?,3) Cut baguette in half lengthwise.,0) Preheat the oven broiler.
+1911,76,I have done that. What should I do with it?,"4) Spread bottom half with goat cheese, followed by tapenade.","1) Place the eggplant and red bell pepper on a medium baking sheet, and season with salt and pepper."
+1912,76,Done. What's next?,"5) Layer with eggplant and red pepper, then sprinkle with Parmesan cheese.","1) Place the eggplant and red bell pepper on a medium baking sheet, and season with salt and pepper."
+1913,76,Both done. Is that all?,6) Cover with top half of baguette.,8) Serve hot or cold.
+1914,76,That's done!,8) Serve hot or cold.,0) Preheat the oven broiler.
+2173,102,Ok. I wrapped the bacon around the hotdogs. What is the next step?,1) Secure the bacon with a toothpick.,1) Secure the bacon with a toothpick.
+2174,102,Ok. I've done that. Should I put them in the oven now?,2) Place hot dogs into a slow cooker on low heat.,2) Place hot dogs into a slow cooker on low heat.
+2176,102,Ok. I did that. What is the next step?,"3) Pour brown sugar over hot dogs, let cook for 5 to 6 hours; until the bacon is cooked.",1) Secure the bacon with a toothpick.
+2179,102,Ok. The bacon is cooked. Is the dish ready?,"3) Pour brown sugar over hot dogs, let cook for 5 to 6 hours; until the bacon is cooked.",4) Wrap bacon wrapped hotdogs context: 1) Secure the bacon with a toothpick.
+2431,254,Ok. A lot of things on board. Can I start now?,"0) In a large bowl, combine the oranges, pineapple, whipped topping, coconut, marshmallows and milk.","0) In a large bowl, combine the oranges, pineapple, whipped topping, coconut, marshmallows and milk."
+2432,254,Ok. I add them to the bowl. What else?,1) Mix together well and chill 1 hour before serving.,1) Mix together well and chill 1 hour before serving.
+2433,254,Ohh. 1 hour passed. Can I eat it?,2) Garnish with cherries.,2) Garnish with cherries.
+2542,192,Ok good! Do you want to start then?,0) Butter a 9x13 inch baking dish.,0) Butter a 9x13 inch baking dish.
+2543,192,Ok I buttered the dish up!,1) Arrange the slices of bread in the bottom.,1) Arrange the slices of bread in the bottom.
+2544,192,"Ok, I put the slices on!","2) In a large bowl, beat together eggs, milk, cream, vanilla and cinnamon.","2) In a large bowl, beat together eggs, milk, cream, vanilla and cinnamon."
+2545,192,"Ok the ingredients are in the bowl, what now?","3) Pour over bread slices, cover, and refrigerate overnight.","3) Pour over bread slices, cover, and refrigerate overnight."
+2546,192,"Ok, good I'll wait for the night then! Ok a night passed, what now?","4) The next morning, preheat oven to 350 degrees F (175 degrees C).","3) Pour over bread slices, cover, and refrigerate overnight."
+2548,192,Ok it's bubbling noe. *now.,6) Pour over bread and egg mixture.,6) Pour over bread and egg mixture.
+2549,192,Ok the bread is soaked now! What is the next step?,"7) Bake in preheated oven, uncovered, for 40 minutes.","7) Bake in preheated oven, uncovered, for 40 minutes."
+2599,227,Ok easy I have all of them ready. Can we start baking now?,"0) In a large bowl, combine the flour, sugars, baking powder and salt.","0) In a large bowl, combine the flour, sugars, baking powder and salt."
+2600,227,"Nice, ok everything is combined. What should I do with it?",1) Set aside 1 tablespoon baby food for glaze.,1) Set aside 1 tablespoon baby food for glaze.
+2601,227,Alright. What is next?,"2) In another bowl, beat the egg, milk, oil, extract and remaining baby food.",4) Fold in almonds and apricots.
+2602,227,Ok I put it in another bowl. What should I do with that?,3) Stir into dry ingredients just until moistened.,3) Stir into dry ingredients just until moistened.
+2603,227,Alright I stirred in the mixture. What now?,4) Fold in almonds and apricots.,4) Fold in almonds and apricots.
+2604,227,Ok they are in the mixture. What is the next thing I should do?,5) Pour into a greased 9-in loaf pan.,3) Stir into dry ingredients just until moistened.
+2605,227,Ok good the mixture is in the loaf pan. Should I bake it?,6) Bake at 350 degrees F (180 degrees C) for 55-65 minutes or until a toothpick comes out clean.,6) Bake at 350 degrees F (180 degrees C) for 55-65 minutes or until a toothpick comes out clean.
+2607,227,Ok thanks. The toothpick came out clean. So should I take it out?,7) Cool for 10 minutes before removing from the pan to a wire rack.,7) Cool for 10 minutes before removing from the pan to a wire rack.
+2608,227,Ok I have done that. Is it ready now?,"8) For glaze, combine the confectioners' sugar, milk, extract and reserved baby food until smooth.",7) Cool for 10 minutes before removing from the pan to a wire rack.
+2609,227,Ah yes. Ok I have combine them. What now?,9) Drizzle over cooled bread.,1) Set aside 1 tablespoon baby food for glaze.
+2684,82,That is ok with me! What is the first step?,0) Preheat oven to 400 degrees F (200 degrees C).,0) Preheat oven to 400 degrees F (200 degrees C).
+2685,82,Ok done! What next?,"2) Stir in the mushrooms, green onions, garlic and cayenne pepper.","10) Bake 20 minutes in the preheated oven, or until golden brown."
+2687,82,Ok. I added onions and mushrooms to the pan. What should I do next?,"2) Stir in the mushrooms, green onions, garlic and cayenne pepper.","3) Cook 10 minutes, or until tender."
+2688,82,Ok done! What next?,4) Transfer the mushroom mixture to a medium bowl.,"10) Bake 20 minutes in the preheated oven, or until golden brown."
+2689,82,Ok. I transferred the mixture into a medium bowl. What should I do now?,5) Blend in the cream cheese and crabmeat.,5) Blend in the cream cheese and crabmeat.
+2692,82,Ok. Done that. What is the next step?,"6) On a lightly floured flat surface, roll each pastry sheet into a 12x12 inch square.",8) Place 1 tablespoon of the mushroom mixture onto each pastry square.
+2694,82,Ok I've done that. What should I do next?,7) Cut each sheet into nine 4x4 inch squares.,1) Heat the olive oil in a medium saucepan over medium heat.
+2695,82,Ok I've done that. Can I ask how much in centimeters?,7) Cut each sheet into nine 4x4 inch squares.,8) Place 1 tablespoon of the mushroom mixture onto each pastry square.
+2696,82,Never mind. What should I do next?,8) Place 1 tablespoon of the mushroom mixture onto each pastry square.,1) Heat the olive oil in a medium saucepan over medium heat.
+2697,82,Ok. I've done that. What next?,"9) Fold the squares by bringing the corners to the center, creating an X. Place the squares on a medium baking sheet.",8) Place 1 tablespoon of the mushroom mixture onto each pastry square.
+2698,82,Ok. I've done that. Should I put in the oven?,"10) Bake 20 minutes in the preheated oven, or until golden brown.","10) Bake 20 minutes in the preheated oven, or until golden brown."
+2700,82,Ok good. 20 minutes passed. Should I take them out?,"10) Bake 20 minutes in the preheated oven, or until golden brown.",4) Transfer the mushroom mixture to a medium bowl.
+2734,256,Ok. Hope it is not too fatty. What shall I prepare?,0) Place flour in a shallow bowl.,0) Place flour in a shallow bowl.
+2736,256,"Fine. Continue, please.","1) Place breadcrumbs in a separate shallow bowl, and mix with ground black pepper and cayenne pepper.","6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard."
+2738,256,Ok. I mix them. Next?,2) Place eggs and water in a small bowl.,2) Place eggs and water in a small bowl.
+2740,256,Thanks! What next?,"3) One piece at a time, coat the chicken in the flour, the eggs and the bread crumbs, and set aside.",4) Heat oil in a deep fryer to 375 degrees F (190 degrees C).
+2742,256,Thanks for clarification. I coat them all. Shall I fry them now?,4) Heat oil in a deep fryer to 375 degrees F (190 degrees C).,4) Heat oil in a deep fryer to 375 degrees F (190 degrees C).
+2743,256,The chicken are golden brown now. What do I need to do?,"6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard.","6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard."
+2858,100,Ok. Good. What is the first step of the recipe?,"0) Blend together the cream cheese, marshmallow cream and thawed topping.","0) Blend together the cream cheese, marshmallow cream and thawed topping."
+2860,100,Ok. I blended all the ingredients apart from the pineapple. What should I do now?,1) Add enough pineapple juice to make it dipping consistency.,1) Add enough pineapple juice to make it dipping consistency.
+2861,100,"Ok. I added some, happy with the consistency now. What is the next step?",2) Chill for 1 hour.,2) Chill for 1 hour.
+2969,28,"Alright, just tell me the details when it is needed. What is the first step I can do?","0) In a mixing bowl, cream butter, shortening and sugars.","0) In a mixing bowl, cream butter, shortening and sugars."
+2971,28,Ok. What should I add?,"0) In a mixing bowl, cream butter, shortening and sugars.",2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2972,28,It is added. Next?,"0) In a mixing bowl, cream butter, shortening and sugars.",3) Shape into 1-in balls; roll in sugar apart on ungreased baking sheets.
+2973,28,It is done. Should I add flour now?,1) Add egg and extracts; mix well.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2974,28,"Alright, egg is added.",1) Add egg and extracts; mix well.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2975,28,It seems well mixed. Please continue.,2) Combine the next eight ingredients; gradually add to the creamed mixture.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2976,28,8 ingredients? What do you mean specifically?,2) Combine the next eight ingredients; gradually add to the creamed mixture.,3) Shape into 1-in balls; roll in sugar apart on ungreased baking sheets.
+2977,28,Ok. I add the flour now.,2) Combine the next eight ingredients; gradually add to the creamed mixture.,3) Shape into 1-in balls; roll in sugar apart on ungreased baking sheets.
+2979,28,"Stir all of them, right?",2) Combine the next eight ingredients; gradually add to the creamed mixture.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2980,28,Ok. It looks good. What is next?,3) Shape into 1-in balls; roll in sugar apart on ungreased baking sheets.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+2981,28,The sheet is greased. What should I do with it?,3) Shape into 1-in balls; roll in sugar apart on ungreased baking sheets.,ungreased baking sheets.
+2982,28,The balls are all rolled. What is next?,4) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.,4) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.
+2984,28,Ok. The cookies are baked very well.,4) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.,5) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.
+3091,147,"Ok, they are in the saucepan. What should I do with it?","1) Bring to a boil, and cook until the carrots are tender, about 10 minutes.","1) Bring to a boil, and cook until the carrots are tender, about 10 minutes."
+3092,147,"Ok, ten minutes has passed. Is it ready?",2) Remove from heat and allow to cool slightly.,2) Remove from heat and allow to cool slightly.
+3094,147,"Ok, is there something else I should do still, or can I eat it?",4) Reheat before serving if necessary.,4) Reheat before serving if necessary.
+3103,215,A. Ah yes of course. Ok I have all the ingredients prepared in my kitchen. I'm ready to start.,0) Heat olive oil in a large Dutch oven over medium heat.,0) Heat olive oil in a large Dutch oven over medium heat.
+3104,215,Yes of course I grew up with the Dutch oven. What should I do?,0) Heat olive oil in a large Dutch oven over medium heat.,"10) Pour mushroom mixture and broth over chicken; cover, and cook over low heat until meat begins to fall off the bone, about 1 1/2 hours."
+3105,215,Ok the olive oil is heated. What should I add?,"1) Sprinkle chicken with garlic powder, and brown on both sides.","1) Sprinkle chicken with garlic powder, and brown on both sides."
+3107,215,"Ok good, I have done that. The chicken is on paper towels. What is the next step?","3) Spoon off chicken fat, and return pan to stove.","3) Spoon off chicken fat, and return pan to stove."
+3109,215,Ok I have done that. The onions are soft now. What should I do?,5) Remove to a medium bowl.,5) Remove to a medium bowl.
+3110,215,Ok the mixture is in the medium bowl. What is following step? Ok I collected the herbs and added them in the bowl.,"7) Season with garlic salt, pepper, and poultry seasoning.","6) In a separate bowl, mix together basil, oregano, rosemary, and thyme."
+3111,215,Ok it looks like a nice mixture. What should I do with it?,"8) Stir in wine, and add to onion and mushrooms.","7) Season with garlic salt, pepper, and poultry seasoning."
+3112,215,Sorry what should I stir in?,"8) Stir in wine, and add to onion and mushrooms.","8) Stir in wine, and add to onion and mushrooms."
+3113,215,Ok no problem. I have stirred in the wine. What is next?,9) Return chicken to Dutch oven.,9) Return chicken to Dutch oven.
+3115,215,"Nice, the chicken is covered and now it looks ok. The meat began to fall of the bone. What should I do?","10) Pour mushroom mixture and broth over chicken; cover, and cook over low heat until meat begins to fall off the bone, about 1 1/2 hours.","11) Pour mushroom mixture and broth over chicken; cover, and cook over low heat until meat begins to fall of the bone, about 1 1/2 hours."
+3134,219,Ok thanks I have all the ingredients ready. How should I start with the recipe?,0) Preheat oven to 350 degrees F (175 degrees C).,0) Preheat oven to 350 degrees F (175 degrees C).
+3136,219,Ok what is next?,"2) Mix flour, baking soda, baking powder, salt and cinnamon.",4) Mix with wooden spoon until smooth.
+3137,219,Ok I have done that. Should I put in the mixture now?,"3) Make a well in the center and add sugar, oil, eggs and vanilla.",4) Mix with wooden spoon until smooth.
+3138,219,Alright. I have added the ingredients in the well. What is next?,4) Mix with wooden spoon until smooth.,4) Mix with wooden spoon until smooth.
+3139,219,Ok it looks smooth now. What is the next step?,"5) Stir in carrots, coconut, walnuts and pineapple.","5) Stir in carrots, coconut, walnuts and pineapple."
+3140,219,Ok i. Ok I have stirred in all the ingredients. What should I do with it?,6) Pour into 9x13 inch pan.,6) Pour into 9x13 inch pan.
+3141,219,Alright. The pan is filled with the mixture. What now?,7) Bake at 350 degrees for about 45 minutes.,7) Bake at 350 degrees for about 45 minutes.
+3142,219,I preheated the oven on 175 degrees Celsius. Is that still fine?,7) Bake at 350 degrees for about 45 minutes.,1) Grease and flour a 9x13 inch pan.
+3143,219,Ok 45 minutes have passed. Is it ready now?,"8) Don't panic, the center will sink a little.","8) Don't panic, the center will sink a little."
+3145,219,Ok I have creamed them until smooth. What is the next step?,11) Add the confectioners sugar and beat until creamy.,12) Add the confectioners sugar and beat until creamy.
+3146,219,Ok nice it became creamy. What is next?,11) Add the confectioners sugar and beat until creamy.,12) Add the confectioners sugar and beat until creamy.
+3147,219,Ah ok what should I do with the frosting?,11) Add the confectioners sugar and beat until creamy.,10) To make the frosting: Cream the butter and cream cheese until smooth.
+3148,219,"Ok I will put it on top of the cake then. Thanks for the instructions, looks great!",11) Add the confectioners sugar and beat until creamy.,9) Allow to cool.
+3203,198,"Ok, no problem! So we can start with the recipe?","0) Measure flour, sugar, baking powder, salt, and chocolate chips into a large bowl.","0) Measure flour, sugar, baking powder, salt, and chocolate chips into a large bowl."
+3205,198,"Ok I made a hole in the center, what should I put inside it?",2) Beat the egg in a small bowl until frothy.,2) Beat the egg in a small bowl until frothy.
+3206,198,"Ok, it looks kinda foamy now, what is the next step?","3) Mix in cooking oil, milk, and bananas.","3) Mix in cooking oil, milk, and bananas."
+3208,198,Ok I did that!,4) Pour mixture into the well.,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.
+3209,198,Ok the the mixture are stirred together. what now?,6) Fill greased muffin cups 3/4 full.,4) Pour mixture into the well.
+3210,198,Ok the muffin cups have the mixture inside. should I bake now?,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.
+3212,198,"Ok, I took them out then.",7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.
+3296,20,Hi. how do I make Alaskan Halibut Lasagna?,"0) In a large skillet over medium heat, melt 2 tablespoons butter.","0) In a large skillet over medium heat, melt 2 tablespoons butter."
+3298,20,Ok. that's Done. what's next?,"1) Add halibut, garlic and thyme.","1) Add halibut, garlic and thyme."
+3300,20,The ten minutes have passed now. What should I do next?,"1) Add halibut, garlic and thyme.",3) Remove and set aside.
+3301,20,Yes it is.,3) Remove and set aside.,"8) In a greased 13-in baking dish, layer half of the noodles, halibut, white sauce and cheese."
+3302,20,Ok. I refilled the skillet with butter. What should I cook in it?,5) Stir in flour and salt until smooth; cook and stir until golden brown.,5) Stir in flour and salt until smooth; cook and stir until golden brown.
+3303,20,The flour and salt mixture is golden-brown now.,6) Gradually add broth and cream.,6) Gradually add broth and cream.
+3304,20,That's Done. what's next?,7) Bring to a boil; cook and stir for 2 minutes or until thickened.,"1) Add halibut, garlic and thyme."
+3305,20,The mixture is thick now. What should I do with it?,"8) In a greased 13-in baking dish, layer half of the noodles, halibut, white sauce and cheese.","8) In a greased 13-in baking dish, layer half of the noodles, halibut, white sauce and cheese."
+3306,20,I have the 13 inch baking dish.,"8) In a greased 13-in baking dish, layer half of the noodles, halibut, white sauce and cheese.","8) In a greased 13 inch baking dish, layer half of the noodles, halibut, white sauce and cheese."
+3309,20,Can you repeat the first ingredient please?,"8) In a greased 13-in baking dish, layer half of the noodles, halibut, white sauce and cheese.","1) Add halibut, garlic and thyme."
+3311,20,Ok. I added the shredded swiss cheese. What's next?,9) Repeat layers.,"8) In a greased 13-in baking dish, layer half of the noodles, halibut, white sauce and cheese."
+3312,20,I made a second layer. Should I make another one?,10) Cover and bake at 350 degrees F for 20 minutes.,9) Repeat layers.
+3313,20,Ok. I baked it for 20 minutes. Is it done now?,11) Uncover; bake 20 minutes longer or until bubbly.,11) Uncover; bake 20 minutes longer or until bubbly.
+3314,20,Another 20 minutes have passed. Is it done now?,12) Let stand 15 minutes before serving.,12) Let stand 15 minutes before serving.
+3451,104,Ok. No problem. I'll go and buy it. Ok. I bought the slow cooker. How should I start to prepare the recipe?,0) Preheat the oven to 325 degrees F (165 degrees C).,0) Preheat the oven to 325 degrees F (165 degrees C).
+3454,104,Ok. Good. What next?,2) Wrap each cocktail wiener with a piece of bacon and secure with a toothpick.,4) Sprinkle brown sugar generously over all.
+3455,104,Ok. I did it! Is that it? Can I eat it?,3) Place on a large baking sheet.,"6) To serve, place the wieners in a slow cooker and keep on low heat."
+3456,104,Ok. Done! Should I cook them in the oven?,"5) Bake for 40 minutes in the preheated oven, until the sugar is bubbly.",4) Sprinkle brown sugar generously over all.
+3458,104,Ok. They look good now. Is that it?,"6) To serve, place the wieners in a slow cooker and keep on the low heat.","5) Bake for 40 minutes in the preheated oven, until the sugar is bubbly."
+3461,104,Ok. Good. Can I eat them now?,"6) To serve, place the wieners in a slow cooker and keep on the low heat.","6) To serve, place the wieners in a slow cooker and keep on low heat."
+3729,122,Yes I was born ready! What should I start with?,0) Place cubed beef and flour in a resealable plastic bag.,0) Place cubed beef and flour in a resealable plastic bag.
+3730,122,Ok I did that it's now evenly coated! What next?,"2) Heat the oil in a skillet over medium heat, and brown beef on all sides.","2) Heat the oil in a skillet over medium heat, and brown beef on all sides."
+3731,122,Ok the beef is nicely browned now. Can I eat it?,3) Transfer to a slow cooker.,3) Transfer to a slow cooker.
+3732,122,Ok. Done that. The onions are tender. What next?,5) Transfer to the slow cooker with the beef.,5) Transfer to the slow cooker with the beef.
+3733,122,"Ok onions and beef are in, what is the next step?","6) Pour wine into the skillet to deglaze, then pour wine into slow cooker.",5) Transfer to the slow cooker with the beef.
+3734,122,"Ok done, what next?","7) Dissolve the beef bouillon cube in 1 cup hot water, and pour into slow cooker.",9) Mix in remaining water and Worcestershire sauce.
+3735,122,Ok I poured the boullion in the slow cooker. What should I do now?,"8) Place potato and carrots in slow cooker, and season with rosemary, thyme, garlic powder, and pepper.","8) Place potato and carrots in slow cooker, and cook stew 7 to 8 hours on low heat."
+3736,122,Ok it is seasoned now! Is it ready?,9) Mix in remaining water and Worcestershire sauce.,9) Mix in remaining water and Worcestershire sauce.
+3737,122,Ok I added them! What next?,10) Add more water if needed to cover all ingredients.,"8) Place potato and carrots in slow cooker, and season with rosemary, thyme, garlic powder, and pepper."
+3738,122,"They are not completely covered, I'll add a bit more thanks! What should I do now?","11) Cover slow cooker, and cook stew 7 to 8 hours on low heat.","11) Cover slow cooker, and cook stew 7 to 8 hours on low heat."
+3740,122,"Ok no problem. I'll wait one more hour. Ok it looks ready, what should I do now?","11) Cover slow cooker, and cook stew 7 to 8 hours on low heat.","12) Cover slow cooker, and cook stew 7 to 8 hours on low heat."
+3936,205,"Alright, I have all the ingredients ready. What should I do now?",0) Place ingredients in the pan of the bread machine in the order recommended by the manufacturer.,0) Place ingredients in the pan of the bread machine in the order recommended by the manufacturer.
+3937,205,Ok I have done that. On which program should I press?,1) Select Basic or White Cycle; press Start.,1) Select Basic or White Cycle; press Start.
+3938,205,Ok nice. Is there something else I should still do?,1) Select Basic or White Cycle; press Start.,0) Place ingredients in the pan of the bread machine in the order recommended by manufacturer.
+3944,209,Ok good I still had some Grand Marnier at home.,0) Slice chicken breasts in thirds horizontally to make 12 thin chicken fillets.,0) Slice chicken breasts in thirds horizontally to make 12 thin chicken fillets.
+3945,209,Ok I made the 12 chicken filets. What should I do with it?,1) Lightly pound each piece.,1) Lightly pound each piece.
+3946,209,Ok I poured milk over them. What is next?,3) Soak for 10 minutes.,3) Soak for 10 minutes.
+3947,209,Ok I stirred them together. What should I do with it?,5) Set aside.,5) Set aside.
+3948,209,Ok I have done that.,5) Set aside.,"2) Place in a dish, and pour milk over them."
+3949,209,Ok the olive oil is heated.,"7) Dredge chicken pieces in the bread crumb mixture, and place in the hot oil.","7) Dredge chicken pieces in the bread crumb mixture, and place in the hot oil."
+3950,209,Ok i. I have done that. What is next?,"8) Quickly brown on both sides, then remove to a buttered 9x13 inch baking dish, or similar size.","2) Place in a dish, and pour milk over them."
+3951,209,Yummy yes I have moved them to the baking dish.,9) Season with salt and pepper to taste.,9) Season with salt and pepper to taste.
+3952,209,Ok I have done that. What should I do now?,10) Place orange slices over the top of the chicken.,1) Lightly pound each piece.
+3953,209,Ok it looks good. What now?,11) Preheat the oven to 350 degrees F (175 degrees C).,"16) Bake for 20 to 25 minutes in the preheated oven, until bubbly."
+3954,209,Ok the oven is preheated. What should I do?,"12) Drain the oil from the skillet, reserving 1/4 cup.","12) Drain the oil from the skillet, reserving 1/4 cup."
+3955,209,Ok the oil is now reduced by half. What should I do with it?,"14) Add broth and orange juice, and reduce by 1/2 again.","14) Add broth and orange juice, and reduce by 1/2 again."
+3956,209,Ok good I have done that. I reduced it again by half.,"15) Pour the sauce over the chicken, then drizzle with Grand Marinier.","15) Pour the sauce over the chicken, then drizzle with Grand Marinier."
+3957,209,"Ok it looks good, is it time to eat already?","16) Bake for 20 to 25 minutes in the preheated oven, until bubbly.","16) Bake for 20 to 25 minutes in the preheated oven, until bubbly."
+3980,242,Perfect! How do I start with the recipe?,"0) In a mixing bowl, combine the first four ingredients.","0) In a mixing bowl, combine the first four ingredients."
+3981,242,"Ok, I've mixed those!","1) In a saucepan, combine water, oil, butter and cocoa; bring to a boil over medium heat.","3) Add eggs, buttermilk, vanilla and baking soda; mix well."
+3982,242,"It's boiling now, what sould I do with it?",2) pour over dry ingredients; mix well.,2) pour over dry ingredients; mix well.
+3983,242,"Alright, now I made it into a mixure.","3) Add eggs, buttermilk, vanilla and baking soda; mix well.","3) Add eggs, buttermilk, vanilla and baking soda; mix well."
+3985,242,"No problem, I added those ingredients now!",4) Pour into a greased and floured 15-in pan.,"1) In a saucepan, combine water, oil, butter and cocoa; bring to a boil over medium heat."
+3986,242,"Ok, the mixture is in the pan!",5) Bake at 375 degrees F for 15-20 minutes or until a toothpick inserted near the center comes out clean.,5) Bake at 375 degrees F for 15-20 minutes or until a toothpick inserted near the center comes out clean.
+3987,242,"Alright, 20 minutes passed, should I take it out of the oven?",5) Bake at 375 degrees F for 15-20 minutes or until a toothpick inserted near the center comes out clean.,"6) Meanwhile, for frosting, combine the butter, cream, cocoa and cinnamon in a saucepan."
+3988,242,"Ok, it was clean so I took it out, Is there a filling or a topping to prepare?","6) Meanwhile, for frosting, combine the butter, cream, cocoa and cinnamon in a saucepan.","6) Meanwhile, for frosting, combine the butter, cream, cocoa and cinnamon in a saucepan."
+3990,242,"Ok, looks good now, what should I do with it?",8) Remove from the heat; beat in sugar and vanilla until smooth.,"3) Add eggs, buttermilk, vanilla and baking soda; mix well."
+3991,242,I think it's smooth enough!,9) Stir in walnuts.,9) Stir in walnuts.
+3992,242,Top! Walnuts are in!,10) Carefully spread over hot cake.,10) Carefully spread over hot cake.
+3993,242,"I spread the frosting on top of the cake, it looks kinda ok. What now?",11) Cool completely.,11) Cool completely.
+3994,242,"Noyce! It's cool now! I had a slice, it tastes amazing!!",11) Cool completely.,11) Cool completely.

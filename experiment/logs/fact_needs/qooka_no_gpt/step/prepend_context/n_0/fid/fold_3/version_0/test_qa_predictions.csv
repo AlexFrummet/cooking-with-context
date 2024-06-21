@@ -1,0 +1,222 @@
+question_id,recipe_id,question,target_answer,generated_answer
+20_1,31,what size bowl do I need to use?,large bowl.,large bowl.
+20_2,31,what do I need to cover the beans with?,water.,water.
+20_3,31,what do I need to add to the water?,salt.,salt.
+20_4,31,what sort of fat do I need to use?,duck.,duck.
+20_5,31,what sort of pork do I need to use?,salt.,salt pork.
+20_6,31,where do I need to leave the rendered fat?,dutch oven.,pot.
+20_7,31,how long do I need to cook the chicken.?,8 minutes.,about 3 minutes.
+20_8,31,what am I transferring into the bowl?,pork.,pork.
+20_9,31,where am I putting the sausages when I cook them?,bowl.,bowl.
+20_10,31,what am I putting in the bowl with the sausages?,chicken.,salt pork.
+20_11,31,what am I draining out of the pot?,all but 2 tablespoons fat.,beans.
+20_14,31,what temperature do I need to have everything on?,high heat.,high heat.
+20_15,31,what am I removing from the pot?,carrots.,fat.
+20_16,31,what am I adding to the pot?,chicken.,onions.
+20_17,31,what do I need to put all my ingredients in?,pot.,bowl.
+20_18,31,what is it that I need to shake?,pot.,crust.
+20_19,31,how long do I need to bake it for?,30 minutes until you reach the 4 1/2 hour mark.,about 8 minutes.
+20_20,31,how long do I need to cook it for?,4 1/2 hour.,about 4 minutes.
+22_1,25,where should I put the dish into?,oven.,bowl.
+22_2,25,what else do I need to season along with pepper?,salt.,salt.
+22_3,25,how long do I cook this for?,about 30 minutes.,about 3 minutes.
+22_4,25,what should I use to cut off the stem end of the tomatoes?,sharp knife.,sharp knife.
+22_5,25,where do I put the tomato insides into?,bowl.,bowl.
+22_6,25,what do I need to set aside now?,tomatoes.,tomatoes.
+22_7,25,what do I discard the seeds from?,reserved tomato.,tomato pulp.
+22_8,25,what pulp do I need to put into the measuring cup?,tomato.,tomato.
+22_9,25,I don't have enough mixture what do I need to add to get the correct volume?,broth.,chicken broth or vegetable stock.
+22_10,25,what do I season the shallots with?,salt.,salt.
+22_11,25,the shallots are now soft what should I add next?,garlic.,garlic.
+22_12,25,What else should be soft as well as the shallots?,garlic.,garlic.
+22_13,25,what do I need to add in now to cook?,rice.,rice.
+22_14,25,what do I stir in after I've added the rice?,tomato paste.,tomato paste.
+22_15,25,what should the tomato paste evenly cover?,rice.,rice mixture.
+22_16,25,what do I add to the rice now?,tomato pulp.,tomato.
+22_18,25,what should I use to season?,salt.,salt.
+22_19,25,what do I blot with the paper towels?,tomato cavities.,tomato cavities.
+22_20,25,what do I do with the rice mixture where does it go?,tomatoes.,tomatoes.
+22_21,25,How much olive oil do I use to drizzle?,1 tablespoon.,1 tablespoon (15ml).
+22_22,25,what should I be roasting for half an hour?,tomatoes.,tomatoes.
+22_23,25,what should become lightly charred and crispy?,rice and potatoes.,rice and potatoes.
+22_24,25,what else apart from the rice should become lightly charred and crispy?,potatoes.,potatoes.
+24_1,14,how long do I stir the pasta?,until al dente.,until al dente.
+24_2,14,how large does the skillet have to be?,large skillet.,large skillet.
+24_3,14,how long do I have to keep my sauce on medium heat?,"until fat has rendered and guanciale is crisp, about 7 minutes.",about 7 minutes.
+24_6,14,How much olive oil do I add?,1 tablespoon (15ml).,1 tablespoon (15ml).
+24_7,14,how long do I combine it for?,<no answer>.,about 7 minutes.
+24_8,14,how big should the bowl be?,large.,"large, metal heatproof mixing bowl."
+24_9,14,how long do I have to keep stirring with the tongs?,"until sauce thickens to a creamy, silky consistency and leaves trails as you stir.","until sauce thickens to a creamy, silky consistency and leaves trails as you stir."
+33_1,34,what temperature should I preheat the oven to?,to 400°f.,to 400°f.
+33_2,34,what type of oil should I toss the large squash chunks with?,olive.,olive.
+33_3,34,what type of sprigs should I add to the mixture?,sage.,sage.
+34_1,34,to what temperature should I preheat the oven?,to 400°f.,to 400°f.
+34_2,34,what do I need 2 tbsp of?,olive oil.,olive oil.
+34_3,34,what do I need sprigs of?,sage.,sage.
+34_4,34,how long does it take until the chunks are very tender?,about 45 minutes.,about 45 minutes.
+34_5,34,how long does it take until the diced squash is browned?,about 30 minutes.,about 30 minutes.
+34_6,34,what do I discard the sage sprigs from?,large squash.,large squash chunks.
+34_7,34,what do I transfer along with apple and garlic cloves?,large squash.,large squash chunks.
+34_8,34,"what do I transfer the squash chunks, apple, and garlic cloves into?","food processor, blender.","food processor, blender, or the container of a stick blender."
+34_9,34,what do I season with?,salt.,salt.
+34_11,34,what heat setting should I use for the olive oil?,medium-high heat.,medium-high heat.
+34_12,34,what do I add after heating the olive oil?,onion.,onion.
+34_13,34,what do I add to cook?,rice.,wine.
+34_14,34,what should be evenly coated in oil?,rice.,rice.
+34_15,34,how long should I cook the rice?,3 to 4 minutes.,4 minutes.
+34_16,34,what do I add into the rice?,wine.,liquid.
+34_17,34,what is the smell that should be gone?,raw alcohol.,raw alcohol.
+34_18,34,how long should the wine take to fully evaporate?,about 2 minutes.,about 2 minutes.
+34_19,34,what should I stir in the remaining of?,broth.,broth.
+34_20,34,what should I scrape the grains of?,rice.,rice.
+34_21,34,what should I scrape off the side of the pressure cooker besides rice?,onion.,onion.
+34_22,34,what heat setting should I melt the butter over?,medium-high heat.,medium-high heat.
+34_23,34,how long should I wait for it to cook?,2 minutes.,about 4 minutes.
+34_24,34,what puree should I stir in?,squash.,squash.
+34_25,34,what do I stir in next?,brown butter.,brown butter.
+34_26,34,how much longer should I cook it for if it's too soupy?,few minutes.,few minutes.
+34_27,34,what do I season the dish with?,salt.,salt.
+34_28,34,which leaves do I top off the dish with?,sage.,sage.
+34_29,34,what else besides the sage leaves should I top off the dish with?,grated cheese.,cheese.
+36_1,11,what can I use to remove the mushrooms from the pan?,slotted spoon.,slotted spoon.
+36_2,11,which ingredient do I need to save for later?,mushrooms.,mushrooms.
+36_3,11,which vessel should I store the liquid in?,cup.,pot.
+36_4,11,what do I combine the olive oil and pepper flakes with?,garlic.,garlic.
+36_5,11,what measurement parsley should I use?,1 tablespoon.,1 tablespoon.
+36_6,11,what type what he does do I need to use medium low or high?,medium heat.,medium high.
+36_7,11,which ingredient do I need to add to the hob?,mushrooms.,mushrooms.
+36_8,11,how long do I need to saute the mushrooms?,about 1 minute.,about 1 minute.
+36_9,11,what do I need to add to the mushrooms?,reserved 1/4 cup (60ml) mushroom soaking liquid.,reserved 1/4 cup (60ml).
+36_10,11,which vegetable do I need to add to the tomatoes?,mushroom.,tuna.
+36_12,11,what do I need to bring to the boil?,water.,water.
+36_13,11,how long do I need to cook the spaghetti?,about 1 minute.,about 1 minute.
+36_15,11,how long do I keep stirring the pasta?,about 3 minutes.,about 3 minutes.
+36_16,11,which herb do I add to the dish?,parsley.,parsley.
+36_17,11,which herb do I add the dish?,minced parsley.,parsley.
+38_1,34,what am I preheating the oven to?,to 400°f.,to 400°f.
+38_2,34,how many tablespoons of olive oil again?,2 tablespoons (30ml).,2 tablespoons (30ml).
+38_4,34,how long should I cook it for?,about 45 minutes.,about 45 minutes.
+38_5,34,how long am I cooking the small chunks for?,about 30 minutes.,about 45 minutes.
+38_7,34,okay Alexa what am I putting in the food processor?,"large squash chunks, apple, and garlic cloves.","large squash chunks, apple, and garlic cloves."
+38_9,34,what should I season it with?,salt.,salt.
+38_11,34,i've put the olive oil in a pressure cooker what what heat do I need to have it on?,medium-high heat.,medium-high heat.
+38_12,34,what am I adding to the pressure cooker do I need to add something?,onion.,rice.
+38_13,34,right what am I putting in next?,rice.,wine.
+38_14,34,so I have put the rice in what do I want to be coated in oil?,rice.,rice.
+38_15,34,okay Alexa how long am I cooking the Rice for?,4 minutes.,4 minutes.
+38_16,34,what do I add next?,wine.,wine.
+38_17,34,what smell am I looking for?,raw alcohol.,raw alcohol.
+38_18,34,how long do I cook it for?,about 2 minutes.,about 45 minutes.
+38_19,34,I'm putting in 840 milliliters of what?,broth.,broth.
+38_20,34,what am I scraping?,rice.,rice.
+38_21,34,what else am I scraping?,onion.,rice.
+38_22,34,what temperature should I cook it on?,medium-high heat.,medium-high heat.
+38_23,34,how long do I cook the sage leaves for?,2 minutes.,2 minutes.
+38_25,34,what am I mixing in with the cooking liquid?,rice.,rice.
+38_27,34,what do I stir in?,brown butter.,brown butter.
+38_28,34,how long am I cooking it?,few minutes.,about 45 minutes.
+38_29,34,what am I seasoning it with and then what am I doing next?,salt.,salt.
+38_30,34,I'm topping it with fried what?,sage leaves.,sage.
+38_31,34,at the end what am i putting on?,grated cheese.,sage leaves.
+42_3,23,Alexa what kind of skillet do I need?,12-inch skillet.,12-inch skillet.
+42_4,23,Alexa how much cumin do I need?,1/2 teaspoon.,1/2 teaspoon.
+42_6,23,how long am I draining for?,for 20 minutes.,for 20 minutes.
+42_7,23,what am I putting the herbs and scallions into?,small bowl.,small bowl.
+43_1,11,Can I use a normal spoon?,"no, slotted spoon.",slotted spoon.
+43_5,11,should it boil?,"no, medium heat.",water.
+43_6,11,should I dry the mushrooms?,yes.,yes.
+43_7,11,does it have to be a full minute?,about 1 minute.,about 1 minute.
+43_8,11,Do I have to use a cup?,yes.,water.
+43_9,11,should I use all of the liquid?,"no, reserved 1/4 cup (60ml).",yes.
+43_11,11,How much water should I use?,1 cup (235ml).,1 cup.
+43_12,11,Is there a better way of timing this?,no.,about 1 minute.
+54_1,23,Alexa what do I mix the ingredients in?,large bowl.,large bowl.
+54_3,23,what should I use to cook this in?,12-inch skillet.,large bowl.
+54_4,23,what temperature should I turn the gas to?, medium-high heat.,to medium-high heat.
+54_5,23,what ingredients do I need to add?,"onions, 2 teaspoons aleppo pepper, cumin, and 1/2 teaspoon salt.","large bowl, bulgur, tomato paste, and 1/2 teaspoon salt."
+54_6,23,how do I get rid of the excess liquid?,colander.,by whisking.
+54_7,23,how long does this need to sit for?,for 20 minutes.,for 20 minutes.
+54_10,23,how much mixture do I need?,1/4 cup.,1 teaspoon.
+54_11,23,how much water do I need to add?,"as needed, 1 tablespoon (15ml) at a time.",1 tablespoon (15ml).
+54_13,23,how much herb mixture do I need to put on the in the bowl?,1 teaspoon.,1 teaspoon.
+68_2,30,how long should I cook the quail for?,about 4 minutes.,about 5 minutes.
+68_4,30,how should the shallot be sliced?,minced.,thinly.
+68_7,30,what type of plums should I use?,italian plums.,small italian plums.
+68_14,30,how much quail should I use per portion?,1 whole quail.,4 whole quail.
+69_1,0,what do I place in the medium heatproof bowl?,dried peppers.,peppers.
+69_2,0,how long should I let the peppers soften?,30 minutes.,1 hour.
+69_3,0,should I leave it for an hour?,30 minutes to 1 hour.,yes.
+69_4,0,What do I discard from the skin?,the flesh.,flesh.
+69_5,0,how hot should the saucepan be?,medium-high heat.,medium-high heat.
+69_6,0,what should I heat in the saucepan?,oil.,oil.
+69_7,0,how long should I do this for?,about 6 minutes.,about 8 minutes.
+69_10,0,how long should I keep this in the refrigerator for?,5 days.,5 days.
+69_13,0,how long do I cook this chicken for?,about 8 minutes.,about 8 minutes.
+69_15,0,what should I reduce the heat to?,reduce heat to medium-low.,medium-low.
+69_16,0,what am I cooking for 8 minutes?,rice and chicken mixture.,chicken.
+69_17,0,how long should I do this for?,about 8 minutes.,about 8 minutes.
+69_18,0,what temperature should it be at?,low.,medium-high heat.
+69_22,0,how long should I let it rest for?,5 minutes.,5 minutes.
+70_1,19,what do I need to use to contain the ingredients?,an 8 1/2- by 4 1/2-inch loaf pan.,heat-safe container.
+70_2,19,what equipment do I need to put ingredients in?,pan.,small bowl.
+70_3,19,which ingredients do I need to dust the pan with?,flour.,flour.
+70_4,19,what temperature do I need to put the oven on.?,190°c.,to 375°f.
+70_5,19,what do I put the ingredients inside?,"small bowl, whisk.",pan.
+70_6,19,what ingredients do I need?,flour and baking powder.,flour and baking powder.
+70_7,19,what do I have to put the ingredients inside?,bowl.,pan.
+70_8,19,Alexa what size for the container and also what other tools do I need to use?,"medium bowl, whisk.",large rubber spatula.
+70_9,19,which ingredient do I need to add to the Bowl?,miso and butter.,flour.
+70_10,19,how many seconds do I need to whisk this for?,about 30 seconds.,about 30 seconds.
+70_11,19,Alexa what must I put the ingredients inside?,bowl.,pan.
+70_12,19,which Electric Appliance do I need to use to mix ingredients?,electric handheld mixer.,large rubber spatula.
+70_13,19,what do I need to use to mix the ingredients?,electric handheld mixer or a whisk.,large rubber spatula.
+70_14,19,which ingredient do I need to use a knot to the bow?,flour.,apple.
+70_15,19,what is it that I need to whisk in?,mixture.,milk.
+70_16,19,what do I need to stir the apples?,large rubber spatula.,large rubber spatula.
+70_17,19,what else do I need to stir these ingredients?,wooden spoon.,large rubber spatula.
+70_18,19,which fruits do I need to add?,apples.,apples.
+70_19,19,which fruits do I need?,apples.,apples.
+70_20,19,where do I put these ingredients?,pan.,small bowl.
+70_21,19,where do I put ingredients Alexa?,pan.,small bowl.
+70_22,19,how long do I need to bake this for?,for 10 minutes.,65 minutes.
+70_23,19,what temperature do I need to set the oven at?,140°f.,to 375°f.
+70_24,19,what is the one ingredient that I need to use to the mixture?,water.,milk.
+70_25,19,how long do I need to do this process for?,5 minutes.,about 1 hour.
+70_26,19,how many minutes?,about 1 minute.,about 3 minutes.
+70_27,19,which ingredient do I need to use?,cream.,flour.
+70_28,19,what temperature do I need to reduce the heat down to?,reduce heat to medium-low.,medium-low.
+70_29,19,which tool do I need to use to stir the mixture?,heat-resistant spatula.,large rubber spatula.
+70_30,19,what temperature do I use?,225°f.,medium-low.
+70_31,19,which heat do I need to set the temperature to?,107°c.,medium-low.
+70_33,19,which ingredient do I need to add to the mix?,miso.,milk.
+70_34,19,what do I need to use to alter the ingredients?,whisk.,oven rack.
+70_35,19,what utensil do I need to use?,a serrated knife.,large rubber spatula.
+71_1,31,where do I put the beans?,large bowl.,large bowl.
+71_2,31,how much water do I need?,3 quarts.,3 quarts.
+71_4,31,what kind of fat should I use?,duck.,duck.
+71_5,31,how much salt do I need?,3 tablespoons.,3 tablespoons.
+71_7,31,how long do I cook the chicken for?,8 minutes.,about 8 minutes.
+71_8,31,which pork is it?,salt.,salt pork.
+71_9,31,what kind of pork?,salt pork.,salt pork.
+71_10,31,where should I put the sausages?,bowl.,bowl.
+71_11,31,what should I leave in the pot?,2 tablespoons fat.,fat.
+84_2,34,what will be the temperature of the preheated oven?,to 400°f.,to 400°f.
+84_3,34,what it will be in degrees Centigrade?,200°c.,200°c.
+84_4,34,how long should I bake until chunks are tender?,about 45 minutes.,about 45 minutes.
+84_5,34,how long should I cook untill a small dice squash is browned?,about 30 minutes.,about 30 minutes.
+85_1,4,what else do I mix in with the yeast?,flour and all of the water.,salt.
+85_2,4,do I need any seasoning?,salt.,yes.
+85_4,4,do I mix it by hand?,mixer.,yes.
+85_5,4,how long do I have to mix everything for?,about 3-5 minutes.,about 3-5 minutes.
+85_6,4,what do I put the dough into?,bowl.,bowl.
+85_7,4,how long do I leave the dryer to rest?,for 15 minutes.,for 15 minutes.
+85_9,4,how long do I leave it to refrigerate?,1 hour.,for 15 minutes.
+85_10,4,what do I spray it with?,water.,water.
+85_11,4,how long does it take to cool?,1 hour.,1 hour.
+91_2,11,how many mushrooms are needed?,1 1/2 ounces (40g).,40 g.
+91_4,11,how much garlic is needed?,4 medium cloves.,4 medium cloves.
+91_7,11,how many mushroom  are needed?,1 1/2 ounces (40g).,40g.
+91_8,11,after 1 minute what should the mushrooms look like.?,lightly sautéed and fragrant.,lightly sautéed and fragrant.
+91_11,11,should all the tuna be added?,no.,yes.
+91_12,11,how much water is required for boiling?,1 cup (235ml).,1 cup.
+91_13,11,after 1 minute should the spaghetti feel hard or soft?,hard.,hard.

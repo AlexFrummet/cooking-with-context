@@ -1,0 +1,160 @@
+question_id,recipe_id,question,target_answer,generated_answer
+2_1,26,How hot should the oil be in the wok?,350°F.,to 350°f
+2_3,26,how much flour?,1/2 cup,1/2 cup
+2_7,26,How much time does the frying process takes?,about 6 minutes.,about 6 minutes
+2_14,26,What type of vinegar?,chinkiang vinegar,apple cider vinegar
+2_23,26,What ingredients should I add to the wok first after heating the infused oil?,"leeks, celery, and long pepper","leeks, celery, and long pepper"
+13_8,28,so I need to cook a chicken on a medium to high heat?,yes,medium-high heat
+32_2,46,what do I measure the sauces with?,teaspoons,teaspoon
+32_3,46,what kind of sauce do I need two teaspoons of?,fish,fish
+32_4,46,how long do I marinate the sauce for?,15 minutes,15 minutes
+32_7,46,what kind of sauce do I mix with the fish sauce?,soy,soy
+32_9,46,what do I finely slice?,garlic,garlic
+32_10,46,what do I combine the garlic chili and lime leaves with?,shallot,shallot
+32_14,46,what do i add once the wok is smoking?,half of beef,beef
+32_18,46,Over what do I reheat the wok?,high heat,high heat
+32_19,46,how long do I soften the shallots for?,about 1 minute,about 1 minute
+32_22,46,what should look moist?,beef,beef
+32_23,46,what do I season with as well as salt?,red pepper,Thai chili
+32_24,46,what do I add after the meat is cooked?,basil,sliced garlic/chili/makrut lime mixture
+41_2,43,what do I need to use to toast the bread crumbs?,oven,oven
+41_3,43,how long do I need to leave bread crumbs to cool once I have taken them out of the oven?,about 5 minutes,about 5 minutes
+41_4,43,where do I need to put the bread to start reducing it to bread crumbs?,food processor bowl,food processor bowl
+41_6,43,where do I put the toasted bread crumbs and oil to cook them?,large skillet,large skillet
+41_7,43,what do I need to set half of aside for the pasta?,breadcrumbs,cup (60g)
+41_9,43,what do I need to bring to the boil?,water,pot
+41_10,43,how long do I cook the cauliflower in the salted water?,about 10 minutes,about 10 minutes
+41_11,43,what do I need to add to the salted water when boiling?,cauliflower,cauliflower
+41_14,43,how hot does the hob need to be while I'm heating the 60 mL of oil?,medium heat,medium heat
+41_15,43,what do I use to season The Onion?,salt,salt
+41_16,43,what do I use to stir and break up the anchovies?,wooden spoon,wooden spoon
+41_17,43,"what is the optional ingredient I add to the cauliflower, water, raisins, pine nuts and saffron?",fennel,fennel pollen
+41_18,43,what do I stir and break up with a wooden spoon?,cauliflower,cauliflower
+41_19,43,what is it that turns the sauce yellow?,saffron,saffron
+41_22,43,what do I use to cook the pasta?,reserved pot,reserved pot of boiling water
+41_25,43,what needs to break down even further?,cauliflower,cauliflower
+41_28,43,the pasta water should be added in increments of a quarter of what?,-cup,cup
+41_29,43,how much of the breadcrumbs should I add?,30g,1/2 cup (60g)
+41_31,43,what should be well covered in sauce?,pasta,pasta
+41_33,43,what should I sprinkle on before I serve?,breadcrumbs,remaining breadcrumbs
+49_3,46,how much garlic do I need to chop?,6 medium cloves,half
+49_4,46,how many shallots?,1 small shallot,1 medium
+49_5,46,what temperature does the wok need to be?,high heat,high heat
+49_9,46,how long do I stir fry?,about 1 minute,about 1 minute
+49_11,46,what is the herb to add?,basil,basil
+49_12,46,what seasoning do I add?,salt and and optional thai chili or red pepper flakes,salt
+51_2,39,Alexa where does the Heat have to be on a scale let me know please?,medium-high heat,yes
+51_5,39,how long do I have to do this process for Alexa?,about 4 minutes,2 minutes
+51_6,39,which vegetables do I need to add to this recipe?,"celery, carrot, onion, and garlic",thyme and bay leaves
+51_8,39,how long am I supposed to do this whole process for?,about 6 minutes,about 4 minutes
+55_2,26,"what else do I add with the cornstarch, baking powder and salt?",flour,flour
+55_3,26,what should I use to mix the cornstarch flour baking powder and salt?,. whisk,whisk
+55_6,26,what do I line the plate with?,paper towel,paper towel
+55_7,26,what ingredient am i putting in the batter?,tofu,water
+55_10,26,"what goes with the soy sauce, bean paste, vinegar, sugar and cornstarch?",stock,stock
+55_11,26,how much corn starch do I need?,2 teaspoons,1/2 cup
+55_12,26,what goes with the stock so we slowly being paste sugar and cornstarch?,vinegar,vinegar
+55_16,26,what do I need to set over a heatproof bowl or saucepan?,fine mesh strainer,fine mesh strainer
+55_17,26,how much of the reserved oil should I use?,1/4 cup,1/4 cup
+55_18,26,what temperature should I heat the oil at?,medium-high heat,medium-high heat
+55_21,26,what do I need to clear a space at the centre of?,wok,wok
+55_23,26,what do I add the sauce mixture to?,wok,wok
+55_25,26,what do I need to get fully coated?,tofu,tofu
+56_2,8,what is 70 degrees Fahrenheit in Centigrade for my oven?,21°c,21°c
+56_3,8,how many fresh blackberries do I need?,6 ounces (about 3/4 cup; 170g),handful
+59_1,46,how much fish sauce do I need?,teaspoons,2 teaspoons
+59_3,46,what sauce do I need two teaspoons of?,fish,fish
+59_4,46,how long do I have to marinate it for?,15 minutes,15 minutes
+59_8,46,what do I combine the garlic and chilis with?,shallot,shallot and lime leaves
+59_9,46,what else do I slice with the chilis?,garlic,garlic
+59_13,46,what do I add to the pot after the oil?,beef,remaining beef
+59_14,46,what do I need to wipe out at the end?,wok,wok
+59_17,46,what heat do I use?,high heat,high heat
+59_18,46,how long do I cook the shallots for?,about 1 minute,about 1 minute
+59_20,46,what herb do I use?,basil,basil
+59_21,46,what can I use instead of Thai chilies?,red pepper,garlic
+65_7,28,"so when I leave the chicken for 30 minutes, can I leave it in a bit longer do I have to do ehm can I have it a bit shorter?",for 30 minutes,yes
+75_3,2,what do I use a paring knife for?,can be inserted in middle of potato with no resistance,12 minutes
+75_4,2,how long should I cook a potato for is 10 minutes okay?,yes,5 to 10 minutes
+75_5,2,what should I put the potato in is a small bowl okay?,yes,medium bowl
+75_7,2,is medium heat alright to melt the butter?,yes,medium heat
+75_11,2,should I use sweet potato in the turkey patties?,yes,yes
+75_12,2,is a medium Bowl the right size Bowl?,yes,medium bowl
+75_13,2,should I use pepper to season?,yes,salt
+75_15,2,should I heat the grill for 5 minutes?,yes,for 5 minutes
+75_17,2,is 145 degrees Fahrenheit the right temperature to cook at?,yes,145°f
+75_19,2,is 165 degrees Fahrenheit the maximum temperature?,yes,no more than 165°f
+78_1,12,what should I use to score the tomatoes?,paring knife,paring knife
+78_2,12,how hot should the water be?,boiling,hot
+78_5,12,what should I use to remove the tomatoes?,slotted spoon,slotted spoon
+78_8,12,how much garlic do I add?,3 medium cloves,2 cloves
+78_9,12,what do I add with olive oil and red pepper flakes?,"basil, garlic","basil, garlic"
+78_10,12,what do I use to season?,salt,salt
+78_17,12,what do I use to transfer the pasta?,tongs,tongs
+78_18,12,what do I toss with the pasta?,breadcrumbs,breadcrumbs
+78_21,12,what can I add on top?,breadcrumbs,cheese
+78_23,12,what can I add for extra flavor?,cheese,salt
+81_1,27,what do I need to line a large plate with?,three layers of paper towels or a clean dish towel,paper towels
+81_2,27,how do I spread ricotta?,rubber spatula,rubber spatula
+81_5,27,what do I place on top of the ricotta?,another triple layer of paper towels or a clean dish towel,dry flour
+81_6,27,what do I need to place on the scale?,large bowl,large bowl
+81_9,27,what do I transfer the first half of semolina into?,large bowl,large bowl
+81_10,27,what do I scrape ricotta into?,separate empty large bowl,large bowl
+81_12,27,what do I put the ricotta ball into?,bowl,bowl
+81_15,27,what is the remaining semolina in?,bowl,bowl
+81_16,27,how often should I turn a refrigerated gnudi?,once per day,once per day
+81_18,27,how long do I freeze gnudi for?,about 1 hour,about 1 hour
+81_19,27,what needs to subside before I stop heating butter?,foaming,foaming
+81_20,27,what do I heat the butter in?,medium saucepan,medium saucepan
+81_23,27,what do I place the remaining butter into?,medium skillet,medium skillet
+81_24,27,how long do I cook the gnudi for?,for 3 minutes,about 1 minute
+81_27,27,what do I use to transfer the gnudi to a skillet?,slotted spoon,slotted spoon
+81_29,27,what to do I place the Skillet over?,high heat,high heat
+81_30,27,how long does emulsification take?,about 1 minute,about 1 minute
+81_32,27,what am I meant to shake?,pan,pan
+90_3,39,what vessel are we cooking the short ribs in?,large dutch oven,pot
+90_7,39,what kind of paste do we add to the vegetables after cooking them for 6 minutes?,tomato,tomato
+90_9,39,what kind of wine do we add to the pot?,red wine,dry red wine
+92_2,5,what should I use if I don't have a non retractive aluminium pan preferably non-locking two-piece Style?,traditional cake pan,traditional cake pan
+92_3,5,what do I need to bake it in?,pan,prepared pan
+92_5,5,what needs to sit flat?,pan,pan
+92_7,5,what is the ideal pan to use?,a two-piece pan,traditional cake pan
+92_9,5,what is the alternative?,traditional cake pan,no
+92_11,5,how should I mix the ingredients?,fork,", whisk"
+92_12,5,what do I use for the crust?,"graham cracker crumbs, melted butter, and salt",parchment
+92_14,5,where should I add the salt?,pan,pan
+92_16,5,what other ingredient do I need besides cream cheese goat cheese lemon juice vanilla extract and salt?,orange flower water,orange flower water
+92_17,5,what else what else should I add other than cream cheese goat cheese lemon juice vanilla extract and water?,"salt, and orange flower water",salt
+92_21,5,what should I remove from the mixer?,bowl,bowl
+92_22,5,what ingredients should I add next?,eggs,"graham cracker crumbs, melted butter, and salt"
+92_25,5,where should I boil the cream?,stainless steel pot,1-quart stainless steel pot
+92_26,5,what should I boil?,cream,cream
+92_28,5,what should be added to the mixture next?,hot cream,sugar
+92_32,5,what should I bounce on the surface to dislodge any air bubbles?,spoon,spoon
+92_34,5,what temperature in fahrenheit do I need to bake it at?,250°f,250°f
+92_36,5,how long should I leave the oven door ajar?,10 minutes,10 minutes
+92_38,5,how long should I continue baking?,about 35 minutes,"until the outer edge of the cheesecake feels firm, though the innermost ring of cheesecake will wobble quite freely if you shake the pan, about 35 minutes."
+92_41,5,what should I use to loosen the sides?,thin knife,thin knife
+92_44,5,how long should I leave it cool at room temperature?,1 hour,1 hour
+92_45,5,how long should I refrigerate?,12 hours,"until needed, up to 10 days."
+92_47,5,what should I use to loosen the cheesecake?,thin knife,thin knife
+92_48,5,what kind of can should I use to stand it on?,tomatoes,pan
+92_49,5,how long will it stay fresh in the fridge?,10 days,10 days
+92_51,5,what kind of pan works well?,roasting pan,roasting pan
+92_52,5,what should feel warm in the hot water?,pan,pan
+92_55,5,what should I use to cut it?,knife,large chef's knife
+93_1,28,what seasonings do I use?,"black pepper, allspice (if using), and 2 teaspoons kosher salt",salt
+93_3,28,what type of spice do I use?,allspice,allspice
+93_4,28,what do I use to puree?,blender,"garlic, orange juice, lime juice, cumin, oregano, black pepper, allspice (if using), and 2 teaspoons kosher salt"
+93_7,28,what meat am i meant to use?,chicken,chicken
+93_9,28,what is the meat about I just cut up?,chicken,chicken
+93_11,28,how long do I refrigerate it?,for 30 minutes,for 30 minutes
+93_13,28,if what is in a dish?,chicken,chicken
+93_15,28,what level do I simmer on?,medium-high heat,medium-high heat
+93_17,28,what do I add to this pan?,chicken,chicken cutlets
+93_21,28,what do I add the onion to?,pan,black beans
+93_22,28,what do I add to stop it from burning?,water,small splash of water
+93_24,28,where do i add the water to?,pan,pan
+93_26,28,what's the first thing I used for garnish?,cilantro,cilantro leaves
+93_27,28,I add a what wedge?,lime,lime
+93_29,28,what carb do i serve it with?,rice,black beans

@@ -1,0 +1,362 @@
+question_id,recipe_id,question,target_answer,generated_answer
+2_1,26,How hot should the oil be in the wok?,350°F.,heat over medium-high heat until lightly smoking.
+2_3,26,how much flour?,1/2 cup,1/2 cup
+2_4,26,How can I thin the batter if it is too thick?,adding up to 2 tablespoons additional water if batter is too thick.,adding up to 2 tablespoons additional water if batter is too thick
+2_5,26,What is the right consistency of the batter that I should aim for?,It should have the consistency of thin paint and fall off of the whisk in thin ribbons that instantly disappear as they hit the surface of the batter in the bowl.,It should have the consistency of thin paint and fall off of the whisk in thin ribbons that instantly disappear as they hit the surface of the batter in the bowl.
+2_6,26,Do I need to do anything to the tofu before adding it to the oil?,Add tofu and carefully turn to coat.,Carefully lower into hot oil. Repeat with remaining tofu until wok is full.
+2_7,26,How much time does the frying process takes?,about 6 minutes.,about 6 minutes
+2_11,26,What should I do with the oil after frying the tofu?,Carefully pour oil out of wok into a heatproof container and reserve.,Carefully pour oil out of wok into a heatproof container and reserve.
+2_12,26,What do I combine in the first small bowl?,"Stock, soy sauce, bean paste, vinegar, sugar, and remaining 2 teaspoons corn starch.","stock, soy sauce, bean paste, vinegar, sugar, and remaining 2 teaspoons corn starch"
+2_14,26,What type of vinegar?,chinkiang vinegar,apple cider vinegar
+2_16,26,What is done after combining the ingredients in the second small bowl?,Set aside.,Set aside.
+2_17,26,How should I prepare the peppercorns for this step?,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.
+2_21,26,How should I prepare the remaining half of peppercorns and chilies?,"Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds.","Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds."
+2_22,26,What should I do after I cook the peppercorns and chilies?,Immediately drain through fine mesh strainer.,Immediately drain through fine mesh strainer. Pick out chilies and set aside.
+2_23,26,What ingredients should I add to the wok first after heating the infused oil?,"leeks, celery, and long pepper","Add leeks, celery, and long pepper and cook, stirring and tossing, until vegetables are lightly charred and tender-crisp, about 1 1/2 minutes."
+2_25,26,What should I do when the vegetables are lightly charred and tender-crisp?,Clear a space in the center of the wok and add the scallion/ginger/garlic mixture.,"Cook, stirring and tossing, until vegetables are lightly charred and tender-crisp, about 1 1/2 minutes."
+2_26,26,How should I prepare the tofu for this step?,"Stir sauce mixture and add to wok. Cook, tossing and folding ingredients together until tofu is fully coated.",Add tofu and carefully turn to coat.
+13_2,28,Should I blend the ingredients all together?,"Using a blender or food processor, purée garlic, orange juice, lime juice, cumin, oregano, black pepper, allspice (if using), and 2 teaspoons kosher salt until well blended.",yes
+13_3,28,How can I prepare the garlic if I don't have a blender or food processor?,"(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.)","to make with a mortar and pestle, pound the garlic with the salt to form a paste and then mix in the rest of the ingredients."
+13_5,28,What do I need to make sure of when adding the marinade to the chicken?,making sure it coats chicken evenly all over,Make sure it coats chicken evenly all over.
+13_6,28,How do I ensure the chicken is well marinated if I am using a dish instead of a bag?,"if chicken is in a dish, turn it once halfway through.","Press out excess air and seal zipper-lock bag, or cover dish with plastic or a lid."
+13_7,28,What should I do with the excess marinade on the chicken breasts?,Remove the chicken breasts from the marinade and wipe off any excess.,Wipe off any excess.
+13_8,28,so I need to cook a chicken on a medium to high heat?,yes,medium-high heat
+32_2,46,what do I measure the sauces with?,teaspoons,teaspoon
+32_3,46,what kind of sauce do I need two teaspoons of?,fish,fish
+32_4,46,how long do I marinate the sauce for?,15 minutes,15 minutes
+32_5,46,How do I prepare the Thai chilies and garlic?,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar.,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar.
+32_6,46,What should I do with the fish sauce and soy sauce?,Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.,Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.
+32_7,46,what kind of sauce do I mix with the fish sauce?,soy,soy
+32_8,46,"What is the next step after grinding the chilies, garlic, palm sugar, fish sauce and soy sauce into a paste?",Finely slice remaining garlic and chilies and combine with shallot and lime leaves in a small bowl.,Add remaining fish sauce and mash in mortar to form a sauce. Set aside.
+32_9,46,what do I finely slice?,garlic,garlic and chilies
+32_10,46,what do I combine the garlic chili and lime leaves with?,shallot,small bowl
+32_11,46,How should I cook the beef in this step?,"Heat 1 tablespoon oil in a wok over high heat until smoking. Add half of beef and cook, without moving, until well seared, about 1 minute. Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute. Repeat with 1 more tablespoon oil and remaining beef.",heat 1 tablespoon oil in a wok over high heat until smoking.
+32_12,46,How is searing the beef done in this step?,"Heat 1 tablespoon oil in a wok over high heat until smoking. Add half of beef and cook, without moving, until well seared, about 1 minute.","Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute."
+32_13,46,"After searing the beef, what should I do next?","Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute. Transfer to a large bowl.","Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute."
+32_14,46,what do i add once the wok is smoking?,half of beef,beef
+32_15,46,what do I do over the high heat?,reheat wok,heat 1 tablespoon oil in a wok over high heat until smoking.
+32_16,46,How should I manage the heat when reheating the wok?,Reheat wok over high heat.,"Add all of the beef, along with sliced garlic/chili/makrut lime mixture. Continue to cook, tossing and stirring constantly, until stir-fry is aromatic and shallots have completely soft"
+32_17,46,What do I do after reheating the wok over high heat?,"Add all of the beef, along with sliced garlic/chili/makrut lime mixture.","Add all of the beef, along with sliced garlic/chili/makrut lime mixture."
+32_18,46,Over what do I reheat the wok?,high heat,high heat
+32_19,46,how long do I soften the shallots for?,about 1 minute,about 1 minute
+32_20,46,Any advice on how to reduce the sauce?,"cook, tossing and stirring constantly, until completely reduced.","Cook, tossing and stirring constantly, until completely reduced."
+32_21,46,How should the beef look when the sauce is completely reduced?,"The beef should look moist, but there should be no liquid in the bottom of the wok.","The beef should look moist, but there should be no liquid in the bottom of the wok."
+32_22,46,what should look moist?,beef,beef
+32_23,46,what do I season with as well as salt?,red pepper,pepper
+32_24,46,what do I add after the meat is cooked?,basil,basil
+41_1,43,What should I do if I am using lightly stale bread for this recipe?,Adjust oven rack to middle position and preheat oven to 325°F (165°C).,"If using fresh or lightly stale bread, adjust oven rack to middle position and preheat oven to 325°F (165°C)."
+41_2,43,what do I need to use to toast the bread crumbs?,oven,toaster
+41_3,43,how long do I need to leave bread crumbs to cool once I have taken them out of the oven?,about 5 minutes,about 5 minutes
+41_4,43,where do I need to put the bread to start reducing it to bread crumbs?,food processor bowl,food processor bowl
+41_5,43,What are we doing with the oil in this step?,Combine breadcrumbs and 1 tablespoon (15ml) oil in a large skillet.,heat
+41_6,43,where do I put the toasted bread crumbs and oil to cook them?,large skillet,large skillet
+41_7,43,what do I need to set half of aside for the pasta?,breadcrumbs,cup
+41_8,43,How do I store the extra breadcrumbs?,Transfer remaining crumbs to an airtight container for future use; the extra breadcrumbs can be stored at room temperature for up to 2 weeks.,the extra breadcrumbs can be stored at room temperature for up to 2 weeks.
+41_9,43,what do I need to bring to the boil?,water,water
+41_10,43,how long do I cook the cauliflower in the salted water?,about 10 minutes,about 10 minutes
+41_11,43,what do I need to add to the salted water when boiling?,cauliflower,cauliflower
+41_12,43,How can I ensure that the cauliflower is cooked correctly?,"Cook at a rapid simmer, stirring occasionally, until floret pieces are very tender and offer no resistance when poked with a paring knife at thickest part of stem end.","Cook, stirring and breaking up cauliflower with a wooden spoon, until floret pieces are very tender and offer no resistance when poked with a paring knife at thickest part of stem end, about 10 minutes."
+41_13,43,What should I do once the cauliflower is very tender?,"Using a spider skimmer, fine-mesh strainer, or slotted spoon, drain cauliflower while keeping boiling water in the pot; transfer cauliflower to a bowl or plate and set aside.","Using a spider skimmer, fine-mesh strainer, or slotted spoon, and cook, stirring and breaking up cauliflower with a wooden spoon, until florets break down to form a thick,"
+41_14,43,how hot does the hob need to be while I'm heating the 60 mL of oil?,medium heat,medium heat
+41_15,43,what do I use to season The Onion?,salt,salt
+41_16,43,what do I use to stir and break up the anchovies?,wooden spoon,wooden spoon
+41_17,43,"what is the optional ingredient I add to the cauliflower, water, raisins, pine nuts and saffron?",fennel,reserved cooking water
+41_18,43,what do I stir and break up with a wooden spoon?,cauliflower,cauliflower
+41_19,43,what is it that turns the sauce yellow?,saffron,saffron
+41_20,43,How should I proceed with the cauliflower once it's in the skillet?,"Season lightly with salt, bring to a rapid simmer over medium-high heat, and cook, stirring and breaking up cauliflower with a wooden spoon, until florets break down to form a thick, yellow-tinged sauce, 8 to 10 minutes.","Cook, stirring and breaking up cauliflower with a wooden spoon, until florets break down to form a thick, yellow-tinged sauce, 8 to 10 minutes."
+41_21,43,What can I do if the cauliflower isn't breaking down into a sauce?,Add more cooking water in 1/4-cup (60ml) increments as needed to ensure there is enough liquid in the pan to coax cauliflower into breaking down into a saucy consistency.,"Cook, stirring and breaking up cauliflower with a wooden spoon, until florets break down to form a thick, yellow-tinged sauce (thanks to the saffron), 8 to 10 minutes."
+41_22,43,what do I use to cook the pasta?,reserved pot,large skillet
+41_23,43,How should the pasta be cooked?,Cook pasta in the reserved pot of boiling water used for cooking the cauliflower until pasta is just shy of al dente (about 2 minutes less than the package directs).,Pasta should be well-coated but not swimming in sauce (the sauce will continue to tighten up in the time it takes to plate and serve).
+41_24,43,What should I do with the pasta after it's cooked?,"Using a spider skimmer (or tongs if cooking bucatini), transfer pasta to sauce, along with 1/2 cup (120ml) pasta cooking water. Alternatively, drain pasta using a colander or fine-mesh strainer, making sure to reserve at least 1 cup (240ml) pasta cooking water.","Using a spider skimmer (or tongs if cooking bucatini), transfer pasta to sauce, along with 1/2 cup (120ml) pasta cooking water. Alternatively, drain pasta using a colander"
+41_25,43,what needs to break down even further?,cauliflower,cauliflower
+41_26,43,How to make sure that the sauce coats the noodles well?,"Increase heat to high and cook, stirring and tossing rapidly, until pasta is al dente and cauliflower has broken down even further so that sauce coats noodles and pools around edges of the pan, about 2 minutes.","Cook, stirring and tossing rapidly, until pasta is al dente and cauliflower has broken down even further so that sauce coats noodles and pools around edges of the pan, about 2 minutes; add more pasta cooking water in 1/4"
+41_27,43,"What should I do, if the sauce doesn't have the desired consistency?",add more pasta cooking water in 1/4-cup (60ml) increments as needed to achieve desired consistency,Adjust sauce consistency as needed with more pasta water if it seems too dry.
+41_28,43,the pasta water should be added in increments of a quarter of what?,-cup,cup
+41_29,43,how much of the breadcrumbs should I add?,30g,1/4 cup; 30g
+41_30,43,How should I mix the breadcrumbs with the pasta?,"Remove from heat, add half of the breadcrumbs (1/4 cup; 30g), and toss to combine.","Combine breadcrumbs and 1 tablespoon (15ml) oil in a large skillet and cook over medium-low heat, stirring and tossing occasionally, until crisp and golden brown, 8 to 10 minutes."
+41_31,43,what should be well covered in sauce?,pasta,pasta
+41_32,43,What should I do if the pasta seems too dry?,Adjust sauce consistency as needed with more pasta water if it seems too dry.,Adjust sauce consistency as needed with more pasta water if it seems too dry.
+41_33,43,what should I sprinkle on before I serve?,breadcrumbs,remaining breadcrumbs
+49_1,46,How do I prepare the Thai chilies and garlic?,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar.,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar.
+49_2,46,What should I do with the fish sauce and soy sauce?,Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.,Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.
+49_3,46,how much garlic do I need to chop?,6 medium cloves,6 medium cloves
+49_4,46,how many shallots?,1 small shallot,1 small
+49_5,46,what temperature does the wok need to be?,high heat,high heat
+49_6,46,What do I do after reheating the wok over high heat?,"Add all of the beef, along with sliced garlic/chili/makrut lime mixture.","Add all of the beef, along with sliced garlic/chili/makrut lime mixture."
+49_7,46,How should I manage the heat when reheating the wok?,Reheat wok over high heat.,"Add all of the beef, along with sliced garlic/chili/makrut lime mixture. Continue to cook, tossing and stirring constantly, until stir-fry is aromatic and shallots have completely soft"
+49_8,46,what is the next step?,reheat wok,heat 1 tablespoon oil in a wok over high heat until smoking
+49_9,46,how long do I stir fry?,about 1 minute,about 1 minute
+49_10,46,Any advice on how to reduce the sauce?,"cook, tossing and stirring constantly, until completely reduced.","Cook, tossing and stirring constantly, until completely reduced."
+49_11,46,what is the herb to add?,basil,basil
+49_12,46,what seasoning do I add?,salt and and optional thai chili or red pepper flakes,salt
+51_1,39,How should I season the short ribs?,Season short ribs all over with salt and pepper.,Season short ribs all over with salt and pepper.
+51_2,39,Alexa where does the Heat have to be on a scale let me know please?,medium-high heat,on a scale
+51_3,39,Alexa what do I have to do to the oil in the large dutch oven?,heat,heat
+51_4,39,How do I cook the short ribs in the Dutch oven?,"Heat oil in a large Dutch oven over medium-high heat until shimmering. Working in batches, add short ribs and brown on all sides, about 4 minutes per side.",Heat oil in a large Dutch oven over medium-high heat until shimmering.
+51_5,39,how long do I have to do this process for Alexa?,about 4 minutes,1 minute
+51_6,39,which vegetables do I need to add to this recipe?,"celery, carrot, onion, and garlic",thyme and bay leaves
+51_7,39,"How should I prepare the celery, carrot, onion, and garlic?","Cook, stirring, until browned, about 6 minutes.","Return to the heat and add celery, carrot, onion, and garlic."
+51_8,39,how long am I supposed to do this whole process for?,about 6 minutes,3 minutes
+51_9,39,What herbs should I add in this recipe step?,Add thyme and bay leaves.,thyme and bay leaves
+51_10,39,What do I need to do with the port?,"bring port to a very gentle simmer, regulating heat to maintain that simmer. Cook, uncovered, and reduce until syrupy, about 1 hour; should yield about 1/2 cup (120ml) in volume.","bring port to a very gentle simmer, regulating heat to maintain that simmer."
+51_11,39,How do I handle the short ribs once they're done cooking?,"Carefully remove short ribs from pot and transfer to a clean platter (they will be very tender, so the bones may slip out; try to hold them together as you transfer them).",Transfer browned short ribs to a platter and repeat with remaining short ribs.
+51_12,39,What happens after the short ribs are put on a platter?,Tent them with foil.,Repeat with remaining short ribs.
+51_13,39,How should I handle the braising liquid after skimming off the fat?,"Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible.","Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible."
+51_14,39,How do I properly strain the braising liquid?,"Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible.","Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible."
+51_15,39,What is the process after returning the strained braising liquid to the Dutch oven?,"Return to heat and bring to a gentle simmer, adjusting heat to maintain simmer. Simmer until braising liquid is reduced to 2 cups, about 1 hour; skim any foam that accumulates on the surface as needed.","Return to heat and bring to a gentle simmer, adjusting heat to maintain simmer. Simmer until braising liquid is reduced to 2 cups, about 1 hour; skim any foam that accumulates on the surface as needed."
+51_16,39,What do I do if foam accumulates on the surface of the simmering liquid?,Skim any foam that accumulates on the surface as needed.,Skim any foam that accumulates on the surface as needed.
+51_17,39,How do I properly thicken the sauce using the cornstarch slurry?,whisk in the cornstarch slurry and bring to a simmer until thickened slightly.,"If it's still a little thin, whisk in the cornstarch slurry and bring to a simmer until thickened slightly."
+51_18,39,What should I do if the sauce is still too thin?,"If it's still a little thin, whisk in the cornstarch slurry and bring to a simmer until thickened slightly.","If it's still a little thin, whisk in the cornstarch slurry and bring to a simmer until thickened slightly."
+51_19,39,What am I supposed to do with the short ribs after seasoning the sauce?,"Return short ribs to Dutch oven, spooning the sauce all over and around them to glaze and rewarm.","Return short ribs to Dutch oven, spooning the sauce all over and around them to glaze and rewarm."
+51_20,39,How should I serve the short ribs?,Serve.,Transfer browned short ribs to a platter and repeat with remaining short ribs.
+55_1,26,what do I need to do with the oil in the wok?,heat,return
+55_2,26,"what else do I add with the cornstarch, baking powder and salt?",flour,flour
+55_3,26,what should I use to mix the cornstarch flour baking powder and salt?,. whisk,whisk
+55_4,26,How can I thin the batter if it is too thick?,adding up to 2 tablespoons additional water if batter is too thick.,adding up to 2 tablespoons additional water if batter is too thick
+55_5,26,Ok. what's next?,It should have the consistency of thin paint and fall off of the whisk in thin ribbons that instantly disappear as they hit the surface of the batter in the bowl.,"Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds."
+55_6,26,what do I line the plate with?,paper towel,paper towel
+55_7,26,what ingredient am i putting in the batter?,tofu,water
+55_8,26,what do I do after i've dipped the first piece of tofu into hot oil and put it on a paper towel on plate?,repeat,repeat until all tofu is fried.
+55_9,26,What should I do with the oil after frying the tofu?,Carefully pour oil out of wok into a heatproof container and reserve.,Carefully pour oil out of wok into a heatproof container and reserve.
+55_10,26,"what goes with the soy sauce, bean paste, vinegar, sugar and cornstarch?",stock,stock
+55_11,26,how much corn starch do I need?,2 teaspoons,2 teaspoons
+55_12,26,what goes with the stock so we slowly being paste sugar and cornstarch?,vinegar,vinegar
+55_13,26,Ok done! What next?,Set aside.,Carefully lower into hot oil. Repeat with remaining tofu until wok is full.
+55_14,26,What is done after combining the ingredients in the second small bowl?,Set aside.,Set aside.
+55_15,26,How should I prepare the peppercorns for this step?,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.
+55_16,26,what do I need to set over a heatproof bowl or saucepan?,fine mesh strainer,fine mesh strainer
+55_17,26,how much of the reserved oil should I use?,1/4 cup,1/4 cup
+55_18,26,what temperature should I heat the oil at?,medium-high heat,high heat
+55_19,26,How should I prepare the remaining half of peppercorns and chilies?,"Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds.","Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds."
+55_20,26,What should I do after I cook the peppercorns and chilies?,Immediately drain through fine mesh strainer.,Immediately drain through fine mesh strainer. Pick out chilies and set aside.
+55_21,26,what do I need to clear a space at the centre of?,wok,wok
+55_22,26,What should I do when the vegetables are lightly charred and tender-crisp?,Clear a space in the center of the wok and add the scallion/ginger/garlic mixture.,"Cook, stirring and tossing, until vegetables are lightly charred and tender-crisp, about 1 1/2 minutes."
+55_23,26,what do I add the sauce mixture to?,wok,wok
+55_24,26,How should I prepare the tofu for this step?,"Stir sauce mixture and add to wok. Cook, tossing and folding ingredients together until tofu is fully coated.",Add tofu and carefully turn to coat.
+55_25,26,what do I need to get fully coated?,tofu,tofu
+56_1,8,What should I use to make the blackberry purée?,"Using a blender, food processor, or immersion blender","a blender, food processor, or immersion blender"
+56_2,8,what is 70 degrees Fahrenheit in Centigrade for my oven?,21°c,to 350°f
+56_3,8,how many fresh blackberries do I need?,6 ounces (about 3/4 cup; 170g),6 ounces
+56_4,8,What should I do after adjusting the oven rack?,preheat to 350°F (180°C),Lightly grease an 8- by 2-inch or 8- by 3-inch anodized aluminum cake pan and line with parchment (explanation and tutorial here).
+56_6,8,What is the next step once the oven is preheated?,Lightly grease an 8- by 2-inch or 8- by 3-inch anodized aluminum cake pan and line with parchment,Lightly grease an 8- by 2-inch or 8- by 3-inch anodized aluminum cake pan and line with parchment (explanation and tutorial here).
+56_10,8,When should I add the egg whites?,"With mixer still running, add egg whites a little at a time, letting each addition fully incorporate before proceeding to the next.","With mixer still running, add egg whites a little at a time, letting each addition fully incorporate before proceeding to the next."
+56_11,8,How can I incorporate egg whites evenly into the mix?,"With mixer still running, add egg whites a little at a time, letting each addition fully incorporate before proceeding to the next.","With mixer still running, add egg whites a little at a time, letting each addition fully incorporate before proceeding to the next."
+56_14,8,What does one do after adding in the first third of the blackberry purée?,"Repeat with remaining flour and fruit, working in thirds as before.","Repeat with remaining flour and fruit, working in thirds as before."
+56_18,8,What's next?,The batter should look bright purple and register between 65 and 68°F (18 and 20°C) on a digital thermometer.,"Invert onto a wire rack, peel off parchment, and place on a serving plate until fully cool, about 1 hour. Top with a batch of Cream Cheese Frosting and a handful of fresh blackberries and cut with"
+56_20,8,How can I stop textural problems from being created in the cake?,"(Significant deviation indicates ingredients were too warm or too cold, which can lead to textural problems with the cake.)","If the batter looks streaky or tie-dyed, gently fold with a flexible spatula until streaks disappear."
+56_21,8,What should I do if the batter looks streaky or tie-dyed?,gently fold with a flexible spatula until streaks disappear.,gently fold with a flexible spatula until streaks disappear.
+56_23,8,What should I do after the cake has baked for about 30 minutes?,"Cool directly in pan for 1 hour, then run a butter knife around the edges to loosen.","Cool directly in pan for 1 hour, then run a butter knife around the edges to loosen. Invert onto a wire rack, peel off parchment, and place on a serving plate until fully cool, about 1 hour."
+56_26,8,How should I serve the cake after it is fully cooled?,Top with a batch of Cream Cheese Frosting and a handful of fresh blackberries and cut with a chef's knife to serve.,Top with a batch of Cream Cheese Frosting and a handful of fresh blackberries and cut with a chef's knife to serve.
+56_27,8,How can I preserve the cake if I don't want to serve it immediately?,"Wrapped in plastic, this cake will keep for up to 3 days at cool room temperature.","Wrapped in plastic, this cake will keep for up to 3 days at cool room temperature."
+59_1,46,how much fish sauce do I need?,teaspoons,2 teaspoons
+59_3,46,what sauce do I need two teaspoons of?,fish,fish
+59_4,46,how long do I have to marinate it for?,15 minutes,15 minutes
+59_5,46,How do I prepare the Thai chilies and garlic?,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar.,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar.
+59_6,46,What should I do with the fish sauce and soy sauce?,Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.,Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.
+59_7,46,"What is the next step after grinding the chilies, garlic, palm sugar, fish sauce and soy sauce into a paste?",Finely slice remaining garlic and chilies and combine with shallot and lime leaves in a small bowl.,Add remaining fish sauce and mash in mortar to form a sauce. Set aside.
+59_8,46,what do I combine the garlic and chilis with?,shallot,shallot and lime leaves
+59_9,46,what else do I slice with the chilis?,garlic,garlic
+59_10,46,How is searing the beef done in this step?,"Heat 1 tablespoon oil in a wok over high heat until smoking. Add half of beef and cook, without moving, until well seared, about 1 minute.","Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute."
+59_11,46,How should I cook the beef in this step?,"Heat 1 tablespoon oil in a wok over high heat until smoking. Add half of beef and cook, without moving, until well seared, about 1 minute. Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute. Repeat with 1 more tablespoon oil and remaining beef.",heat 1 tablespoon oil in a wok over high heat until smoking.
+59_12,46,"After searing the beef, what should I do next?","Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute. Transfer to a large bowl.","Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute."
+59_13,46,what do I add to the pot after the oil?,beef,beef
+59_14,46,what do I need to wipe out at the end?,wok,wok
+59_15,46,How should I manage the heat when reheating the wok?,Reheat wok over high heat.,"Add all of the beef, along with sliced garlic/chili/makrut lime mixture. Continue to cook, tossing and stirring constantly, until stir-fry is aromatic and shallots have completely soft"
+59_16,46,what do I do with the wok first?,reheat wok,heat 1 tablespoon oil
+59_17,46,what heat do I use?,high heat,high heat
+59_18,46,how long do I cook the shallots for?,about 1 minute,about 1 minute
+59_19,46,Any advice on how to reduce the sauce?,"cook, tossing and stirring constantly, until completely reduced.","Cook, tossing and stirring constantly, until completely reduced."
+59_20,46,what herb do I use?,basil,basil
+59_21,46,what can I use instead of Thai chilies?,red pepper,red pepper flakes
+65_1,28,Should I blend the ingredients all together?,"Using a blender or food processor, purée garlic, orange juice, lime juice, cumin, oregano, black pepper, allspice (if using), and 2 teaspoons kosher salt until well blended.",yes
+65_3,28,Are there any alternative ways to mix the ingredients if I don't own a blender or food processor?,"(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste and then mix in the rest of the ingredients. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.)","(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste and then mix in the rest of the ingredients."
+65_4,28,How can I prepare the garlic if I don't have a blender or food processor?,"(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.)","to make with a mortar and pestle, pound the garlic with the salt to form a paste and then mix in the rest of the ingredients."
+65_6,28,How do I ensure the chicken is well marinated if I am using a dish instead of a bag?,"if chicken is in a dish, turn it once halfway through.","Press out excess air and seal zipper-lock bag, or cover dish with plastic or a lid."
+65_7,28,"so when I leave the chicken for 30 minutes, can I leave it in a bit longer do I have to do ehm can I have it a bit shorter?",for 30 minutes,yes
+75_1,2,How should I prepare the potato before cooking it in the microwave or oven?,"Using the tines of a fork, poke holes in potato all over.","Using the tines of a fork, poke holes in potato all over."
+75_2,2,How can I tell if the potato is fully cooked in the microwave or in the oven?,a paring knife can be inserted in middle of potato with no resistance,"Until a paring knife can be inserted in middle of potato with no resistance, 9 to 12 minutes, checking and flipping the potato every 3 minutes."
+75_3,2,what do I use a paring knife for?,can be inserted in middle of potato with no resistance,checking and flipping the potato every 3 minutes.
+75_4,2,how long should I cook a potato for is 10 minutes okay?,yes,12 minutes
+75_5,2,what should I put the potato in is a small bowl okay?,yes,small bowl
+75_6,2,What should I do to the potato after it's been microwaved or baked and allowed to cool slightly?,"Using a spoon, scoop out flesh in a small bowl, discard skin.","Using the tines of a fork, poke holes in potato all over."
+75_7,2,is medium heat alright to melt the butter?,yes,small skillet
+75_8,2,when should I add the celery?,celery,when foaming subsides
+75_9,2,"How do I know when to add the sage, thyme, and garlic?","Stir in sage, thyme, and garlic and cook until fragrant, about 30 seconds.","Cook until fragrant, about 30 seconds."
+75_10,2,when should I add the garlic?,garlic,"cook until fragrant, about 30 seconds"
+75_11,2,should I use sweet potato in the turkey patties?,yes,yes
+75_12,2,is a medium Bowl the right size Bowl?,yes,medium bowl
+75_13,2,should I use pepper to season?,yes,salt
+75_14,2,What should I do after lighting up the charcoal?,"When all the charcoal is lit and covered with gray ash, pour out and spread the coals evenly over entire surface of charcoal grate.",Pour out and spread the coals evenly over entire surface of charcoal grate.
+75_15,2,should I heat the grill for 5 minutes?,yes,yes
+75_16,2,Ok. I have done that. What is next?,"Clean and oil the grilling grate. Grill burgers over direct heat until an instant read thermometer reads at least 145°F in the center of burger, but no more than 165°F.","Using the tines of a fork, poke holes in potato all over."
+75_17,2,is 145 degrees Fahrenheit the right temperature to cook at?,yes,145°f
+75_18,2,How should I cook the burgers on the grill?,"Grill burgers over direct heat until an instant read thermometer reads at least 145°F in the center of burger, but no more than 165°F.","Grill burgers over direct heat until an instant read thermometer reads at least 145°F in the center of burger, but no more than 165°F."
+75_19,2,is 165 degrees Fahrenheit the maximum temperature?,yes,no more than 165°f
+75_20,2,How do I properly toast the potato rolls?,"Lightly toast potato rolls on grill, about 30 seconds.","Lightly toast potato rolls on grill, about 30 seconds."
+78_1,12,what should I use to score the tomatoes?,paring knife,paring knife
+78_2,12,how hot should the water be?,boiling,boil
+78_3,12,What should I do with the tomatoes after scoring an X on their top side?,"In a pot of boiling water large enough to hold the spaghetti, blanch tomatoes until skins just begin to slip off where you scored them, 30 seconds to 1 minute.",Cut out the stem end.
+78_4,12,How can I remove the tomatoes from the pot?,"Using a slotted spoon, remove tomatoes.","Using a slotted spoon, remove tomatoes."
+78_5,12,what should I use to remove the tomatoes?,slotted spoon,slotted spoon
+78_6,12,What should I do with the tomatoes after running them under cold water?,remove and discard skins and seeds. Grate tomato flesh on largest holes of a box grater into a large heatproof mixing or serving bowl,Remove and discard skins and seeds.
+78_7,12,How can I prepare the tomatoes for this recipe?,"Run tomatoes under cold water, then remove and discard skins and seeds. Grate tomato flesh on largest holes of a box grater into a large heatproof mixing or serving bowl.","Using a paring knife, score an ""X"" on the top side of each tomato and cut out the stem end."
+78_8,12,how much garlic do I add?,3 medium cloves,3 medium cloves
+78_9,12,what do I add with olive oil and red pepper flakes?,"basil, garlic","basil, garlic"
+78_10,12,what do I use to season?,salt,salt
+78_12,12,What should I do after the water returns to a boil?,"Season with salt. Cook spaghetti, stirring frequently, until al dente.",Season with salt.
+78_13,12,How should I cook the spaghetti?,"Cook spaghetti, stirring frequently, until al dente.","Cook spaghetti, stirring frequently, until al dente."
+78_15,12,What do I do when the pasta is almost done cooking?,Transfer 1/4 cup (30ml) pasta cooking water to tomato mixture and whisk to form an emulsion.,"When pasta has almost finished cooking, transfer 1/4 cup (30ml) pasta cooking water to tomato mixture and whisk to form an emulsion."
+78_16,12,What should I do after I have my pasta ready?,"Using tongs, transfer pasta to tomato mixture along with an additional 1/4 cup (60ml) pasta cooking water. Vigorously toss and stir pasta to emulsify sauce and coat noodles.","Sprinkle with remaining breadcrumbs. Top with cheese, if desired."
+78_17,12,what do I use to transfer the pasta?,tongs,tongs
+78_18,12,what do I toss with the pasta?,breadcrumbs,breadcrumbs
+78_19,12,What do I do with the breadcrumbs that the recipe mentioned?,Add half of the breadcrumbs and toss to combine.,Add half of the breadcrumbs and toss to combine.
+78_20,12,How should I achieve the ideal consistency for my pasta?,"If it seems dry, add extra pasta water and olive oil, 1 tablespoon (15ml) at a time, until it reaches the desired consistency.","If it seems dry, add extra pasta water and olive oil, 1 tablespoon (15ml) at a time, until it reaches the desired consistency."
+78_21,12,what can I add on top?,breadcrumbs,cheese
+78_22,12,What should I do with the remaining breadcrumbs?,Sprinkle with remaining breadcrumbs.,Add half of the breadcrumbs and toss to combine.
+78_23,12,what can I add for extra flavor?,cheese,salt
+78_24,12,How should I serve the pasta?,Serve right away.,Serve right away.
+81_1,27,what do I need to line a large plate with?,three layers of paper towels or a clean dish towel,paper towels
+81_2,27,how do I spread ricotta?,rubber spatula,"into a thin, even layer."
+81_3,27,How do I remove the excess moisture from the ricotta?,Place another triple layer of paper towels or a clean dish towel on top and press down firmly with the palms of your hands to blot excess moisture.,Press down firmly with the palms of your hands to blot excess moisture.
+81_4,27,What's the next step after placing the ricotta on the paper towels?,Place another triple layer of paper towels or a clean dish towel on top and press down firmly with the palms of your hands to blot excess moisture.,Place another triple layer of paper towels or a clean dish towel on top and press down firmly with the palms of your hands to blot excess moisture. Peel off upper paper towels.
+81_5,27,what do I place on top of the ricotta?,another triple layer of paper towels or a clean dish towel,paper towels
+81_6,27,what do I need to place on the scale?,large bowl,large bowl
+81_7,27,What do I do with the ricotta mixture once it's combined and seasoned?,"Transfer to a large clean plate and spread into a thin, even layer. Transfer to freezer and let chill for 15 minutes.","Transfer to a large clean plate and spread into a thin, even layer. Transfer to freezer and let chill for 15 minutes."
+81_8,27,What should I do with the semolina flour?,Transfer half of the semolina flour to a large bowl and the other half to a 9- by 13-inch baking dish.,Transfer half of the semolina flour to a large bowl and the other half to a 9- by 13-inch baking dish.
+81_9,27,what do I transfer the first half of semolina into?,large bowl,large bowl
+81_10,27,what do I scrape ricotta into?,separate empty large bowl,bowl
+81_11,27,How should the ricotta be prepared?,Scrape it into a separate empty large bowl and fold it with a rubber spatula until no big chunks of frozen ricotta remain.,Scrape ricotta into bowl to weigh.
+81_12,27,what do I put the ricotta ball into?,bowl,bowl
+81_13,27,What should I do after I finish forming the gnudi sphere?,Transfer it to the baking dish.,Transfer it to the baking dish. Repeat with remaining ricotta. You should have about 16 to 20 finished gnudi.
+81_14,27,What to do with the leftover semolina in the bowl?,Sprinkle any remaining semolina in the bowl over the formed gnudi.,Sprinkle any remaining semolina in the bowl over the formed gnudi.
+81_15,27,what is the remaining semolina in?,bowl,bowl
+81_16,27,how often should I turn a refrigerated gnudi?,once per day,once
+81_17,27,What can I do if I am not ready to cook the gnudi immediately?,"They can be frozen. Transfer to a large plate or a rimmed baking sheet and freeze until solid, about 1 hour. Transfer to a zipper-lock freezer bag and store in the freezer for up to 2 months. Allow to thaw on a plate covered with plastic wrap in the refrigerator overnight before cooking.","Using a slotted spoon, transfer the gnudi to the skillet with the butter, making sure that plenty of pasta water gets into the pan with the gnudi."
+81_18,27,how long do I freeze gnudi for?,about 1 hour,about 1 hour
+81_19,27,what needs to subside before I stop heating butter?,foaming,foaming
+81_20,27,what do I heat the butter in?,medium saucepan,medium saucepan
+81_21,27,What comes immediately after heating the butter in the saucepan?,"Add sage leaves, season lightly with salt, and cook, turning the leaves occasionally, until crisp, about 2 minutes.",Butter has a nutty aroma.
+81_22,27,What should I do with the sage leaves after they are cooked?,"Using tongs, transfer the leaves to a paper towel-lined plate to drain.","Using tongs, transfer the leaves to a paper towel-lined plate to drain. Reserve browned butter off-heat."
+81_23,27,what do I place the remaining butter into?,medium skillet,medium skillet
+81_24,27,how long do I cook the gnudi for?,for 3 minutes,about 1 minute
+81_25,27,How can I make sure the gnudi doesn't stick together while it is cooking?,"cook, stirring very gently, for 3 minutes.","Using a slotted spoon, transfer the gnudi to the skillet with the butter, making sure that plenty of pasta water gets into the pan with the gnudi."
+81_26,27,Does this step require me to drain the pasta water before adding gnudi to the skillet?,making sure that plenty of pasta water gets into the pan with the gnudi.,Yes
+81_27,27,what do I use to transfer the gnudi to a skillet?,slotted spoon,slotted spoon
+81_28,27,What is the purpose of shaking the pan and gently stirring the gnudi?,Shaking the pan and gently stirring the gnudi helps the butter and pasta water emulsify into a creamy sauce.,"until the butter and pasta water emulsify into a creamy sauce, about 1 minute."
+81_29,27,what to do I place the Skillet over?,high heat,large bowl
+81_30,27,how long does emulsification take?,about 1 minute,about 1 minute
+81_31,27,How do I know when the sauce is ready?,"The sauce is ready when the butter and pasta water emulsify into a creamy sauce, about 1 minute.",Season to taste with salt.
+81_32,27,what am I meant to shake?,pan,pan
+81_33,27,What am I supposed to do with the gnudi and butter sauce?,Transfer gnudi and butter sauce to a warm serving dish or to individual plates.,Transfer gnudi and butter sauce to a warm serving dish or to individual plates. Top with fried sage leaves and drizzle with browned butter.
+81_34,27,How should I serve the gnudi after transferring it?,Top with fried sage leaves and drizzle with browned butter. Sprinkle with Parmesan and black pepper and serve immediately.,Top with fried sage leaves and drizzle with browned butter. Sprinkle with Parmesan and black pepper and serve immediately.
+81_35,27,How can I present the gnudi for serving?,Top with fried sage leaves and drizzle with browned butter. Sprinkle with Parmesan and black pepper and serve immediately.,Top with fried sage leaves and drizzle with browned butter.
+90_1,39,what step must be created in order for the oven to reach a temperature of 300 degrees Fahrenheit?,preheat oven,150°c
+90_2,39,Ok. what's next?,Season short ribs all over with salt and pepper.,"Add short ribs to pot along with any accumulated juices, nestling them into braising liquids."
+90_3,39,what vessel are we cooking the short ribs in?,large dutch oven,pot
+90_4,39,How do I cook the short ribs in the Dutch oven?,"Heat oil in a large Dutch oven over medium-high heat until shimmering. Working in batches, add short ribs and brown on all sides, about 4 minutes per side.",Heat oil in a large Dutch oven over medium-high heat until shimmering.
+90_5,39,"How should I prepare the celery, carrot, onion, and garlic?","Cook, stirring, until browned, about 6 minutes.","Return to the heat and add celery, carrot, onion, and garlic."
+90_6,39,What should I do if the contents of the pot start to burn?,Lower heat at any point if the contents of the pot threaten to burn.,lower heat at any point if the contents of the pot threaten to burn.
+90_7,39,what kind of paste do we add to the vegetables after cooking them for 6 minutes?,tomato,tomato
+90_8,39,what step do we take if the contents of the pot begin to burn?,lower heat,lower heat at any point if the contents of the pot threaten to burn.
+90_9,39,what kind of wine do we add to the pot?,red wine,red wine
+90_10,39,What exactly should I do after adding the stock?,"If using store-bought stock, place it in a large bowl first and sprinkle all over with gelatin until bloomed, then add to Dutch oven.","If using store-bought stock, place it in a large bowl first and sprinkle all over with gelatin until bloomed, then add to Dutch oven."
+90_11,39,What does it mean to bloom gelatin on the stock?,Place it in a large bowl first and sprinkle all over with gelatin until bloomed.,"Sprinkle all over with gelatin until bloomed, then add to Dutch oven."
+90_12,39,What herbs should I add in this recipe step?,Add thyme and bay leaves.,thyme and bay leaves
+90_13,39,What do I need to do with the port?,"bring port to a very gentle simmer, regulating heat to maintain that simmer. Cook, uncovered, and reduce until syrupy, about 1 hour; should yield about 1/2 cup (120ml) in volume.","bring port to a very gentle simmer, regulating heat to maintain that simmer."
+90_14,39,How do I handle the short ribs once they're done cooking?,"Carefully remove short ribs from pot and transfer to a clean platter (they will be very tender, so the bones may slip out; try to hold them together as you transfer them).",Transfer browned short ribs to a platter and repeat with remaining short ribs.
+90_15,39,What do I do after the short ribs are removed from the pot?,Transfer them to a clean platter and tent with foil.,"Transfer to a clean platter (they will be very tender, so the bones may slip out; try to hold them together as you transfer them)."
+90_16,39,What happens after the short ribs are put on a platter?,Tent them with foil.,Repeat with remaining short ribs.
+90_17,39,What should I do with the fat that accumulated on the braising liquid?,Skim accumulated fat from surface of braising liquid and discard.,Skim accumulated fat from surface of braising liquid and discard.
+90_18,39,How should I handle the braising liquid after skimming off the fat?,"Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible.","Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible."
+90_19,39,How do I properly strain the braising liquid?,"Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible.","Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible."
+90_20,39,What is the process after returning the strained braising liquid to the Dutch oven?,"Return to heat and bring to a gentle simmer, adjusting heat to maintain simmer. Simmer until braising liquid is reduced to 2 cups, about 1 hour; skim any foam that accumulates on the surface as needed.","Return to heat and bring to a gentle simmer, adjusting heat to maintain simmer. Simmer until braising liquid is reduced to 2 cups, about 1 hour; skim any foam that accumulates on the surface as needed."
+90_21,39,What do I do if foam accumulates on the surface of the simmering liquid?,Skim any foam that accumulates on the surface as needed.,Skim any foam that accumulates on the surface as needed.
+90_22,39,How can I determine if the sauce has the right consistency?,The sauce should be thick enough to coat the back of a spoon and leave a trail when you drag your finger through it.,"The sauce should be thick enough to coat the back of a spoon and leave a trail when you drag your finger through it. If it's still a little thin, whisk in the cornstarch slurry and bring to"
+90_23,39,How do I properly thicken the sauce using the cornstarch slurry?,whisk in the cornstarch slurry and bring to a simmer until thickened slightly.,"If it's still a little thin, whisk in the cornstarch slurry and bring to a simmer until thickened slightly."
+90_24,39,What should I do if the sauce is still too thin?,"If it's still a little thin, whisk in the cornstarch slurry and bring to a simmer until thickened slightly.","If it's still a little thin, whisk in the cornstarch slurry and bring to a simmer until thickened slightly."
+90_25,39,What am I supposed to do with the short ribs after seasoning the sauce?,"Return short ribs to Dutch oven, spooning the sauce all over and around them to glaze and rewarm.","Return short ribs to Dutch oven, spooning the sauce all over and around them to glaze and rewarm."
+90_26,39,How should I serve the short ribs?,Serve.,Transfer browned short ribs to a platter and repeat with remaining short ribs.
+92_1,5,What can I use if I don't have the recommended pan?,a traditional cake pan of those dimensions,a traditional cake pan
+92_2,5,what should I use if I don't have a non retractive aluminium pan preferably non-locking two-piece Style?,traditional cake pan,traditional cake pan
+92_3,5,what do I need to bake it in?,pan,pan
+92_4,5,Can I bake the cheesecake in a different size pan?,"cheesecake can be baked in any size or style of pan, but the volume of batter, bake temperatures, and times will require individual adjustments which have not been tested here.",pan
+92_5,5,what needs to sit flat?,pan,pan
+92_6,5,What should I do with the foil if someone is using a two-piece pan?,"wrap the bottom piece in foil before assembly, then tear away the excess so the pan sits flat","Wrap the bottom piece in foil before assembly, then tear away the excess so the pan sits flat."
+92_7,5,what is the ideal pan to use?,a two-piece pan,traditional cake pan
+92_8,5,What if I am using a traditional cake pan instead?,line the bottom with a parchment round,"If using a traditional cake pan, line the bottom with a parchment round, with a touch more effort to unmold."
+92_9,5,what is the alternative?,traditional cake pan,traditional cake pan
+92_10,5,Should I grease the pan?,lightly grease the pan,"In either case, lightly grease the pan."
+92_11,5,how should I mix the ingredients?,fork,stand mixer
+92_12,5,what do I use for the crust?,"graham cracker crumbs, melted butter, and salt",parchment
+92_13,5,How do I combine the ingredients for the Graham Cracker Crust in this step?,"Add the graham cracker crumbs, melted butter, and salt to the pan, and stir with a fork until well combined.","Add the graham cracker crumbs, melted butter, and salt to the pan, and stir with a fork until well combined."
+92_14,5,where should I add the salt?,pan,pan
+92_15,5,How do I get the crust to form at the bottom of the pan?,"With your fingers, compress into an even layer along the bottom of the pan.","With your fingers, compress into an even layer along the bottom of the pan."
+92_16,5,what other ingredient do I need besides cream cheese goat cheese lemon juice vanilla extract and salt?,orange flower water,orange flower water
+92_17,5,what else what else should I add other than cream cheese goat cheese lemon juice vanilla extract and water?,"salt, and orange flower water",salt
+92_18,5,Ok. I have done that. What is next?,Do not add the sugar at this time.,"Drape the cake in plastic wrap to protect its surface, then increase to medium and cream until no lumps of cheese remain, and the mixture is perfectly smooth; about 5 minutes."
+92_19,5,what method should I use to ensure there are no lumps of cheese?,cream,mixer
+92_20,5,What is the first thing I should do in this step?,"Reduce speed to medium-low, add the sugar all at once, and mix only until well combined.","Turn off the oven, open the door, and let it stand ajar 10 minutes."
+92_21,5,what should I remove from the mixer?,bowl,bowl
+92_22,5,what ingredients should I add next?,eggs,"the graham cracker crumbs, melted butter, and salt"
+92_23,5,how should I mix the eggs?,whisk,whisk
+92_24,5,How should I handle any clots of chalazae that remain trapped in the strainer?,Discard any clots of chalazae that remain trapped in the strainer.,Discard any clots of chalazae that remain trapped in the strainer.
+92_25,5,where should I boil the cream?,stainless steel pot,stainless steel pot
+92_26,5,what should I boil?,cream,cream
+92_27,5,What should I do after bringing the cream to a full boil?,"While mixing on low, add the hot cream all at once in a steady stream, and mix a few seconds more.","While mixing on low, add the hot cream all at once in a steady stream, and mix a few seconds more."
+92_28,5,what should be added to the mixture next?,hot cream,sugar
+92_29,5,What do I do with the batter if I'm not using it immediately?,"Refrigerate the batter in an airtight container until needed, up to one week.","Refrigerate the batter in an airtight container until needed, up to one week. Bring cold batter to room temperature before baking."
+92_30,5,Ok. what's next?,Bring cold batter to room temperature before baking.,"If you don't see any, no need to continue."
+92_31,5,What should I do after pouring batter into the pan?,Place it on a baking sheet.,"Place on a baking sheet. Bounce a spoon across the surface to dislodge any air bubbles that may have slipped through. If you don't see any, no need to continue."
+92_32,5,what should I bounce on the surface to dislodge any air bubbles?,spoon,spoon
+92_33,5,What strategy is suggested to remove air bubbles from the batter?,Bounce a spoon across the surface to dislodge any air bubbles that may have slipped through.,Bounce a spoon across the surface to dislodge any air bubbles that may have slipped through.
+92_34,5,what temperature in fahrenheit do I need to bake it at?,250°f,250°f
+92_35,5,"What is the alternate baking method mentioned for a denser, paler cheesecake?",Skip to the next step and bake only at 250°F until done; this may take an hour or more.,skip to the next step and bake only at 250°F until done; this may take an hour or more.
+92_36,5,how long should I leave the oven door ajar?,10 minutes,10 minutes
+92_37,5,What is the next step after turning off the oven and leaving the door ajar for 10 minutes?,"Close the door and set the oven to 250°F. Continue baking until the outer edge of the cheesecake feels firm, though the innermost ring of cheesecake will wobble quite freely if you shake the pan, about 35 minutes.",Close the door and set the oven to 250°F.
+92_38,5,how long should I continue baking?,about 35 minutes,about 35 minutes
+92_39,5,How can I tell when the cheesecake is done baking?,The cheesecake will be done when the very center registers 145°F on a digital thermometer inserted to a depth of 2-inches.,The cheesecake will be done when the very center registers 145°F on a digital thermometer inserted to a depth of 2-inches.
+92_40,5,What causes the cheesecake to crack?,Cracking is the result of over-baking and nothing more.,Testing with a thermometer will not cause the cheesecake to crack; cracking is the result of over-baking and nothing more.
+92_41,5,what should I use to loosen the sides?,thin knife,offset spatula
+92_42,5,What's the next step after letting the cheesecake cool for 15 minutes?,Run a thin knife or offset spatula around the sides to loosen (this helps the cake settle evenly as it cools).,run a thin knife or offset spatula around the sides to loosen (this helps the cake settle evenly as it cools).
+92_43,5,"After cooling the cheesecake, I've to let it settle evenly. What's the correct technique to do this?",Run a thin knife or offset spatula around the sides to loosen (this helps the cake settle evenly as it cools).,run a thin knife or offset spatula around the sides to loosen (this helps the cake settle evenly as it cools).
+92_44,5,how long should I leave it cool at room temperature?,1 hour,for 15 minutes
+92_45,5,how long should I refrigerate?,12 hours,"until cold to the core, at least 12 hours"
+92_46,5,How do I separate the cheesecake from a loose bottom cake pan?,"Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula. Place the pan on a large can of tomatoes or a similarly sized object; something tall enough to lift the cheesecake 4-inches from the counter, and wide enough to form a stable base. With both hands on the sides of the pan, pull downward to drop the outer ring away from the bottom. Place the cake onto a flat work surface, loosen it from the bottom of the pan with an offset spatula, and transfer to a large, flat serving plate.",Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula.
+92_47,5,what should I use to loosen the cheesecake?,thin knife,offset spatula
+92_48,5,what kind of can should I use to stand it on?,tomatoes,pan
+92_49,5,how long will it stay fresh in the fridge?,10 days,10 days
+92_50,5,How do I properly remove the cheesecake from a traditional cake pan?,"Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula. Stand the cake in a few inches of scalding hot water until the pan feels warm (a roasting pan works well for this). Drape the cake in plastic wrap to protect its surface, then invert onto a large, flat plate, and lift the pan to pull it away. It should slide free without any resistance; if not, continue standing in hot water a few minutes more. After removing the pan, peel the parchment from the crust, and re-invert the cheesecake onto a serving plate.",Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula.
+92_51,5,what kind of pan works well?,roasting pan,roasting pan
+92_52,5,what should feel warm in the hot water?,pan,pan
+92_53,5,How should I serve the cheesecake?,"Combine the fresh fruit and warmed fruit syrup or jam in a large bowl, and gently fold with a flexible spatula until the fruit is well coated and glistening (optional). Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade under hot running water between each slice. Top with spoonfuls of the sauced fruit, if using, or other toppings and sauces as desired.","Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade under hot running water between each slice."
+92_54,5,What should be done to ensure neat slices of cheesecake?,"Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade under hot running water between each slice.",pause to clean the blade under hot running water between each slice.
+92_55,5,what should I use to cut it?,knife,large chef's knife
+93_1,28,what seasonings do I use?,"black pepper, allspice (if using), and 2 teaspoons kosher salt",salt
+93_2,28,Should I blend the ingredients all together?,"Using a blender or food processor, purée garlic, orange juice, lime juice, cumin, oregano, black pepper, allspice (if using), and 2 teaspoons kosher salt until well blended.",yes
+93_3,28,what type of spice do I use?,allspice,allspice
+93_4,28,what do I use to puree?,blender,garlic
+93_5,28,How can I prepare the garlic if I don't have a blender or food processor?,"(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.)","to make with a mortar and pestle, pound the garlic with the salt to form a paste and then mix in the rest of the ingredients."
+93_6,28,Are there any alternative ways to mix the ingredients if I don't own a blender or food processor?,"(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste and then mix in the rest of the ingredients. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.)","(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste and then mix in the rest of the ingredients."
+93_7,28,what meat am i meant to use?,chicken,chicken
+93_8,28,How can I prepare the chicken breasts in this step?,"If using chicken breast halves, cut into cutlets following our instructions here, pounding to an even thickness of about 1/4 inch",Remove the chicken breasts from the marinade and wipe off any excess.
+93_9,28,what is the meat about I just cut up?,chicken,chicken
+93_10,28,Ok. I have done that. What is next?,making sure it coats chicken evenly all over,"Press out excess air and seal zipper-lock bag, or cover dish with plastic or a lid."
+93_11,28,how long do I refrigerate it?,for 30 minutes,for 30 minutes
+93_12,28,How do I ensure the chicken is well marinated if I am using a dish instead of a bag?,"if chicken is in a dish, turn it once halfway through.","Press out excess air and seal zipper-lock bag, or cover dish with plastic or a lid."
+93_13,28,if what is in a dish?,chicken,chicken
+93_14,28,What should I do with the excess marinade on the chicken breasts?,Remove the chicken breasts from the marinade and wipe off any excess.,Wipe off any excess.
+93_15,28,what level do I simmer on?,medium-high heat,medium-high heat
+93_16,28,What is the ideal heat setting for the oil in the skillet?,Heat oil over medium-high heat until shimmering.,medium-high heat
+93_17,28,what do I add to this pan?,chicken,chicken cutlets
+93_18,28,How do I ensure the chicken cutlets don't get cold while I cook the rest?,Transfer cooked cutlets to a platter and cover with foil or place in a low oven to keep warm.,Transfer cooked cutlets to a platter and cover with foil or place in a low oven to keep warm.
+93_19,28,what's the next step with the other chickens?,"repeat with remaining chicken, adding more oil if the pan gets too dry.",repeat
+93_20,28,What does it mean to sauté the onions?,It involves cooking them over medium-high heat until they have softened a bit and started to brown.,"sauté until the onions have softened a bit and started to brown, 7 to 10 minutes; lower heat and/or add a small splash of water if the contents of the pan threaten to burn."
+93_21,28,what do I add the onion to?,pan,black beans and rice
+93_22,28,what do I add to stop it from burning?,water,water
+93_23,28,What should I add if the content of the pan is about to burn?,You should add a small splash of water.,lower heat and/or add a small splash of water if the contents of the pan threaten to burn.
+93_24,28,where do i add the water to?,pan,pan
+93_25,28,What should be done with the cutlets once they are arranged on the plate?,Top with browned onions.,Top with browned onions.
+93_26,28,what's the first thing I used for garnish?,cilantro,cilantro
+93_27,28,I add a what wedge?,lime,lime
+93_28,28,What should be served with the cutlets?,Serve with black beans and rice.,Black beans and rice
+93_29,28,what carb do i serve it with?,rice,black beans

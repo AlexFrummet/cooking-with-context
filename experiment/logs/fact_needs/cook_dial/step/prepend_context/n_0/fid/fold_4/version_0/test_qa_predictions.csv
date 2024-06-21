@@ -1,0 +1,129 @@
+question_id,recipe_id,question,target_answer,generated_answer
+237,191,Ok good I have them ready. What are the next ingredients?,1/3 cup sugar,1/3 cup sugar
+238,191,Ok I got it. What is next?,1 tablespoon salt,1/2 cup rye or whole wheat flour
+239,191,Ok I have the salt and flower. What is next?,5 1/2 cups all-purpose flour,1/2 cup rye or whole wheat flour
+252,191,Ok how much is that in Celsius?,190 degrees C,190 degrees C
+364,62,That's a lot. I have the first two ingredients. What are the next ones?,"1 cup peeled, chopped jicama","1 cup peeled, chopped jicama"
+366,62,Ok. I have that. Continue please.,"1 lime, zested and juiced","1 lime, zested and juiced"
+367,62,Ok. I have them all. What's next?,2 tablespoons salt,"1 cup peeled, chopped jicama"
+381,209,Ok no problem. What are the next ingredients?,1 cup grated Parmesan cheese,1 cup dry bread crumbs
+382,209,Ok I have all 3 of them. What is next?,"1 orange, sliced into rounds",1 cup dry bread crumbs
+383,209,Ok good I took all the ingredients and prepared them. What are the next ingredients?,1 (10.5 ounce) can chicken broth,1 cup dry bread crumbs
+398,209,Ok 25 minutes have passed. How do I know if it is ready?,until bubbly,until bubbly
+411,147,Ok. I have them. What are the next ingredients?,1 quart vegetable broth,"1/4 large onion, chopped"
+490,187,"Ok good, what are the first two ingredients?",2 cups all-purpose flour,2 cups all-purpose flour
+494,187,"Ok no problem, what are the next ingredients?",1/2 teaspoon ground cinnamon,1 teaspoon salt
+513,212,"Ok, I have them ready, what are the next ones?",1/2 cup packed brown sugar,1/2 cup packed brown sugar
+515,212,That's ok! Can you tell me more ingredients?,2 teaspoons vanilla extract,1/2 cup packed brown sugar
+645,227,Alright. I have them ready. What is next?,1/2 cup packed brown sugar,"2 (4 ounce) jars apricot baby food, divided"
+646,227,OK easy I have them here already. What now?,1 teaspoon salt,1/2 cup confectioners' sugar
+648,227,Ah ok thanks. What about the size of the jars?,"2 (4 ounce) jars apricot baby food, divided","2 (4 ounce) jars apricot baby food, divided"
+649,227,Ok thanks. What is next?,1 egg,3/4 cup milk
+650,227,Ok nice I have them ready in the kitchen. How many ingredients are left still?,3 tablespoons vegetable oil,"2/3 cup sliced almonds, coarsely chopped"
+651,227,Ok what are the next ones?,1/2 cup diced dried apricots,1 teaspoon salt
+653,227,Ok thanks I will try. What are the last ingredients?,1 teaspoon milk,"2 (4 ounce) jars apricot baby food, divided"
+661,227,Ok sure. Could you give me the temperature in degrees Celsius? Since my oven is set on degrees Celsius I want to know if I chose the right temperature.,180 degrees C,my oven is set on degrees Celsius
+710,97,Yes. What are the first two ingredients?,"1 1/2 pounds skinless, boneless chicken breast meat","1 1/2 pounds skinless, boneless chicken breast meat"
+711,97,Ok. I have them. What are the next ingredients?,1/2 teaspoon salt,1/2 teaspoon salt
+712,97,Ok. I have them as well. What are the next?,1 1/2 cups milk,1 1/2 cups milk
+714,97,Ok. No problem. What are the next ingredients?,"1 onion, chopped","1 onion, chopped"
+715,97,Ok. I have them. What is next?,1/3 cup all-purpose flour,"1 onion, chopped"
+718,97,OK. What are the last two ingredients?,1 (9 inch) pastry for a 9 inch single crust pie,"2 cups frozen mixed vegetables, thawed"
+732,97,Ok. How long should I do that?,until the sauce thickens and boils,until chicken is golden brown
+872,20,I have put the skillet on the stove. How many butter do I need to melt?,"6 tablespoons butter or margarine, divided",2 tablespoons butter
+915,148,"Yes please I'd like beef in the lasagna. I got these ingredients ready, what should I do next?",1 cup chopped onion,1 cup chopped onion
+917,148,"Okay no problem, could I have two more ingredients?",1 (29 ounce) can diced tomatoes,1 cup chopped onion
+918,148,"Okay, could I have the exact weight of the cans please?",1 tablespoon butter,1 (10.75 ounce) can condensed cream of mushroom soup
+919,148,Good. Thank you. Are there more ingredients?,3 tablespoons chopped black olives,1 cup shredded Cheddar cheese
+920,148,"Okay good, I prepared. What next?",1 cup shredded mozzarella cheese,1 cup chopped onion
+921,148,Okay good. How big should the can of cream be?,1 (10.75 ounce) can condensed cream of mushroom soup,1 (10.75 ounce) can condensed cream of mushroom soup
+922,148,Okay good. Thanks. What next?,1/4 cup beef broth,"1 cup red bell pepper, chopped"
+939,148,"Okay, how do I see that it's ready?",until heated through,until heated through
+1047,185,Ok I have prepared the first two ingredients. What is next?,2 tablespoons cooking oil,"1 pound new potatoes, cut into chunks"
+1064,76,I have cut the eggplant into slices. What should I do now?,"1 red bell pepper, sliced into thin strips","1 red bell pepper, sliced into thin strips"
+1066,76,Ok. what should I do now?,2 ounces soft goat cheese,1 French baguette
+1067,76,What kind of tapenade should I use?,1/4 cup tapenade (olive spread),1/4 cup tapenade (olive spread)
+1072,76,Ok. when do I know it is ready?,until tender and slightly browned,until tender and slightly browned
+1139,139,Ok. alright. I have them. What is next?,3 tablespoons sugar,2 cups warm milk
+1258,122,Ok no problem. Could I ask the next two ingredients?,2 tablespoons olive oil,1 beef bouillon cube
+1259,122,"Ok good, could I have the next two?","1 medium yellow onion, thinly sliced","1 medium yellow onion, thinly sliced"
+1260,122,How many cups of red wine sorry?,1/4 cup red wine,1/4 cup red wine
+1261,122,"Sorry I don't understand ""one stroke 4 cups"". Did you mean one fourth of a cup?",1/4 cup red wine,one fourth of a cup
+1262,122,"Ok good, what are the next two ingredients?",1 beef bouillon cube,1 beef bouillon cube
+1264,122,Ok no problem. Can I ask for two more ingredients?,"1 large potato, cubed",1 beef bouillon cube
+1265,122,Ok good. Can I have two more ingredients?,1/2 teaspoon rosemary,"1 medium yellow onion, thinly sliced"
+1266,122,"Ok they are ready, can I have two more?",1/2 tablespoon garlic powder,"1 medium yellow onion, thinly sliced"
+1268,122,Ok no problem! Can I have two more ingredients?,1/4 cup water,"1 medium yellow onion, thinly sliced"
+1463,256,How much flour?,1 cup all-purpose flour,1 cup all-purpose flour
+1465,256,How much bread crumbs?,2 cups Italian-style seasoned bread crumbs,1 cup all-purpose flour
+1467,256,Could you specify how many eggs and water I need?,"2 eggs, beaten",2 tablespoons water
+1472,256,I want to know the exact amout of each. Could you tell me that?,1 cup mayonnaise,1/2 teaspoon ground black pepper
+1473,256,Great. Thanks for that. What about the others?,1/2 cup sour cream,1/2 teaspoon ground black pepper
+1480,198,"Ok, I have baking powder and salt ready, what should I prepare next?",1/2 cup semisweet chocolate chips,1/2 cup semisweet chocolate chips
+1481,198,"Ok, oil and chocolate chip are also ready on my counter. Are there any more ingredients? And if so how many?",1/4 cup milk,are there any more ingredients?
+1645,200,"Ok, I already had cherry pie filling in my kitchen, great! What next?",1 (16.5 ounce) can pitted dark sweet cherries,1 (16.5 ounce) can pitted dark sweet cherries
+1646,200,"Ok, how big should the can be?",1 (16.5 ounce) can pitted dark sweet cherries,1 (21 ounce) can cherry pie filling
+1647,200,"Good, could you tell me which are the last ingredients?",1 cup chopped walnuts,1 (18.25 ounce) package chocolate cake mix
+1660,195,Ok. How large should the package be?,1 (18 ounce) package small chocolate chip cookies,1 (18 ounce) package small chocolate chip cookies
+1663,195,"Alright, what is next?",12 cherries,1 cup hot fudge topping
+1983,176,Ok could you tell me which other ingredients should I prepare?,1/2 cup white sugar,1/2 cup white sugar
+1984,176,"Ok good I have them, what next?",2 eggs,1/2 cup white sugar
+1985,176,"Ok good, are there more ingredients?",1/2 teaspoon baking powder,1/2 teaspoon vanilla extract
+2022,101,Ok. sounds nice. I like salmon. What are the first two ingredients?,24x8x1 inch untreated cedar plank,24x8x1 inch untreated cedar plank
+2024,101,Ok. thanks. I have both ingredients ready. What are the next?,1/2 cup extra virgin olive oil,"1 large red onion, chopped"
+2025,101,Ok. I have the oil and chopped the onion. What is next?,"1 lemon, sliced","1 lemon, sliced"
+2043,72,How many cups all-purpose flour?,2 1/2 cups all-purpose flour,2 1/2 cups all-purpose flour
+2053,181,Ok I have them. What is next?,1 cup quick-cooking oats,1 cup quick-cooking oats
+2054,181,Ok what is next?,2 teaspoons baking powder,1/2 cup unsweetened applesauce
+2056,181,Ok what is next?,"2 egg, lightly beaten",1/2 cup unsweetened applesauce
+2057,181,Ok are there more ingredients?,1/2 cup chopped walnuts or pecans,1 cup miniature chocolate chips
+2070,254,Can you tell me its weight?,"1 (11 ounce) can mandarin oranges, drained","1 (11 ounce) can mandarin oranges, drained"
+2071,254,Ok. Anything else? Like any sauce?,"1 (8 ounce) can crushed pineapple, drained",1/2 cup milk
+2072,254,Good. Also 11 ounce?,"1 (8 ounce) can crushed pineapple, drained","1 (8 ounce) can crushed pineapple, drained"
+2073,254,Thanks. Next thing is?,"3 1/2 cups frozen whipped topping, thawed",2 cups shredded coconut
+2074,254,I got that. Next?,2 cups shredded coconut,"1 (8 ounce) can crushed pineapple, drained"
+2076,254,"Ok. I have it now. Go on, pls.",1/2 cup milk,"1 (8 ounce) can crushed pineapple, drained"
+2096,214,"Perfect, I've got onions and celery! Why are the next two ingredients?",1/4 cup chopped honey-roasted peanuts,1/4 cup chopped honey-roasted peanuts
+2135,242,Took them from the spice rack! What next?,1/4 teaspoon salt,1/2 cup butter or margarine
+2136,242,Top! Can you give me three more ingredients?,1/2 cup butter or margarine,1 1/2 teaspoons ground cinnamon
+2140,242,I have cinnamon and sugar now. Is there more?,1 teaspoon vanilla extract,1 1/2 teaspoons ground cinnamon
+2168,219,"Ok that is quite a lot. Maybe you can give them to me beforehand. Alright, what are the next ingredients?",1 teaspoon salt,1 teaspoon salt
+2169,219,Ok easy I have all of them already here. What is next?,1 cup vegetable oil,1 cup flaked coconut
+2171,219,Ok no problem. What are the next ingredients?,2 cups shredded carrots,1 cup flaked coconut
+2172,219,"Ok I have the carrots, walnuts and flaked coconut. What is next?","1 (8 ounce) can crushed pineapple, drained",1 cup chopped walnuts
+2173,219,Sure. What are the sizes of the can and package?,"1 (8 ounce) can crushed pineapple, drained","1 (8 ounce) can crushed pineapple, drained"
+2174,219,Ok thanks. Are there more ingredients left?,2 cups confectioners' sugar,"1/4 cup butter, softened"
+2520,102,Ok. Good. What next?,"15 slices bacon, cut in half",1/2 cup packed brown sugar
+2528,102,Ok. Good. I waited six hours. How do I see if the hot dogs are ready?,until the bacon is cooked,until the bacon is cooked
+2549,135,Yes it would be good to prepare. What are the ingredients?,2 cups all-purpose flour,2 cups all-purpose flour
+2550,135,Ok. I have both of them. What are the next ingredients?,1/4 teaspoon salt,1/2 cup flaked coconut
+2552,135,"Ok. no problem, that sounds good. What are the next ingredients?",3/4 cup chopped pecans,1/2 cup flaked coconut
+2927,100,Ok. Good. Could I have two more ingredients?,"2 cups frozen whipped topping, thawed","2 cups frozen whipped topping, thawed"
+2993,28,Is it an electrical one or just a normal bowl?,a mixing bowl,a mixing bowl
+3006,28,Can you tell me the temperature in Celsius?,177 degrees C,177 degrees C
+3011,215,Ok good idea. Ok I have them ready. What is next?,garlic powder to taste,1/2 teaspoon dried oregano
+3013,215,Ok good thanks. What are the next ingredients?,"1 large onion, diced",1/2 teaspoon dried basil
+3014,215,Ok the onion is diced and I have the dries basil. What is next?,1/2 teaspoon dried oregano,1/2 teaspoon dried oregano
+3016,215,Ok nice are there more ingredients to prepare still?,1 cup dry white wine,1 cup dry white wine
+3165,44,How many chicken breasts do I need?,"3 bone-in chicken breast halves, skinless","3 bone-in chicken breast halves, skinless"
+3172,44,For how long should I bake them?,5 to 8 minutes,45 minutes
+3431,35,Ah that is true. What are those?,1/2 cup mayonnaise,1/2 cup minced red onion
+3546,205,Ok nice I have those all in my place. What is next?,"2 cloves garlic, minced",1/8 teaspoon cayenne pepper
+3547,205,"Ok I got it, what are the next ingredients?",1 1/2 teaspoons salt,1/8 teaspoon cayenne pepper
+3549,205,Ok good. What are the next ingredients?,3 cups bread flour,1/8 teaspoon cayenne pepper
+3676,150,Okay no problem. Can I have the next ingredients?,1 teaspoon vanilla extract,1 teaspoon vanilla extract
+3677,150,Okay good. Can I have more ingredients?,1 1/2 cups all-purpose flour,1/2 cup white sugar
+3679,150,Okay no problem. Can you tell me two more ingredients please?,1/4 teaspoon baking soda,1 teaspoon vanilla extract
+3680,150,Ok good. Are there more ingredients?,1/2 cup evaporated milk,1/2 teaspoon vanilla extract
+3682,150,Ok no problem! Are there more ingredients to prepare?,"2 egg yolks, beaten",1/4 cup shortening
+3683,150,"Ok, eggs and vanilla extract are ready! What next?",1/2 cup chopped pecans,1 1/2 cups all-purpose flour
+3811,82,Ok. How big should the package be?,each pastry sheet,"1 (17.5 ounce) package frozen puff pastry sheets, thawed"
+4022,37,Ok. when do I know it's done.,"until the chicken is tender, and no longer pink","until the chicken is tender, and no longer pink"
+4045,104,Ok. No problem. Could you tell me the last two ingredients please?,1 (14 ounce) package beef cocktail wieners,3/4 cup brown sugar
+4046,104,Ok. Can I ask how big should the package of wieners be?,1 (14 ounce) package beef cocktail wieners,1 (14 ounce) package beef cocktail wieners
+4056,104,Ok. Good. They stayed in the oven for 40 minutes. How do I see that they are ready?,until the sugar is bubbly,until the sugar is bubbly
+4166,192,Ok I have those! Could you tell me which are the next ingredients?,2 teaspoons vanilla extract,1/4 teaspoon ground cinnamon
+4168,192,"Ok, good! So is that it with the ingredients?",1 1/3 cups brown sugar,1 1/2 cups half-and-half cream
+4279,125,Ok I have both of them. What is next?,2 tablespoons prepared Dijon-style mustard,2 tablespoons dark rum
+4358,133,"Alright, are there more ingredients?",1 teaspoon fresh lime juice,1 1/2 fluid ounces cranberry juice
+4359,133,Ah yes of course. Ok. what is next?,"1 twist lime zest, garnish",1 teaspoon fresh lime juice

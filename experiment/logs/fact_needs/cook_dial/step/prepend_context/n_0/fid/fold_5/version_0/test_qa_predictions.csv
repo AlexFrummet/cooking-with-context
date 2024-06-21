@@ -1,0 +1,115 @@
+question_id,recipe_id,question,target_answer,generated_answer
+14,225,Ok I have both ingredients ready. What are the other two?,1/4 cup chopped green onion,1/4 cup chopped green onion
+113,126,Oh no problem. What are the next ingredients?,3 cups white sugar,3 cups white sugar
+115,126,Ok no problem. Can I have the last ingredient?,1 (750 milliliter) bottle 190 proof grain alcohol,1 (750 milliliter) bottle 190 proof grain alcohol
+139,228,"Ok, I'll take them! What should I prepare afterwards?",1 cup white sugar,1 cup packed brown sugar
+140,228,"Great, I've got it! What now?",1 teaspoon vanilla extract,1 cup white sugar
+144,228,"Ooooh, ok thanks!! How should I go on?",2 cups semisweet chocolate chips,1 teaspoon salt
+182,95,Ok. Nice. What are the first two ingredients?,"6 figs, halved","6 figs, halved"
+183,95,OK. I have them. What are the next ingredients?,"1/2 cup toasted, chopped pecans",1/2 cup toasted
+451,249,What is the amount of the noodles?,1 (12 ounce) package thin egg noodles,1 (12 ounce) package thin egg noodles
+473,252,Ok. Just tell me one by one pls.,"6 large potatoes, peeled and diced","1 (12 ounce) can corned beef, cut into chunks"
+474,252,I got the potatoes. Next?,"1 (12 ounce) can corned beef, cut into chunks","1 (12 ounce) can corned beef, cut into chunks"
+475,252,Ok. How large is the can?,"1 (12 ounce) can corned beef, cut into chunks","1 (12 ounce) can corned beef, cut into chunks"
+476,252,Thanks. The next ingredient?,"1 medium onion, chopped","1 (12 ounce) can corned beef, cut into chunks"
+477,252,Ok. Anything else?,1 cup beef broth,"1 medium onion, chopped"
+484,252,Ok. Do you have a specific time for me to wait?,"until potatoes are of mashing consistency, and the liquid is almost gone","until potatoes are of mashing consistency, and the liquid is almost gone"
+546,172,Ok I have them ready. What next?,1/4 cup white sugar,1 egg white
+547,172,Ok good I also have them ready. What are the next one's?,2 1/2 tablespoons all-purpose flour,1/4 cup white sugar
+744,164,"Ok good, what is the next ingredients?",1/4 cup water,1/4 cup water
+750,164,"Ok, how long will that take?",until caramel is set,until caramel is set
+850,113,Ok I have them. What are the next?,Sliced green onions (optional),1/3 cup Hidden Valley Original Ranch Salad Dressing
+864,153,Ok great I have them. What is next?,1 1/2 tablespoons fresh lemon juice,1/2 cup chopped celery
+865,153,Ok I have them. Are there more ingredients?,salt and pepper to taste,1/2 cup chopped celery
+1081,105,Ok. I have them both. What are the next ingredients?,1 1/3 cups white sugar,1 1/3 cups white sugar
+1084,105,"Ok. Thanks, and should I use all of the eggs or only the yellow or white?",2 eggs,2 eggs
+1085,105,Ok. I'm ready for the next ingredients.,3 1/2 cups all-purpose flour,1 1/3 cups white sugar
+1086,105,Ok. I have them. What are the next ingredients?,2 teaspoons salt,1 1/3 cups white sugar
+1089,105,Ok. Do I need a large bowl for that?,a large bowl,a large bowl
+1190,162,Okay good what are the next ingredients?,"1/2 green bell pepper, cut into thin strips","1 large carrot, shredded"
+1191,162,"Okay, great, what are the next ingredients?","3 teaspoons fresh ginger root, grated","1 large carrot, shredded"
+1192,162,"Hey, good, what next?",1 1/2 tablespoons molasses,1 quart oil for frying
+1194,162,"Okay no problem, are there more ingredients?",1 1/2 (14 ounce) packages egg roll wrappers,1 tablespoon cornstarch
+1195,162,"Cool, can I have the size of the eggroll package?",1 1/2 (14 ounce) packages egg roll wrappers,1 1/2 (14 ounce) packages egg roll wrappers
+1208,162,"Okay, how long will it take?",until golden brown,until golden brown
+1213,11,Ok. is that Fahrenheit or Celsius?,400 degrees F,175 degrees C
+1239,51,How big should the chicken be?,"1 (3 pound) whole chicken, skin removed and cut into pieces","1 (3 pound) whole chicken, skin removed and cut into pieces"
+1241,51,Ok. I have done that. For how long should I continue to cook?,45 minutes,until tomatoes are tender
+1287,174,"Ok good I have those ready, what next?",1 cup boiling water,1/4 cup margarine
+1288,174,Ok I also have those ready. What next?,1 teaspoon baking soda,1 cup boiling water
+1295,174,"Ok 45 minutes passed, how do I it's ready?",45 minutes,45 minutes
+1357,221,Ok no problem. Yes what are the first two ingredients?,1 pound chicken parts,1 pound chicken parts
+1358,221,Ok I have the chicken and onion. What are the next ingredients?,"3 stalks celery, including some leaves","3 stalks celery, including some leaves"
+1361,221,Ok I found them. What is next?,6 cups water,1 large onion
+1508,103,What is next?,1 teaspoon ground cinnamon,1 cup vegetable oil
+1509,103,OK. I have all of them. What are the next ones?,1 cup vegetable oil,1 teaspoon ground cinnamon
+1510,103,Ok. I have them as well. What is next?,1 teaspoon vanilla extract,1 cup vegetable oil
+1512,103,Ok. I have them prepared. What is next?,1 cup flaked coconut,3 eggs
+1525,103,OK. How do I know when it's done?,until a toothpick inserted into the center of the cake comes out clean,until a toothpick inserted into the center of the cake comes out clean
+1530,103,Ok. I have done that. How long should I let it boil?,5 minutes,until a toothpick inserted into the center of the cake comes out clean
+1536,143,Ah ok thanks I have it. What are the next ingredients?,2/3 cup hot water,1/2 cup chopped onion
+1537,143,Ok. I have them. What is next?,1/2 cup chopped onion,1/2 cup chopped onion
+1539,143,"Ok no problem, what are the next ingredients?",1 tablespoon vegetable oil,1/2 cup chopped onion
+1541,143,Ok. I both the cups of rice. What is next?,1/2 cup orange juice,1/2 cup cooked wild rice
+1542,143,Ok What is next?,2 teaspoons rubbed sage,"1 egg, beaten"
+1543,143,Alright what are the next ingredients?,1/2 teaspoon salt,1/2 cup chopped onion
+1546,143,Ok. For how long should I stir?,until tender,until tender
+1552,143,Do you also have the temperature in degrees Celsius?,176 degrees C,176 degrees C
+1553,143,"Alright, 30 minutes has passed. How do I know if it is ready?",30 minutes,30 minutes
+1931,45,Ok. how much butter and sugar should I add?,3/4 cup butter,3/4 cup butter
+1948,238,"Okay, no problem. Which are the next ingredients?","2 cloves garlic, finely chopped","1 green onion, finely chopped"
+1949,238,"Alright, I've got them from my spice rack. Are there other ingredients left?",1 teaspoon freshly ground black pepper,2 tablespoons dry white wine
+2368,201,Ok good. What are the first two ingredients?,"1 (10 ounce) can asparagus tips, drained","1 (10 ounce) can asparagus tips, drained"
+2370,201,"Ok good, I also have the next ingredients ready.","1 (1 pound) loaf soft, sliced white bread",1/2 cup mayonnaise
+2391,257,"Okay, got it. Any other ingredients I need?",1/8 teaspoon salt,1/2 cup mayonnaise
+2392,257,Found them all. What's next?,"2 English muffins, split and toasted",1/2 cup mayonnaise
+2492,71,How large should the package be?,1 (1 ounce) package dry onion and mushroom soup mix,1 (1 ounce) package dry onion and mushroom soup mix
+2795,243,Ok alright I have them ready. What is next?,2 tablespoons light soy sauce (50% less sodium),2 tablespoons light soy sauce (50% less sodium)
+2955,140,Ok good! They are ready. What next?,1/4 teaspoon salt,4 eggs
+2956,140,Ok good. They are ready! Can I have more ingredients?,2 1/2 cups cold milk,1 teaspoon vanilla extract
+2958,140,"Ok no problem, could you give me more ingredients?",1 teaspoon vanilla extract,1 teaspoon vanilla extract
+2959,140,Ok good. What next?,1 cup confectioners' sugar,4 eggs
+2971,140,Ok. They are in now for 15 mins. How do I see if they are ready?,15 minutes,until hollow sounding when lightly tapped on the bottom
+3074,180,"Ok, how big are the packages supposed to be?",4 (0.13 ounce) packages unsweetened strawberry-flavored drink mix powder,4 (0.13 ounce) packages unsweetened strawberry-flavored drink mix powder
+3075,180,"Ok, good, how big should the can be?",2 (46 fluid ounce) cans pineapple juice,2 (46 fluid ounce) cans pineapple juice
+3240,52,Ok. I have them. What are the others?,1 cup confectioners' sugar,1 cup confectioners' sugar
+3241,52,Ok. what else?,1 teaspoon vanilla extract,1 teaspoon baking soda
+3242,52,Ok. I have the vanilla extract and all-purpose flour. What's next?,1 teaspoon salt,1 teaspoon salt
+3243,52,Ok. anything else?,1 teaspoon cream of tartar,1 teaspoon baking soda
+3254,52,How many degrees are that in Celsius?,190 degrees C,190 degrees C
+3255,52,Ok. Thanks. How do I know it is ready?,10-12 minutes,10-12 minutes
+3270,92,Ok no problem. Could I have the next two ingredients?,3 cups bread flour,1/4 cup white sugar
+3272,92,Ok no problem. Can I have the next two ingredients?,3 tablespoons instant powdered milk,1/4 cup white sugar
+3273,92,"Ok. I've prepared them, what next?","5 tablespoons butter, softened","5 tablespoons butter, softened"
+3274,92,Ok. I've got them. Which ingredients should I prepare next?,1/2 cup vanilla ice cream,1/2 cup white sugar
+3297,92,Ok. How do I see that they are ready?,until golden brown,until golden brown
+3401,75,When do I know if it's ready?,until a cake tester inserted in the center comes out clean,until a cake tester inserted in the center comes out clean
+3614,110,Ok good. I have them ready. What are the next two ingredients_.,1 1/2 cups shredded carrot,1/2 cup chopped white onion
+3615,110,Sorry I didn't' understand the quantities.,1 1/2 cups shredded carrot,"1 1/2 cups dried black-eyed peas, soaked overnight"
+3616,110,Ok. What is next?,1/2 cup chopped white onion,"1 garlic clove, pressed"
+3617,110,Ok good. I have them ready. What next?,"2 oranges, juiced","1/3 cup chopped celery, with leaves"
+3618,110,Ok good. I prepared them. Are there more ingredients?,1/2 teaspoon ground coriander,1/2 teaspoon salt
+3619,110,Ok good. I have them. Can I have the last 2?,1/8 teaspoon freshly ground black pepper,1/2 cup chopped white onion
+3783,232,"Good, I have them in my cupboard. What next?",1 cup all-purpose flour,1 cup all-purpose flour
+3930,42,I have added the soy sauce and the water. How much honey do I need to add?,3 tablespoons honey,3 tablespoons honey
+4065,152,"Oh ok sure, thanks! What are the next ingredients?",1/2 cup honey,1/2 cup honey
+4066,152,"Okay, good! What are the next ingredients?",2 tablespoons liquid smoke flavoring,1/2 cup honey
+4082,21,How much vanilla extract should I add?,1 1/2 teaspoons vanilla extract,1 1/2 teaspoons vanilla extract
+4112,189,Ok good I have the first two ingredients. What is next?,1 teaspoon ground cinnamon,1/2 teaspoon salt
+4115,189,Ok good then I will prepare the white sugar. What is next?,2 eggs,1 cup brown sugar
+4151,109,No problem. What are the 9 ingredients?,3 cups diced cooked chicken,3 cups diced cooked chicken
+4152,109,Ok. I have both of them. What are the next?,"1 red bell pepper, seeded and diced","1/2 red onion, diced"
+4153,109,Ok. I have them. What is next?,6 tablespoons mayonnaise,"1 red bell pepper, seeded and diced"
+4154,109,Ok. I will prepare them already. What are the next ingredients?,"1 (4 ounce) package feta cheese, crumbled","1 red bell pepper, seeded and diced"
+4155,109,How large should the package be?,"1 (4 ounce) package feta cheese, crumbled","1 (4 ounce) package feta cheese, crumbled"
+4224,207,Ok I cored and cubed the apples and took the lime juice. What is next?,"1 fresh jalapeno pepper, seeded and sliced","1 fresh jalapeno pepper, seeded and sliced"
+4225,207,Ok nice I like it spicy. What is next.,"1/2 medium onion, finely chopped",4 tablespoons lime juice
+4226,207,Ok I got it. What are the next ingredients?,"1/2 cup chopped walnuts, lightly toasted","1/2 cup chopped walnuts, lightly toasted"
+4227,207,Ok I have prepared them. Are there more ingredients?,1/4 teaspoon salt,"1/2 cup chopped walnuts, lightly toasted"
+4256,96,Ok. How big should the cheese package be?,1 (8 ounce) package cream cheese spread,1 (8 ounce) package cream cheese spread
+4267,56,What's the quantity of the turkey?,12 ounces ground turkey,12 ounces ground turkey
+4387,226," ok, no problem! Could you tell me the last ingredients?",4 vine-ripened tomatoes,4 vine-ripened tomatoes
+4402,168,"Ok, good, I have them, which are the next two ingredients?",1/4 teaspoon ground cinnamon,1 1/2 tablespoons ice water
+4403,168,"Ok, good, could you tell me the other ingredients?",1 1/2 tablespoons ice water,1/4 teaspoon ground cinnamon
+4405,168,"Okay, good. What are the next ingredients?","1 bananas, peeled and sliced",1 cup skim milk
+4419,168,"Ok I am baking it, how do I see that it's ready?",until golden brown,until golden brown
