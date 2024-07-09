@@ -32,13 +32,13 @@ def parse_arguments():
     parser.add_argument('-data',
                         '--dataset',
                         type=str,
-                        choices=['qooka', 'cook_dial', 'wizard_of_tasks'],
+                        choices=['qooka', 'cook_dial'],
                         required=True,
                         help='Specify the dataset to use for the experiment')
     parser.add_argument('-query_rep',
                         '--query_representation',
                         type=str,
-                        choices=['prepend_context', 'canard_rewritten', 'quretec_expansion', 'structured_rep'],
+                        choices=['prepend_context', 'canard_rewritten', 'quretec_expansion'],
                         required=False,
                         help='Specify the query representation method')
     parser.add_argument('-context',
@@ -53,13 +53,7 @@ def parse_arguments():
                         choices=['fact_needs','competence_needs','all_needs'],
                         required=True,
                         help='Specify the need type you want to train your model on')
-    parser.add_argument('-step_rep',
-                        '--step_representation',
-                        default='original',
-                        type=str,
-                        choices=['original','merged'],
-                        required=False,
-                        help='Specify the version of the step representation')
+
     return parser.parse_args()
 
 def get_base_models(arg_base_model, config):
@@ -77,4 +71,4 @@ def get_context_window(arg_context_window, config):
     context_window = [arg_context_window] if arg_context_window else config['context_window']
     return context_window
 
-#def get_need_type(arg_need_type, config):
+

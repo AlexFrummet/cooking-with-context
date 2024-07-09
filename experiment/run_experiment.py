@@ -21,21 +21,18 @@ if __name__ == "__main__":
     context_windows = utils.get_context_window(args.context_window, config)
     need_type = args.need_type
     dataset = args.dataset
-    #step_representation = args.step_representation
     logging.info(f"Base Model: {base_models}")
     logging.info(f"Query Representation: {query_representations}")
     logging.info(f"Context Window: {context_windows}")
     logging.info(f"Data Type: ")
     for base_model in base_models:
         for query_representation_method in query_representations:
-            # Query Rewrites: Do this before experiment starts -> reproducibility!
             for context_window in context_windows:
                 current_experiment = Experiment(dataset,
                                                 document_representation,
                                                 base_model,
                                                 query_representation_method,
                                                 context_window,
-                                                #step_representation,
                                                 config['data_path'],
                                                 need_type)
                 current_experiment.run_experiment()

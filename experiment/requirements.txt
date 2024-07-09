@@ -1,0 +1,11 @@
+pandas==1.5.2
+transformers==4.25.1
+conllu==4.4.2
+sentencepiece
+evaluate
+bert-score
+sentence-transformers
+torch
+torchvision
+torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+lightning
