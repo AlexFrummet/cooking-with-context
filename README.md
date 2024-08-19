@@ -8,7 +8,7 @@ Find the parser code in the `task_tree_parser` folder.
 he code to replicate experiments is located in the `experiment` folder. To run an experiment:
 
 1. Set up a virtual environment with Python 3.9 and activate it.
-2. Install required packages using `pip -r requirements.txt`.
+2. Install required packages using `pip install -r requirements.txt`.
 3. Execute experiments with `python run_experiment.py`
 
 Specify options using:
