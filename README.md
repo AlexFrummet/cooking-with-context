@@ -5,7 +5,7 @@ This repository contains code and data for replicating the experiments described
 Find the parser code in the `task_tree_parser` folder.
 
 ## Where is the code to replicate the IR experiments?
-he code to replicate experiments is located in the `experiment` folder. To run an experiment:
+The code to replicate experiments is located in the `experiment` folder. To run an experiment:
 
 1. Set up a virtual environment with Python 3.9 and activate it.
 2. Install required packages using `pip install -r requirements.txt`.
