@@ -1,0 +1,200 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+0.0,0.6666666865348816,0.8267815113067627,2,lime juice.,lime.
+0.0,0.0,0.013892673887312412,2,fish.,lime.
+1.0,1.0,0.9525675773620605,2,sugar.,sugar.
+0.0,0.0,0.010419154539704323,2,cashews.,duck.
+1.0,1.0,0.9564700722694397,2,onion.,onion.
+1.0,1.0,0.9575926065444946,2,pineapple.,pineapple.
+0.0,0.0,0.008597702719271183,2,salt and pepper.,dressing.
+1.0,1.0,0.9595515727996826,2,duck.,duck.
+1.0,1.0,0.9594714641571045,2,130 degrees.,130 degrees.
+0.0,0.0,0.009335154667496681,2,duck.,dressing.
+1.0,1.0,0.9595515727996826,2,duck.,duck.
+0.0,0.0,0.008645404130220413,2,pineapple.,dressing.
+0.0,0.14723926782608032,0.48575589060783386,2,"for the spice mix (see note):  1 1/2 teaspoons whole cumin seeds, toasted 1 1/2 teaspoons coriander seeds, toasted 1 whole star anise, toasted 2 cloves 1/2 teaspoon black peppercorns, toasted 1/2 teaspoon ground cinnamon 1/4 teaspoon grated nutmeg 1 blade mace 1/2 teaspoon ground turmeric 1 black or green cardamom pod for the curry:  3 tablespoons vegetable oil, butter, or ghee 1 small onion, finely minced (about 1 cup) 4 cloves garlic, grated on the medium holes of a box grater 1 tablespoon fresh ginger, grated on the medium holes of a box grater 1 small red or green chili, finely chopped 1/4 teaspoon cayenne pepper 1/2 cup cashew nuts 1 (14-ounce) can coconut milk 2 (14-ounce) cans chickpeas, drained and rinsed 1 bunch (about 3 ounces) flat spinach leaves, trimmed, rinsed, and roughly chopped kosher salt 1/4 cup fresh juice from 3 to 4 limes 1/2 cup fresh cilantro leaves and tender stems, coarsely chopped.","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom."
+0.0,0.37931033968925476,0.6966213583946228,2,"1 1/2 teaspoons whole cumin seeds, toasted 1 1/2 teaspoons coriander seeds, toasted 1 whole star anise, toasted 2 cloves 1/2 teaspoon black peppercorns, toasted 1/2 teaspoon ground cinnamon 1/4 teaspoon grated nutmeg 1 blade mace 1/2 teaspoon ground turmeric 1 black or green cardamom pod.","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom."
+0.0,0.0,0.0871824324131012,2,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom.",yes.
+0.0,0.0,0.04943380504846573,2,ghee.,"onion, garlic, ginger, and chili."
+1.0,1.0,0.9530168771743774,2,cashews.,cashews.
+0.0,0.0,0.03966274484992027,2,mixture.,cumin.
+0.0,0.0,0.058789659291505814,2,blender.,pot.
+0.0,0.0,0.08845958858728409,2,cilantro.,cumin.
+1.0,1.0,0.9549034237861633,2,large bowl.,large bowl.
+1.0,1.0,0.9547113180160522,2,water.,water.
+1.0,1.0,0.9592428803443909,2,salt.,salt.
+1.0,1.0,0.9595515727996826,2,duck.,duck.
+0.0,0.0,0.009987888857722282,2,salt.,pork.
+1.0,1.0,0.9663368463516235,2,dutch oven.,dutch oven.
+0.0,0.800000011920929,0.9136722683906555,2,8 minutes.,about 8 minutes.
+0.0,0.0,0.0926518589258194,2,pork.,sausages.
+0.0,0.0,0.09114251285791397,2,bowl.,pot.
+0.0,0.0,0.07860706001520157,2,chicken.,salt pork.
+0.0,0.3333333432674408,0.489106684923172,2,all but 2 tablespoons fat.,fat.
+1.0,1.0,0.960935115814209,2,high heat.,high heat.
+1.0,1.0,0.9610208868980408,2,carrots.,carrots.
+0.0,0.0,0.009249572642147541,2,chicken.,onions.
+0.0,0.0,0.2143295407295227,2,pot.,large bowl.
+1.0,1.0,0.9346296787261963,2,pot.,pot.
+0.0,0.0,0.30618640780448914,2,30 minutes until you reach the 4 1/2 hour mark.,about 2 hours.
+0.0,0.0,0.3889997899532318,2,4 1/2 hour.,about 2 hours.
+1.0,1.0,0.9625501036643982,2,warm water.,warm water.
+1.0,1.0,0.9549598693847656,2,15 minutes.,15 minutes.
+0.0,0.0,0.015993312001228333,2,clean kitchen towel.,warm water.
+1.0,1.0,0.9627821445465088,2,mushrooms.,mushrooms.
+0.0,0.0,0.3062671720981598,2,large bowl.,mixture.
+1.0,1.0,0.9242475032806396,2,1 teaspoon.,1 teaspoon.
+0.0,0.5,0.791666567325592,2,raw unsalted.,"plain, unsalted."
+0.0,0.3333333432674408,0.5022649765014648,2,"garlic, and anchovies (if using).",garlic.
+0.0,0.0,0.136280819773674,2,<no answer>.,a little.
+0.0,0.2857142984867096,0.3563048839569092,2,10 to 15 minutes.,about 5 minutes.
+1.0,1.0,0.9511292576789856,2,pasta.,pasta.
+0.0,0.4000000059604645,0.4906982481479645,2,1 cup (240ml).,1/4 cup.
+1.0,1.0,0.9640541076660156,2,al dente.,al dente.
+0.0,0.0,0.009446511045098305,2,<no answer>.,coats.
+0.0,0.2857142984867096,0.3360583782196045,2,2 1/4 ounces (3/4 cup; 65g).,3/4.
+0.0,0.5,0.31664082407951355,2,light brown sugar.,brown.
+0.0,0.0,0.026523681357502937,2,diced pineapple.,yes.
+1.0,1.0,0.9631947875022888,2,1 teaspoon.,1 teaspoon.
+1.0,1.0,0.9040893912315369,2,yes.,yes.
+1.0,1.0,0.946459949016571,2,olive.,olive.
+1.0,1.0,0.9676830172538757,2,wooden spoon.,wooden spoon.
+1.0,1.0,0.9516229033470154,2,wine.,wine.
+1.0,1.0,0.9592428803443909,2,salt.,salt.
+0.0,0.06896551698446274,0.4919590950012207,2,"1 pound 5 ounces (3 cups; 600g) cooked dry white beans (such as cannellini or great northern) or two (15-ounce; 425g) cans low-sodium white beans, drained and rinsed.",beans.
+1.0,1.0,0.9610533714294434,2,about 3 minutes.,about 3 minutes.
+1.0,1.0,0.9524545073509216,2,kale.,kale.
+0.0,0.5,0.5527334213256836,2,pasta cooking water.,water.
+1.0,1.0,0.9670458436012268,2,grated cheese.,grated cheese.
+0.0,0.2222222238779068,0.4680405259132385,2,"water, salt, lemon juice, sugar, and black pepper.",water.
+0.0,0.2857142984867096,0.367904931306839,2,"lemon juice, sugar, and black pepper.",sugar.
+0.0,0.6666666865348816,0.6006402373313904,2,lemon juice.,juice.
+0.0,0.23529411852359772,0.9540383219718933,2,in a gallon zipper-lock bag or large baking dish|in a gallon zipper-lock bag|large baking dish|zipper-lock bag.,large baking dish.
+1.0,1.0,0.9568010568618774,2,6 hours.,6 hours.
+1.0,1.0,0.9527966976165771,2,24 hours.,24 hours.
+1.0,1.0,0.9555253982543945,2,for 5 minutes.,for 5 minutes.
+1.0,1.0,0.9581568837165833,2,highest heat.,highest heat.
+0.0,0.4000000059604645,0.3853098154067993,2,for 10 minutes.,5 minutes.
+0.0,0.0,0.18824023008346558,2,68°c.,155°f.
+0.0,0.6666666865348816,0.6499829888343811,2,25 minutes.,20 to 25 minutes.
+0.0,0.9411764740943909,0.7782131433486938,2,"sliced onion, garlic, vinegar, black pepper, salt, and sugar.","onion, garlic, vinegar, black pepper, salt, and sugar."
+1.0,1.0,0.9675893783569336,2,"garlic, vinegar, black pepper, salt, and sugar.","garlic, vinegar, black pepper, salt, and sugar."
+1.0,1.0,0.9660979509353638,2,medium-high heat.,medium-high heat.
+0.0,0.0,0.16734579205513,2,about 4 minutes.,2 hours.
+1.0,1.0,0.9654917120933533,2,"celery, carrot, onion, and garlic.","celery, carrot, onion, and garlic."
+0.0,0.0,0.14790953695774078,2,about 6 minutes.,3 hours.
+1.0,1.0,0.9713582396507263,2,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom.","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom."
+1.0,1.0,0.9713582396507263,2,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom.","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom."
+1.0,1.0,0.9713582396507263,2,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom.","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom."
+1.0,1.0,0.9660979509353638,2,medium-high heat.,medium-high heat.
+0.0,0.0,0.0730111300945282,2,"garlic, ginger.",cayenne.
+1.0,1.0,0.9598298668861389,2,spinach.,spinach.
+0.0,0.0,0.009557262994349003,2,<no answer>.,1/4 teaspoon.
+0.0,0.3636363744735718,0.6631394028663635,2,1/4 cup fresh juice from 3 to 4 limes.,1/4 cup.
+1.0,1.0,0.9625501036643982,2,warm water.,warm water.
+1.0,1.0,0.9549598693847656,2,15 minutes.,15 minutes.
+1.0,1.0,0.9693329334259033,2,clean kitchen towel.,clean kitchen towel.
+1.0,1.0,0.9627821445465088,2,mushrooms.,mushrooms.
+0.0,0.3333333432674408,0.6034404635429382,2,emaining three batches of mushrooms.,mushrooms.
+0.0,0.6666666865348816,0.8399620652198792,2,large bowl.,bowl.
+1.0,1.0,0.9621065258979797,2,about 2 minutes.,about 2 minutes.
+0.0,0.0,0.025944635272026062,2,large bowl.,oven.
+0.0,0.6666666865348816,0.5802075266838074,2,6 ounces (about 3/4 cup; 170g).,about 3/4 cup.
+1.0,1.0,0.9594040513038635,2,21°c.,21°c.
+1.0,1.0,0.9616947174072266,2,large saucepan.,large saucepan.
+1.0,1.0,0.9614142179489136,2,about 10 minutes.,about 10 minutes.
+1.0,1.0,0.9465947151184082,2,heat.,heat.
+0.0,0.0,0.058789659291505814,2,blender.,pot.
+1.0,1.0,0.955862820148468,2,low heat.,low heat.
+1.0,1.0,0.9614142179489136,2,about 10 minutes.,about 10 minutes.
+1.0,1.0,0.9661074876785278,2,dried peppers.,dried peppers.
+0.0,0.5714285969734192,0.66187983751297,2,30 minutes.,30 minutes to 1 hour.
+0.0,0.0,0.07751189172267914,2,30 minutes to 1 hour.,yes.
+0.0,0.0,0.02541261911392212,2,the flesh.,stems and seeds.
+1.0,1.0,0.9660979509353638,2,medium-high heat.,medium-high heat.
+1.0,1.0,0.9546660780906677,2,oil.,oil.
+0.0,0.4000000059604645,0.34249332547187805,2,about 6 minutes.,30 minutes.
+1.0,1.0,0.9584223628044128,2,5 days.,5 days.
+1.0,1.0,0.9618695974349976,2,about 8 minutes.,about 8 minutes.
+0.0,0.4000000059604645,0.7410303354263306,2,reduce heat to medium-low.,medium-low.
+0.0,0.4000000059604645,0.5259067416191101,2,rice and chicken mixture.,rice.
+0.0,0.4000000059604645,0.34765809774398804,2,about 8 minutes.,30 minutes.
+0.0,0.0,0.11853118985891342,2,low.,medium-high heat.
+1.0,1.0,0.9557759165763855,2,5 minutes.,5 minutes.
+1.0,1.0,0.9549034237861633,2,large bowl.,large bowl.
+0.0,0.0,0.36800143122673035,2,3 quarts.,1 quart.
+1.0,1.0,0.9595515727996826,2,duck.,duck.
+1.0,1.0,0.9644374251365662,2,3 tablespoons.,3 tablespoons.
+0.0,0.800000011920929,0.9136722683906555,2,8 minutes.,about 8 minutes.
+0.0,0.0,0.009357547387480736,2,salt.,8 ounces pork.
+0.0,0.0,0.18254302442073822,2,salt pork.,sausages.
+1.0,1.0,0.945587158203125,2,bowl.,bowl.
+0.0,0.0,0.009371503256261349,2,2 tablespoons fat.,carrots.
+0.0,0.125,0.3133082091808319,2,can be inserted in middle of potato with no resistance.,to check if the potato is cooked.
+1.0,1.0,0.9040893912315369,2,yes.,yes.
+1.0,1.0,0.9040893912315369,2,yes.,yes.
+1.0,1.0,0.9040893912315369,2,yes.,yes.
+1.0,1.0,0.9040893912315369,2,yes.,yes.
+0.0,0.0,0.09461662173271179,2,yes.,medium bowl.
+1.0,1.0,0.9040893912315369,2,yes.,yes.
+1.0,1.0,0.9040893912315369,2,yes.,yes.
+1.0,1.0,0.9040893912315369,2,yes.,yes.
+1.0,1.0,0.9040893912315369,2,yes.,yes.
+0.0,0.0,0.009372446686029434,2,lime.,pineapple.
+0.0,0.0,0.008574659936130047,2,fish.,dressing.
+0.0,0.0,0.03673166036605835,2,sugar.,lime.
+1.0,1.0,0.9530168771743774,2,cashews.,cashews.
+1.0,1.0,0.9564700722694397,2,onion.,onion.
+1.0,1.0,0.9575926065444946,2,pineapple.,pineapple.
+0.0,0.5,0.5797116160392761,2,salt and pepper.,salt.
+1.0,1.0,0.9594714641571045,2,130 degrees.,130 degrees.
+1.0,1.0,0.9595515727996826,2,duck.,duck.
+1.0,1.0,0.9595515727996826,2,duck.,duck.
+0.0,0.6666666865348816,0.48481521010398865,2,pineapple mixture.,mixture.
+0.0,0.6666666865348816,0.8922439217567444,2,to 300°f.,300°f.
+1.0,1.0,0.9608970284461975,2,150°c.,150°c.
+1.0,1.0,0.946459949016571,2,olive.,olive.
+1.0,1.0,0.9614142179489136,2,about 10 minutes.,about 10 minutes.
+0.0,0.3333333432674408,0.4430864155292511,2,"sage, and half of parsley.",sage.
+1.0,1.0,0.960935115814209,2,high heat.,high heat.
+1.0,1.0,0.9614142179489136,2,about 10 minutes.,about 10 minutes.
+1.0,1.0,0.9716528058052063,2,"reserved stock, tomatoes, milk, and bay leaves.","reserved stock, tomatoes, milk, and bay leaves."
+1.0,1.0,0.9687598943710327,2,"tomatoes, milk, and bay leaves.","tomatoes, milk, and bay leaves."
+0.0,0.0,0.0136170769110322,2,"milk, and bay leaves.",wine.
+1.0,1.0,0.9513362646102905,2,4 hours.,4 hours.
+1.0,1.0,0.9513362646102905,2,4 hours.,4 hours.
+1.0,1.0,0.9613205194473267,2,1 cup.,1 cup.
+1.0,1.0,0.9613205194473267,2,1 cup.,1 cup.
+0.0,0.6666666865348816,0.6992205381393433,2,cup.,1 cup.
+1.0,1.0,0.93647700548172,2,fish.,fish.
+1.0,1.0,0.8098240494728088,2,2 tablespoons.,2 tablespoons.
+1.0,1.0,0.9641058444976807,2,1 tablespoon.,1 tablespoon.
+0.0,0.6666666865348816,0.688278317451477,2,1 teaspoon.,teaspoon.
+1.0,1.0,0.8098240494728088,2,2 tablespoons.,2 tablespoons.
+1.0,1.0,0.9641058444976807,2,1 tablespoon.,1 tablespoon.
+0.0,0.6666666865348816,0.6911166310310364,2,teaspoon.,1 teaspoon.
+1.0,1.0,0.9624919295310974,2,medium heat.,medium heat.
+0.0,0.0,0.08351022005081177,2,diced pineapple.,juice.
+0.0,0.6666666865348816,0.7487623691558838,2,kosher salt.,salt.
+0.0,0.800000011920929,0.8868544101715088,2,about 1 pound.,1 pound.
+1.0,1.0,0.9594714641571045,2,130 degrees.,130 degrees.
+0.0,0.6000000238418579,0.6666161417961121,2,"1 large duck breast, about 1 pound.",1 pound duck.
+1.0,1.0,0.9625501036643982,2,warm water.,warm water.
+1.0,1.0,0.9549598693847656,2,15 minutes.,15 minutes.
+1.0,1.0,0.9693329334259033,2,clean kitchen towel.,clean kitchen towel.
+1.0,1.0,0.9627821445465088,2,mushrooms.,mushrooms.
+1.0,1.0,0.9627821445465088,2,mushrooms.,mushrooms.
+0.0,0.0,0.025944635272026062,2,large bowl.,oven.
+1.0,1.0,0.9592548608779907,2,heavy cream.,heavy cream.
+1.0,1.0,0.9621065258979797,2,about 2 minutes.,about 2 minutes.
+0.0,0.6666666865348816,0.6992205381393433,2,cup.,1 cup.
+0.0,0.0,0.025944635272026062,2,large bowl.,oven.
+0.0,0.5,0.8265337347984314,2,medium-high heat.,high heat.
+1.0,1.0,0.9550436735153198,2,flour.,flour.
+1.0,1.0,0.9621065258979797,2,about 2 minutes.,about 2 minutes.
+1.0,1.0,0.9673401117324829,2,lasagna pan.,lasagna pan.
+1.0,1.0,0.9568156003952026,2,cheese.,cheese.
+0.0,0.0,0.03232821077108383,2,oven.,skillet.
+1.0,1.0,0.9588013887405396,2,parsley.,parsley.
+1.0,1.0,0.9633285403251648,2,large dutch oven.,large Dutch oven.
+1.0,1.0,0.958859920501709,2,tomato.,tomato.
+1.0,1.0,0.965555727481842,2,red wine.,red wine.

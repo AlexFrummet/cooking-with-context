@@ -1,0 +1,199 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+1.0,1.0,0.967159628868103,4,1/2 cup.,1/2 cup.
+0.0,0.5,0.38487133383750916,4,chinkiang vinegar.,rice vinegar.
+1.0,1.0,0.9543644785881042,4,wok.,wok.
+1.0,1.0,0.960935115814209,4,high heat.,high heat.
+1.0,1.0,0.9610533714294434,4,about 3 minutes.,about 3 minutes.
+1.0,1.0,0.9349943995475769,4,rice.,rice.
+1.0,1.0,0.9349943995475769,4,rice.,rice.
+0.0,0.6666666865348816,0.7063083648681641,4,soy.,soy sauce.
+0.0,0.0,0.0152586055919528,4,wok.,side.
+1.0,1.0,0.9622770547866821,4,little salt.,little salt.
+0.0,0.0,0.036482978612184525,4,egg.,"onion, carrot, scallions, and garlic."
+0.0,0.0,0.008874776773154736,4,frozen peas.,onion.
+1.0,1.0,0.9525740146636963,4,peas.,peas.
+0.0,0.4000000059604645,0.6964256763458252,4,rice.,every grain of rice.
+1.0,1.0,0.9649906754493713,4,paper towel.,paper towel.
+0.0,0.0,0.03766121715307236,4,water.,oil.
+0.0,0.6666666865348816,0.8432362079620361,4,large wok.,wok.
+0.0,0.0,0.033578988164663315,4,small saucepan.,yes.
+1.0,1.0,0.9622044563293457,4,small bowl.,small bowl.
+1.0,1.0,0.9627821445465088,4,mushrooms.,mushrooms.
+0.0,0.0,0.07456950843334198,4,mushrooms.,yes.
+1.0,1.0,0.9543644785881042,4,wok.,wok.
+1.0,1.0,0.960935115814209,4,high heat.,high heat.
+0.0,0.0,0.010907265357673168,4,wok.,rice.
+0.0,0.0,0.021458256989717484,4,"garlic, ginger, scallion whites, chives, and yacai (if using).",cornstarch.
+1.0,1.0,0.9627821445465088,4,mushrooms.,mushrooms.
+0.0,0.0,0.23652368783950806,4,liquid mixture.,rehydrated.
+1.0,1.0,0.9499351978302002,4,tofu.,tofu.
+1.0,1.0,0.9650166630744934,4,peppercorns.,peppercorns.
+0.0,0.6666666865348816,0.6992596387863159,4,white rice.,rice.
+0.0,0.0,0.06834568828344345,4,large bowl.,leeks.
+1.0,1.0,0.9571754336357117,4,coffee.,coffee.
+0.0,0.0,0.021589558571577072,4,vinegar.,sesame seeds.
+1.0,1.0,0.960935115814209,4,high heat.,high heat.
+1.0,1.0,0.9430596232414246,4,pan.,pan.
+1.0,1.0,0.9430596232414246,4,pan.,pan.
+1.0,1.0,0.945587158203125,4,bowl.,bowl.
+1.0,1.0,0.9450669288635254,4,leeks.,leeks.
+1.0,1.0,0.9573783874511719,4,1 day.,1 day.
+1.0,1.0,0.9543644785881042,4,wok.,wok.
+1.0,1.0,0.960935115814209,4,high heat.,high heat.
+1.0,1.0,0.9610533714294434,4,about 3 minutes.,about 3 minutes.
+1.0,1.0,0.9349943995475769,4,rice.,rice.
+1.0,1.0,0.9349943995475769,4,rice.,rice.
+0.0,0.6666666865348816,0.7063083648681641,4,soy.,soy sauce.
+0.0,0.5,0.25336116552352905,4,side of the wok.,side.
+0.0,0.6666666865348816,0.8754451274871826,4,little salt.,salt.
+0.0,0.0,0.047159090638160706,4,egg.,oil.
+0.0,0.0,0.008874776773154736,4,frozen peas.,onion.
+1.0,1.0,0.9525740146636963,4,peas.,peas.
+1.0,1.0,0.9349943995475769,4,rice.,rice.
+1.0,1.0,0.9188526272773743,4,. whisk.,whisk.
+0.0,0.0,0.03441089391708374,4,flour.,water.
+1.0,1.0,0.9649906754493713,4,paper towel.,paper towel.
+0.0,0.0,0.01001046970486641,4,tofu.,peanuts.
+0.0,0.0,0.01568702422082424,4,stock.,peanuts.
+1.0,1.0,0.9529309272766113,4,vinegar.,vinegar.
+0.0,0.0,0.09827984124422073,4,2 teaspoons.,1/2 cup.
+1.0,1.0,0.968066930770874,4,fine mesh strainer.,fine mesh strainer.
+1.0,1.0,0.9675517678260803,4,1/4 cup.,1/4 cup.
+1.0,1.0,0.9660979509353638,4,medium-high heat.,medium-high heat.
+1.0,1.0,0.9543644785881042,4,wok.,wok.
+1.0,1.0,0.9543644785881042,4,wok.,wok.
+1.0,1.0,0.9499351978302002,4,tofu.,tofu.
+0.0,0.6666666865348816,0.6618759632110596,4,3 minutes.,2 to 3 minutes.
+1.0,1.0,0.962330162525177,4,about 5 minutes.,about 5 minutes.
+1.0,1.0,0.945587158203125,4,bowl.,bowl.
+1.0,1.0,0.9573783874511719,4,1 day.,1 day.
+0.0,0.6666666865348816,0.49058449268341064,4,rice.,rice vinegar.
+0.0,0.6666666865348816,0.6297368407249451,4,vinegar.,rice vinegar.
+1.0,1.0,0.9622044563293457,4,small bowl.,small bowl.
+0.0,0.20000000298023224,0.34098750352859497,4,"large bowl, whisk.","large spoon, small ladle, or measuring cup."
+0.0,0.0,0.08527127653360367,4,flour.,rice.
+1.0,1.0,0.9550436735153198,4,flour.,flour.
+0.0,0.0,0.12301976978778839,4,"separate medium bowl, whisk.",flour.
+0.0,0.0,0.011538395658135414,4,mixture.,about 1 minute.
+1.0,1.0,0.9607636332511902,4,whisk.,whisk.
+1.0,1.0,0.9543644785881042,4,wok.,wok.
+1.0,1.0,0.9610533714294434,4,about 3 minutes.,about 3 minutes.
+1.0,1.0,0.9349943995475769,4,rice.,rice.
+1.0,1.0,0.9349943995475769,4,rice.,rice.
+0.0,0.6666666865348816,0.7063083648681641,4,soy.,soy sauce.
+1.0,1.0,0.9349943995475769,4,rice.,rice.
+1.0,1.0,0.9622770547866821,4,little salt.,little salt.
+1.0,1.0,0.9459296464920044,4,egg.,egg.
+0.0,0.0,0.009631246328353882,4,frozen peas.,"onion, carrot, scallions, and garlic."
+0.0,0.0,0.009087316691875458,4,an 8 1/2- by 4 1/2-inch loaf pan.,parchment paper.
+0.0,0.0,0.26575443148612976,4,pan.,large mixing bowl.
+1.0,1.0,0.9550436735153198,4,flour.,flour.
+0.0,0.6666666865348816,0.6038200259208679,4,190°c.,375°f (190°c).
+0.0,0.0,0.14176039397716522,4,"small bowl, whisk.",pan.
+0.0,0.25,0.4077637195587158,4,flour and baking powder.,"flour, sugar, eggs, butter, miso, milk, apples, water, cream, salt, and vanilla."
+0.0,0.0,0.08676329255104065,4,bowl.,pan.
+0.0,0.0,0.18544061481952667,4,"medium bowl, whisk.",large rubber spatula.
+0.0,0.0,0.027996838092803955,4,miso and butter.,sugar.
+1.0,1.0,0.9616591930389404,4,about 30 seconds.,about 30 seconds.
+0.0,0.0,0.08676329255104065,4,bowl.,pan.
+0.0,0.4000000059604645,0.4803887605667114,4,electric handheld mixer.,stand mixer.
+0.0,0.3333333432674408,0.6862568855285645,4,electric handheld mixer or a whisk.,whisk.
+1.0,1.0,0.9550436735153198,4,flour.,flour.
+0.0,0.0,0.04195207729935646,4,mixture.,milk.
+1.0,1.0,0.9670923352241516,4,large rubber spatula.,large rubber spatula.
+0.0,0.0,0.045940179377794266,4,wooden spoon.,fork.
+1.0,1.0,0.9517713189125061,4,apples.,apples.
+1.0,1.0,0.9517713189125061,4,apples.,apples.
+1.0,1.0,0.9430596232414246,4,pan.,pan.
+1.0,1.0,0.9430596232414246,4,pan.,pan.
+0.0,0.4000000059604645,0.3321639597415924,4,for 10 minutes.,75 minutes.
+0.0,0.0,0.2323264628648758,4,140°f.,375°f (190°c).
+0.0,0.0,0.014766615815460682,4,water.,flour.
+0.0,0.0,0.15623943507671356,4,5 minutes.,about 2 hours.
+0.0,0.3333333432674408,0.3593697249889374,4,about 1 minute.,about 3 minutes.
+0.0,0.0,0.09136801213026047,4,cream.,sugar.
+0.0,0.4000000059604645,0.7410303354263306,4,reduce heat to medium-low.,medium-low.
+0.0,0.0,0.012368601746857166,4,heat-resistant spatula.,fork.
+0.0,0.0,0.2914412319660187,4,225°f.,375°f (190°c).
+0.0,0.0,0.37077221274375916,4,107°c.,medium heat.
+0.0,0.0,0.009518708102405071,4,miso.,milk.
+0.0,0.0,0.009456215426325798,4,whisk.,large rubber spatula.
+1.0,1.0,0.9585540294647217,4,a serrated knife.,serrated knife.
+1.0,1.0,0.9685491323471069,4,paring knife.,paring knife.
+1.0,1.0,0.9575831890106201,4,boiling.,boiling.
+1.0,1.0,0.9652976989746094,4,slotted spoon.,slotted spoon.
+0.0,0.6666666865348816,0.5688503980636597,4,"basil, garlic.",basil.
+1.0,1.0,0.9251006245613098,4,3 medium cloves.,3 medium cloves.
+1.0,1.0,0.9592428803443909,4,salt.,salt.
+1.0,1.0,0.9560452699661255,4,tongs.,tongs.
+1.0,1.0,0.9648861289024353,4,breadcrumbs.,breadcrumbs.
+0.0,0.0,0.021182172000408173,4,breadcrumbs.,cheese.
+0.0,0.0,0.03203597292304039,4,cheese.,garlic.
+0.0,0.3636363744735718,0.6677360534667969,4,three layers of paper towels or a clean dish towel.,paper towels.
+0.0,0.800000011920929,0.9454973936080933,4,rubber spatula.,with a rubber spatula.
+0.0,0.0,0.009860190562903881,4,another triple layer of paper towels or a clean dish towel.,fried sage leaves.
+0.0,0.0,0.21745404601097107,4,large bowl.,rice.
+1.0,1.0,0.9549034237861633,4,large bowl.,large bowl.
+0.0,0.4000000059604645,0.6561688184738159,4,separate empty large bowl.,bowl.
+1.0,1.0,0.945587158203125,4,bowl.,bowl.
+1.0,1.0,0.945587158203125,4,bowl.,bowl.
+1.0,1.0,0.9603337049484253,4, once per day.,once per day.
+1.0,1.0,0.9644485712051392,4,about 1 hour.,about 1 hour.
+0.0,0.5,0.5396207571029663,4,medium saucepan.,medium skillet.
+1.0,1.0,0.9485718607902527,4,foaming.,foaming.
+1.0,1.0,0.9663752913475037,4,medium skillet.,medium skillet.
+0.0,0.800000011920929,0.9211686253547668,4,for 3 minutes.,3 minutes.
+1.0,1.0,0.9652976989746094,4,slotted spoon.,slotted spoon.
+1.0,1.0,0.960935115814209,4,high heat.,high heat.
+1.0,1.0,0.9430596232414246,4,pan.,pan.
+1.0,1.0,0.9615797400474548,4,about 1 minute.,about 1 minute.
+0.0,0.6666666865348816,0.49058449268341064,4,rice.,rice vinegar.
+0.0,0.6666666865348816,0.6297368407249451,4,vinegar.,rice vinegar.
+0.0,0.5,0.3903641998767853,4,small bowl.,large bowl.
+0.0,0.20000000298023224,0.34098750352859497,4,"large bowl, whisk.","large spoon, small ladle, or measuring cup."
+0.0,0.4000000059604645,0.7372387647628784,4,"all-purpose flour, whole wheat flour (or other flour).",all-purpose flour.
+0.0,0.4000000059604645,0.7372387647628784,4,"all-purpose flour, whole wheat flour (or other flour).",all-purpose flour.
+0.0,0.0,0.1730765551328659,4,medium bowl.,"large spoon, small ladle, or measuring cup."
+0.0,0.0,0.028217194601893425,4,cabbage.,pancakes.
+0.0,0.20000000298023224,0.43140411376953125,4,"salted cabbage (or kimchi), grated carrot, and sliced scallions.",carrot.
+0.0,0.0,0.00883762538433075,4,flexible spatula.,whisk.
+1.0,1.0,0.966141402721405,4,stainless steel.,stainless steel.
+1.0,1.0,0.9660979509353638,4,medium-high heat.,medium-high heat.
+1.0,1.0,0.9485650062561035,4,cup.,cup.
+0.0,0.0,0.021505441516637802,4,flour and all of the water.,salt.
+0.0,0.0,0.01360729243606329,4,salt.,yes.
+0.0,0.0,0.04336871951818466,4,mixer.,yes.
+1.0,1.0,0.9654755592346191,4,about 3-5 minutes.,about 3-5 minutes.
+0.0,0.0,0.06632798165082932,4,bowl.,dutch oven.
+0.0,0.4000000059604645,0.35311439633369446,4,for 15 minutes.,30 minutes.
+0.0,0.800000011920929,0.875153124332428,4,1 hour.,about 1 hour.
+1.0,1.0,0.9547113180160522,4,water.,water.
+1.0,1.0,0.9571844935417175,4,1 hour.,1 hour.
+1.0,1.0,0.9652382731437683,4,traditional cake pan.,traditional cake pan.
+0.0,0.0,0.1023687794804573,4,pan.,oven.
+0.0,0.4000000059604645,0.3621862232685089,4,a two-piece pan.,loose-bottom cake pan.
+0.0,0.0,0.09196293354034424,4,pan.,yes.
+0.0,0.0,0.01014375127851963,4,traditional cake pan.,250°f.
+0.0,0.6000000238418579,0.5768861174583435,4,"graham cracker crumbs, melted butter, and salt.",graham cracker crumbs.
+0.0,0.0,0.020153673365712166,4,pan.,fork.
+0.0,0.0,0.19146732985973358,4,fork.,"on low until roughly combined, then increase to medium and cream until no lumps of cheese remain, and the mixture is perfectly smooth; about 5 minutes."
+0.0,0.3333333432674408,0.44905808568000793,4,"salt, and orange flower water.",salt.
+0.0,0.0,0.009101084433495998,4,orange flower water.,sugar.
+0.0,0.0,0.04008704423904419,4,bowl.,sugar.
+0.0,0.0,0.022551611065864563,4,eggs.,sugar.
+1.0,1.0,0.9690185785293579,4,stainless steel pot.,stainless steel pot.
+1.0,1.0,0.9463027715682983,4,cream.,cream.
+0.0,0.0,0.016942022368311882,4,hot cream.,sugar.
+1.0,1.0,0.9537851214408875,4,spoon.,spoon.
+1.0,1.0,0.9574331641197205,4,250°f.,250°f.
+1.0,1.0,0.9552813172340393,4,10 minutes.,10 minutes.
+1.0,1.0,0.9614742398262024,4,about 35 minutes.,about 35 minutes.
+1.0,1.0,0.9560401439666748,4,thin knife.,thin knife.
+1.0,1.0,0.9571844935417175,4,1 hour.,1 hour.
+0.0,0.0,0.01986159197986126,4,12 hours.,up to 10 days.
+1.0,1.0,0.9560401439666748,4,thin knife.,thin knife.
+0.0,0.4000000059604645,0.6257427930831909,4,tomatoes.,large can of tomatoes.
+0.0,0.6666666865348816,0.922777533531189,4,10 days.,up to 10 days.
+1.0,1.0,0.9430596232414246,4,pan.,pan.
+1.0,1.0,0.9648430347442627,4,roasting pan.,roasting pan.
+1.0,1.0,0.9438679814338684,4,knife.,knife.

@@ -1,0 +1,199 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+1.0,1.0,0.9692196846008301,4,Answer: 1/2 cup,Answer: 1/2 cup
+0.0,0.6666666865348816,0.5273461937904358,4,Answer: chinkiang vinegar,Answer: rice vinegar
+1.0,1.0,0.9653434753417969,4,Answer: wok,Answer: wok
+1.0,1.0,0.9682098627090454,4,Answer: high heat,Answer: high heat
+1.0,1.0,0.9695862531661987,4,Answer: about 3 minutes,Answer: about 3 minutes
+1.0,1.0,0.9644612073898315,4,Answer: rice,Answer: rice
+0.0,0.4000000059604645,0.1490005999803543,4,Answer: rice,Answer: soy sauce
+0.0,0.800000011920929,0.8038605451583862,4,Answer: soy,Answer: soy sauce
+0.0,0.6666666865348816,0.6172894239425659,4,Answer: wok,Answer: side of the wok
+0.0,0.800000011920929,0.8830491304397583,4,Answer: little salt,Answer: salt
+0.0,0.4000000059604645,0.10956206172704697,4,Answer: egg,Answer: soy sauce
+0.0,0.4000000059604645,0.11258479207754135,4,Answer: frozen peas,Answer: onion
+1.0,1.0,0.9662865400314331,4,Answer: peas,Answer: peas
+1.0,1.0,0.9644612073898315,4,Answer: rice,Answer: rice
+1.0,1.0,0.965560257434845,4,Answer: paper towel,Answer: paper towel
+0.0,0.5,0.0787007063627243,4,Answer: water,Answer: wok
+0.0,0.800000011920929,0.8703629970550537,4,Answer: large wok,Answer: wok
+0.0,0.4000000059604645,0.046151287853717804,4,Answer: small saucepan,Answer: no
+1.0,1.0,0.9675754308700562,4,Answer: small bowl,Answer: small bowl
+1.0,1.0,0.9667602777481079,4,Answer: mushrooms,Answer: mushrooms
+1.0,1.0,0.9667602777481079,4,Answer: mushrooms,Answer: mushrooms
+0.0,0.5,0.06977459043264389,4,Answer: wok,Answer: mushrooms
+1.0,1.0,0.9682098627090454,4,Answer: high heat,Answer: high heat
+1.0,1.0,0.9653434753417969,4,Answer: wok,Answer: wok
+0.0,0.1666666716337204,0.0710517019033432,4,"Answer: garlic, ginger, scallion whites, chives, and yacai (if using)",Answer: tofu
+1.0,1.0,0.9667602777481079,4,Answer: mushrooms,Answer: mushrooms
+0.0,0.4000000059604645,0.30330947041511536,4,Answer: liquid mixture,Answer: rehydrated
+0.0,0.5,0.19650804996490479,4,Answer: tofu,Answer: stir-fry
+0.0,0.5,0.15643815696239471,4,Answer: peppercorns,Answer: mushrooms
+0.0,0.4000000059604645,0.01618707738816738,4,Answer: white rice,Answer: scallions
+0.0,0.4000000059604645,0.19856619834899902,4,Answer: large bowl,Answer: vegetables
+0.0,0.5,0.09545359760522842,4,Answer: coffee,Answer: garlic
+0.0,0.4000000059604645,0.07933467626571655,4,Answer: vinegar,Answer: sesame seeds
+1.0,1.0,0.9682098627090454,4,Answer: high heat,Answer: high heat
+0.0,0.20000000298023224,0.6685326099395752,4,Answer: pan,Answer: large cast iron or carbon steel skillet
+1.0,1.0,0.9640366435050964,4,Answer: pan,Answer: pan
+0.0,0.3333333432674408,0.28608036041259766,4,Answer: bowl,Answer: rimmed baking sheet
+1.0,1.0,0.9648559093475342,4,Answer: leeks,Answer: leeks
+1.0,1.0,0.9673632979393005,4,Answer: 1 day,Answer: 1 day
+1.0,1.0,0.9653434753417969,4,Answer: wok,Answer: wok
+1.0,1.0,0.9682098627090454,4,Answer: high heat,Answer: high heat
+1.0,1.0,0.9695862531661987,4,Answer: about 3 minutes,Answer: about 3 minutes
+1.0,1.0,0.9644612073898315,4,Answer: rice,Answer: rice
+1.0,1.0,0.9644612073898315,4,Answer: rice,Answer: rice
+0.0,0.800000011920929,0.8038605451583862,4,Answer: soy,Answer: soy sauce
+1.0,1.0,0.9706103801727295,4,Answer: side of the wok,Answer: side of the wok
+0.0,0.800000011920929,0.8830491304397583,4,Answer: little salt,Answer: salt
+0.0,0.25,0.01368468813598156,4,Answer: egg,Answer: remaining 1/2 tablespoon (7ml) oil
+0.0,0.4000000059604645,0.05367336794734001,4,Answer: frozen peas,Answer: oil
+1.0,1.0,0.9662865400314331,4,Answer: peas,Answer: peas
+1.0,1.0,0.9644612073898315,4,Answer: rice,Answer: rice
+1.0,1.0,0.8887109756469727,4,Answer: . whisk,Answer: whisk
+0.0,0.5,0.17032182216644287,4,Answer: flour,Answer: water
+0.0,0.6666666865348816,0.9662250876426697,4,Answer: paper towel,Answer: paper towels
+1.0,1.0,0.9643281698226929,4,Answer: tofu,Answer: tofu
+1.0,1.0,0.9657847285270691,4,Answer: stock,Answer: stock
+0.0,0.4000000059604645,0.19816160202026367,4,Answer: vinegar,Answer: soy sauce
+0.0,0.6666666865348816,0.42451196908950806,4,Answer: 2 teaspoons,Answer: 2 tablespoons
+1.0,1.0,0.9704068303108215,4,Answer: fine mesh strainer,Answer: fine mesh strainer
+1.0,1.0,0.9696541428565979,4,Answer: 1/4 cup,Answer: 1/4 cup
+0.0,0.4000000059604645,0.4219014644622803,4,Answer: medium-high heat,Answer: 350°f
+1.0,1.0,0.9653434753417969,4,Answer: wok,Answer: wok
+1.0,1.0,0.9653434753417969,4,Answer: wok,Answer: wok
+1.0,1.0,0.9643281698226929,4,Answer: tofu,Answer: tofu
+0.0,0.3333333432674408,0.37512505054473877,4,Answer: 3 minutes,Answer: 1 minute
+1.0,1.0,0.9690245389938354,4,Answer: about 5 minutes,Answer: about 5 minutes
+0.0,0.5,0.23984748125076294,4,Answer: bowl,Answer: pan
+1.0,1.0,0.9673632979393005,4,Answer: 1 day,Answer: 1 day
+0.0,0.800000011920929,0.5867753624916077,4,Answer: rice,Answer: rice vinegar
+0.0,0.800000011920929,0.7100910544395447,4,Answer: vinegar,Answer: rice vinegar
+1.0,1.0,0.9675754308700562,4,Answer: small bowl,Answer: small bowl
+0.0,0.5714285969734192,0.3954984247684479,4,"Answer: large bowl, whisk",Answer: small bowl
+1.0,1.0,0.9630480408668518,4,Answer: flour,Answer: flour
+1.0,1.0,0.9630480408668518,4,Answer: flour,Answer: flour
+0.0,0.2857142984867096,0.11858873069286346,4,"Answer: separate medium bowl, whisk",Answer: flour
+1.0,1.0,0.9639227390289307,4,Answer: mixture,Answer: mixture
+0.0,0.5,0.17865633964538574,4,Answer: whisk,Answer: batter
+1.0,1.0,0.9653434753417969,4,Answer: wok,Answer: wok
+1.0,1.0,0.9695862531661987,4,Answer: about 3 minutes,Answer: about 3 minutes
+1.0,1.0,0.9644612073898315,4,Answer: rice,Answer: rice
+1.0,1.0,0.9644612073898315,4,Answer: rice,Answer: rice
+0.0,0.800000011920929,0.8038605451583862,4,Answer: soy,Answer: soy sauce
+1.0,1.0,0.9644612073898315,4,Answer: rice,Answer: rice
+0.0,0.800000011920929,0.8830491304397583,4,Answer: little salt,Answer: salt
+1.0,1.0,0.9619284868240356,4,Answer: egg,Answer: egg
+0.0,0.800000011920929,0.6863207221031189,4,Answer: frozen peas,Answer: peas
+0.0,0.1818181872367859,0.04469871148467064,4,Answer: an 8 1/2- by 4 1/2-inch loaf pan,Answer: parchment paper
+0.0,0.800000011920929,0.7189157605171204,4,Answer: pan,Answer: loaf pan
+1.0,1.0,0.9630480408668518,4,Answer: flour,Answer: flour
+0.0,0.800000011920929,0.5669755935668945,4,Answer: 190°c,Answer: 375°f (190°c)
+0.0,0.3333333432674408,0.12395722419023514,4,"Answer: small bowl, whisk",Answer: cake
+0.0,0.5714285969734192,0.6982871890068054,4,Answer: flour and baking powder,Answer: flour
+0.0,0.800000011920929,0.8098179697990417,4,Answer: bowl,Answer: small bowl
+0.0,0.1666666716337204,0.01223779283463955,4,"Answer: medium bowl, whisk",Answer: 8- by 13-inch sheet of parchment paper
+0.0,0.6666666865348816,0.6071146130561829,4,Answer: miso and butter,Answer: miso
+0.0,0.8571428656578064,0.9104556441307068,4,Answer: about 30 seconds,Answer: 30 seconds
+1.0,1.0,0.9621492624282837,4,Answer: bowl,Answer: bowl
+0.0,0.5714285969734192,0.6246223449707031,4,Answer: electric handheld mixer,Answer: stand mixer
+0.0,0.5,0.6892063021659851,4,Answer: electric handheld mixer or a whisk,Answer: whisk
+0.0,0.5,0.25082728266716003,4,Answer: flour,Answer: sugar
+0.0,0.5,0.27337974309921265,4,Answer: mixture,Answer: flour
+0.0,0.3333333432674408,0.058345746248960495,4,Answer: large rubber spatula,Answer: batter
+0.0,0.2857142984867096,0.3576372563838959,4,Answer: wooden spoon,Answer: large rubber spatula
+1.0,1.0,0.9652175307273865,4,Answer: apples,Answer: apples
+1.0,1.0,0.9652175307273865,4,Answer: apples,Answer: apples
+0.0,0.800000011920929,0.7189157605171204,4,Answer: pan,Answer: loaf pan
+1.0,1.0,0.9640366435050964,4,Answer: pan,Answer: pan
+0.0,0.4444444477558136,0.2993917167186737,4,Answer: for 10 minutes,Answer: 65 to 75 minutes
+0.0,0.5,0.27592733502388,4,Answer: 140°f,Answer: 375°f
+0.0,0.5,0.12052185088396072,4,Answer: water,Answer: sugar
+0.0,0.2857142984867096,0.4158247709274292,4,Answer: 5 minutes,Answer: about 2 hours
+0.0,0.2857142984867096,0.3220966160297394,4,Answer: about 1 minute,Answer: 65 minutes
+0.0,0.5,0.2508373558521271,4,Answer: cream,Answer: sugar
+0.0,0.5714285969734192,0.8470988273620605,4,Answer: reduce heat to medium-low,Answer: medium-low
+1.0,1.0,0.969093918800354,4,Answer: heat-resistant spatula,Answer: heat-resistant spatula
+1.0,1.0,0.967531144618988,4,Answer: 225°f,Answer: 225°f
+0.0,0.5,0.0707048773765564,4,Answer: 107°c,Answer: medium-low
+0.0,0.5,0.1372138261795044,4,Answer: miso,Answer: sugar
+1.0,1.0,0.965919017791748,4,Answer: whisk,Answer: whisk
+0.0,0.4000000059604645,0.10099535435438156,4,Answer: a serrated knife,Answer: whisk
+1.0,1.0,0.9666697978973389,4,Answer: paring knife,Answer: paring knife
+1.0,1.0,0.9640266299247742,4,Answer: boiling,Answer: boiling
+1.0,1.0,0.9672018885612488,4,Answer: slotted spoon,Answer: slotted spoon
+0.0,0.800000011920929,0.5534977316856384,4,"Answer: basil, garlic",Answer: garlic
+1.0,1.0,0.9439380168914795,4,Answer: 3 medium cloves,Answer: 3 medium cloves
+1.0,1.0,0.9633761048316956,4,Answer: salt,Answer: salt
+1.0,1.0,0.9660218358039856,4,Answer: tongs,Answer: tongs
+0.0,0.5,0.1519935429096222,4,Answer: breadcrumbs,Answer: pasta
+0.0,0.5,0.1071239486336708,4,Answer: breadcrumbs,Answer: cheese
+0.0,0.5,0.19672879576683044,4,Answer: cheese,Answer: garlic
+0.0,0.4615384638309479,0.7039117813110352,4,Answer: three layers of paper towels or a clean dish towel,Answer: paper towels
+0.0,0.8571428656578064,0.9455002546310425,4,Answer: rubber spatula,Answer: with a rubber spatula
+0.0,0.4285714328289032,0.6898296475410461,4,Answer: another triple layer of paper towels or a clean dish towel,Answer: paper towels
+1.0,1.0,0.9688623547554016,4,Answer: large bowl,Answer: large bowl
+1.0,1.0,0.9688623547554016,4,Answer: large bowl,Answer: large bowl
+0.0,0.75,0.599236786365509,4,Answer: separate empty large bowl,Answer: large bowl
+1.0,1.0,0.9621492624282837,4,Answer: bowl,Answer: bowl
+1.0,1.0,0.9621492624282837,4,Answer: bowl,Answer: bowl
+1.0,1.0,0.9492400288581848,4,Answer:  once per day,Answer: once per day
+1.0,1.0,0.9701278209686279,4,Answer: about 1 hour,Answer: about 1 hour
+1.0,1.0,0.969538152217865,4,Answer: medium saucepan,Answer: medium saucepan
+1.0,1.0,0.9653884768486023,4,Answer: foaming,Answer: foaming
+0.0,0.800000011920929,0.8383342623710632,4,Answer: medium skillet,Answer: skillet
+0.0,0.8571428656578064,0.9544619917869568,4,Answer: for 3 minutes,Answer: 3 minutes
+1.0,1.0,0.9672018885612488,4,Answer: slotted spoon,Answer: slotted spoon
+1.0,1.0,0.9682098627090454,4,Answer: high heat,Answer: high heat
+1.0,1.0,0.9640366435050964,4,Answer: pan,Answer: pan
+1.0,1.0,0.9698665142059326,4,Answer: about 1 minute,Answer: about 1 minute
+0.0,0.800000011920929,0.5867753624916077,4,Answer: rice,Answer: rice vinegar
+0.0,0.800000011920929,0.7100910544395447,4,Answer: vinegar,Answer: rice vinegar
+0.0,0.800000011920929,0.8906712532043457,4,Answer: small bowl,Answer: bowl
+0.0,0.6666666865348816,0.6225301027297974,4,"Answer: large bowl, whisk",Answer: whisk
+0.0,0.5,0.7956358194351196,4,"Answer: all-purpose flour, whole wheat flour (or other flour)",Answer: all-purpose flour
+0.0,0.5,0.7956358194351196,4,"Answer: all-purpose flour, whole wheat flour (or other flour)",Answer: all-purpose flour
+0.0,0.6666666865348816,0.4849231541156769,4,Answer: medium bowl,Answer: large bowl
+0.0,0.5,0.07827428728342056,4,Answer: cabbage,Answer: salt
+0.0,0.3333333432674408,0.45205920934677124,4,"Answer: salted cabbage (or kimchi), grated carrot, and sliced scallions",Answer: carrot
+0.0,0.4000000059604645,0.12729930877685547,4,Answer: flexible spatula,Answer: whisk
+0.0,0.4615384638309479,0.6795141696929932,4,Answer: stainless steel,"Answer: 12-inch stainless steel, well-seasoned cast iron, or nonstick skillet"
+1.0,1.0,0.9704205989837646,4,Answer: medium-high heat,Answer: medium-high heat
+0.0,0.4000000059604645,0.10660304129123688,4,Answer: cup,Answer: large spoon
+0.0,0.5,0.424301415681839,4,Answer: flour and all of the water,Answer: water
+0.0,0.5,0.054693397134542465,4,Answer: salt,Answer: no
+0.0,0.5,0.18713867664337158,4,Answer: mixer,Answer: yes
+0.0,0.75,0.8038188815116882,4,Answer: about 3-5 minutes,Answer: about 3 minutes
+0.0,0.5714285969734192,0.7049632668495178,4,Answer: bowl,Answer: lightly oiled mixing bowl
+0.0,0.25,0.5196382999420166,4,Answer: for 15 minutes,Answer: about 1 hour
+0.0,0.5,0.762339174747467,4,Answer: 1 hour,Answer: about 1 hour to 1 hour 30 minutes
+1.0,1.0,0.9644491672515869,4,Answer: water,Answer: water
+0.0,0.75,0.9065065979957581,4,Answer: 1 hour,Answer: at least 1 hour
+1.0,1.0,0.9702820181846619,4,Answer: traditional cake pan,Answer: traditional cake pan
+0.0,0.6666666865348816,0.6878871917724609,4,Answer: pan,Answer: traditional cake pan
+0.0,0.5714285969734192,0.43155530095100403,4,Answer: a two-piece pan,Answer: non-reactive aluminum pan
+0.0,0.5,0.1336987316608429,4,Answer: pan,Answer: yes
+1.0,1.0,0.9702820181846619,4,Answer: traditional cake pan,Answer: traditional cake pan
+0.0,0.6666666865348816,0.6529975533485413,4,"Answer: graham cracker crumbs, melted butter, and salt",Answer: graham cracker crumbs
+0.0,0.6666666865348816,0.5788105726242065,4,Answer: pan,Answer: bottom of the pan
+0.0,0.3333333432674408,0.019078627228736877,4,Answer: fork,Answer: on low speed
+0.0,0.25,0.04632994532585144,4,"Answer: salt, and orange flower water",Answer: sugar
+0.0,0.3333333432674408,0.03725121542811394,4,Answer: orange flower water,Answer: sugar
+0.0,0.3333333432674408,0.017281021922826767,4,Answer: bowl,Answer: clots of chalazae
+0.0,0.5,0.1641460806131363,4,Answer: eggs,Answer: sugar
+0.0,0.8888888955116272,0.7655546069145203,4,Answer: stainless steel pot,Answer: 1-quart stainless steel pot
+1.0,1.0,0.9644688963890076,4,Answer: cream,Answer: cream
+0.0,0.4000000059604645,0.12592141330242157,4,Answer: hot cream,Answer: sugar
+1.0,1.0,0.9641718864440918,4,Answer: spoon,Answer: spoon
+0.0,0.5,0.31547218561172485,4,Answer: 250°f,Answer: 450°f
+1.0,1.0,0.9666810631752014,4,Answer: 10 minutes,Answer: 10 minutes
+1.0,1.0,0.9681954383850098,4,Answer: about 35 minutes,Answer: about 35 minutes
+1.0,1.0,0.9662086367607117,4,Answer: thin knife,Answer: thin knife
+0.0,0.5,0.8186078071594238,4,Answer: 1 hour,Answer: at least 1 hour (or up to 4)
+0.0,0.75,0.91239333152771,4,Answer: 12 hours,Answer: at least 12 hours
+1.0,1.0,0.9662086367607117,4,Answer: thin knife,Answer: thin knife
+0.0,0.5714285969734192,0.7342934608459473,4,Answer: tomatoes,Answer: large can of tomatoes
+1.0,1.0,0.9663879871368408,4,Answer: 10 days,Answer: 10 days
+0.0,0.800000011920929,0.651373565196991,4,Answer: pan,Answer: roasting pan
+1.0,1.0,0.9688877463340759,4,Answer: roasting pan,Answer: roasting pan
+0.0,0.6666666865348816,0.7099483013153076,4,Answer: knife,Answer: large chef's knife

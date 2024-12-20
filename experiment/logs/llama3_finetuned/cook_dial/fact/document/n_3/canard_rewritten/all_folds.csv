@@ -1,0 +1,1223 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+1.0,1.0,0.9703202843666077,0,1 cup butterscotch chips,1 cup butterscotch chips
+0.0,0.1818181872367859,0.07600346952676773,0,1/2 cup packed brown sugar,"1 cup butter (no substitutes), softened"
+0.0,0.0,0.012060561217367649,0,2 teaspoons vanilla extract,"1 cup butter (no substitutes), softened"
+0.0,0.0,0.018540937453508377,0,1/4 cup water,2 teaspoons vanilla extract
+0.0,0.0,0.06420253217220306,0,4 cups confectioners' sugar,2 teaspoons vanilla extract
+0.0,0.0,0.009334356524050236,0,<no_answer>,10 minutes
+0.0,0.0,0.009862481616437435,0,<no_answer>,1 cup butterscotch chips
+0.0,0.0,0.00931798480451107,0,<no_answer>,until edges are lightly browned
+0.0,0.0,0.009396810084581375,0,<no_answer>,1/2 cup sugar
+0.0,0.800000011920929,0.47929421067237854,0,1 (16 ounce) can frozen lemonade concentrate,1 (16 ounce) can frozen orange juice concentrate
+0.0,0.800000011920929,0.47929421067237854,0,1 (16 ounce) can frozen lemonade concentrate,1 (16 ounce) can frozen orange juice concentrate
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+1.0,1.0,0.9710543155670166,0,1 cup quick-cooking oats,1 cup quick-cooking oats
+0.0,0.0,0.1184745579957962,0,2 teaspoons baking powder,1 cup packed brown sugar
+0.0,0.25,0.12144088745117188,0,1/2 cup unsweetened applesauce,1 cup quick-cooking oats
+0.0,0.0,0.042026396840810776,0,"2 egg, lightly beaten",1 cup packed brown sugar
+0.0,0.20000000298023224,0.1262979805469513,0,1/2 cup chopped walnuts or pecans,1 cup quick-cooking oats
+0.0,0.0,0.00923690851777792,0,<no_answer>,1/2 cup canola oil
+0.0,0.5,0.11567535251379013,0,1 cup white sugar,1 cup vegetable oil
+0.0,0.0,0.11242718994617462,0,1 teaspoon vanilla extract,4 teaspoons cream of tartar
+0.0,0.0,0.010671106167137623,0,4 teaspoons cream of tartar,1 cup vegetable oil
+0.0,0.0,0.018051739782094955,0,4 teaspoons cream of tartar,1 cup butter
+0.0,0.0,0.010671106167137623,0,4 teaspoons cream of tartar,1 cup vegetable oil
+0.0,0.0,0.009775721468031406,0,2 cups semisweet chocolate chips,4 teaspoons cream of tartar
+0.0,0.0,0.009421352297067642,0,<no_answer>,4 teaspoons cream of tartar
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+1.0,1.0,0.9687144756317139,0,4 cups milk,4 cups milk
+0.0,0.0,0.06556566059589386,0,2 teaspoons butter or margarine,1/2 cup packed brown sugar
+0.0,0.0,0.009772342629730701,0,1/2 teaspoon ground cinnamon,2 cups old-fashioned oats
+0.0,0.4444444477558136,0.17706215381622314,0,2 cups old-fashioned oats,"2 cups chopped, peeled apples"
+1.0,1.0,0.9708355069160461,0,"2 cups chopped, peeled apples","2 cups chopped, peeled apples"
+0.0,0.0,0.14394842088222504,0,1 cup raisins,"2 cups chopped, peeled apples"
+0.0,0.0,0.11717800050973892,0,1 cup wheat germ,"2 cups chopped, peeled apples"
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+0.0,0.0,0.00990652572363615,0,45 minutes,<no_answer>
+0.0,0.0,0.008853147737681866,0,6 cups all-purpose flour,<no_answer>
+0.0,0.0,0.011351531371474266,0,3 tablespoons sugar,2 cups shredded Cheddar cheese
+0.0,0.25,0.02451506443321705,0,2 teaspoons salt,2 cups shredded Cheddar cheese
+1.0,1.0,0.9719165563583374,0,"3 (10 ounce) packages frozen chopped spinach, thawed","3 (10 ounce) packages frozen chopped spinach, thawed"
+1.0,1.0,0.9719165563583374,0,"3 (10 ounce) packages frozen chopped spinach, thawed","3 (10 ounce) packages frozen chopped spinach, thawed"
+0.0,0.0,0.009836286306381226,0,1/2 teaspoon onion salt,3 eggs
+0.0,0.0,0.05907762050628662,0,"3/4 cup grated Parmesan cheese, divided",1/2 teaspoon ground nutmeg
+0.0,0.0,0.009250616654753685,0,salt and pepper to taste,3 eggs
+0.0,0.0,0.03660259395837784,0,"6 tablespoons butter or margarine, divided",1/2 teaspoon ground nutmeg
+0.0,0.0,0.012922795489430428,0,1/2 teaspoon salt,3/4 cup Italian seasoned bread crumbs
+0.0,0.0,0.009211936965584755,0,2 cups shredded Cheddar cheese,<no_answer>
+1.0,1.0,0.9712356328964233,0,until chicken juices run clear,until chicken juices run clear
+0.0,0.0,0.023834189400076866,0,1/2 cup packed brown sugar,1 (16 ounce) can whole cranberry sauce
+0.0,0.0,0.010630296543240547,0,1/2 teaspoon ground nutmeg,1 (16 ounce) can whole cranberry sauce
+0.0,0.0,0.03363741934299469,0,1 recipe pastry for a 9 inch double crust pie,1/2 teaspoon ground nutmeg
+0.0,0.0,0.009468963369727135,0,<no_answer>,1 recipe pastry for a 9 inch double crust pie
+1.0,1.0,0.9709751605987549,0,"1/2 cup butter, softened","1/2 cup butter, softened"
+0.0,0.0,0.07364998012781143,0,"1/2 cup butter, softened",1 (3 ounce) package cream cheese
+0.0,0.1818181872367859,0.019583141431212425,0,1 (3 ounce) package cream cheese,1 cup sifted all-purpose flour
+0.0,0.25,0.08674415200948715,0,1/3 cup white sugar,1 cup fruit preserves
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+1.0,1.0,0.970244288444519,0,"1 small onion, finely chopped","1 small onion, finely chopped"
+0.0,0.1538461595773697,0.1257292479276657,0,1/3 cup Hidden Valley Original Ranch Salad Dressing,1 cup shredded Cheddar cheese
+0.0,0.0,0.010112062096595764,0,Sliced green onions (optional),1 cup shredded Cheddar cheese
+0.0,0.0,0.013967263512313366,0,Bacon pieces (optional),1 cup shredded Cheddar cheese
+0.0,0.0,0.009083504788577557,0,Bacon pieces (optional),<no_answer>
+1.0,1.0,0.9717981219291687,0,24x8x1 inch untreated cedar plank,24x8x1 inch untreated cedar plank
+1.0,1.0,0.9717981219291687,0,24x8x1 inch untreated cedar plank,24x8x1 inch untreated cedar plank
+0.0,0.0,0.013858804479241371,0,1/2 cup extra virgin olive oil,"1 large red onion, chopped"
+1.0,1.0,0.9679605960845947,0,"1 lemon, sliced","1 lemon, sliced"
+0.0,0.0,0.013310829177498817,0,<no_answer>,"approximately 12 hours, or overnight"
+0.0,0.0,0.009481501765549183,0,<no_answer>,"2 to 3 minutes, until dry"
+0.0,0.0,0.009124541655182838,0,<no_answer>,1/2 cup extra virgin olive oil
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+0.0,0.0,0.008799613453447819,0,<no_answer>,until completely dry and toasted
+0.0,0.2222222238779068,0.037240028381347656,0,1 1/2 pounds russet potatoes,1/2 cup all-purpose flour
+1.0,1.0,0.9655141234397888,0,1 egg,1 egg
+1.0,1.0,0.9703705906867981,0,1/2 teaspoon salt,1/2 teaspoon salt
+0.0,0.0,0.040983911603689194,0,1/4 cup lard or other cooking fat,1 egg
+1.0,1.0,0.9717878699302673,0,1/4 cup lard or other cooking fat,1/4 cup lard or other cooking fat
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+1.0,1.0,0.9705243706703186,0,1 1/2 cups packed brown sugar,1 1/2 cups packed brown sugar
+1.0,1.0,0.9705243706703186,0,1 1/2 cups packed brown sugar,1 1/2 cups packed brown sugar
+0.0,0.0,0.019310105592012405,0,1 teaspoon vanilla extract,2/3 cup shortening
+0.0,0.25,0.10601820051670074,0,1 1/2 cups all-purpose flour,1/2 teaspoon salt
+0.0,0.0,0.19399328529834747,0,1 1/2 cups all-purpose flour,1/3 cup unsweetened cocoa powder
+0.0,0.0,0.014428230002522469,0,1/4 teaspoon baking soda,1/2 cup evaporated milk
+1.0,1.0,0.9709582924842834,0,1/2 cup evaporated milk,1/2 cup evaporated milk
+0.0,0.0,0.03048892319202423,0,"2 egg yolks, beaten",1/2 cup chopped pecans
+0.0,0.2857142984867096,0.044428929686546326,0,1/2 cup chopped pecans,1/2 teaspoon salt
+1.0,1.0,0.9713475704193115,0,1/2 cup chopped pecans,1/2 cup chopped pecans
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+1.0,1.0,0.9696314930915833,0,1 1/2 scoops vanilla ice cream,1 1/2 scoops vanilla ice cream
+1.0,1.0,0.9707258343696594,0,6 frozen prepared bean and cheese burritos,6 frozen prepared bean and cheese burritos
+0.0,0.20000000298023224,0.012711991555988789,0,1 3/4 cups water,1 (8 ounce) can tomato sauce
+1.0,1.0,0.971738874912262,0,1 (8 ounce) can tomato sauce,1 (8 ounce) can tomato sauce
+1.0,1.0,0.971738874912262,0,1 (8 ounce) can tomato sauce,1 (8 ounce) can tomato sauce
+0.0,0.1818181872367859,0.013723745942115784,0,1 teaspoon beef bouillon granules,1 (8 ounce) can tomato sauce
+0.0,0.0,0.01362700667232275,0,2 cups shredded Mexican blend cheese or Cheddar cheese,1 (8 ounce) can tomato sauce
+1.0,1.0,0.9721661806106567,0,"1 (2.25 ounce) can sliced ripe olives, drained","1 (2.25 ounce) can sliced ripe olives, drained"
+0.0,0.0,0.009391733445227146,0,<no_answer>,1 3/4 cups water
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+1.0,1.0,0.971469521522522,0,1 recipe pastry for a 9 inch double crust pie,1 recipe pastry for a 9 inch double crust pie
+1.0,1.0,0.9704227447509766,0,1/4 teaspoon ground cinnamon,1/4 teaspoon ground cinnamon
+0.0,0.0,0.017046162858605385,0,1/3 cup white sugar,1/4 teaspoon ground nutmeg
+0.0,0.0,0.035699229687452316,0,1 egg,1/4 teaspoon ground cinnamon
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+1.0,1.0,0.9661509990692139,0,until golden brown,until golden brown
+1.0,1.0,0.9715445637702942,0,"1 1/2 pounds skinless, boneless chicken breast meat","1 1/2 pounds skinless, boneless chicken breast meat"
+0.0,0.0,0.0139229204505682,0,1/2 teaspoon salt,1 cup chicken broth
+0.0,0.0,0.013456686399877071,0,1 1/2 cups milk,1/4 teaspoon ground black pepper
+0.0,0.5714285969734192,0.32817915081977844,0,"1 onion, chopped",1 cup chopped celery
+0.0,0.25,0.10545249283313751,0,1/3 cup all-purpose flour,1 cup chopped celery
+0.0,0.0,0.009348251856863499,0,"2 cups frozen mixed vegetables, thawed",<no_answer>
+0.0,0.2222222238779068,0.024667419493198395,0,1 tablespoon chopped fresh parsley,"1 egg, lightly beaten"
+0.0,0.0,0.14645341038703918,0,1 (9 inch) pastry for a 9 inch single crust pie,1/3 cup all-purpose flour
+0.0,0.0,0.00884165707975626,0,<no_answer>,"30 minutes, or until chicken is no longer pink in the center and the juices run clear"
+1.0,1.0,0.972868800163269,0,until the sauce thickens and boils,until the sauce thickens and boils
+1.0,1.0,0.9713946580886841,0,"1 (3 1/2) pound broiler-fryer chicken, cut up","1 (3 1/2) pound broiler-fryer chicken, cut up"
+1.0,1.0,0.9700961709022522,0,2 tablespoons cooking oil,2 tablespoons cooking oil
+0.0,0.0,0.020818429067730904,0,3/4 cup sliced green onions,2 tablespoons cooking oil
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+1.0,1.0,0.9700563549995422,0,1 1/2 cups bread flour,1 1/2 cups bread flour
+0.0,0.2222222238779068,0.23259173333644867,0,1 1/2 cups bread flour,1/2 cup sunflower seeds
+0.0,0.0,0.07842721045017242,0,1 teaspoon active dry yeast,1/2 cup sunflower seeds
+0.0,0.0,0.009451675228774548,0,<no_answer>,"1 bunch green onions, chopped"
+0.0,0.0,0.018838193267583847,0,1 cup sliced cabbage,2 tablespoons cornstarch
+1.0,1.0,0.9687079787254333,0,2 tablespoons cornstarch,2 tablespoons cornstarch
+0.0,0.0,0.009627580642700195,0,according to package directions,25 minutes
+0.0,0.800000011920929,0.9130664467811584,0,350 degrees,350 degrees Fahrenheit
+0.0,0.0,0.009299568831920624,0,2 tablespoons evaporated milk,<no_answer>
+0.0,0.0,0.009860334917902946,0,<no_answer>,2 pandan leaves
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+1.0,1.0,0.9694059491157532,0,3/4 cup butter,3/4 cup butter
+0.0,0.5,0.22266556322574615,0,1/4 cup all-purpose flour,1/4 cup egg substitute
+1.0,1.0,0.970452606678009,0,1 cup warm water (110 degrees F),1 cup warm water (110 degrees F)
+1.0,1.0,0.9703895449638367,0,3 cups bread flour,3 cups bread flour
+0.0,0.0,0.12401710450649261,0,3 cups bread flour,1/2 cup brown sugar
+0.0,0.0,0.11030315607786179,0,3 tablespoons instant powdered milk,1/4 cup white sugar
+0.0,0.0,0.08197838813066483,0,"5 tablespoons butter, softened",1/2 cup brown sugar
+0.0,0.4444444477558136,0.15536217391490936,0,1/2 cup vanilla ice cream,1/2 cup brown sugar
+0.0,0.0,0.07471217960119247,0,1 tablespoon ground cinnamon,1/2 cup brown sugar
+1.0,1.0,0.9661509990692139,0,until golden brown,until golden brown
+1.0,1.0,0.9709751605987549,0,"1/2 cup butter, softened","1/2 cup butter, softened"
+0.0,0.0,0.06538029760122299,0,2 eggs,1/2 cup wheat bran
+0.0,0.2222222238779068,0.5513523817062378,0,1 1/2 cups all-purpose flour,1/2 cup wheat bran
+1.0,1.0,0.9714145660400391,0,1/2 cup chopped walnuts,1/2 cup chopped walnuts
+1.0,1.0,0.9706438779830933,0,2 tablespoons butter or trans fat-free margarine,2 tablespoons butter or trans fat-free margarine
+1.0,1.0,0.9706438779830933,0,2 tablespoons butter or trans fat-free margarine,2 tablespoons butter or trans fat-free margarine
+0.0,0.75,0.8750836849212646,0,"1/2 teaspoon Salt, to taste",1/2 teaspoon Salt
+0.0,0.1428571492433548,0.031374406069517136,0,"3 tablespoons sweetened coconut flakes, toasted (optional)",2 tablespoons butter or trans fat-free margarine
+0.0,0.0,0.009114575572311878,0,<no_answer>,1/2 teaspoon Salt
+1.0,1.0,0.9716749787330627,0,"1 (10 ounce) can asparagus tips, drained","1 (10 ounce) can asparagus tips, drained"
+0.0,0.13333334028720856,0.012714236043393612,0,"1 (1 pound) loaf soft, sliced white bread","1 (10 ounce) can asparagus tips, drained"
+1.0,1.0,0.9706845283508301,0,"3/4 cup butter, divided","3/4 cup butter, divided"
+0.0,0.0,0.00930952001363039,0,"3/4 cup butter, divided",<no_answer>
+0.0,0.0,0.009463812224566936,0,"4 portobello mushroom caps, sliced",1 (14.5 ounce) can beef broth
+0.0,0.20000000298023224,0.046984780579805374,0,"3/4 cup all-purpose flour, divided",1/2 cup dry Marsala wine
+0.0,0.0,0.014314553700387478,0,1/2 cup dry Marsala wine,1 (14.5 ounce) can beef broth
+0.0,0.0,0.009370259940624237,0,1/2 cup dry Marsala wine,<no_answer>
+0.0,0.0,0.008943523280322552,0,1 tablespoon browning sauce,"6 skinless, boneless chicken breast halves - pounded to 1/2 inch thickness"
+0.0,0.625,0.6827964782714844,0,until chicken juices run clear,"25 minutes in the preheated oven, or until chicken juices run clear"
+0.0,0.0,0.009800169616937637,0,"1 (8 ounce) package cream cheese, softened","2 cups boneless chicken breast halves, cooked and diced"
+1.0,1.0,0.9718874096870422,0,"1 (8 ounce) package cream cheese, softened","1 (8 ounce) package cream cheese, softened"
+0.0,0.5454545617103577,0.5388128161430359,0,1 cup grated Parmesan cheese,1 cup shredded Pepper Jack cheese
+0.0,0.0,0.013051827438175678,0,"1 (10 ounce) package frozen chopped spinach, thawed and drained","6 cloves garlic, pressed"
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+1.0,1.0,0.9713475704193115,0,1/2 cup chopped pecans,1/2 cup chopped pecans
+0.0,0.0,0.09028569608926773,0,2 cups all-purpose flour,1/2 teaspoon ground nutmeg
+0.0,0.75,0.7319926023483276,0,1 teaspoon baking soda,1 teaspoon baking powder
+0.0,0.25,0.09541037678718567,0,1 cup white sugar,1 teaspoon baking powder
+0.0,0.3333333432674408,0.23531708121299744,0,1/2 cup whole bran cereal or wheat germ,1/2 cup chopped pecans
+1.0,1.0,0.9625569581985474,0,175 degrees C,175 degrees C
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+0.0,0.0,0.010310222394764423,0,1/2 cup mixed salad greens,"2 slices whole wheat bread, toasted (optional)"
+0.0,0.0,0.09506580978631973,0,1 1/4 cups all-purpose flour,1/2 teaspoon salt
+0.0,0.0,0.03553137183189392,0,1/4 cup sliced almonds,1/2 teaspoon salt
+1.0,1.0,0.970898449420929,0,1/4 cup sliced almonds,1/4 cup sliced almonds
+0.0,0.0,0.049415379762649536,0,2/3 cup white sugar,1/2 teaspoon salt
+0.0,0.0,0.049415379762649536,0,2/3 cup white sugar,1/2 teaspoon salt
+0.0,0.0,0.026920583099126816,0,2 (14.5 ounce) cans petite diced tomatoes,"3 garlic cloves, minced"
+1.0,1.0,0.9721052050590515,0,2 (14.5 ounce) cans petite diced tomatoes,2 (14.5 ounce) cans petite diced tomatoes
+0.0,0.0,0.0828373059630394,0,1/2 teaspoon dried basil,1/4 cup tomato paste
+0.0,0.0,0.008967595174908638,0,<no_answer>,1/2 teaspoon dried basil
+1.0,1.0,0.9695522785186768,0,"1 pound sliced bacon, cut into thirds","1 pound sliced bacon, cut into thirds"
+0.0,0.0,0.013086405582726002,0,1 (14 ounce) package beef cocktail wieners,"3/4 cup brown sugar, or to taste"
+1.0,1.0,0.9717985391616821,0,1 (14 ounce) package beef cocktail wieners,1 (14 ounce) package beef cocktail wieners
+0.0,0.0,0.013086405582726002,0,1 (14 ounce) package beef cocktail wieners,"3/4 cup brown sugar, or to taste"
+0.0,0.0,0.00988590344786644,0,1 (14 ounce) package beef cocktail wieners,<no_answer>
+0.0,0.0,0.009140078909695148,0,<no_answer>,2/3 of the bacon until needed
+1.0,1.0,0.971486508846283,0,until the sugar is bubbly,until the sugar is bubbly
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+0.0,0.0,0.010732646100223064,0,<no_answer>,until the sugar is bubbly
+0.0,0.5,0.5613020062446594,0,1 teaspoon baking powder,1/2 teaspoon baking soda
+0.0,0.5714285969734192,0.3006804287433624,0,1/2 teaspoon salt,1/2 teaspoon baking soda
+1.0,1.0,0.970149040222168,0,1 teaspoon vanilla extract,1 teaspoon vanilla extract
+0.0,0.3333333432674408,0.06320831924676895,0,1 teaspoon vanilla extract,1 egg
+0.0,0.0,0.009399362839758396,0,<no_answer>,10 to 12 minutes
+0.0,0.0,0.00908538419753313,0,<no_answer>,1/2 teaspoon ground cinnamon
+0.0,0.8181818127632141,0.7783504128456116,0,until a cake tester inserted in the center comes out clean,1 1/2 hrs or until a cake tester inserted in the center comes out clean
+0.0,0.0,0.009099364280700684,0,<no_answer>,1/2 teaspoon salt
+0.0,0.0,0.009099364280700684,0,<no_answer>,1/2 teaspoon salt
+0.0,0.0,0.009565500542521477,0,<no_answer>,until thick
+1.0,1.0,0.9724199771881104,0,1 (9 ounce) package refrigerated small cheese tortellini,1 (9 ounce) package refrigerated small cheese tortellini
+1.0,1.0,0.969956636428833,0,1 (14.5 ounce) can diced tomatoes,1 (14.5 ounce) can diced tomatoes
+0.0,0.4444444477558136,0.4612549841403961,0,1/2 cup white sugar,1 cup packed brown sugar
+1.0,1.0,0.9691417217254639,0,2 teaspoons vanilla extract,2 teaspoons vanilla extract
+0.0,0.0,0.10714511573314667,0,1 teaspoon baking soda,2 1/4 cups all-purpose flour
+0.0,0.1818181872367859,0.012568297795951366,0,1 1/2 cups candy-coated milk chocolate pieces,1 teaspoon baking soda
+0.0,0.0,0.09134232252836227,0,2 cups semisweet chocolate chips,1/2 cup chopped pecans
+0.0,0.20000000298023224,0.07212654501199722,0,4 1/2 cups miniature marshmallows,2 cups semisweet chocolate chips
+0.0,0.1666666716337204,0.03177362307906151,0,2 (3.5 ounce) packages instant vanilla pudding mix,"2 large bananas, sliced"
+1.0,1.0,0.9721430540084839,0,2 (3.5 ounce) packages instant vanilla pudding mix,2 (3.5 ounce) packages instant vanilla pudding mix
+0.0,0.0,0.00878849159926176,0,"2 large bananas, sliced","1 cup frozen whipped topping, thawed"
+0.0,0.0,0.00952172465622425,0,<no_answer>,"2 large bananas, sliced"
+1.0,1.0,0.9653828144073486,0,<no_answer>,<no_answer>
+0.0,0.0,0.009135844185948372,0,<no_answer>,2 cups all-purpose flour
+0.0,0.2857142984867096,0.164667010307312,0,1/4 cup vegetable oil,1 cup buttermilk
+1.0,1.0,0.970371663570404,0,1 cup water,1 cup water
+0.0,0.0,0.033991821110248566,0,3 tablespoons olive oil,1 cup water
+0.0,0.0,0.020352285355329514,0,"2 cloves garlic, minced",3 tablespoons olive oil
+0.0,0.0,0.07046782225370407,0,1 1/2 teaspoons salt,3 tablespoons olive oil
+0.0,0.25,0.5542622804641724,0,3 tablespoons wheat bran,3 cups bread flour
+0.0,0.25,0.07004538923501968,0,3 cups bread flour,3 tablespoons chopped onion
+1.0,1.0,0.9699220061302185,0,1/4 teaspoon salt,1/4 teaspoon salt
+0.0,0.4444444477558136,0.283514142036438,0,1/2 cup butter or margarine,1/2 cup vegetable oil
+0.0,0.5,0.7609596848487854,0,1/2 cup buttermilk,1/2 cup butter or margarine
+1.0,1.0,0.9687449932098389,0,1/2 cup butter or margarine,1/2 cup butter or margarine
+0.0,0.20000000298023224,0.014992283657193184,0,1 1/2 teaspoons ground cinnamon,1/2 cup butter or margarine
+0.0,0.0,0.016916761174798012,0,1 teaspoon vanilla extract,1/2 cup butter or margarine
+0.0,0.0,0.00930770393460989,0,<no_answer>,1 (8 ounce) package cream cheese spread
+1.0,1.0,0.9719071984291077,0,1 (8 ounce) package cream cheese spread,1 (8 ounce) package cream cheese spread
+1.0,1.0,0.9684841632843018,0,12 slices pumpernickel rye bread,12 slices pumpernickel rye bread
+1.0,1.0,0.969946563243866,0,1 cup brown sugar,1 cup brown sugar
+1.0,1.0,0.9705128073692322,0,1/2 cup rum,1/2 cup rum
+0.0,0.3333333432674408,0.0860949158668518,0,1/2 cup rum,1/4 cup ketchup
+0.0,0.2857142984867096,0.13624748587608337,0,1/4 cup ketchup,1/2 cup chile sauce
+0.0,0.0,0.02927093580365181,0,1 teaspoon ground dry mustard,1/2 cup chile sauce
+0.0,0.0,0.02927093580365181,0,1 teaspoon ground dry mustard,1/2 cup chile sauce
+0.0,0.0,0.07132460922002792,0,1 teaspoon ground dry mustard,1/4 cup ketchup
+0.0,0.0,0.00929818581789732,1,<no_answer>,"6 cups cubed, cooked chicken"
+0.0,0.0,0.00929818581789732,1,<no_answer>,"6 cups cubed, cooked chicken"
+0.0,0.0,0.00929818581789732,1,<no_answer>,"6 cups cubed, cooked chicken"
+0.0,0.0,0.009019903838634491,1,"2 tablespoons slivered almonds, toasted","6 cups cubed, cooked chicken"
+0.0,0.0,0.021649712696671486,1,"2 tablespoons slivered almonds, toasted",1/4 cup orange marmalade
+1.0,1.0,0.9702455401420593,1,"4 boneless, skinless chicken breast halves","4 boneless, skinless chicken breast halves"
+0.0,0.1428571492433548,0.02240898832678795,1,1 tablespoon vegetable oil,1 (10 ounce) can diced tomatoes with green chile peppers
+1.0,1.0,0.9673145413398743,1,"1 onion, chopped","1 onion, chopped"
+1.0,1.0,0.9623591899871826,1,"12 small chile peppers, diced  (optional)","12 small chile peppers, diced (optional)"
+0.0,0.0,0.052700839936733246,1,"1 bunch green onions, chopped","12 small chile peppers, diced (optional)"
+0.0,0.0,0.011301194317638874,1,3 cups shredded Cheddar cheese,1 (10.75 ounce) can condensed cream of chicken soup
+0.0,0.0,0.009290480054914951,1,3 cups shredded Cheddar cheese,"12 small chile peppers, diced (optional)"
+0.0,0.0,0.009014509618282318,1,<no_answer>,"4 boneless, skinless chicken breast halves"
+0.0,0.0,0.01791200041770935,1,until chicken is evenly brown,1 tablespoon vegetable oil
+0.0,0.0,0.00926955882459879,1,<no_answer>,1/2 pint heavy cream
+1.0,1.0,0.9710230827331543,1,3 cups shredded Cheddar cheese,3 cups shredded Cheddar cheese
+0.0,0.0,0.01071706973016262,1,3 cups shredded Cheddar cheese,6 (6 inch) corn tortillas
+1.0,1.0,0.9698328375816345,1,"1 egg, beaten","1 egg, beaten"
+1.0,1.0,0.9698328375816345,1,"1 egg, beaten","1 egg, beaten"
+1.0,1.0,0.9708559513092041,1,1/4 cup minced onion,1/4 cup minced onion
+0.0,0.2857142984867096,0.027951516211032867,1,1 1/4 teaspoons salt,"1 egg, beaten"
+0.0,0.2222222238779068,0.025363018736243248,1,1 (8 ounce) can tomato sauce,"1 egg, beaten"
+0.0,0.5,0.13654373586177826,1,1 tablespoon lemon juice,1 tablespoon brown sugar
+0.0,0.0,0.009487931616604328,1,<no_answer>,8 to 9 hours
+0.0,0.0,0.009450911544263363,1,<no_answer>,12 leaves cabbage
+0.0,0.20000000298023224,0.043537482619285583,1,1 cup chopped onion,1 (29 ounce) can diced tomatoes
+0.0,0.2857142984867096,0.04337073490023613,1,1 cup chopped onion,1 tablespoon butter
+0.0,0.5,0.23180575668811798,1,1 (29 ounce) can diced tomatoes,1 (4 ounce) can sliced mushrooms
+0.0,0.2222222238779068,0.020758064463734627,1,1 tablespoon butter,1 (29 ounce) can diced tomatoes
+0.0,0.0,0.027016161009669304,1,3 tablespoons chopped black olives,1 (29 ounce) can diced tomatoes
+0.0,0.1818181872367859,0.03474590554833412,1,1 cup shredded mozzarella cheese,1 (29 ounce) can diced tomatoes
+1.0,1.0,0.9701864123344421,1,1 (10.75 ounce) can condensed cream of mushroom soup,1 (10.75 ounce) can condensed cream of mushroom soup
+0.0,0.0,0.1788681447505951,1,1/4 cup beef broth,1 (10.75 ounce) can condensed cream of mushroom soup
+0.0,0.0,0.009575309231877327,1,<no_answer>,1 (29 ounce) can diced tomatoes
+0.0,0.0,0.009670545347034931,1,until heated through,1 cup shredded mozzarella cheese
+1.0,1.0,0.9686442017555237,1,12 ounces ground turkey,12 ounces ground turkey
+0.0,0.0,0.009312255308032036,1,<no_answer>,12 ounces ground turkey
+0.0,0.0,0.008932232856750488,1,<no_answer>,2 quarts oil for frying
+0.0,0.2222222238779068,0.25019752979278564,1,1 1/4 cups all-purpose flour,1/4 cup white sugar
+0.0,0.4444444477558136,0.17897866666316986,1,1/2 cup packed light brown sugar,1/2 cup butter
+0.0,0.1818181872367859,0.2631961405277252,1,1/2 cup packed light brown sugar,2 tablespoons light corn syrup
+0.0,0.0,0.12824100255966187,1,1/2 cup sweetened condensed milk,2 tablespoons light corn syrup
+0.0,0.0,0.008894653990864754,1,176 degrees C,1/2 cup sweetened condensed milk
+1.0,1.0,0.9653828144073486,1,<no_answer>,<no_answer>
+1.0,1.0,0.9653828144073486,1,<no_answer>,<no_answer>
+0.0,0.2857142984867096,0.06049735099077225,1,1/4 cup white sugar,1 egg white
+0.0,0.0,0.05108082666993141,1,2 1/2 tablespoons all-purpose flour,1 egg white
+0.0,0.1666666716337204,0.016494732350111008,1,"1/2 (1 ounce) square unsweetened chocolate, grated",2 1/2 tablespoons all-purpose flour
+0.0,0.0,0.00964810699224472,1,<no_answer>,1/3 cup confectioners' sugar for decoration
+0.0,0.0,0.014819410629570484,1,1 (6 ounce) package herb-seasoned dry bread stuffing mix,16 medium slices mozzarella cheese
+0.0,0.0,0.010641892440617085,1,1/8 teaspoon salt,3 eggs
+0.0,0.5,0.541607677936554,1,1/2 teaspoon ground allspice,1/4 teaspoon ground cinnamon
+0.0,0.0,0.012450897134840488,1,2 cups chopped dried figs,1/4 teaspoon ground cinnamon
+1.0,1.0,0.9644327163696289,1,until lightly toasted,until lightly toasted
+1.0,1.0,0.9702052474021912,1,1/2 cup ketchup,1/2 cup ketchup
+0.0,0.5,0.15908800065517426,1,4 tablespoons molasses,4 tablespoons unsweetened pineapple juice
+1.0,1.0,0.970355749130249,1,2 tablespoons dark rum,2 tablespoons dark rum
+0.0,0.25,0.024682993069291115,1,2 tablespoons prepared Dijon-style mustard,4 tablespoons molasses
+0.0,0.0,0.011907384730875492,1,salt and pepper to taste,2 tablespoons prepared Dijon-style mustard
+0.0,0.0,0.009073929861187935,1,8 chicken thighs,2 tablespoons prepared Dijon-style mustard
+1.0,1.0,0.9678873419761658,1,8 chicken thighs,8 chicken thighs
+0.0,0.0,0.00936097837984562,1,<no_answer>,8 chicken thighs
+0.0,0.0,0.013937651179730892,1,4 vine-ripened tomatoes,2 1/2 teaspoons olive oil
+0.0,0.0,0.013508313335478306,1,4 vine-ripened tomatoes,10 slices Italian bread
+0.0,0.0,0.009055580012500286,1,<no_answer>,1 teaspoon chopped fresh basil
+0.0,0.0,0.009098118171095848,1,<no_answer>,2 1/2 teaspoons olive oil
+0.0,0.0,0.009690988808870316,1,2 cups all-purpose baking mix,"1 (16 ounce) package Monterey Jack cheese, cubed"
+0.0,0.1428571492433548,0.07861328125,1,"1 (16 ounce) package Monterey Jack cheese, cubed",1 tablespoon crushed red pepper flakes
+0.0,0.0,0.009793535806238651,1,<no_answer>,"1 (16 ounce) package Monterey Jack cheese, cubed"
+0.0,0.0,0.009337888099253178,1,<no_answer>,1/4 cup olive oil
+1.0,1.0,0.9653828144073486,1,<no_answer>,<no_answer>
+1.0,1.0,0.9710332751274109,1,3 cups diced cooked chicken,3 cups diced cooked chicken
+0.0,0.0,0.010591709986329079,1,"1 red bell pepper, seeded and diced",6 tablespoons mayonnaise
+0.0,0.0,0.03627593070268631,1,6 tablespoons mayonnaise,"1/2 red onion, diced"
+0.0,0.0,0.08168640732765198,1,"1 (4 ounce) package feta cheese, crumbled",6 tablespoons sour cream
+1.0,1.0,0.9719843864440918,1,"1 (4 ounce) package feta cheese, crumbled","1 (4 ounce) package feta cheese, crumbled"
+1.0,1.0,0.9692428708076477,1,2 teaspoons olive oil,2 teaspoons olive oil
+1.0,1.0,0.9692428708076477,1,2 teaspoons olive oil,2 teaspoons olive oil
+1.0,1.0,0.9702455401420593,1,"4 boneless, skinless chicken breast halves","4 boneless, skinless chicken breast halves"
+0.0,0.0,0.050995588302612305,1,1 (10 ounce) can refrigerated large crescent roll dough,8 ounces Brie cheese
+0.0,0.0,0.009679418057203293,1,"1 bunch fresh spinach, rinsed and stems removed",2 teaspoons olive oil
+0.0,0.0,0.009320160374045372,1,<no_answer>,8 ounces Brie cheese
+1.0,1.0,0.9692428708076477,1,2 teaspoons olive oil,2 teaspoons olive oil
+1.0,1.0,0.971048891544342,1,1 (18 ounce) package small chocolate chip cookies,1 (18 ounce) package small chocolate chip cookies
+0.0,0.2222222238779068,0.08100297302007675,1,1 cup hot fudge topping,"1/4 cup margarine, melted"
+0.0,0.0,0.008819658309221268,1,12 cherries,2 quarts vanilla ice cream
+0.0,0.0,0.00902697816491127,1,<no_answer>,"6 pounds tart apples, cored and sliced"
+1.0,1.0,0.9653828144073486,1,<no_answer>,<no_answer>
+1.0,1.0,0.9721059203147888,1,"1 (8 ounce) package light cream cheese, softened","1 (8 ounce) package light cream cheese, softened"
+0.0,0.0,0.023438071832060814,1,2 tablespoons heat-stable granular sugar substitute,"1 (8 ounce) package light cream cheese, softened"
+1.0,1.0,0.9709752798080444,1,2 tablespoons heat-stable granular sugar substitute,2 tablespoons heat-stable granular sugar substitute
+0.0,0.0,0.05366600677371025,1,"1 (8 ounce) container reduced-fat frozen whipped topping, thawed, divided",2 tablespoons heat-stable granular sugar substitute
+0.0,0.0,0.18185099959373474,1,"1 (8 ounce) container reduced-fat frozen whipped topping, thawed, divided",1/4 cup cold margarine
+1.0,1.0,0.9732584357261658,1,"1 (8 ounce) container reduced-fat frozen whipped topping, thawed, divided","1 (8 ounce) container reduced-fat frozen whipped topping, thawed, divided"
+0.0,0.2222222238779068,0.1475391834974289,1,1 (1.4 ounce) package instant  sugar-free chocolate pudding mix,"1 (8 ounce) container reduced-fat frozen whipped topping, thawed"
+1.0,1.0,0.9715433120727539,1,1 (1.4 ounce) package instant  sugar-free chocolate pudding mix,1 (1.4 ounce) package instant  sugar-free chocolate pudding mix
+0.0,0.0,0.009090743958950043,1,<no_answer>,"1 (8 ounce) package light cream cheese, softened"
+0.0,0.0,0.08060085773468018,1,1/4 teaspoon ground cinnamon,1 tablespoon light brown sugar
+0.0,0.20000000298023224,0.11944301426410675,1,1 1/2 tablespoons ice water,1 tablespoon light brown sugar
+0.0,0.0,0.08571520447731018,1,2 tablespoons white sugar,1/2 cup all-purpose flour
+0.0,0.20000000298023224,0.013312908820807934,1,"1 bananas, peeled and sliced",1 1/2 tablespoons ice water
+0.0,0.0,0.009464521892368793,1,<no_answer>,"1 kiwi, peeled and sliced"
+0.0,0.0,0.014317616820335388,1,until golden brown,1/4 teaspoon vanilla extract
+0.0,0.0,0.008969155140221119,1,<no_answer>,1/2 cup all-purpose flour
+0.0,0.0,0.009278396144509315,1,<no_answer>,1 cup rye flour
+0.0,0.2857142984867096,0.149424210190773,1,1 cup rye flour,1/4 cup sugar
+1.0,1.0,0.9696232080459595,1,3/4 cup all-purpose flour,3/4 cup all-purpose flour
+0.0,0.0,0.009969969280064106,1,a toothpick inserted near the center comes out clean,<no_answer>
+0.0,0.0,0.03669392317533493,1,1/4 teaspoon salt,2 tablespoons butter
+0.0,0.0,0.05722905322909355,1,2 1/2 cups cold milk,1 cup all-purpose flour
+0.0,0.0,0.012519304640591145,1,2 1/2 cups cold milk,1/4 teaspoon salt
+0.0,0.0,0.04009416699409485,1,1 teaspoon vanilla extract,1/2 cup butter
+0.0,0.5,0.15775568783283234,1,1 cup confectioners' sugar,1 cup heavy cream
+0.0,0.0,0.009094640612602234,1,15 minutes,until hollow sounding when lightly tapped on the bottom
+0.0,0.0,0.00949050858616829,1,<no_answer>,3 tablespoons hot water
+0.0,0.0,0.010014327242970467,1,<no_answer>,1 cup confectioners' sugar
+0.0,0.0,0.008787802420556545,1,<no_answer>,"4 skinless, boneless chicken breast halves, cut into bite size pieces"
+1.0,1.0,0.9717136025428772,1,1 gallon apple juice,1 gallon apple juice
+1.0,1.0,0.9692403078079224,1,3 cups white sugar,3 cups white sugar
+0.0,0.0,0.01968780905008316,1,3 cups white sugar,1 gallon apple juice
+1.0,1.0,0.9721533060073853,1,1 (750 milliliter) bottle 190 proof grain alcohol,1 (750 milliliter) bottle 190 proof grain alcohol
+0.0,0.1666666716337204,0.0747411847114563,1,1 (750 milliliter) bottle 190 proof grain alcohol,1 gallon apple juice
+1.0,1.0,0.9721971750259399,1,"6 Yukon Gold potatoes, peeled and cubed","6 Yukon Gold potatoes, peeled and cubed"
+1.0,1.0,0.9689465165138245,1,2 tablespoons butter,2 tablespoons butter
+0.0,0.20000000298023224,0.12232360243797302,1,1 tablespoon chicken bouillon granules,1 2/3 tablespoons brown sugar
+0.0,0.20000000298023224,0.011831877753138542,1,2 teaspoons black pepper,2 cups shredded Monterey Jack cheese
+0.0,0.20000000298023224,0.011831877753138542,1,2 teaspoons black pepper,2 cups shredded Monterey Jack cheese
+0.0,0.0,0.00952695682644844,1,<no_answer>,2 tablespoons butter
+1.0,1.0,0.9653828144073486,1,<no_answer>,<no_answer>
+0.0,0.0,0.009137696586549282,1,<no_answer>,2 tablespoons grated Parmesan cheese
+1.0,1.0,0.9699540734291077,1,1 (5 pound) chuck roast,1 (5 pound) chuck roast
+0.0,0.75,0.39768362045288086,1,1 cup teriyaki sauce,1 cup barbeque sauce
+0.0,0.75,0.39768362045288086,1,1 cup teriyaki sauce,1 cup barbeque sauce
+1.0,1.0,0.9710059762001038,1,1 (12 fluid ounce) can or bottle beer,1 (12 fluid ounce) can or bottle beer
+0.0,0.0,0.009408731013536453,1,3 teaspoons minced garlic,1 (12 fluid ounce) can or bottle beer
+0.0,0.0,0.009296669624745846,1,3 teaspoons coarsely ground black pepper,1 cup barbeque sauce
+0.0,0.0,0.009304785169661045,1,<no_answer>,2 teaspoons salt
+1.0,1.0,0.9731776118278503,1,"1 (6 ounce) can crabmeat, drained and flaked","1 (6 ounce) can crabmeat, drained and flaked"
+0.0,0.0,0.009250642731785774,1,each pastry sheet,"1 (6 ounce) can crabmeat, drained and flaked"
+0.0,0.0,0.00944999698549509,1,<no_answer>,400 degrees F (200 degrees C)
+0.0,0.0,0.009198611602187157,1,<no_answer>,2 tablespoons cayenne pepper
+1.0,1.0,0.97022545337677,1,1 1/2 cups broccoli florets,1 1/2 cups broccoli florets
+1.0,1.0,0.97022545337677,1,1 1/2 cups broccoli florets,1 1/2 cups broccoli florets
+1.0,1.0,0.97022545337677,1,1 1/2 cups broccoli florets,1 1/2 cups broccoli florets
+1.0,1.0,0.9723708033561707,1,"1 green bell pepper, cut into 1 inch pieces","1 green bell pepper, cut into 1 inch pieces"
+0.0,0.1538461595773697,0.13257239758968353,1,"1 carrot, coarsely chopped","1 green bell pepper, cut into 1 inch pieces"
+0.0,0.0,0.009324250742793083,1,<no_answer>,1 1/2 cups broccoli florets
+0.0,0.0,0.009314512833952904,1,<no_answer>,2 teaspoons baking soda
+1.0,1.0,0.970680832862854,1,1 sprig chopped fresh dill,1 sprig chopped fresh dill
+0.0,0.0,0.009065856225788593,1,cayenne pepper to taste,4 1/2 cups distilled white vinegar
+0.0,0.0,0.009217535145580769,1,4 tablespoons salt,<no_answer>
+0.0,0.0,0.009179283864796162,1,<no_answer>,"2 pounds garlic, peeled"
+1.0,1.0,0.9698143601417542,1,2 tablespoons olive oil,2 tablespoons olive oil
+0.0,0.0,0.008990397676825523,1,garlic powder to taste,"1 (4 pound) chicken, cut into pieces"
+0.0,0.0,0.08952982723712921,1,"1 large onion, diced","1/2 pound fresh mushrooms, sliced"
+1.0,1.0,0.9711998701095581,1,1/2 teaspoon dried oregano,1/2 teaspoon dried oregano
+0.0,0.0,0.01274850033223629,1,1 teaspoon garlic salt,"1/2 pound fresh mushrooms, sliced"
+0.0,0.0,0.009394826367497444,1,1 cup dry white wine,"1/2 pound fresh mushrooms, sliced"
+0.0,0.0,0.009005201980471611,1,<no_answer>,"1/2 pound fresh mushrooms, sliced"
+0.0,0.0,0.009038753807544708,1,<no_answer>,1/2 teaspoon dried rosemary
+0.0,0.0,0.009433561936020851,1,<no_answer>,1 teaspoon poultry seasoning
+0.0,0.4444444477558136,0.48727530241012573,1,1/2 cup packed brown sugar,1 cup white sugar
+0.0,0.0,0.1277802586555481,1,3 cups all-purpose flour,1 cup white sugar
+0.0,0.2857142984867096,0.04634729027748108,1,1 teaspoon salt,1 cup white sugar
+0.0,0.0,0.009150726720690727,1,<no_answer>,"6 (2.1 ounce) bars chocolate-coated peanut and nougat candy, eg: Baby"
+0.0,0.0,0.01123061589896679,1,until lightly browned,"6 (2.1 ounce) bars chocolate-coated peanut and nougat candy, eg: Baby"
+0.0,0.1666666716337204,0.0546930655837059,1,1 cup mayonnaise,1 (1 ounce) package garlic and mushroom soup mix
+0.0,0.0,0.10223015397787094,1,1 (1 ounce) package garlic and mushroom soup mix,8 ounces sour cream
+0.0,0.1666666716337204,0.0837254524230957,1,1 (1 ounce) package garlic and mushroom soup mix,1 cup mayonnaise
+1.0,1.0,0.9719183444976807,1,1 (1 ounce) package garlic and mushroom soup mix,1 (1 ounce) package garlic and mushroom soup mix
+0.0,0.1428571492433548,0.0248184185475111,1,1 cup shredded Swiss cheese,1 (1 ounce) package garlic and mushroom soup mix
+0.0,0.25,0.09463433176279068,1,"1 (6 ounce) can crab meat, drained",1 (1 ounce) package garlic and mushroom soup mix
+0.0,0.0,0.00927502941340208,1,<no_answer>,"1 (14 ounce) can artichoke hearts, drained and chopped"
+0.0,0.0,0.03196168690919876,1,a 1-1/2 quart casserole dish,"1 (6 ounce) can crab meat, drained"
+0.0,0.0,0.3002437353134155,1,a 1-1/2 quart casserole dish,1 (1 ounce) package garlic and mushroom soup mix
+0.0,0.0,0.009154199622571468,1,<no_answer>,1 cup shredded Swiss cheese
+1.0,1.0,0.9691653847694397,1,8 cups shredded cabbage,8 cups shredded cabbage
+1.0,1.0,0.9686282277107239,1,"1 medium onion, chopped","1 medium onion, chopped"
+1.0,1.0,0.9704822897911072,1,1 (14.5 ounce) can chicken broth,1 (14.5 ounce) can chicken broth
+1.0,1.0,0.9704822897911072,1,1 (14.5 ounce) can chicken broth,1 (14.5 ounce) can chicken broth
+0.0,0.0,0.009083693847060204,1,<no_answer>,1 3/4 teaspoons salt
+1.0,1.0,0.9711715579032898,1,"1 egg, lightly beaten","1 egg, lightly beaten"
+0.0,0.0,0.009385955519974232,1,<no_answer>,1 tablespoon olive oil
+1.0,1.0,0.966674268245697,1,3 to 5 minutes,3 to 5 minutes
+1.0,1.0,0.9678822159767151,1,"7 slices day-old bread, torn","7 slices day-old bread, torn"
+0.0,0.4000000059604645,0.49560391902923584,1,"7 slices day-old bread, torn",1 cup torn corn bread
+0.0,0.2222222238779068,0.02258966490626335,1,2/3 cup hot water,1 cup torn corn bread
+0.0,0.2222222238779068,0.09442640095949173,1,1/2 cup chopped onion,1 cup torn corn bread
+0.0,0.0,0.03939816355705261,1,1 tablespoon vegetable oil,1/2 cup sliced fresh mushrooms
+0.0,0.20000000298023224,0.1322360634803772,1,1 cup cooked long-grain rice,1/2 cup thinly sliced celery
+1.0,1.0,0.9717435240745544,1,1/2 cup orange juice,1/2 cup orange juice
+0.0,0.0,0.010143071413040161,1,2 teaspoons rubbed sage,"1 egg, beaten"
+0.0,0.2857142984867096,0.012850959785282612,1,1/2 teaspoon salt,1/2 cup orange juice
+0.0,0.0,0.102208212018013,1,until tender,2 teaspoons rubbed sage
+0.0,0.0,0.008943037129938602,1,176 degrees C,1/2 cup orange juice
+0.0,0.0,0.009095482528209686,1,30 minutes,"1 egg, beaten"
+1.0,1.0,0.9692428708076477,1,2 teaspoons olive oil,2 teaspoons olive oil
+1.0,1.0,0.9701232314109802,1,1 tablespoon brown sugar,1 tablespoon brown sugar
+0.0,0.0,0.009246923960745335,1,<no_answer>,"1 (10 ounce) can whole kernel corn, drained"
+1.0,1.0,0.9730808734893799,1,1 (12 ounce) package refrigerated biscuit dough,1 (12 ounce) package refrigerated biscuit dough
+1.0,1.0,0.9708030223846436,1,1 cup diced onion,1 cup diced onion
+0.0,0.0,0.02102503925561905,1,"1/2 cup butter, softened",1 (8 ounce) package corn bread mix
+0.0,0.0,0.03249359875917435,1,1/2 teaspoon ground black pepper,1 cup diced onion
+0.0,0.0,0.011677293106913567,1,1/8 pound pork sausage,1/2 teaspoon ground black pepper
+0.0,0.0,0.009534576907753944,1,1 teaspoon dried sage (optional),2 hard-cooked eggs
+0.0,0.0,0.009401188232004642,1,<no_answer>,1 cup diced onion
+0.0,0.0,0.009120218455791473,1,<no_answer>,2 hard-cooked eggs
+0.0,0.0,0.00956070888787508,1,<no_answer>,2 tablespoons light corn syrup
+1.0,1.0,0.9653828144073486,1,<no_answer>,<no_answer>
+0.0,0.0,0.009174375794827938,1,<no_answer>,1/4 pound ground beef
+0.0,0.0,0.009573929943144321,1,5 cloves crushed garlic,4 pounds dark meat chicken pieces
+0.0,0.0,0.15716664493083954,1,1 teaspoon poultry seasoning,4 pounds dark meat chicken pieces
+0.0,0.25,0.0857374519109726,1,1 cup chopped onion,1/2 cup all-purpose flour
+0.0,0.25,0.27301982045173645,1,"1/2 pound fresh mushrooms, sliced","3 carrots, sliced"
+0.0,0.2222222238779068,0.047844499349594116,1,"1/2 pound fresh mushrooms, sliced",1/2 teaspoon dried rosemary
+1.0,1.0,0.9695315361022949,1,1 (14.5 ounce) can whole peeled tomatoes,1 (14.5 ounce) can whole peeled tomatoes
+0.0,0.13333334028720856,0.015889694914221764,1,1 (14.5 ounce) can whole peeled tomatoes,"3 (4 ounce) links sweet Italian sausage, sliced"
+0.0,0.0,0.009188379161059856,1,<no_answer>,4 pounds dark meat chicken pieces
+0.0,0.0,0.009238396771252155,1,<no_answer>,"3 (4 ounce) links sweet Italian sausage, sliced"
+0.0,0.4000000059604645,0.5984132885932922,1,until tender,"45 minutes to 1 hour, or until tender"
+0.0,0.0,0.00935492292046547,1,<no_answer>,20 minutes
+0.0,0.0,0.00935492292046547,1,<no_answer>,20 minutes
+1.0,1.0,0.971710741519928,1,"1 (4 ounce) bar German sweet chocolate, chopped","1 (4 ounce) bar German sweet chocolate, chopped"
+0.0,0.1538461595773697,0.11494319885969162,1,"4 ounces cream cheese, softened","1 (4 ounce) bar German sweet chocolate, chopped"
+0.0,0.13333334028720856,0.04960756003856659,1,"1 (12 ounce) container frozen whipped topping, thawed",1 (9 inch) prepared graham cracker crust
+0.0,0.1538461595773697,0.00897122360765934,1,1 1/2 to 2 minutes,"1 (4 ounce) bar German sweet chocolate, chopped"
+0.0,0.0,0.00914507731795311,1,<no_answer>,"1 (3 ounce) package cream cheese, softened"
+1.0,1.0,0.9708926677703857,2,3 tablespoons crushed black peppercorns,3 tablespoons crushed black peppercorns
+0.0,0.0,0.00922705139964819,2,2 (8 ounce) beef top sirloin steaks,1/2 cup heavy cream
+0.0,0.0,0.021867040544748306,2,1 tablespoon lemon pepper,1/2 cup heavy cream
+0.0,0.2857142984867096,0.1260388344526291,2,1 tablespoon lemon pepper,1 teaspoon salt
+0.0,0.0,0.12213683873414993,2,5 tablespoons butter,1/2 cup heavy cream
+0.0,0.5,0.12528067827224731,2,1/2 cup red wine,1/2 cup heavy cream
+0.0,0.5,0.12528067827224731,2,1/2 cup red wine,1/2 cup heavy cream
+0.0,0.2222222238779068,0.06930149346590042,2,1/4 cup chopped green onions,1/2 cup heavy cream
+0.0,0.2222222238779068,0.09003853797912598,2,1/2 cup heavy cream,1/4 cup chopped green onions
+0.0,0.0,0.054557088762521744,2,1/2 cup heavy cream,1 teaspoon white sugar (optional)
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.1428571492433548,0.03040551021695137,2,"1 spaghetti squash, halved lengthwise and seeded","1 (15 ounce) can black olives, chopped"
+1.0,1.0,0.9722816944122314,2,"1 spaghetti squash, halved lengthwise and seeded","1 spaghetti squash, halved lengthwise and seeded"
+0.0,0.4000000059604645,0.16840510070323944,2,"1 onion, chopped","1 (15 ounce) can black olives, chopped"
+0.0,0.0,0.03937734290957451,2,2 tablespoons minced garlic,1 cup shredded mozzarella cheese
+0.0,0.8333333134651184,0.6326320767402649,2,2 (14 ounce) cans stewed tomatoes,1 (14 ounce) cans stewed tomatoes
+0.0,0.25,0.34167996048927307,2,1 tablespoon dried basil,1 cube vegetable bouillon
+0.0,0.0,0.010052724741399288,2,black pepper to taste,1 cube vegetable bouillon
+0.0,0.2222222238779068,0.255909264087677,2,1 cup shredded mozzarella cheese,1 cube vegetable bouillon
+1.0,1.0,0.9714846611022949,2,1 cup shredded mozzarella cheese,1 cup shredded mozzarella cheese
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.5,0.2438981682062149,2,1/2 cup mayonnaise,1/2 cup minced red onion
+1.0,1.0,0.9698567390441895,2,2 cups all-purpose flour,2 cups all-purpose flour
+0.0,0.0,0.01560239214450121,2,1/4 teaspoon salt,1/2 cup flaked coconut
+0.0,0.25,0.12154997140169144,2,3/4 cup chopped pecans,1/2 cup flaked coconut
+0.0,0.0,0.009889151901006699,2,400 degrees F,<no_answer>
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9692370295524597,2,1 cup corn,1 cup corn
+1.0,1.0,0.9713221192359924,2,"1 cup peeled, chopped jicama","1 cup peeled, chopped jicama"
+0.0,0.5,0.16580595076084137,2,"1 cup peeled, chopped jicama",1 cup corn
+0.0,0.1666666716337204,0.05579996109008789,2,"1 lime, zested and juiced","1 cup fresh cilantro leaves, finely chopped"
+0.0,0.0,0.009608077816665173,2,2 tablespoons salt,"1 cup peeled, chopped jicama"
+0.0,0.0,0.009132245555520058,2,2 tablespoons olive oil,<no_answer>
+0.0,0.0,0.0984429121017456,2,"1/2 green bell pepper, cut into thin strips","1 medium onion, chopped"
+0.0,0.0,0.04061594977974892,2,"3 teaspoons fresh ginger root, grated","1 medium onion, chopped"
+0.0,0.25,0.015375691466033459,2,1 1/2 tablespoons molasses,"1 medium onion, chopped"
+0.0,0.2666666805744171,0.03436344489455223,2,1 1/2 (14 ounce) packages egg roll wrappers,1 1/2 cups sweet and sour sauce
+0.0,0.2666666805744171,0.03436344489455223,2,1 1/2 (14 ounce) packages egg roll wrappers,1 1/2 cups sweet and sour sauce
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.0,0.009905006736516953,2,until golden brown,<no_answer>
+1.0,1.0,0.9696471095085144,2,"3 hard-cooked eggs, chopped","3 hard-cooked eggs, chopped"
+0.0,0.0,0.11759985983371735,2,1 tablespoon diced pimientos,1/4 cup chopped celery
+0.0,0.0,0.0636257603764534,2,1/8 teaspoon salt,1/2 cup mayonnaise
+0.0,0.0,0.008900647051632404,2,"2 English muffins, split and toasted",1/2 cup mayonnaise
+1.0,1.0,0.970521092414856,2,2 1/2 teaspoons vegetable oil,2 1/2 teaspoons vegetable oil
+0.0,0.0,0.011758001521229744,2,3 cups chicken broth,1/2 teaspoon dried oregano
+0.0,0.0,0.009151076897978783,2,3 cups chicken broth,"1 (15 ounce) can whole kernel corn, drained"
+0.0,0.0,0.009154709987342358,2,1/2 teaspoon dried oregano,"1 (15 ounce) can whole kernel corn, drained"
+0.0,0.5882353186607361,0.36148425936698914,2,"1 (15 ounce) can black beans, rinsed and drained","1 (15 ounce) can whole kernel corn, drained"
+0.0,0.0,0.02251158282160759,2,"1 (15 ounce) can whole kernel corn, drained",1/2 cup salsa
+0.0,0.0,0.010552809573709965,2,1/2 cup salsa,"1 (15 ounce) can whole kernel corn, drained"
+0.0,0.0,0.011608265340328217,2,"6 pork loin chops (3/4 inch thick), trimmed",1/2 teaspoon garlic powder
+0.0,0.25,0.08622642606496811,2,1/2 cup all-purpose flour,1/2 teaspoon garlic powder
+0.0,0.0,0.009106470271945,2,<no_answer>,1/2 teaspoon garlic powder
+0.0,0.0,0.013725049793720245,2,2 tablespoons vegetable oil,"1 (10.75 ounce) can condensed cream of chicken soup, undiluted"
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.0,0.012459858320653439,2,low,<no_answer>
+1.0,1.0,0.9690924882888794,2,12 ounces chopped raw bacon,12 ounces chopped raw bacon
+0.0,0.0,0.008909841999411583,2,"5 button mushrooms, chopped",1 1/2 pounds extra-lean ground beef
+0.0,0.25,0.011374442838132381,2,1 egg,1 1/2 pounds extra-lean ground beef
+0.0,0.0,0.014088615775108337,2,"6 ounces shredded Swiss cheese, divided",1/4 cup evaporated milk
+1.0,1.0,0.9709320068359375,2,1/4 cup evaporated milk,1/4 cup evaporated milk
+1.0,1.0,0.9702243208885193,2,"6 ounces shredded Swiss cheese, divided","6 ounces shredded Swiss cheese, divided"
+0.0,0.25,0.08004968613386154,2,1 teaspoon ground cinnamon,1 cup raisins (optional)
+0.0,0.0,0.07209163159132004,2,1/4 teaspoon baking powder,1/2 cup sour cream
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.0,0.04312894120812416,2,2 tablespoons minced fresh ginger root,1/2 cup soy sauce
+1.0,1.0,0.9691519141197205,2,3 tablespoons honey,3 tablespoons honey
+0.0,0.0,0.013391765765845776,2,"1 onion, chopped",1/3 cup uncooked long-grain white rice
+0.0,0.0,0.05523877963423729,2,"3 large potatoes, chopped",1/3 cup uncooked long-grain white rice
+0.0,0.13333334028720856,0.08203515410423279,2,"1 bunch fresh asparagus, trimmed and cut into 1 inch pieces",1/2 pound fresh spinach
+0.0,0.0,0.010643333196640015,2,"1 bunch fresh asparagus, trimmed and cut into 1 inch pieces",1/3 cup uncooked long-grain white rice
+0.0,0.0,0.00921116303652525,2,4 teaspoons salt,1/2 pound fresh spinach
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9709822535514832,2,"6 figs, halved","6 figs, halved"
+1.0,1.0,0.972307026386261,2,"1/2 cup toasted, chopped pecans","1/2 cup toasted, chopped pecans"
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.0,0.0090025058016181,2,"2 pounds frozen crawfish, cleaned",1/2 cup butter
+0.0,0.0,0.010155589319765568,2,1 (10.75 ounce) can condensed cream of mushroom soup,<no_answer>
+0.0,0.0,0.010763389989733696,2,"4 ounces cream cheese, softened","1 (15.25 ounce) can whole kernel corn, drained"
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.0,0.021122228354215622,2,1 cup semisweet chocolate chips,1/2 teaspoon baking soda
+0.0,0.2222222238779068,0.04425988718867302,2,1 cup semisweet chocolate chips,"1/2 cup butter, softened"
+0.0,0.25,0.10332465171813965,2,1/2 cup white sugar,1/2 teaspoon vanilla extract
+0.0,0.0,0.04088633880019188,2,2 eggs,1/2 teaspoon vanilla extract
+0.0,0.75,0.6632446050643921,2,1/2 teaspoon baking powder,1/2 teaspoon baking soda
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.0,0.4638446867465973,2,"1 red bell pepper, sliced into thin strips",1/4 inch slices
+0.0,0.0,0.4638446867465973,2,"1 red bell pepper, sliced into thin strips",1/4 inch slices
+0.0,0.20000000298023224,0.2919759154319763,2,2 ounces soft goat cheese,1/4 cup grated Parmesan cheese
+1.0,1.0,0.9693759083747864,2,1/4 cup tapenade (olive spread),1/4 cup tapenade (olive spread)
+1.0,1.0,0.9712026119232178,2,until tender and slightly browned,until tender and slightly browned
+1.0,1.0,0.9682406187057495,2,40 rectangular shortbread cookies,40 rectangular shortbread cookies
+0.0,0.0,0.00988153088837862,2,"35 individually wrapped caramels, unwrapped",1/4 cup water
+1.0,1.0,0.9709752798080444,2,1/4 cup water,1/4 cup water
+0.0,0.0,0.009776792488992214,2,until caramel is set,<no_answer>
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9709731340408325,2,1 (8 pound) bone-in shank ham,1 (8 pound) bone-in shank ham
+0.0,0.5714285969734192,0.23628656566143036,2,1/2 cup honey,1/2 cup brown sugar
+0.0,0.0,0.016782987862825394,2,2 tablespoons liquid smoke flavoring,1/2 cup brown sugar
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.1818181872367859,0.1595200002193451,2,2 (14 ounce) cans sweetened condensed milk,2 cups heavy cream
+1.0,1.0,0.9700338244438171,2,2 cups heavy cream,2 cups heavy cream
+0.0,0.0,0.008987411856651306,2,1/2 teaspoon salt,3 cups chopped strawberries
+0.0,0.2857142984867096,0.0918494313955307,2,3 cups chopped strawberries,5 cups milk
+0.0,0.0,0.009202806279063225,2,<no_answer>,1/2 cup brown sugar
+1.0,1.0,0.9723706841468811,2,"1 (11 ounce) can mandarin oranges, drained","1 (11 ounce) can mandarin oranges, drained"
+1.0,1.0,0.9723706841468811,2,"1 (11 ounce) can mandarin oranges, drained","1 (11 ounce) can mandarin oranges, drained"
+0.0,0.1818181872367859,0.052729107439517975,2,"1 (8 ounce) can crushed pineapple, drained",1 cup maraschino cherries
+0.0,0.5714285969734192,0.3270733952522278,2,"1 (8 ounce) can crushed pineapple, drained","1 (11 ounce) can mandarin oranges, drained"
+0.0,0.0,0.061843130737543106,2,"3 1/2 cups frozen whipped topping, thawed",1 cup maraschino cherries
+0.0,0.5,0.15827146172523499,2,2 cups shredded coconut,2 cups miniature marshmallows
+0.0,0.5,0.1503741592168808,2,2 cups miniature marshmallows,2 cups shredded coconut
+0.0,0.2857142984867096,0.08458757400512695,2,1/2 cup milk,1 cup maraschino cherries
+0.0,0.11764705926179886,0.02048727683722973,2,"1 (1 pound) loaf French bread, cut diagonally in 1 inch slices",1 1/3 cups brown sugar
+0.0,0.0,0.061507727950811386,2,2 teaspoons vanilla extract,1 1/3 cups brown sugar
+0.0,0.0,0.055091384798288345,2,2 teaspoons vanilla extract,3 tablespoons light corn syrup
+0.0,0.0,0.037567365914583206,2,1 1/3 cups brown sugar,1/4 teaspoon ground cinnamon
+1.0,1.0,0.9701687693595886,2,3 tablespoons light corn syrup,3 tablespoons light corn syrup
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9723014831542969,2,1 fluid ounce dark rum,1 fluid ounce dark rum
+0.0,0.3636363744735718,0.2877309024333954,2,3 1/2 fluid ounces fruit punch,1/2 fluid ounce apricot brandy
+0.0,0.0,0.009479040279984474,2,<no_answer>,1 fluid ounce dark rum
+1.0,1.0,0.97193843126297,2,"1 (15 ounce) can chickpeas (garbanzo beans), drained","1 (15 ounce) can chickpeas (garbanzo beans), drained"
+1.0,1.0,0.972822904586792,2,1/2 cup drained marinated artichoke hearts,1/2 cup drained marinated artichoke hearts
+0.0,0.0,0.07861318439245224,2,2 tablespoons water,1 tablespoon chopped fresh parsley
+0.0,0.0,0.00966700166463852,2,Quaker Quakes Ranch or Sour Cream and Onion Flavor Rice Snacks,1 tablespoon chopped fresh parsley
+0.0,0.0,0.024206826463341713,2,Quaker Quakes Ranch or Sour Cream and Onion Flavor Rice Snacks,1/2 cup drained marinated artichoke hearts
+1.0,1.0,0.9704155921936035,2,1 cup all-purpose flour,1 cup all-purpose flour
+0.0,0.0,0.020223114639520645,2,2 cups Italian-style seasoned bread crumbs,1/2 teaspoon ground black pepper
+0.0,0.0,0.009020568802952766,2,"2 eggs, beaten",<no_answer>
+0.0,0.2857142984867096,0.20949289202690125,2,1 cup mayonnaise,1/2 cup sour cream
+1.0,1.0,0.9701889753341675,2,1/2 cup sour cream,1/2 cup sour cream
+1.0,1.0,0.9701889753341675,2,1/2 cup sour cream,1/2 cup sour cream
+1.0,1.0,0.9700170755386353,2,4 egg whites,4 egg whites
+0.0,0.25,0.016913503408432007,2,1 teaspoon lemon juice,1 pint heavy cream
+0.0,0.25,0.09443701058626175,2,1 pint heavy cream,1 teaspoon vanilla extract
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.969183623790741,2,8 ounces cream cheese,8 ounces cream cheese
+0.0,0.2222222238779068,0.06485198438167572,2,1/2 cup marshmallow creme,1/4 cup unsweetened pineapple juice
+0.0,0.0,0.05180435627698898,2,"2 cups frozen whipped topping, thawed",1/4 cup unsweetened pineapple juice
+0.0,0.0,0.04994036257266998,2,"2 cups frozen whipped topping, thawed",8 ounces cream cheese
+0.0,0.0,0.009889151901006699,2,400 degrees F,<no_answer>
+1.0,1.0,0.9718791842460632,2,"2 (4 ounce) cans mushroom pieces, drained","2 (4 ounce) cans mushroom pieces, drained"
+0.0,0.0,0.010651757009327412,2,"1 green bell pepper, diced",1/4 cup white sugar
+1.0,1.0,0.9711567163467407,2,"1 (16 ounce) package baby carrots, sliced","1 (16 ounce) package baby carrots, sliced"
+0.0,0.3636363744735718,0.10311490297317505,2,1 cup shredded Cheddar cheese,1 cup fine dry bread crumbs
+0.0,0.0,0.01290552131831646,2,3 tablespoons all-purpose flour,1 cup shredded Cheddar cheese
+0.0,0.0,0.016114573925733566,2,1/2 teaspoon salt,1 cup fine dry bread crumbs
+0.0,0.20000000298023224,0.011404944583773613,2,1 tablespoon butter,"1 (16 ounce) package baby carrots, sliced"
+0.0,0.0,0.009192286059260368,2,until bubbly and lightly browned,<no_answer>
+0.0,0.0,0.009019934572279453,2,a mixing bowl,<no_answer>
+0.0,0.0,0.009422495029866695,2,<no_answer>,2 teaspoons cream of tartar
+1.0,1.0,0.963057816028595,2,177 degrees C,177 degrees C
+0.0,0.0,0.2015189379453659,2,"2 large onions, chopped","1 rutabaga, diced"
+0.0,0.25,0.2752569019794464,2,"1 rutabaga, diced","1 small head cabbage, sliced"
+0.0,0.25,0.2752569019794464,2,"1 rutabaga, diced","1 small head cabbage, sliced"
+1.0,1.0,0.97015780210495,2,"4 potatoes, peeled and quartered","4 potatoes, peeled and quartered"
+0.0,0.0,0.00903871189802885,2,"1 small head cabbage, sliced",<no_answer>
+1.0,1.0,0.9728374481201172,2,"6 large potatoes, cooked, peeled and cubed","6 large potatoes, cooked, peeled and cubed"
+0.0,0.0,0.009572179988026619,2,"2 celery ribs, sliced",1/2 teaspoon salt
+0.0,0.0,0.00917003396898508,2,"2 celery ribs, sliced",<no_answer>
+1.0,1.0,0.9690920114517212,2,"6 radishes, sliced","6 radishes, sliced"
+0.0,0.6666666865348816,0.22507484257221222,2,1/2 teaspoon pepper,1/2 teaspoon salt
+0.0,0.0,0.03417985513806343,2,1/4 cup sugar,1/2 teaspoon pepper
+0.0,0.5714285969734192,0.18456512689590454,2,1/2 teaspoon dry mustard,1/2 teaspoon salt
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.0,0.009355134330689907,2,<no_answer>,1 cup mayonnaise or salad dressing
+0.0,0.0,0.04576147720217705,2,1 quart vegetable broth,"1/4 large onion, chopped"
+0.0,0.0,0.04576147720217705,2,1 quart vegetable broth,"1/4 large onion, chopped"
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.0,0.07729828357696533,2,"6 large potatoes, peeled and diced","1 medium onion, chopped"
+0.0,0.1538461595773697,0.03248266503214836,2,"1 (12 ounce) can corned beef, cut into chunks","1 medium onion, chopped"
+1.0,1.0,0.972366988658905,2,"1 (12 ounce) can corned beef, cut into chunks","1 (12 ounce) can corned beef, cut into chunks"
+1.0,1.0,0.9686282277107239,2,"1 medium onion, chopped","1 medium onion, chopped"
+1.0,1.0,0.9720755815505981,2,1 cup beef broth,1 cup beef broth
+0.0,0.0,0.009654533118009567,2,"until potatoes are of mashing consistency, and the liquid is almost gone",<no_answer>
+0.0,0.0,0.049310751259326935,2,1 tablespoon baking powder,1/2 cup semisweet chocolate chips
+1.0,1.0,0.9719655513763428,2,1/2 cup semisweet chocolate chips,1/2 cup semisweet chocolate chips
+0.0,0.0,0.07064662873744965,2,1/4 cup milk,1 egg
+1.0,1.0,0.9702863693237305,2,1/4 cup milk,1/4 cup milk
+0.0,0.0,0.008950351737439632,2,<no_answer>,1 3/4 cups all-purpose flour
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9701414108276367,2,1 (8.5 ounce) package corn bread/muffin mix,1 (8.5 ounce) package corn bread/muffin mix
+1.0,1.0,0.9701414108276367,2,1 (8.5 ounce) package corn bread/muffin mix,1 (8.5 ounce) package corn bread/muffin mix
+0.0,0.0,0.010586889460682869,2,1/3 cup milk,"1 (4 ounce) can chopped green chilies, drained"
+1.0,1.0,0.9706209301948547,2,1/3 cup milk,1/3 cup milk
+0.0,0.1666666716337204,0.1320997029542923,2,1/2 cup chopped onion,"1 (4 ounce) can chopped green chilies, drained"
+0.0,0.2666666805744171,0.08064433187246323,2,1 (26 ounce) jar meatless spaghetti sauce,"1 (4 ounce) can chopped green chilies, drained"
+0.0,0.2666666805744171,0.08064433187246323,2,1 (26 ounce) jar meatless spaghetti sauce,"1 (4 ounce) can chopped green chilies, drained"
+1.0,1.0,0.9709676504135132,2,1 cup frozen corn,1 cup frozen corn
+0.0,0.0,0.07310154289007187,2,2 (1.3 ounce) envelopes sloppy joe mix,1 cup shredded Cheddar cheese
+1.0,1.0,0.9718136787414551,2,2 (1.3 ounce) envelopes sloppy joe mix,2 (1.3 ounce) envelopes sloppy joe mix
+1.0,1.0,0.9706209301948547,2,1/3 cup milk,1/3 cup milk
+0.0,0.0,0.009759688749909401,2,until meat is no longer pink,<no_answer>
+0.0,0.0,0.009314661845564842,2,until cheese is melted,<no_answer>
+1.0,1.0,0.970075786113739,2,"3 cloves garlic, diced","3 cloves garlic, diced"
+1.0,1.0,0.9707074165344238,2,"1 bunch green onions, chopped","1 bunch green onions, chopped"
+1.0,1.0,0.9681642651557922,2,4 pounds chicken wings,4 pounds chicken wings
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.0,0.021576281636953354,2,2 1/4 cups milk,1 teaspoon vanilla extract
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.0,0.02130185067653656,2,2 teaspoons white sugar,1 cup heavy whipping cream
+0.0,0.0,0.009040933102369308,2,5 sprigs cilantro,"1 (3 pound) whole chicken, skin removed and cut into pieces"
+1.0,1.0,0.9722579121589661,2,"1 (3 pound) whole chicken, skin removed and cut into pieces","1 (3 pound) whole chicken, skin removed and cut into pieces"
+0.0,0.0,0.00990652572363615,2,45 minutes,<no_answer>
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9691276550292969,2,3 pounds ground beef,3 pounds ground beef
+0.0,0.5714285969734192,0.14725637435913086,2,1/2 cup milk,1/2 cup all-purpose flour
+0.0,0.0,0.011731529608368874,2,1/4 teaspoon ground black pepper,1/2 cup all-purpose flour
+1.0,1.0,0.9706775546073914,2,1/4 teaspoon ground black pepper,1/4 teaspoon ground black pepper
+0.0,0.2222222238779068,0.09904667735099792,2,1 tablespoon vegetable oil,1 1/2 teaspoons onion powder
+1.0,1.0,0.9708331227302551,2,1 (10.75 ounce) can  condensed beef and mushroom soup,1 (10.75 ounce) can condensed beef and mushroom soup
+1.0,1.0,0.9708331227302551,2,1 (10.75 ounce) can  condensed beef and mushroom soup,1 (10.75 ounce) can condensed beef and mushroom soup
+1.0,1.0,0.9708331227302551,2,1 (10.75 ounce) can  condensed beef and mushroom soup,1 (10.75 ounce) can condensed beef and mushroom soup
+0.0,0.0,0.009167764335870743,2,until browned on each side,1 hour
+0.0,0.0,0.00991479866206646,2,<no_answer>,1 cup applesauce
+0.0,0.8333333134651184,0.6160662174224854,2,2 (3 ounce) packages cherry gelatin,1 (3 ounce) packages cherry gelatin
+0.0,0.4615384638309479,0.18079881370067596,2,1 (12 ounce) can lemon-lime soda,"1 (8 ounce) can crushed pineapple, undrained"
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+1.0,1.0,0.9708409905433655,2,1 (14.5 ounce) can diced tomatoes with green peppers and onions,1 (14.5 ounce) can diced tomatoes with green peppers and onions
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.0,0.009270508773624897,2,1 pound cubed beef stew meat,1/2 teaspoon rosemary
+0.0,0.0,0.00968746654689312,2,1 pound cubed beef stew meat,1/4 cup water
+0.0,0.0,0.0268168356269598,2,2 tablespoons olive oil,1/4 cup red wine
+0.0,0.0,0.018975529819726944,2,"1 medium yellow onion, thinly sliced",1/2 teaspoon rosemary
+1.0,1.0,0.9717130064964294,2,1/4 cup red wine,1/4 cup red wine
+0.0,0.5714285969734192,0.20259010791778564,2,1/4 cup red wine,1/4 cup water
+0.0,0.0,0.010199600830674171,2,1 beef bouillon cube,1/2 teaspoon dried thyme
+0.0,0.0,0.009074538946151733,2,"1 large potato, cubed",1/2 teaspoon dried thyme
+0.0,0.5714285969734192,0.388027548789978,2,1/2 teaspoon rosemary,1/2 teaspoon dried thyme
+0.0,0.2222222238779068,0.16031065583229065,2,1/2 tablespoon garlic powder,1/2 teaspoon ground black pepper
+0.0,0.75,0.9702228903770447,2,1/2 tablespoon garlic powder,1/2 teaspoon garlic powder
+0.0,0.0,0.012588664889335632,2,1/4 cup water,1/2 teaspoon dried thyme
+0.0,0.0,0.012588664889335632,2,1/4 cup water,1/2 teaspoon dried thyme
+1.0,1.0,0.9653828144073486,2,<no_answer>,<no_answer>
+0.0,0.4444444477558136,0.2538679242134094,2,"1 green bell pepper, chopped","1 medium onion, chopped"
+0.0,0.0,0.009344719350337982,2,2 (15 ounce) cans black beans,"1 large carrot, peeled and thinly sliced"
+0.0,0.0,0.009731549769639969,2,2 (15 ounce) cans black beans,1 cup shredded Cheddar cheese
+0.0,0.1818181872367859,0.02171785943210125,2,2 (15 ounce) cans black beans,2 cups cubed cooked ham
+0.0,0.0,0.09462938457727432,2,2 cups cubed cooked ham,1 cup shredded Cheddar cheese
+0.0,0.0,0.009368170984089375,2,ground black pepper to taste,1 cup shredded Cheddar cheese
+0.0,0.0,0.009368170984089375,2,ground black pepper to taste,1 cup shredded Cheddar cheese
+0.0,0.0,0.009226955473423004,2,<no_answer>,1 cup shredded Cheddar cheese
+0.0,0.0,0.009390708990395069,2,"4 skinless, boneless chicken breast halves",1 cup dry bread crumbs
+1.0,1.0,0.970946729183197,2,1 cup grated Parmesan cheese,1 cup grated Parmesan cheese
+0.0,0.2222222238779068,0.36007747054100037,2,"1 orange, sliced into rounds",1/2 cup orange juice
+0.0,0.1818181872367859,0.024818550795316696,2,1 (10.5 ounce) can chicken broth,1 cup dry white wine
+0.0,0.0,0.009529868140816689,2,until bubbly,<no_answer>
+1.0,1.0,0.9706070423126221,2,"1 stalk celery, chopped","1 stalk celery, chopped"
+0.0,0.1818181872367859,0.013025141321122646,2,1 cup shredded Cheddar cheese,"1 green bell pepper, finely chopped"
+1.0,1.0,0.9714741110801697,2,1 cup shredded Cheddar cheese,1 cup shredded Cheddar cheese
+1.0,1.0,0.9699220061302185,2,1/4 teaspoon salt,1/4 teaspoon salt
+1.0,1.0,0.9690676331520081,2,4 slices white bread,4 slices white bread
+1.0,1.0,0.9729205965995789,3,1 (21 ounce) can cherry pie filling,1 (21 ounce) can cherry pie filling
+1.0,1.0,0.9713118076324463,3,1 (16.5 ounce) can pitted dark sweet cherries,1 (16.5 ounce) can pitted dark sweet cherries
+0.0,0.4000000059604645,0.4835040271282196,3,1 (16.5 ounce) can pitted dark sweet cherries,1 (21 ounce) can cherry pie filling
+1.0,1.0,0.9716113805770874,3,1 cup chopped walnuts,1 cup chopped walnuts
+1.0,1.0,0.9653828144073486,3,<no_answer>,<no_answer>
+1.0,1.0,0.9713419079780579,3,"3/4 cup melted butter, divided","3/4 cup melted butter, divided"
+1.0,1.0,0.9713419079780579,3,"3/4 cup melted butter, divided","3/4 cup melted butter, divided"
+1.0,1.0,0.9713419079780579,3,"3/4 cup melted butter, divided","3/4 cup melted butter, divided"
+0.0,0.1666666716337204,0.009362906217575073,3,1 cup crushed seasoned croutons,"1 pound lobster tail, cleaned and chopped"
+0.0,0.1818181872367859,0.03784128278493881,3,"1 (6 ounce) can crabmeat, drained",1 cup crushed seasoned croutons
+1.0,1.0,0.972239077091217,3,"1 pound lobster tail, cleaned and chopped","1 pound lobster tail, cleaned and chopped"
+1.0,1.0,0.9710427522659302,3,1 cup crushed seasoned croutons,1 cup crushed seasoned croutons
+1.0,1.0,0.972239077091217,3,"1 pound lobster tail, cleaned and chopped","1 pound lobster tail, cleaned and chopped"
+1.0,1.0,0.9719593524932861,3,"2 tablespoons olive oil, divided","2 tablespoons olive oil, divided"
+0.0,0.0,0.009411539882421494,3,"2 (6 ounce) skinless, boneless chicken breast halves",1 tablespoon balsamic vinegar
+0.0,0.2222222238779068,0.21380771696567535,3,1 1/2 tablespoons Cajun seasoning,1 tablespoon balsamic vinegar
+1.0,1.0,0.9712574481964111,3,1 tablespoon balsamic vinegar,1 tablespoon balsamic vinegar
+0.0,0.25,0.08661174774169922,3,1 tablespoon balsamic vinegar,1 teaspoon Dijon mustard
+0.0,0.0,0.012088711373507977,3,salt and black pepper to taste,1 teaspoon Dijon mustard
+0.0,0.2857142984867096,0.02303856797516346,3,1 cup arugula,1 teaspoon Dijon mustard
+0.0,0.1538461595773697,0.06492122262716293,3,"12 oil-packed sun-dried tomatoes, drained and sliced","1 avocado - peeled, pitted, and diced"
+0.0,0.1538461595773697,0.06492122262716293,3,"12 oil-packed sun-dried tomatoes, drained and sliced","1 avocado - peeled, pitted, and diced"
+0.0,0.0,0.009155579842627048,3,<no_answer>,5 minutes on each side
+1.0,1.0,0.9725762009620667,3,"3 bone-in chicken breast halves, skinless","3 bone-in chicken breast halves, skinless"
+1.0,1.0,0.9656626582145691,3,5 to 8 minutes,5 to 8 minutes
+0.0,0.0,0.009761159308254719,3,<no_answer>,5 to 8 minutes
+0.0,0.0,0.009862062521278858,3,<no_answer>,3 stalks celery
+0.0,0.0,0.009099364280700684,3,<no_answer>,1/2 teaspoon salt
+0.0,0.0,0.009396810084581375,3,<no_answer>,1/2 cup sugar
+0.0,0.0,0.009396810084581375,3,<no_answer>,1/2 cup sugar
+0.0,0.5,0.3217182755470276,3,1/2 teaspoon baking powder,1/2 teaspoon ground nutmeg
+1.0,1.0,0.9702404737472534,3,1 teaspoon ground cloves,1 teaspoon ground cloves
+0.0,0.5,0.2112988829612732,3,1/2 teaspoon baking soda,1/2 teaspoon ground cinnamon
+0.0,0.0,0.009497199207544327,3,175 degrees C,1/2 teaspoon salt
+1.0,1.0,0.9698994755744934,3,1 cup lemonade,1 cup lemonade
+0.0,0.2222222238779068,0.09160007536411285,3,1 1/2 teaspoons Worcestershire sauce,1 tablespoon lime juice
+0.0,0.75,0.22310923039913177,3,1/2 teaspoon onion powder,1/2 teaspoon garlic powder
+1.0,1.0,0.9714482426643372,3,1 (12 ounce) package corn tortillas,1 (12 ounce) package corn tortillas
+0.0,0.4285714328289032,0.1474246382713318,3,1 (8 ounce) package shredded sharp Cheddar cheese,1 (12 ounce) package corn tortillas
+1.0,1.0,0.9716768860816956,3,1 (8 ounce) package shredded sharp Cheddar cheese,1 (8 ounce) package shredded sharp Cheddar cheese
+1.0,1.0,0.9638245105743408,3,until soft,until soft
+0.0,0.0,0.009006424807012081,3,<no_answer>,1 1/2 tablespoons dried basil
+1.0,1.0,0.9611905813217163,3,6 minutes,6 minutes
+1.0,1.0,0.9700977802276611,3,2 1/2 cups all-purpose flour,2 1/2 cups all-purpose flour
+0.0,0.0,0.009457162581384182,3,<no_answer>,until cookies begin to brown
+1.0,1.0,0.9700890183448792,3,1/2 cup mayonnaise,1/2 cup mayonnaise
+0.0,0.0,0.11685917526483536,3,2 tablespoons prepared horseradish,1/8 teaspoon dried oregano
+0.0,0.2857142984867096,0.11482138931751251,3,1/8 teaspoon dried oregano,1/4 teaspoon paprika
+0.0,0.1818181872367859,0.03370039165019989,3,1 1/2 pounds cubed beef stew meat,"1 small onion, chopped"
+1.0,1.0,0.9707934856414795,3,1 (28 ounce) can crushed tomatoes,1 (28 ounce) can crushed tomatoes
+1.0,1.0,0.9716364741325378,3,1 (16 ounce) package frozen mixed vegetables,1 (16 ounce) package frozen mixed vegetables
+0.0,0.0,0.012714122422039509,3,"10 cubes beef bouillon, crumbled",1 (28 ounce) can crushed tomatoes
+0.0,0.0,0.00924316793680191,3,<no_answer>,"2 Yukon Gold potatoes, cubed"
+1.0,1.0,0.9709129333496094,3,1 cup heavy cream,1 cup heavy cream
+1.0,1.0,0.9721054434776306,3,1 cup chopped peeled mango,1 cup chopped peeled mango
+0.0,0.4000000059604645,0.24441078305244446,3,1/4 cup minced fresh cilantro,1/4 cup chopped red onion
+0.0,0.6000000238418579,0.6036684513092041,3,2 tablespoons minced fresh mint,1/4 cup minced fresh mint
+1.0,1.0,0.9709126949310303,3,1/2 teaspoon olive oil,1/2 teaspoon olive oil
+0.0,0.4000000059604645,0.24441078305244446,3,1/4 cup minced fresh cilantro,1/4 cup chopped red onion
+0.0,0.2222222238779068,0.009415390901267529,3,"12 helix snails, without shells","1/2 cup butter, softened"
+0.0,0.4000000059604645,0.2908162474632263,3,"2 cloves garlic, finely chopped","1 green onion, finely chopped"
+0.0,0.1818181872367859,0.02165977470576763,3,1 teaspoon freshly ground black pepper,"1 green onion, finely chopped"
+0.0,0.0,0.009630191139876842,3,2 tablespoons dry white wine,"1 green onion, finely chopped"
+0.0,0.0,0.00937604159116745,3,2 tablespoons dry white wine,12 mushroom caps
+0.0,0.0,0.009500392712652683,3,<no_answer>,until golden brown
+1.0,1.0,0.9653828144073486,3,<no_answer>,<no_answer>
+0.0,0.0,0.010003478266298771,3,<no_answer>,until carrots are just tender
+1.0,1.0,0.9717655777931213,3,1 (12 ounce) package thin egg noodles,1 (12 ounce) package thin egg noodles
+0.0,0.0,0.009334356524050236,3,<no_answer>,10 minutes
+0.0,0.0,0.009190240874886513,3,<no_answer>,"1 cup butter (no substitutes), softened"
+1.0,1.0,0.9713407158851624,3,1 egg yolk,1 egg yolk
+1.0,1.0,0.9711049795150757,3,"4 (1.55 ounce) bars milk chocolate candy bar, broken into rectangles","4 (1.55 ounce) bars milk chocolate candy bar, broken into rectangles"
+0.0,0.0,0.009111307561397552,3,<no_answer>,"2 cloves garlic, minced"
+0.0,0.0,0.009111307561397552,3,<no_answer>,"2 cloves garlic, minced"
+0.0,0.0,0.009839634411036968,3,<no_answer>,until the sauce is smooth
+0.0,0.20000000298023224,0.08990497142076492,3,1 1/3 cups white sugar,1 cup chai tea mix
+0.0,0.2222222238779068,0.09416276961565018,3,1 1/3 cups white sugar,1 cup unsalted butter
+0.0,0.0,0.0505576990544796,3,1 1/3 cups white sugar,2 teaspoons salt
+1.0,1.0,0.9665442109107971,3,2 eggs,2 eggs
+0.0,0.1818181872367859,0.10809910297393799,3,3 1/2 cups all-purpose flour,1/2 cup white sugar for decoration
+0.0,0.0,0.1486484706401825,3,2 teaspoons salt,1 tablespoon baking powder
+0.0,0.0,0.1486484706401825,3,2 teaspoons salt,1 tablespoon baking powder
+0.0,0.0,0.025757819414138794,3,a large bowl,1 cup unsalted butter
+0.0,0.0,0.009284665808081627,3,<no_answer>,2 eggs
+0.0,0.0,0.009061137214303017,3,<no_answer>,1 1/3 cups all-purpose flour
+1.0,1.0,0.9707740545272827,3,1 (1.5 fluid ounce) jigger vodka,1 (1.5 fluid ounce) jigger vodka
+1.0,1.0,0.9707740545272827,3,1 (1.5 fluid ounce) jigger vodka,1 (1.5 fluid ounce) jigger vodka
+1.0,1.0,0.9715847373008728,3,1 teaspoon fresh lime juice,1 teaspoon fresh lime juice
+0.0,0.1818181872367859,0.06481261551380157,3,"1 twist lime zest, garnish",1 1/2 fluid ounces cranberry juice
+0.0,0.6153846383094788,0.33421987295150757,3,1 1/2 cups instant coffee granules,1 1/2 cups instant hot chocolate mix
+0.0,0.0,0.00923281628638506,3,<no_answer>,1 teaspoon ground cinnamon
+1.0,1.0,0.9713324904441833,3,2 (10 ounce) packages pretzels,2 (10 ounce) packages pretzels
+0.0,0.0,0.009679523296654224,3,<no_answer>,2 cups semisweet chocolate chips
+0.0,0.0,0.009131364524364471,3,<no_answer>,2 (10 ounce) packages pretzels
+0.0,0.0,0.16103117167949677,3,"3 ounces reduced fat cream cheese, softened",1 cup fat-free milk
+1.0,1.0,0.9712363481521606,3,1 cup egg substitute,1 cup egg substitute
+1.0,1.0,0.9712363481521606,3,1 cup egg substitute,1 cup egg substitute
+0.0,0.0,0.03171554207801819,3,3 cups shredded reduced-fat Cheddar cheese,"1 cup frozen chopped broccoli, thawed and well drained"
+0.0,0.0,0.05737684667110443,3,3 cups shredded reduced-fat Cheddar cheese,1 cup egg substitute
+1.0,1.0,0.9732759594917297,3,"1 (10 ounce) package frozen chopped spinach, thawed and squeezed dry","1 (10 ounce) package frozen chopped spinach, thawed and squeezed dry"
+0.0,0.2857142984867096,0.09463220089673996,3,"1 cup frozen chopped broccoli, thawed and well drained","1 small onion, finely chopped"
+1.0,1.0,0.9719051718711853,3,until a knife inserted near the center comes out clean,until a knife inserted near the center comes out clean
+0.0,0.0,0.04578079283237457,3,1/2 tablespoon orange juice,"1 teaspoon hot pepper sauce, or to taste (optional)"
+0.0,0.1538461595773697,0.1259280890226364,3,1/4 teaspoon ground cumin,"1 teaspoon hot pepper sauce, or to taste (optional)"
+1.0,1.0,0.9714815616607666,3,"1 teaspoon hot pepper sauce, or to taste (optional)","1 teaspoon hot pepper sauce, or to taste (optional)"
+1.0,1.0,0.9714815616607666,3,"1 teaspoon hot pepper sauce, or to taste (optional)","1 teaspoon hot pepper sauce, or to taste (optional)"
+1.0,1.0,0.969504177570343,3,2 cups white sugar,2 cups white sugar
+0.0,0.0,0.008960017003118992,3,1 cup all-purpose flour,<no_answer>
+1.0,1.0,0.969504177570343,3,2 cups white sugar,2 cups white sugar
+1.0,1.0,0.9718019366264343,3,1 cup chopped pecans,1 cup chopped pecans
+1.0,1.0,0.9707152843475342,3,"1 (3 pound) whole chicken, cut into 8 pieces","1 (3 pound) whole chicken, cut into 8 pieces"
+0.0,0.2222222238779068,0.09301766753196716,3,3/4 cup distilled white vinegar,1/2 cup soy sauce
+0.0,0.0,0.04039401933550835,3,2 tablespoons thinly sliced fresh ginger root,"1 bulb garlic, peeled and crushed"
+1.0,1.0,0.9703815579414368,3,2 teaspoons fresh rosemary,2 teaspoons fresh rosemary
+0.0,0.0,0.010345840826630592,3,<no_answer>,approximately 20 to 25 minutes
+1.0,1.0,0.9710108041763306,3,1 cup olive oil,1 cup olive oil
+0.0,0.0,0.00904588121920824,3,1/2 cup white sugar,"1 (3 ounce) package chicken flavored ramen noodles, crushed, seasoning packet reserved"
+0.0,0.0,0.11995550990104675,3,"1 large head fresh broccoli, diced","2 bunches green onions, chopped"
+1.0,1.0,0.9703227281570435,3,"2 carrots, grated","2 carrots, grated"
+0.0,0.0,0.008947315625846386,3,"2 bunches green onions, chopped","1 (3 ounce) package chicken flavored ramen noodles, crushed, seasoning packet reserved"
+1.0,1.0,0.9705670475959778,3,"2 skinless, boneless chicken breast halves","2 skinless, boneless chicken breast halves"
+1.0,1.0,0.9715689420700073,3,"1 (1.27 ounce) packet dry fajita seasoning, divided","1 (1.27 ounce) packet dry fajita seasoning, divided"
+0.0,0.0,0.01057428028434515,3,"2 skinless, boneless chicken breast halves","1 (1.27 ounce) packet dry fajita seasoning, divided"
+0.0,0.1538461595773697,0.01240659598261118,3,1 tablespoon vegetable oil,"1 (15 ounce) can black beans, rinsed and drained"
+0.0,0.3076923191547394,0.1926475465297699,3,1 (11 ounce) can Mexican-style corn,1 (10 ounce) package mixed salad greens
+1.0,1.0,0.9691241979598999,3,1 (11 ounce) can Mexican-style corn,1 (11 ounce) can Mexican-style corn
+0.0,0.0,0.06195404753088951,3,1 (10 ounce) package mixed salad greens,1/2 cup salsa
+1.0,1.0,0.9701712727546692,3,until juices run clear,until juices run clear
+0.0,0.3333333432674408,0.009182234294712543,3,until warm,until juices run clear
+0.0,0.0,0.009238187223672867,3,<no_answer>,1 teaspoon vanilla extract
+1.0,1.0,0.9653828144073486,3,<no_answer>,<no_answer>
+0.0,0.0,0.009189186617732048,3,<no_answer>,9 inch pie pan
+1.0,1.0,0.9690282344818115,3,until onions are soft,until onions are soft
+0.0,0.3076923191547394,0.15168888866901398,3,"1 (10 ounce) package frozen chopped spinach, thawed and drained","1 onion, chopped"
+1.0,1.0,0.9705607295036316,3,1/8 teaspoon ground black pepper,1/8 teaspoon ground black pepper
+0.0,0.0,0.08476962894201279,3,1/2 cup flaked coconut,2 cups packed brown sugar
+1.0,1.0,0.9710346460342407,3,2 cups packed brown sugar,2 cups packed brown sugar
+0.0,0.0,0.2454594522714615,3,1 1/2 teaspoons baking powder,2 cups all-purpose flour
+0.0,0.0,0.07855692505836487,3,"3/4 cup butter or margarine, softened at room temperature.",1/4 teaspoon salt
+0.0,0.0,0.009511006064713001,3,<no_answer>,"3/4 cup butter or margarine, softened at room temperature"
+0.0,0.0,0.009163052774965763,3,<no_answer>,"2 eggs, slightly beaten and 2 teaspoons vanilla"
+1.0,1.0,0.9725869297981262,3,"1 1/2 cups dried black-eyed peas, soaked overnight","1 1/2 cups dried black-eyed peas, soaked overnight"
+0.0,0.0,0.21162450313568115,3,1 1/2 cups shredded carrot,"1/3 cup chopped celery, with leaves"
+0.0,0.4615384638309479,0.20815058052539825,3,1 1/2 cups shredded carrot,"1 1/2 cups dried black-eyed peas, soaked overnight"
+0.0,0.25,0.07521398365497589,3,1/2 cup chopped white onion,"1/2 lemon, juiced"
+0.0,0.3333333432674408,0.38072457909584045,3,"2 oranges, juiced","1/2 lemon, juiced"
+0.0,0.2857142984867096,0.06528545171022415,3,1/2 teaspoon ground coriander,"1/2 lemon, juiced"
+0.0,0.0,0.02153146080672741,3,1/8 teaspoon freshly ground black pepper,"1/2 lemon, juiced"
+0.0,0.2222222238779068,0.13593703508377075,3,1/8 teaspoon freshly ground black pepper,1/2 teaspoon salt
+0.0,0.4000000059604645,0.19977624714374542,3,1/8 teaspoon freshly ground black pepper,1/2 teaspoon ground coriander
+1.0,1.0,0.9708606600761414,3,1/2 cup teriyaki sauce,1/2 cup teriyaki sauce
+0.0,0.0,0.060236476361751556,3,1/4 cup soy sauce,2 tablespoons garlic powder
+0.0,0.0,0.051239341497421265,3,2 tablespoons garlic powder,1/4 cup soy sauce
+0.0,0.0,0.011732988990843296,3,2 tablespoons garlic powder,1/4 cup gin
+0.0,0.2222222238779068,0.06369762867689133,3,2 dashes liquid smoke flavoring,2 tablespoons garlic powder
+0.0,0.2222222238779068,0.06369762867689133,3,2 dashes liquid smoke flavoring,2 tablespoons garlic powder
+0.0,0.0,0.011884873732924461,3,"1 1/2 pounds chicken wings, separated at joints, tips discarded",2 tablespoons garlic powder
+1.0,1.0,0.9653828144073486,3,<no_answer>,<no_answer>
+1.0,1.0,0.9725185036659241,3,1 (10 ounce) package frozen mixed berries,1 (10 ounce) package frozen mixed berries
+1.0,1.0,0.9723559617996216,3,"1 (15 ounce) can sliced peaches, drained","1 (15 ounce) can sliced peaches, drained"
+1.0,1.0,0.9693088531494141,3,4 cups half-and-half,4 cups half-and-half
+1.0,1.0,0.9731561541557312,3,4 (0.13 ounce) packages unsweetened strawberry-flavored drink mix powder,4 (0.13 ounce) packages unsweetened strawberry-flavored drink mix powder
+1.0,1.0,0.9731561541557312,3,4 (0.13 ounce) packages unsweetened strawberry-flavored drink mix powder,4 (0.13 ounce) packages unsweetened strawberry-flavored drink mix powder
+0.0,0.125,0.06306485831737518,3,2 (46 fluid ounce) cans pineapple juice,4 (0.13 ounce) packages unsweetened strawberry-flavored drink mix powder
+0.0,0.0,0.009176911786198616,3,<no_answer>,2 (46 fluid ounce) cans pineapple juice
+1.0,1.0,0.9722713828086853,3,1 (9 inch) deep dish frozen pie crust,1 (9 inch) deep dish frozen pie crust
+1.0,1.0,0.9722713828086853,3,1 (9 inch) deep dish frozen pie crust,1 (9 inch) deep dish frozen pie crust
+1.0,1.0,0.9709129333496094,3,1 cup heavy cream,1 cup heavy cream
+0.0,0.5714285969734192,0.19257910549640656,3,1/2 teaspoon black pepper,1/2 teaspoon salt
+1.0,1.0,0.9702875018119812,3,1/2 teaspoon black pepper,1/2 teaspoon black pepper
+0.0,0.0,0.027196472510695457,3,1 cup shredded Monterey Jack cheese,1/2 teaspoon salt
+0.0,0.0,0.018646664917469025,3,"1 (8 ounce) package imitation crabmeat, flaked",1/4 cup grated Parmesan cheese
+0.0,0.25,0.010003559291362762,3,"1 green onion, chopped",1 cup heavy cream
+1.0,1.0,0.9695060849189758,3,"1 green onion, chopped","1 green onion, chopped"
+0.0,0.0,0.009101109579205513,3,<no_answer>,1 (9 inch) deep dish frozen pie crust
+0.0,0.0,0.009138745255768299,3,<no_answer>,until just starting to brown
+0.0,0.0,0.009101109579205513,3,<no_answer>,1 (9 inch) deep dish frozen pie crust
+0.0,0.0,0.00940734427422285,3,<no_answer>,350 degrees F (175 degrees C)
+0.0,0.0,0.05457687005400658,3,1/2 cup packed brown sugar,1 teaspoon salt
+1.0,1.0,0.9700998067855835,3,1 teaspoon salt,1 teaspoon salt
+1.0,1.0,0.9700998067855835,3,1 teaspoon salt,1 teaspoon salt
+1.0,1.0,0.9727939963340759,3,"2 (4 ounce) jars apricot baby food, divided","2 (4 ounce) jars apricot baby food, divided"
+1.0,1.0,0.9655141234397888,3,1 egg,1 egg
+0.0,0.0,0.009462100453674793,3,3 tablespoons vegetable oil,"2 (4 ounce) jars apricot baby food, divided"
+0.0,0.0,0.4812879264354706,3,1/2 cup diced dried apricots,"2 (4 ounce) jars apricot baby food, divided"
+0.0,0.1818181872367859,0.16199885308742523,3,1/2 cup diced dried apricots,"2/3 cup sliced almonds, coarsely chopped"
+0.0,0.0,0.06865842640399933,3,1 teaspoon milk,1/2 cup confectioners' sugar
+0.0,0.6666666865348816,0.6073310971260071,3,180 degrees C,350 degrees F (180 degrees C)
+0.0,0.4444444477558136,0.3412921130657196,3,"1/4 cup cottage cheese, whipped",1/4 cup evaporated milk
+0.0,0.2222222238779068,0.07602537423372269,3,2 teaspoons white sugar,2 tablespoons lowfat cream cheese
+0.0,0.2222222238779068,0.07602537423372269,3,2 teaspoons white sugar,2 tablespoons lowfat cream cheese
+1.0,1.0,0.9702699780464172,3,3 cups egg substitute,3 cups egg substitute
+1.0,1.0,0.9711652398109436,3,"1 (2 to 3 pound) whole chicken, cut into pieces","1 (2 to 3 pound) whole chicken, cut into pieces"
+0.0,0.0,0.023847701027989388,3,"2 onions, chopped",1 tablespoon olive oil
+1.0,1.0,0.9703719019889832,3,"1/2 green bell pepper, chopped","1/2 green bell pepper, chopped"
+0.0,0.0,0.010915961116552353,3,1/2 (15 ounce) can tomato sauce,"1 (2 to 3 pound) whole chicken, cut into pieces"
+0.0,0.0,0.008937777020037174,3,1 pinch saffron,"1/2 (15 ounce) can peas, drained"
+0.0,0.0,0.013974475674331188,3,2 cubes  chicken bouillon,1/2 (15 ounce) can tomato sauce
+0.0,0.0,0.013974475674331188,3,2 cubes  chicken bouillon,1/2 (15 ounce) can tomato sauce
+1.0,1.0,0.9698507785797119,3,1 cup beer,1 cup beer
+0.0,0.2222222238779068,0.032701924443244934,3,"1 (15 ounce) can peas, drained",1 cup beer
+0.0,0.0,0.009200775995850563,3,"1/2 red bell pepper, roasted and sliced",1 cup beer
+0.0,0.1818181872367859,0.051279112696647644,3,"1/2 green bell pepper, chopped",1/2 (15 ounce) can tomato sauce
+0.0,0.0,0.010173868387937546,3,<no_answer>,1/2 (15 ounce) can tomato sauce
+0.0,0.0,0.009025813080370426,3,<no_answer>,until lightly browned
+0.0,0.0,0.009091190062463284,3,<no_answer>,"1/2 green bell pepper, chopped"
+0.0,0.0,0.009648831561207771,3,<no_answer>,until tender
+0.0,0.375,0.25239095091819763,3,1 (15 ounce) can no salt-added navy beans,"1 (14.25 ounce) can fat-free, less-sodium chicken broth"
+1.0,1.0,0.9720497727394104,3,"1 1/2 pounds fresh tuna steaks, 1 inch thick","1 1/2 pounds fresh tuna steaks, 1 inch thick"
+0.0,0.5714285969734192,0.16879531741142273,3,2 tablespoons Cajun seasoning,2 tablespoons butter
+1.0,1.0,0.965581476688385,3,3 to 4 minutes,3 to 4 minutes
+1.0,1.0,0.9704155921936035,3,1 cup all-purpose flour,1 cup all-purpose flour
+1.0,1.0,0.9704155921936035,3,1 cup all-purpose flour,1 cup all-purpose flour
+0.0,0.2857142984867096,0.12090303003787994,3,1/2 cup butter,1 cup all-purpose flour
+0.0,0.25,0.34715238213539124,3,1 tablespoon golden syrup,1 cup white sugar
+0.0,0.0,0.009243730455636978,3,<no_answer>,1 cup all-purpose flour
+0.0,0.0,0.00942748598754406,3,<no_answer>,18 to 20 minutes
+0.0,0.0,0.009315278381109238,3,<no_answer>,90 seconds
+0.0,0.3636363744735718,0.20185154676437378,3,1/2 cup Belgian endive leaves,1/2 cup chopped green bell pepper
+0.0,0.1538461595773697,0.06183526664972305,3,1 1/2 tablespoons fresh lemon juice,"1/2 cup coarsely chopped arugula, stems included"
+0.0,0.0,0.009039984084665775,3,salt and pepper to taste,1/2 cup Belgian endive leaves
+0.0,0.0,0.00960698351264,3,<no_answer>,350 degrees F
+0.0,0.0,0.009471726603806019,3,<no_answer>,25-30 minutes
+1.0,1.0,0.9711068272590637,3,1 pound chicken parts,1 pound chicken parts
+1.0,1.0,0.9698115587234497,3,"3 stalks celery, including some leaves","3 stalks celery, including some leaves"
+0.0,0.2857142984867096,0.01806742325425148,3,1 1/2 teaspoons salt,1 large carrot
+0.0,0.2857142984867096,0.01806742325425148,3,1 1/2 teaspoons salt,1 large carrot
+0.0,0.0,0.0090563939884305,3,6 cups water,1 large carrot
+1.0,1.0,0.9718874096870422,4,"1 (8 ounce) package cream cheese, softened","1 (8 ounce) package cream cheese, softened"
+0.0,0.1818181872367859,0.39284607768058777,4,"1 (8 ounce) package cream cheese, softened","1/2 cup butter, softened"
+0.0,0.0,0.09131059050559998,4,2 cups all-purpose flour,"1/2 cup butter, softened"
+0.0,0.25,0.032701365649700165,4,1/2 pound ground walnuts,"1/2 cup butter, softened"
+0.0,0.0,0.09131059050559998,4,2 cups all-purpose flour,"1/2 cup butter, softened"
+1.0,1.0,0.9706209301948547,4,1/3 cup milk,1/3 cup milk
+1.0,1.0,0.9720879793167114,4,"1 (15 ounce) can kidney beans, undrained","1 (15 ounce) can kidney beans, undrained"
+0.0,0.4000000059604645,0.28557318449020386,4,"1 (11 ounce) can whole kernel corn, drained","1 (15 ounce) can kidney beans, undrained"
+1.0,1.0,0.9722046852111816,4,1 (6 ounce) can roasted garlic tomato paste,1 (6 ounce) can roasted garlic tomato paste
+0.0,0.0,0.009045436047017574,4,"2 red bell pepper, seeded and chopped",1 cup fresh corn kernels
+1.0,1.0,0.9712790846824646,4,"1 jalapeno pepper, seeded and minced","1 jalapeno pepper, seeded and minced"
+0.0,0.0,0.02810555510222912,4,"6 roma (plum) tomatoes, diced","1 jalapeno pepper, seeded and minced"
+0.0,0.0,0.009309410117566586,4,10 minutes,until the onions are translucent
+1.0,1.0,0.9735756516456604,4,"2 (15 ounce) cans black beans, drained and rinsed","2 (15 ounce) cans black beans, drained and rinsed"
+0.0,0.0,0.00928112305700779,4,<no_answer>,1 teaspoon salt
+0.0,0.0,0.009385955519974232,4,<no_answer>,1 tablespoon olive oil
+0.0,0.5,0.1771487444639206,4,1 teaspoon ground cinnamon,1 teaspoon vanilla extract
+0.0,0.5,0.18353202939033508,4,1 cup vegetable oil,1 cup flaked coconut
+0.0,0.25,0.07234850525856018,4,1 teaspoon vanilla extract,1 cup white sugar
+0.0,0.1818181872367859,0.02068803459405899,4,"1 (15 ounce) can crushed pineapple, drained",1 cup white sugar
+1.0,1.0,0.9722411036491394,4,1 cup flaked coconut,1 cup flaked coconut
+1.0,1.0,0.9695385098457336,4,1 cup white sugar,1 cup white sugar
+1.0,1.0,0.9719592332839966,4,until a toothpick inserted into the center of the cake comes out clean,until a toothpick inserted into the center of the cake comes out clean
+1.0,1.0,0.9586168527603149,4,5 minutes,5 minutes
+1.0,1.0,0.970171332359314,4,2 1/4 cups all-purpose flour,2 1/4 cups all-purpose flour
+0.0,0.2857142984867096,0.04639127105474472,4,1/2 teaspoon salt,1/2 cup unsalted butter
+1.0,1.0,0.9705203175544739,4,1/2 cup unsalted butter,1/2 cup unsalted butter
+0.0,0.2222222238779068,0.04348170757293701,4,1 1/2 tablespoons vanilla extract,1/2 cup unsalted butter
+0.0,0.1818181872367859,0.011416724883019924,4,"6 (1 ounce) squares unsweetened chocolate, chopped",1 cup sour cream
+0.0,0.0,0.009488607756793499,4,"6 (1 ounce) squares unsweetened chocolate, chopped",1/4 cup unsalted butter
+0.0,0.0,0.021111546084284782,4,1 egg yolk,1/2 cup unsalted butter
+0.0,0.5,0.6021420359611511,4,2 tablespoons heavy cream,1 cup heavy cream
+1.0,1.0,0.9718874096870422,4,"1 (8 ounce) package cream cheese, softened","1 (8 ounce) package cream cheese, softened"
+1.0,1.0,0.9719592332839966,4,until a toothpick inserted into the center of the cake comes out clean,until a toothpick inserted into the center of the cake comes out clean
+0.0,0.20000000298023224,0.01292350236326456,4,1 teaspoon grated lemon peel,1 pint vanilla ice cream
+0.0,0.0,0.010953288525342941,4,"1 (6 ounce) can crabmeat, shredded",1/2 cup mayonnaise
+0.0,0.0,0.010953288525342941,4,"1 (6 ounce) can crabmeat, shredded",1/2 cup mayonnaise
+0.0,0.20000000298023224,0.00959553848952055,4,1 teaspoon sour cream,"1 (6 ounce) can crabmeat, shredded"
+0.0,0.2222222238779068,0.11656162142753601,4,1/2 teaspoon dried dill weed,1 teaspoon yellow mustard
+0.0,0.0,0.0774325355887413,4,2 tablespoons dill pickle relish,1 teaspoon yellow mustard
+0.0,0.0,0.031107468530535698,4,3/4 cup finely chopped onion,2 tablespoons dill pickle relish
+0.0,0.0,0.025673633441329002,4,3/4 cup finely chopped onion,2 tablespoons sweet pickle relish
+1.0,1.0,0.973052442073822,4,"until the chicken is tender, and no longer pink","until the chicken is tender, and no longer pink"
+0.0,0.0,0.017493093386292458,4,"8 red apples, cored",1/3 cup maple syrup
+0.0,0.0,0.009091410785913467,4,<no_answer>,1/3 cup coarsely chopped walnuts (optional)
+0.0,0.0,0.013946283608675003,4,2 eggs,1/4 cup water
+1.0,1.0,0.9709752798080444,4,1/4 cup water,1/4 cup water
+0.0,0.0,0.07443299889564514,4,2 tablespoons chopped onion,1 tablespoon butter
+0.0,0.2222222238779068,0.08069277554750443,4,"1 cup shredded Cheddar cheese, divided",1 tablespoon butter
+0.0,0.0,0.009624702855944633,4,<no_answer>,1 cup milk
+0.0,0.0,0.00905280839651823,4,<no_answer>,1/2 cup shredded Cheddar cheese
+0.0,0.0,0.009337818250060081,4,<no_answer>,1 tablespoon chopped fresh cilantro
+0.0,0.6666666865348816,0.4197586178779602,4,1 cup sliced fresh mushrooms,1 cup sliced zucchini
+0.0,0.25,0.18845577538013458,4,"4 celery ribs, sliced",1 cup sliced zucchini
+0.0,0.5,0.23698043823242188,4,"1 medium onion, sliced",1 cup sliced zucchini
+0.0,0.25,0.033647485077381134,4,"1 garlic clove, minced",1 cup sliced zucchini
+0.0,0.0,0.009692746214568615,4,3 tablespoons cornstarch,<no_answer>
+0.0,0.0,0.04114338010549545,4,3 tablespoons cornstarch,Hot cooked rice
+0.0,0.0,0.00979837030172348,4,until meat juices run clear,<no_answer>
+0.0,0.0,0.009133568964898586,4,<no_answer>,until thickened
+1.0,1.0,0.9704458713531494,4,1/3 cup sugar,1/3 cup sugar
+1.0,1.0,0.9699398279190063,4,1 tablespoon salt,1 tablespoon salt
+0.0,0.0,0.09131110459566116,4,5 1/2 cups all-purpose flour,1 tablespoon salt
+0.0,0.0,0.01000893022865057,4,<no_answer>,until doubled
+0.0,0.6666666865348816,0.6037768721580505,4,190 degrees C,375 degrees F (190 degrees C)
+0.0,0.3636363744735718,0.09881222248077393,4,"1 cup dates, pitted and chopped",1 cup dark brown sugar
+1.0,1.0,0.9709667563438416,4,1 cup boiling water,1 cup boiling water
+0.0,0.25,0.027896346524357796,4,1 teaspoon baking soda,1 cup boiling water
+0.0,0.0,0.00990652572363615,4,45 minutes,<no_answer>
+0.0,0.0,0.009240968152880669,4,<no_answer>,1 tablespoon balsamic vinegar
+0.0,0.0,0.08459869027137756,4,2 tablespoons chopped fresh basil,"1 red bell pepper, cut into wedges"
+0.0,0.20000000298023224,0.02619548700749874,4,"18 spears fresh asparagus, trimmed",2 tablespoons chopped fresh parsley
+0.0,0.1666666716337204,0.016396403312683105,4,"1 onion, chopped",1 (10.75 ounce) can condensed cream of mushroom soup
+1.0,1.0,0.9706130623817444,4,1 (10.75 ounce) can condensed tomato soup,1 (10.75 ounce) can condensed tomato soup
+1.0,1.0,0.9701864123344421,4,1 (10.75 ounce) can condensed cream of mushroom soup,1 (10.75 ounce) can condensed cream of mushroom soup
+0.0,0.75,0.5247414708137512,4,1 (10.75 ounce) can condensed cream of mushroom soup,1 (10.75 ounce) can condensed tomato soup
+0.0,0.1666666716337204,0.009628008119761944,4,"1 1/2 pounds crawfish, peeled",1 (10.75 ounce) can condensed tomato soup
+1.0,1.0,0.9622918367385864,4,until clear,until clear
+0.0,0.0,0.009012546390295029,4,25 minutes,"1 1/2 pounds crawfish, peeled"
+0.0,0.2857142984867096,0.06471718847751617,4,1 1/2 teaspoons vanilla extract,1 egg
+0.0,0.0,0.008837291970849037,4,<no_answer>,10 to 12 minutes in the preheated oven
+1.0,1.0,0.9653828144073486,4,<no_answer>,<no_answer>
+0.0,0.1538461595773697,0.009407632984220982,4,1 teaspoon salt,"1 (2 to 3 pound) whole chicken, cut into pieces"
+1.0,1.0,0.9711652398109436,4,"1 (2 to 3 pound) whole chicken, cut into pieces","1 (2 to 3 pound) whole chicken, cut into pieces"
+1.0,1.0,0.9653828144073486,4,<no_answer>,<no_answer>
+0.0,0.0,0.008918427862226963,4,<no_answer>,"until chicken pieces are a deep golden brown, and the juices run clear"
+0.0,0.1818181872367859,0.01157695334404707,4,1 pound fresh or frozen cranberries,1 (3 inch) cinnamon stick
+0.0,0.0,0.00902311410754919,4,2 cups orange juice,1 (3 inch) cinnamon stick
+0.0,0.0,0.015601717866957188,4,1/4 cup lemon juice,1 (3 inch) cinnamon stick
+0.0,0.0,0.08348777890205383,4,1/4 cup lemon juice,2 cups white sugar
+0.0,0.0,0.04712839797139168,4,1 teaspoon whole cloves,1/4 cup lemon juice
+0.0,0.0,0.024917680770158768,4,"12 medium potatoes - peeled, cooked and cubed","1 (10 ounce) package frozen chopped broccoli, thawed"
+0.0,0.0,0.010095012374222279,4,"1 (10 ounce) package frozen chopped broccoli, thawed",1/2 cup butter or margarine
+1.0,1.0,0.9719722270965576,4,"1 (10 ounce) package frozen chopped broccoli, thawed","1 (10 ounce) package frozen chopped broccoli, thawed"
+0.0,0.0,0.010095012374222279,4,"1 (10 ounce) package frozen chopped broccoli, thawed",1/2 cup butter or margarine
+1.0,1.0,0.971348226070404,4,until potatoes are lightly browned,until potatoes are lightly browned
+1.0,1.0,0.9698567390441895,4,2 cups all-purpose flour,2 cups all-purpose flour
+0.0,0.0,0.029937895014882088,4,1 teaspoon salt,2 cups all-purpose flour
+0.0,0.0,0.008804727345705032,4,2 apples,1/2 cup cold water
+0.0,0.0,0.04333250969648361,4,1/2 teaspoon ground cinnamon,1/3 cup white sugar
+0.0,0.0,0.009396587498486042,4,<no_answer>,1/2 cup cold water
+0.0,0.5714285969734192,0.2927567660808563,4,1/2 cup shortening,1/2 cup cold water
+0.0,0.1666666716337204,0.020263174548745155,4,"2 medium celery ribs, cut into small dice",2 tablespoons lime juice
+0.0,0.0,0.01604069583117962,4,1/4 cup chopped honey-roasted peanuts,2 tablespoons lime juice
+0.0,0.0,0.025347327813506126,4,1 teaspoon ground ginger,1/4 cup chopped honey-roasted peanuts
+0.0,0.0,0.03175744041800499,4,2 tablespoons minced fresh cilantro leaves,1/4 cup chopped honey-roasted peanuts
+0.0,0.0,0.033736854791641235,4,Boston lettuce,2 tablespoons minced fresh cilantro leaves
+0.0,0.0,0.009729715995490551,4,Boston lettuce,<no_answer>
+1.0,1.0,0.9695063233375549,4,1 2/3 cups sugar,1 2/3 cups sugar
+0.0,0.0,0.0671808198094368,4,1 2/3 cups sugar,1/2 teaspoon salt
+0.0,0.0,0.043815720826387405,4,2 tablespoons butter or margarine,1/2 cup coarsely chopped walnuts
+0.0,0.0,0.09477328509092331,4,2 cups semisweet chocolate chips,1/2 cup coarsely chopped walnuts
+0.0,0.0,0.01842065341770649,4,1 (5 ounce) can evaporated milk,2 tablespoons butter or margarine
+0.0,0.20000000298023224,0.01617744378745556,4,3 cups all-purpose flour,"3 apples - peeled, cored and sliced"
+0.0,0.25,0.042907170951366425,4,1 teaspoon ground cinnamon,1 cup white sugar
+0.0,0.0,0.022038372233510017,4,"3 apples - peeled, cored and sliced",1 cup chopped walnuts
+0.0,0.5,0.09901086241006851,4,1 cup brown sugar,1 cup chopped walnuts
+0.0,0.0,0.024991141632199287,4,2 eggs,1 cup chopped walnuts
+1.0,1.0,0.9703314900398254,4,2 cups pineapple juice,2 cups pineapple juice
+0.0,0.0,0.009407233446836472,4,2 tablespoons light soy sauce (50% less sodium),"1 1/4 pounds raw firm fish, such as salmon, tuna or halibut, cut in chunks"
+0.0,0.1666666716337204,0.017975803464651108,4,"2 garlic cloves, crushed",2 tablespoons light soy sauce (50% less sodium)
+0.0,0.2222222238779068,0.12981972098350525,4,4 cups fresh pineapple in large chunks (or substitute canned pineapple chunks),"1 1/4 pounds raw firm fish, such as salmon, tuna or halibut, cut in chunks"
+0.0,0.0,0.009707151912152767,4,<no_answer>,2 cups pineapple juice
+1.0,1.0,0.9715961813926697,4,2 quarts vegetable oil for deep frying,2 quarts vegetable oil for deep frying
+0.0,0.0,0.07349321246147156,4,4 tablespoons butter,2 quarts vegetable oil for deep frying
+0.0,0.0,0.009257405996322632,4,5 tablespoons hot pepper sauce,<no_answer>
+0.0,0.0,0.05596509575843811,4,5 tablespoons hot pepper sauce,1 tablespoon distilled white vinegar
+0.0,0.0,0.009639877825975418,4,low heat,<no_answer>
+1.0,1.0,0.9653828144073486,4,<no_answer>,<no_answer>
+1.0,1.0,0.9653828144073486,4,<no_answer>,<no_answer>
+0.0,0.0,0.010028287768363953,4,"2 cups chopped, cooked chicken meat",1 (8 ounce) package refrigerated crescent rolls
+0.0,0.6000000238418579,0.3325052857398987,4,1/2 cup chopped onion,1/2 cup chopped green bell pepper
+0.0,0.6000000238418579,0.3325052857398987,4,1/2 cup chopped onion,1/2 cup chopped green bell pepper
+0.0,0.20000000298023224,0.06088534742593765,4,1 1/2 cups shredded Cheddar cheese,1 tablespoon minced garlic
+1.0,1.0,0.9704957604408264,4,1 1/2 cups shredded Cheddar cheese,1 1/2 cups shredded Cheddar cheese
+0.0,0.0,0.10367236286401749,4,2 tablespoons Dijon-style prepared mustard,1 tablespoon minced garlic
+1.0,1.0,0.970137357711792,4,1 tablespoon minced garlic,1 tablespoon minced garlic
+0.0,0.4444444477558136,0.09899380058050156,4,"1 cup butter, softened",1 cup finely chopped pecans
+0.0,0.4444444477558136,0.09763459861278534,4,1 cup confectioners' sugar,1 cup finely chopped pecans
+0.0,0.2222222238779068,0.05525229126214981,4,1 teaspoon vanilla extract,1 cup finely chopped pecans
+0.0,0.5,0.16451065242290497,4,1 teaspoon salt,1 teaspoon cream of tartar
+0.0,0.20000000298023224,0.01828674040734768,4,1 teaspoon cream of tartar,1 cup finely chopped pecans
+0.0,0.20000000298023224,0.01828674040734768,4,1 teaspoon cream of tartar,1 cup finely chopped pecans
+1.0,1.0,0.9637054800987244,4,190 degrees C,190 degrees C
+0.0,0.0,0.008754880167543888,4,10-12 minutes,1 teaspoon cream of tartar
+1.0,1.0,0.9684942364692688,4,"10 hot dogs, cut into thirds","10 hot dogs, cut into thirds"
+0.0,0.0,0.009333861991763115,4,"15 slices bacon, cut in half",1/2 cup packed brown sugar
+0.0,0.0,0.009333861991763115,4,"15 slices bacon, cut in half",1/2 cup packed brown sugar
+0.0,0.0,0.009148008190095425,4,<no_answer>,1/2 cup packed brown sugar
+0.0,0.0,0.009148008190095425,4,<no_answer>,1/2 cup packed brown sugar
+1.0,1.0,0.970876157283783,4,until the bacon is cooked,until the bacon is cooked
+0.0,0.20000000298023224,0.11622302979230881,4,3 1/2 cups unbleached bread flour,1/2 cup warm water
+1.0,1.0,0.9712158441543579,4,1/2 cup packed light brown sugar,1/2 cup packed light brown sugar
+0.0,0.7142857313156128,0.6293310523033142,4,"until topping is golden brown, and apples are tender",until topping is golden brown
+1.0,1.0,0.9718562960624695,4,"2 medium cooking apples, peeled, cored, and chopped","2 medium cooking apples, peeled, cored, and chopped"
+0.0,0.0,0.013725481927394867,4,2/3 cup fresh or frozen blueberries,1 tablespoon heat-stable granular sugar substitute
+0.0,0.0,0.013725481927394867,4,2/3 cup fresh or frozen blueberries,1 tablespoon heat-stable granular sugar substitute
+0.0,0.0,0.061783649027347565,4,1/2 teaspoon apple pie spice or ground allspice,1 tablespoon heat-stable granular sugar substitute
+0.0,0.1538461595773697,0.12755517661571503,4,1 1/3 cups whole wheat pastry flour,1 tablespoon heat-stable granular sugar substitute
+0.0,0.0,0.04241931065917015,4,1/4 teaspoon kosher salt,1 tablespoon heat-stable granular sugar substitute
+0.0,0.0,0.0092953871935606,4,<no_answer>,1 tablespoon heat-stable granular sugar substitute
+0.0,0.0,0.01038722600787878,4,<no_answer>,until fruit is tender
+1.0,1.0,0.9710285663604736,4,3 pounds beef roast,3 pounds beef roast
+0.0,0.1666666716337204,0.013144409283995628,4,2 (12 fluid ounce) cans or bottles beer,2 teaspoons garlic powder
+1.0,1.0,0.9716804027557373,4,2 (12 fluid ounce) cans or bottles beer,2 (12 fluid ounce) cans or bottles beer
+0.0,0.1538461595773697,0.009744650684297085,4,2 teaspoons ground black pepper,2 (12 fluid ounce) cans or bottles beer
+0.0,0.0,0.2715345025062561,4,1 (18 ounce) bottle barbecue sauce,2 teaspoons liquid smoke flavoring
+1.0,1.0,0.9718044400215149,4,1 (18 ounce) bottle barbecue sauce,1 (18 ounce) bottle barbecue sauce
+0.0,0.0,0.010079537518322468,4,<no_answer>,2 (12 fluid ounce) cans or bottles beer
+1.0,1.0,0.9715158343315125,4,1 cup light mayonnaise,1 cup light mayonnaise
+1.0,1.0,0.9722628593444824,4,1/4 cup chopped green onion,1/4 cup chopped green onion
+1.0,1.0,0.9703047871589661,4,1 teaspoon olive oil,1 teaspoon olive oil
+0.0,0.2222222238779068,0.1060381755232811,4,1/2 cup minced onion,1/3 cup crumbled feta cheese
+0.0,0.0,0.02459099143743515,4,2 cups diced fresh tomatoes,"1 clove garlic, peeled and minced"
+0.0,0.0,0.06902305036783218,4,2 cups diced fresh tomatoes,1/3 cup crumbled feta cheese
+0.0,0.0,0.016347287222743034,4,1/4 teaspoon salt,1/3 cup crumbled feta cheese
+0.0,0.0,0.010327129624783993,4,4 (6 ounce) halibut steaks,1/4 teaspoon salt
+1.0,1.0,0.9709619283676147,4,4 (6 ounce) halibut steaks,4 (6 ounce) halibut steaks
+1.0,1.0,0.9653828144073486,4,<no_answer>,<no_answer>
+0.0,0.20000000298023224,0.5047558546066284,4,1/2 cup shredded Cheddar cheese,1 tablespoon grated Parmesan cheese
+0.0,0.20000000298023224,0.5047558546066284,4,1/2 cup shredded Cheddar cheese,1 tablespoon grated Parmesan cheese
+0.0,0.0,0.00943948607891798,4,"4 skinless, boneless chicken breasts",1 tablespoon olive oil
+0.0,0.0,0.00943948607891798,4,"4 skinless, boneless chicken breasts",1 tablespoon olive oil
+0.0,0.0,0.05335251986980438,4,2 tablespoons butter,1 tablespoon chopped fresh parsley
+0.0,0.5,0.15900297462940216,4,1 tablespoon all-purpose flour,1 tablespoon olive oil
+0.0,0.0,0.010499767027795315,4,<no_answer>,20 minutes or until cloves are soft and slip from skins when pushed
+0.0,0.0,0.009108750149607658,4,4 pounds boneless chuck roast,<no_answer>
+1.0,1.0,0.9724421501159668,4,1 (1 ounce) package dry onion and mushroom soup mix,1 (1 ounce) package dry onion and mushroom soup mix
+0.0,0.0,0.009585208259522915,4,<no_answer>,1 1/2 hours
+1.0,1.0,0.9698721766471863,4,1 (16 ounce) package macaroni,1 (16 ounce) package macaroni
+1.0,1.0,0.9698721766471863,4,1 (16 ounce) package macaroni,1 (16 ounce) package macaroni
+0.0,0.3636363744735718,0.08546177297830582,4,"1 cup cucumber - peeled, seeded and chopped",1 cup diced ham
+0.0,0.2222222238779068,0.05471605062484741,4,1 tablespoon dried minced onion,1 cup diced ham
+1.0,1.0,0.9712386727333069,4,1 cup diced ham,1 cup diced ham
+1.0,1.0,0.9714741110801697,4,1 cup shredded Cheddar cheese,1 cup shredded Cheddar cheese
+0.0,0.0,0.014281262643635273,4,3 tablespoons olive oil,1 cup diced ham
+0.0,0.0,0.010003582574427128,4,salt and pepper to taste,3 tablespoons white wine vinegar
+0.0,0.0,0.009578895755112171,4,until al dente,1 (16 ounce) package macaroni
+0.0,0.0,0.00952299777418375,4,<no_answer>,1 cup diced ham
+1.0,1.0,0.9713617563247681,4,"2 tart apples, cored and cubed","2 tart apples, cored and cubed"
+0.0,0.7142857313156128,0.6163622140884399,4,"1 fresh jalapeno pepper, seeded and sliced","1 fresh Anaheim chile, seeded and sliced"
+1.0,1.0,0.9707461595535278,4,"1/2 medium onion, finely chopped","1/2 medium onion, finely chopped"
+0.0,0.3636363744735718,0.07879818975925446,4,"1/2 cup chopped walnuts, lightly toasted","1/2 medium onion, finely chopped"
+0.0,0.0,0.01774742640554905,4,1/4 teaspoon salt,"2 tablespoons fresh ginger, peeled and thinly sliced"
+0.0,0.5,0.14879634976387024,4,2 cups all-purpose flour,2 cups shredded carrots
+0.0,0.2857142984867096,0.04542118310928345,4,1 teaspoon salt,1 cup vegetable oil
+1.0,1.0,0.9704990983009338,4,1 cup vegetable oil,1 cup vegetable oil
+0.0,0.0,0.07921666651964188,4,2 cups shredded carrots,1 cup vegetable oil
+0.0,0.1818181872367859,0.019156519323587418,4,"1 (8 ounce) can crushed pineapple, drained",1 cup chopped walnuts
+0.0,0.4615384638309479,0.13582411408424377,4,"1 (8 ounce) can crushed pineapple, drained",1 (8 ounce) package cream cheese
+0.0,0.0,0.059456512331962585,4,2 cups confectioners' sugar,1 cup chopped walnuts
+0.0,0.4444444477558136,0.4567185342311859,4,"6 tablespoons butter or margarine, divided",2 tablespoons butter
+0.0,0.0,0.00962015986442566,4,<no_answer>,20 minutes longer or until bubbly
+1.0,1.0,0.9728595614433289,4,"8 ounces lasagna noodles, cooked and drained","8 ounces lasagna noodles, cooked and drained"
+1.0,1.0,0.9704155921936035,4,1 cup all-purpose flour,1 cup all-purpose flour
+0.0,0.4444444477558136,0.12267893552780151,4,1 cup all-purpose flour,1 cup heavy whipping cream
+0.0,0.0,0.011004630476236343,4,"3 eggs, separated",1/4 teaspoon salt
+0.0,0.0,0.011392687447369099,4,1/4 teaspoon salt,2 cups chopped walnuts or pecans
+0.0,0.0,0.01934189721941948,4,"4 eggs, lightly beaten",2 cups chopped walnuts or pecans
+0.0,0.0,0.0183689147233963,4,"4 eggs, lightly beaten","2 tablespoons butter, melted"
+0.0,0.0,0.009395089000463486,4,<no_answer>,"2 tablespoons butter, melted"
+1.0,1.0,0.9698015451431274,4,2 cups chopped dates,2 cups chopped dates
+1.0,1.0,0.9661509990692139,4,until golden brown,until golden brown
+0.0,0.0,0.14716875553131104,4,2 tablespoons grated fresh ginger root,1 teaspoon ground coriander
+0.0,0.0,0.14450788497924805,4,2 teaspoons crushed red pepper,1 teaspoon ground coriander
+0.0,0.1818181872367859,0.10633291304111481,4,2 teaspoons crushed red pepper,2 tablespoons grated fresh ginger root
+1.0,1.0,0.969842255115509,4,1 teaspoon ground coriander,1 teaspoon ground coriander
+0.0,0.1428571492433548,0.010803604498505592,4,"1 skinless, boneless chicken breast halves - cut into thin strips",1 teaspoon ground coriander
+0.0,0.0,0.07770774513483047,4,"2 cups bok choy, shredded",1/4 cup chopped fresh cilantro
+0.0,0.20000000298023224,0.012512038461863995,4,1 (10 ounce) can coconut milk,1 teaspoon ground coriander
+0.0,0.0,0.008960410952568054,4,<no_answer>,until it begins to wilt
+0.0,0.0,0.009039454162120819,4,30 minutes,until chicken is white
+1.0,1.0,0.9720868468284607,4,"1 tablespoon butter, unsalted","1 tablespoon butter, unsalted"
+0.0,0.0,0.07643324881792068,4,"2 cups assorted wild mushrooms, chopped",1/4 cup Parmesan cheese
+0.0,0.0,0.16773945093154907,4,"2 tablespoons garlic, minced","1/4 cup fresh herbs; tarragon, parsley, chives, diced"
+1.0,1.0,0.9712689518928528,4,3 cups Arborio rice,3 cups Arborio rice
+0.0,0.0,0.0452716089785099,4,"9 cups chicken stock, unsalted",1/4 cup Parmesan cheese
+0.0,0.0,0.024893103167414665,4,"1/4 cup fresh herbs; tarragon, parsley, chives, diced","1 tablespoon butter, unsalted"
+0.0,0.0,0.009909730404615402,4,Salt and pepper to taste,1/4 cup Parmesan cheese
+0.0,0.0,0.009068640880286694,4,<no_answer>,"1 tablespoon butter, unsalted"
+1.0,1.0,0.9711406230926514,4,"1 cup butter, softened","1 cup butter, softened"
+1.0,1.0,0.9711406230926514,4,"1 cup butter, softened","1 cup butter, softened"
+0.0,0.0,0.04475457966327667,4,1 teaspoon vanilla extract,1/2 cup confectioners' sugar
+0.0,0.20000000298023224,0.029016027227044106,4,1 1/2 cups semisweet chocolate chips,1 teaspoon vanilla extract
+0.0,0.0,0.022866522893309593,4,4 teaspoons shortening,1/2 cup confectioners' sugar
+0.0,0.0,0.00945053156465292,4,<no_answer>,3/4 cup ground walnuts
+1.0,1.0,0.9700109362602234,4,ungreased baking sheets,ungreased baking sheets
+1.0,1.0,0.9708751440048218,4,until edges and bottom are lightly browned,until edges and bottom are lightly browned
+1.0,1.0,0.9712990522384644,4,1/4 cup molasses,1/4 cup molasses
+1.0,1.0,0.9712990522384644,4,1/4 cup molasses,1/4 cup molasses
+0.0,0.4444444477558136,0.21158955991268158,4,1 1/2 teaspoons ground ginger,1 teaspoon ground cinnamon
+0.0,0.0,0.00960698351264,4,<no_answer>,350 degrees F
+0.0,0.0,0.009472577832639217,4,<no_answer>,1/4 cup unsweetened cocoa powder
+0.0,0.0,0.009157556109130383,4,<no_answer>,1/2 teaspoon baking powder
+0.0,0.0,0.009640387259423733,4,190 degrees C,<no_answer>
+0.0,0.0,0.00964810699224472,4,<no_answer>,1/3 cup confectioners' sugar for decoration
+0.0,0.0,0.12081479281187057,4,1/4 teaspoon Italian seasoning,1 tablespoon grated Parmesan cheese
+0.0,0.0,0.0387730672955513,4,"1 (10 ounce) package frozen chopped broccoli, thawed and drained",1/4 teaspoon garlic powder
+1.0,1.0,0.9725885987281799,4,"1 (10 ounce) package frozen chopped broccoli, thawed and drained","1 (10 ounce) package frozen chopped broccoli, thawed and drained"
+1.0,1.0,0.97129887342453,4,"1 (2.8 ounce) can French-fried onions, divided","1 (2.8 ounce) can French-fried onions, divided"
+0.0,0.0,0.009072704240679741,4,190 degrees C,1 tablespoon grated Parmesan cheese
+0.0,0.0,0.009119869209825993,4,<no_answer>,1 tablespoon grated Parmesan cheese
+1.0,1.0,0.9717358946800232,4,until the fish flakes easily with a fork,until the fish flakes easily with a fork
+0.0,0.4000000059604645,0.11722709983587265,4,1/4 cup semisweet chocolate chips,1/4 cup heavy whipping cream
+1.0,1.0,0.9719581007957458,4,"3 (8 ounce) packages cream cheese, softened","3 (8 ounce) packages cream cheese, softened"
+0.0,0.2222222238779068,0.08720768988132477,4,1 cup white sugar,1/4 cup heavy whipping cream
+0.0,0.2222222238779068,0.08720768988132477,4,1 cup white sugar,1/4 cup heavy whipping cream
+0.0,0.0,0.03102734312415123,4,1 teaspoon vanilla extract,1/4 cup heavy whipping cream
+0.0,0.0,0.03102734312415123,4,1 teaspoon vanilla extract,1/4 cup heavy whipping cream
+0.0,0.0,0.08430646359920502,4,1/4 cup heavy whipping cream,1 teaspoon vanilla extract
+0.0,0.0,0.009204746223986149,4,<no_answer>,1/4 cup heavy whipping cream
+0.0,0.0,0.009204746223986149,4,<no_answer>,1/4 cup heavy whipping cream

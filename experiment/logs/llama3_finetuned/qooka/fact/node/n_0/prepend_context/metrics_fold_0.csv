@@ -1,0 +1,200 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+1.0,1.0,0.9706476926803589,0,old-fashioned flaky pie dough.,old-fashioned flaky pie dough.
+1.0,1.0,0.9540091156959534,0,2 hours.,2 hours.
+0.0,0.4000000059604645,0.4878763258457184,0,ripe peaches.,680 g peaches.
+1.0,1.0,0.9644569158554077,0,medium bowl.,medium bowl.
+1.0,1.0,0.960540235042572,0,peaches.,peaches.
+1.0,1.0,0.9607384204864502,0,sharp knife.,sharp knife.
+0.0,0.6666666865348816,0.7272914052009583,0,1 large egg|1 large egg yolk.,1 large egg.
+0.0,0.4000000059604645,0.47153225541114807,0,silver rum.,1/2 ounce rum.
+0.0,0.6000000238418579,0.5876597762107849,0,3 1/2 ounces sugar (1/2 cup; 100g).,3 1/2 ounces.
+0.0,0.25,0.7714052796363831,0,one 2–inch piece fresh ginger.,2 inch ginger.
+1.0,1.0,0.9670867323875427,0,yogurt.,yogurt.
+1.0,1.0,0.9431437253952026,0,lamb.,lamb.
+0.0,0.6666666865348816,0.8403817415237427,0,saucepan.,large saucepan.
+0.0,0.5714285969734192,0.6703366637229919,0,30 minutes.,for 25 to 30 minutes.
+0.0,0.0,0.014241691678762436,0,3.,5 pods.
+0.0,0.4000000059604645,0.898291289806366,0,heat to medium-high.,medium heat.
+0.0,0.4000000059604645,0.282812237739563,0,45 minutes.,for 2 minutes.
+1.0,1.0,0.9349943995475769,0,rice.,rice.
+0.0,0.6666666865348816,0.7036104202270508,0,water.,soaking water.
+0.0,0.0,0.15262942016124725,0,large wooden spoon.,fork.
+1.0,1.0,0.9349943995475769,0,rice.,rice.
+0.0,0.5,0.41773319244384766,0,small saucepan.,large saucepan.
+0.0,0.5,0.38269442319869995,0,low heat.,medium heat.
+1.0,1.0,0.9505754709243774,0,for 10 minutes.,for 10 minutes.
+1.0,1.0,0.9650292992591858,0,caramelized onions.,caramelized onions.
+1.0,1.0,0.9346296787261963,0,pot.,pot.
+1.0,1.0,0.9550436735153198,0,flour.,flour.
+1.0,1.0,0.9690316915512085,0,stiff rubber spatula.,stiff rubber spatula.
+1.0,1.0,0.945587158203125,0,bowl.,bowl.
+1.0,1.0,0.9459296464920044,0,egg.,egg.
+1.0,1.0,0.9588765501976013,0,spatula.,spatula.
+1.0,1.0,0.9644569158554077,0,medium bowl.,medium bowl.
+1.0,1.0,0.9644569158554077,0,medium bowl.,medium bowl.
+1.0,1.0,0.9550436735153198,0,flour.,flour.
+1.0,1.0,0.9585735201835632,0,butter.,butter.
+0.0,0.5,0.7038953304290771,0,to 375°f.,375°f (190°c).
+1.0,1.0,0.9550436735153198,0,flour.,flour.
+1.0,1.0,0.9575839638710022,0,dough.,dough.
+1.0,1.0,0.9575839638710022,0,dough.,dough.
+1.0,1.0,0.9575839638710022,0,dough.,dough.
+1.0,1.0,0.9575839638710022,0,dough.,dough.
+1.0,1.0,0.9594829678535461,0,1 inch.,1 inch.
+0.0,0.6666666865348816,0.5030176043510437,0,egg.,egg wash.
+1.0,1.0,0.9545727968215942,0,20 minutes.,20 minutes.
+1.0,1.0,0.9652608633041382,0,sharp boning knife.,sharp boning knife.
+1.0,1.0,0.9584223628044128,0,5 days.,5 days.
+0.0,0.6666666865348816,0.8921810984611511,0,to 145°f.,145°f.
+1.0,1.0,0.9579099416732788,0,63°c.,63°c.
+1.0,1.0,0.9578759074211121,0,oven.,oven.
+1.0,1.0,0.9601230025291443,0,200°c.,200°c.
+1.0,1.0,0.9507482647895813,0,45 minutes.,45 minutes.
+1.0,1.0,0.9576210379600525,0,for 1 hour.,for 1 hour.
+1.0,1.0,0.9681326746940613,0,fine-mesh strainer.,fine-mesh strainer.
+1.0,1.0,0.9586726427078247,0,1 quart.,1 quart.
+1.0,1.0,0.9651848673820496,0,medium saucepan.,medium saucepan.
+1.0,1.0,0.9624919295310974,0,medium heat.,medium heat.
+1.0,1.0,0.9610533714294434,0,about 3 minutes.,about 3 minutes.
+1.0,1.0,0.9655132293701172,0,large dutch oven.,large dutch oven.
+1.0,1.0,0.9660979509353638,0,medium-high heat.,medium-high heat.
+0.0,0.6666666865348816,0.35366353392601013,0,about 4 minutes.,about 40 minutes.
+1.0,1.0,0.9563560485839844,0,chicken.,chicken.
+1.0,1.0,0.9592428803443909,0,salt.,salt.
+1.0,1.0,0.9614896774291992,0,about 40 minutes.,about 40 minutes.
+1.0,1.0,0.9560452699661255,0,tongs.,tongs.
+0.0,0.0,0.024951035156846046,0,bowl.,large plate.
+0.0,0.0,0.01083892397582531,0,broth.,stock.
+1.0,1.0,0.9663368463516235,0,dutch oven.,dutch oven.
+1.0,1.0,0.9592428803443909,0,salt.,salt.
+1.0,1.0,0.9563560485839844,0,chicken.,chicken.
+0.0,0.9166666865348816,0.9699028134346008,0,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion.","diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion."
+0.0,0.9166666865348816,0.9699028134346008,0,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion.","diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion."
+0.0,0.9166666865348816,0.9699028134346008,0,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion.","diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion."
+0.0,0.8571428656578064,0.9064759016036987,0,2 hours or up to 24.,at least 2 hours or up to 24.
+1.0,1.0,0.9557464718818665,0,510g.,510g.
+1.0,1.0,0.9644569158554077,0,medium bowl.,medium bowl.
+0.0,0.0,0.008734953589737415,0,dominoes.,in a ring.
+1.0,1.0,0.9607384204864502,0,sharp knife.,sharp knife.
+1.0,1.0,0.960540235042572,0,peaches.,peaches.
+0.0,0.6666666865348816,0.5030176043510437,0,egg.,egg wash.
+0.0,0.0,0.10962702333927155,0,egg.,small bowl.
+0.0,0.6666666865348816,0.6545198559761047,0,dough.,chilled dough.
+1.0,1.0,0.9614130854606628,0,about 20 minutes.,about 20 minutes.
+1.0,1.0,0.9511678218841553,0,rum.,rum.
+0.0,0.4000000059604645,0.6636413335800171,0,sugar.,undissolved pockets of sugar.
+1.0,1.0,0.9578759074211121,0,oven.,oven.
+1.0,1.0,0.9592428803443909,0,salt.,salt.
+0.0,0.6666666865348816,0.36182302236557007,0,about 30 minutes.,about 10 minutes.
+0.0,0.6666666865348816,0.8228118419647217,0,sharp knife.,knife.
+1.0,1.0,0.945587158203125,0,bowl.,bowl.
+1.0,1.0,0.9616051912307739,0,tomatoes.,tomatoes.
+0.0,0.6666666865348816,0.6644214391708374,0,reserved tomato.,tomato.
+1.0,1.0,0.958859920501709,0,tomato.,tomato.
+0.0,0.5,0.5494638681411743,0,broth.,low-sodium chicken broth.
+1.0,1.0,0.9592428803443909,0,salt.,salt.
+1.0,1.0,0.9592713117599487,0,garlic.,garlic.
+1.0,1.0,0.9592713117599487,0,garlic.,garlic.
+1.0,1.0,0.9349943995475769,0,rice.,rice.
+1.0,1.0,0.9670161604881287,0,tomato paste.,tomato paste.
+0.0,0.6666666865348816,0.7823215126991272,0,rice.,rice mixture.
+1.0,1.0,0.9689099192619324,0,tomato pulp.,tomato pulp.
+1.0,1.0,0.9592428803443909,0,salt.,salt.
+1.0,1.0,0.9675599336624146,0,tomato cavities.,tomato cavities.
+1.0,1.0,0.9616051912307739,0,tomatoes.,tomatoes.
+0.0,0.800000011920929,0.6998333930969238,0,1 tablespoon.,1 tablespoon (15ml).
+1.0,1.0,0.9616051912307739,0,tomatoes.,tomatoes.
+0.0,0.5,0.565086841583252,0,rice and potatoes.,rice.
+0.0,0.0,0.9562429785728455,0,potatoes.,tomatoes.
+1.0,1.0,0.960935115814209,0,high heat.,high heat.
+1.0,1.0,0.9555253982543945,0,for 5 minutes.,for 5 minutes.
+1.0,1.0,0.9679099917411804,0,tuna steaks.,tuna steaks.
+1.0,1.0,0.93647700548172,0,fish.,fish.
+1.0,1.0,0.9679754376411438,0,thin metal spatula.,thin metal spatula.
+0.0,0.0,0.011065489612519741,0,carving fork.,thin metal spatula.
+1.0,1.0,0.9465947151184082,0,heat.,heat.
+1.0,1.0,0.93647700548172,0,fish.,fish.
+1.0,1.0,0.9623033404350281,0,tuna.,tuna.
+0.0,0.0,0.5854542255401611,0,2 pounds (900g).,900 g.
+0.0,0.0,0.5826602578163147,0,aluminium-foil.,foil.
+0.0,0.3333333432674408,0.44235658645629883,0,diamond crystal kosher salt.,black salt.
+0.0,0.0,0.20999747514724731,0,preground spices.,"fenugreek leaves (or seeds, if using), chiles de arbol, brown cardamon (or green cardamom, if using), and clove."
+0.0,0.0,0.6322579979896545,0,1 ounce (28g).,28 g.
+1.0,1.0,0.9615797400474548,0,about 1 minute.,about 1 minute.
+0.0,0.0,0.21990959346294403,0,yes.,no.
+1.0,1.0,0.9055553078651428,0,1 medium.,1 medium.
+0.0,0.800000011920929,0.6103099584579468,0,4 tablespoons (60g).,4 tablespoons.
+0.0,0.0,0.49920472502708435,0,"2 pounds (900g) boneless, skinless chicken thighs (about 4).",900 g.
+0.0,0.0,0.4693058729171753,0,serving bowl.,small mixing bowls.
+1.0,1.0,0.9653404951095581,0,small skillet.,small skillet.
+0.0,0.25,0.7189739346504211,0,fenugreek.,"fenugreek leaves (or fenugreek seeds, if using)."
+1.0,1.0,0.9624919295310974,0,medium heat.,medium heat.
+0.0,0.6666666865348816,0.7251662015914917,0,9- by 13-inch with 1-inch sides.,9- by 13-inch.
+1.0,1.0,0.9508379697799683,0,ginger.,ginger.
+1.0,1.0,0.9605056643486023,0,fenugreek.,fenugreek.
+0.0,0.6666666865348816,0.4073415994644165,0,chicken thigh.,thigh.
+1.0,1.0,0.9669761657714844,0,chicken thigh pieces.,chicken thigh pieces.
+0.0,0.0,0.2032383531332016,0,prepared baking sheet.,bowl.
+1.0,1.0,0.9563560485839844,0,chicken.,chicken.
+1.0,1.0,0.9605056643486023,0,fenugreek.,fenugreek.
+1.0,1.0,0.9198389053344727,0,2 teaspoons.,2 teaspoons.
+0.0,0.5,0.5354967713356018,0,chicken.,chicken thigh pieces.
+1.0,1.0,0.9653404951095581,0,small skillet.,small skillet.
+1.0,1.0,0.9605056643486023,0,fenugreek.,fenugreek.
+0.0,0.4000000059604645,0.5286116600036621,0,medium mixing bowl.,small bowl.
+1.0,1.0,0.9661962985992432,0,black salt.,black salt.
+1.0,1.0,0.945587158203125,0,bowl.,bowl.
+0.0,0.5,0.5673865675926208,0,chicken.,900 g chicken.
+1.0,1.0,0.9595586061477661,0,aluminum.,aluminum.
+1.0,1.0,0.9624919295310974,0,medium heat.,medium heat.
+0.0,0.0,0.009268626570701599,0,salt.,fenugreek.
+0.0,0.0,0.2356744110584259,0,shortcut spice mix.,brown cardamom.
+1.0,1.0,0.9547113180160522,0,water.,water.
+1.0,1.0,0.9530168771743774,0,cashews.,cashews.
+0.0,0.800000011920929,0.9156811237335205,0,about 1 minute.,1 minute.
+0.0,0.6666666865348816,0.6341283917427063,0,dutch oven.,oven.
+1.0,1.0,0.9346296787261963,0,pot.,pot.
+1.0,1.0,0.9615797400474548,0,about 1 minute.,about 1 minute.
+1.0,1.0,0.9564635157585144,0,onions.,onions.
+1.0,1.0,0.9676830172538757,0,wooden spoon.,wooden spoon.
+0.0,0.0,0.013004341162741184,0,tomatoes.,onions.
+1.0,1.0,0.9614896774291992,0,about 40 minutes.,about 40 minutes.
+0.0,0.0,0.009249572642147541,0,chicken.,onions.
+0.0,0.800000011920929,0.9169566035270691,0,about 14 minutes.,14 minutes.
+0.0,0.0,0.023215066641569138,0,immersion blender.,wooden spoon.
+1.0,1.0,0.9585735201835632,0,butter.,butter.
+1.0,1.0,0.9563560485839844,0,chicken.,chicken.
+0.0,0.0,0.11965087801218033,0,bowl.,rice.
+1.0,1.0,0.9592713117599487,0,garlic.,garlic.
+1.0,1.0,0.9592428803443909,0,salt.,salt.
+0.0,0.2857142984867096,0.5869038105010986,0,"bay leaves, rosemary or thyme sprigs.",thyme.
+0.0,0.5,0.5797116160392761,0,salt and pepper.,salt.
+1.0,1.0,0.9602741003036499,0,about 15 minutes.,about 15 minutes.
+1.0,1.0,0.9547113180160522,0,water.,water.
+0.0,0.6666666865348816,0.6269776821136475,0,cup.,1/2 cup.
+0.0,0.5714285969734192,0.7349414825439453,0,inch) nonstick skillet.,small (8-inch) nonstick skillet.
+0.0,0.2857142984867096,0.5869038105010986,0,"bay leaves, rosemary or thyme sprigs.",thyme.
+1.0,1.0,0.9666599035263062,0,black pepper.,black pepper.
+1.0,1.0,0.9198389053344727,0,2 teaspoons.,2 teaspoons.
+0.0,0.0,0.21990959346294403,0,yes.,no.
+0.0,0.6666666865348816,0.5983886122703552,0,medium mixing bowl.,small mixing bowl.
+1.0,1.0,0.9040893912315369,0,yes.,yes.
+0.0,0.0,0.18212077021598816,0,no.,yes.
+0.0,0.3333333432674408,0.7084036469459534,0,1/4 cup (60ml).,1 1/4 cups.
+0.0,0.0,0.6322579979896545,0,1 ounce (28g).,28 g.
+1.0,1.0,0.9615797400474548,0,about 1 minute.,about 1 minute.
+0.0,0.5,0.9174495339393616,0,medium-high heat.,medium heat.
+0.0,0.8571428656578064,0.926905632019043,0,"yes, about 40 minutes.",about 40 minutes.
+0.0,0.0,0.020664215087890625,0,sheet pan.,aluminum.
+0.0,0.0,0.02904760092496872,0,serving bowl.,yogurt.
+1.0,1.0,0.9644569158554077,0,medium bowl.,medium bowl.
+0.0,0.5,0.352784126996994,0,large.,1 large egg.
+0.0,0.4000000059604645,0.3656463027000427,0,spatula followed by hands.,hands.
+1.0,1.0,0.9644569158554077,0,medium bowl.,medium bowl.
+1.0,1.0,0.9550436735153198,0,flour.,flour.
+1.0,1.0,0.9585735201835632,0,butter.,butter.
+0.0,0.5,0.7038953304290771,0,to 375°f.,375°f (190°c).
+1.0,1.0,0.9550436735153198,0,flour.,flour.
+1.0,1.0,0.9594829678535461,0,1 inch.,1 inch.
+0.0,0.0,0.008784766308963299,0,egg wash.,toothpick.
+1.0,1.0,0.9545727968215942,0,20 minutes.,20 minutes.

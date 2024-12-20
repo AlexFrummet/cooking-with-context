@@ -1,0 +1,416 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+0.0,0.2857142984867096,0.5254665017127991,1,350°F.,Heat oil in a wok to 350°F.
+1.0,1.0,0.9690712094306946,1,1/2 cup,1/2 cup
+0.0,0.9166666865348816,0.9721480011940002,1,adding up to 2 tablespoons additional water if batter is too thick.,Add up to 2 tablespoons additional water if batter is too thick.
+0.0,0.1428571492433548,0.47177761793136597,1,It should have the consistency of thin paint and fall off of the whisk in thin ribbons that instantly disappear as they hit the surface of the batter in the bowl.,thin paint
+0.0,0.7272727489471436,0.6052131056785583,1,Add tofu and carefully turn to coat.,Carefully turn to coat.
+1.0,1.0,0.9635546803474426,1,about 6 minutes.,about 6 minutes
+1.0,1.0,0.9735805988311768,1,Carefully pour oil out of wok into a heatproof container and reserve.,Carefully pour oil out of wok into a heatproof container and reserve.
+1.0,1.0,0.9704824686050415,1,"Stock, soy sauce, bean paste, vinegar, sugar, and remaining 2 teaspoons corn starch.","stock, soy sauce, bean paste, vinegar, sugar, and remaining 2 teaspoons corn starch"
+0.0,0.0,0.020967761054635048,1,chinkiang vinegar,apple cider
+1.0,1.0,0.9542423486709595,1,Set aside.,Set aside.
+1.0,1.0,0.9714905619621277,1,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.
+1.0,1.0,0.9723371267318726,1,"Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds.","Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds."
+0.0,0.0,0.010574393905699253,1,Immediately drain through fine mesh strainer.,Discard cooked peppercorns
+1.0,1.0,0.9684082865715027,1,"leeks, celery, and long pepper","leeks, celery, and long pepper"
+0.0,0.125,0.3476865887641907,1,Clear a space in the center of the wok and add the scallion/ginger/garlic mixture.,"Add leeks, celery, and long pepper and cook, stirring and tossing, until vegetables are lightly charred and tender-crisp, about 1 1/2 minutes."
+0.0,0.3199999928474426,0.6424288749694824,1,"Stir sauce mixture and add to wok. Cook, tossing and folding ingredients together until tofu is fully coated.",Add tofu and carefully turn to coat.
+1.0,1.0,0.9672093987464905,1,tomatoes,tomatoes
+0.0,0.7272727489471436,0.7029113173484802,1,"Place chopped tomatoes in a colander set over a bowl and season with 2 teaspoons (8g) kosher salt. Toss to coat. Set aside at room temperature to drain, tossing occasionally.",Place chopped tomatoes in a colander set over a bowl and season with 2 teaspoons (8g) kosher salt.
+0.0,0.7272727489471436,0.7029113173484802,1,"Place chopped tomatoes in a colander set over a bowl and season with 2 teaspoons (8g) kosher salt. Toss to coat. Set aside at room temperature to drain, tossing occasionally.",Place chopped tomatoes in a colander set over a bowl and season with 2 teaspoons (8g) kosher salt.
+1.0,1.0,0.9598634839057922,1,8g,8g
+0.0,0.9090909361839294,0.5408152341842651,1,Drain for a minimum of 15 minutes.,for a minimum of 15 minutes
+0.0,0.5714285969734192,0.9387176632881165,1,15 minutes,for a minimum of 15 minutes
+1.0,1.0,0.9626295566558838,1,350°f (180°c),350°F (180°C)
+1.0,1.0,0.9582111835479736,1,oven,oven
+0.0,0.8571428656578064,0.8212509751319885,1,"In a large bowl, toss bread cubes with 2 tablespoons (30ml) olive oil.",Toss bread cubes with 2 tablespoons (30ml) olive oil.
+0.0,0.4285714328289032,0.6107245683670044,1,"Bake about 15 minutes, until crisp and firm but not browned.",about 15 minutes
+0.0,0.6666666865348816,0.7967497110366821,1,tomato,tomato juice
+0.0,0.0,0.0819995105266571,1,mustard,vinegar
+1.0,1.0,0.9727951288223267,1,"Whisking constantly, drizzle in remaining 1/2 cup (120ml) olive oil.","Whisking constantly, drizzle in remaining 1/2 cup (120ml) olive oil."
+0.0,0.4615384638309479,0.4094044864177704,1,1/2 cup (120ml),"whisking constantly, drizzle in remaining 1/2 cup (120ml) olive oil."
+1.0,1.0,0.9704157710075378,1,Season dressing to taste with salt and pepper.,Season dressing to taste with salt and pepper.
+0.0,0.7142857313156128,0.7738381028175354,1,"Combine toasted bread, tomatoes, and dressing in a large bowl.","toasted bread, tomatoes, and dressing"
+1.0,1.0,0.9657058715820312,1,basil,basil
+0.0,0.5,0.6137644052505493,1,pepper,salt and pepper
+1.0,1.0,0.9714367389678955,1,Toss everything to coat and season with salt and pepper.,Toss everything to coat and season with salt and pepper.
+1.0,1.0,0.9730696678161621,1,"Let rest 30 minutes before serving, tossing occasionally until the dressing is absorbed by the bread.","Let rest 30 minutes before serving, tossing occasionally until the dressing is absorbed by the bread."
+1.0,1.0,0.9572361707687378,1,30 minutes,30 minutes
+1.0,1.0,0.972272515296936,1,"Combine cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom in a spice grinder and grind to a fine powder.","Combine cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom in a spice grinder and grind to a fine powder."
+0.0,0.37931033968925476,0.7317521572113037,1,"1 1/2 teaspoons whole cumin seeds, toasted 1 1/2 teaspoons coriander seeds, toasted 1 whole star anise, toasted 2 cloves 1/2 teaspoon black peppercorns, toasted 1/2 teaspoon ground cinnamon 1/4 teaspoon grated nutmeg 1 blade mace 1/2 teaspoon ground turmeric 1 black or green cardamom pod","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+0.0,0.14723926782608032,0.5245463252067566,1,"for the spice mix (see note):  1 1/2 teaspoons whole cumin seeds, toasted 1 1/2 teaspoons coriander seeds, toasted 1 whole star anise, toasted 2 cloves 1/2 teaspoon black peppercorns, toasted 1/2 teaspoon ground cinnamon 1/4 teaspoon grated nutmeg 1 blade mace 1/2 teaspoon ground turmeric 1 black or green cardamom pod for the curry:  3 tablespoons vegetable oil, butter, or ghee 1 small onion, finely minced (about 1 cup) 4 cloves garlic, grated on the medium holes of a box grater 1 tablespoon fresh ginger, grated on the medium holes of a box grater 1 small red or green chili, finely chopped 1/4 teaspoon cayenne pepper 1/2 cup cashew nuts 1 (14-ounce) can coconut milk 2 (14-ounce) cans chickpeas, drained and rinsed 1 bunch (about 3 ounces) flat spinach leaves, trimmed, rinsed, and roughly chopped kosher salt 1/4 cup fresh juice from 3 to 4 limes 1/2 cup fresh cilantro leaves and tender stems, coarsely chopped","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+1.0,1.0,0.9731101989746094,1,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+1.0,1.0,0.9542423486709595,1,Set aside.,Set aside.
+0.0,0.0,0.032346103340387344,1,ghee,"onion, garlic, ginger, and chili"
+1.0,1.0,0.9664576649665833,1,"Add onion, garlic, ginger, and chili.","Add onion, garlic, ginger, and chili."
+1.0,1.0,0.9602798223495483,1,cashews,cashews
+0.0,0.4000000059604645,0.42522671818733215,1,mixture,half of spice mixture
+0.0,0.5,0.6153871417045593,1,"Cook, stirring constantly until fragrant, about 30 seconds. Add coconut milk and remove from heat. Scrape up any browned bits from bottom of pan.","Cook, stirring constantly until fragrant, about 30 seconds."
+0.0,0.0,0.08657991886138916,1,blender,pot
+1.0,1.0,0.9720821380615234,1,"Return mixture to pot. Add chickpeas, spinach, and remaining spice mix and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes. Add salt and lime juice to taste. Stir in half of cilantro.","Return mixture to pot. Add chickpeas, spinach, and remaining spice mix and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes. Add salt and lime juice to taste. Stir in half of cilantro."
+0.0,0.0,0.02037602849304676,1,cilantro,cumin
+1.0,1.0,0.9580249190330505,1,water,water
+1.0,1.0,0.9643511176109314,1,salt,salt
+1.0,1.0,0.9666937589645386,1,large bowl,large bowl
+1.0,1.0,0.9711229801177979,1,Stir to combine and let sit at room temperature overnight.,Stir to combine and let sit at room temperature overnight.
+0.0,0.5,0.6477696895599365,1,Adjust oven rack to lower-middle position,lower-middle position
+1.0,1.0,0.9662637114524841,1,duck,duck
+0.0,0.6666666865348816,0.5179072618484497,1,salt,salt pork
+0.0,0.800000011920929,0.8991357088088989,1,dutch oven,large Dutch oven
+0.0,0.4363636374473572,0.6102190613746643,1,"Place skin side down in now-empty pan. Cook without moving until well-browned, 6 to 8 minutes. Flip chicken pieces and continue cooking until lightly browned on second side, about 3 minutes longer. Transfer to bowl with salt pork.",Season chicken pieces with pepper (do not add salt) and place skin side down in now-empty pan.
+0.0,0.6666666865348816,0.6654677391052246,1,8 minutes,6 to 8 minutes
+0.0,0.6666666865348816,0.6343876123428345,1,pork,salt pork
+0.0,0.2222222238779068,0.5298396348953247,1,bowl,transfer to bowl with salt pork and chicken.
+0.0,0.0,0.055881112813949585,1,chicken,salt pork
+1.0,1.0,0.9735958576202393,1,all but 2 tablespoons fat,all but 2 tablespoons fat
+1.0,1.0,0.9723997712135315,1,Drain all but 2 tablespoons fat from pot.,Drain all but 2 tablespoons fat from pot.
+0.0,0.8148148059844971,0.7102766036987305,1,"add onions to pot and cook, stirring and scraping up browned bits from the bottom of the pot.","cook, stirring and scraping up browned bits from the bottom of the pot"
+0.0,0.7441860437393188,0.741153359413147,1,"Add onions to pot and cook, stirring and scraping up browned bits from the bottom of the pot. Cook until onions are translucent but not browned, about 4 minutes.","Add onions to pot and cook, stirring and scraping up browned bits from the bottom of the pot."
+0.0,0.13793103396892548,0.27899929881095886,1,"add drained beans, carrot, celery, garlic, parsley, bay leaves, cloves, and stock/gelatin mixture.","add onions to pot and cook, stirring and scraping up browned bits from the bottom of the pot."
+1.0,1.0,0.9650607109069824,1,high heat,high heat
+0.0,0.761904776096344,0.691810667514801,1,"Cook until beans are almost tender but retain a slight bite, about 45 minutes.",beans are almost tender but retain a slight bite
+1.0,1.0,0.9722272157669067,1,"Using tongs, remove carrots, celery, parsley, bay leaves, and cloves and discard.","Using tongs, remove carrots, celery, parsley, bay leaves, and cloves and discard."
+0.0,0.25,0.5273451805114746,1,carrots,"carrots, celery, parsley, bay leaves, and cloves"
+0.0,0.8846153616905212,0.7888010144233704,1,"Add meats to pot and stir to incorporate, making sure that the chicken pieces end up on top of the beans with the skin facing upwards.","Add meats to pot and stir to incorporate, making sure that the chicken pieces end up on top of the beans with the skin facing upwards. Beans should be almost completely submerged."
+0.0,0.0,0.02455097623169422,1,chicken,sausages
+0.0,0.9444444179534912,0.9732909798622131,1,"adding more water by pouring it carefully down the side of the pot, as necessary, to keep beans mostly covered.","Add more water by pouring it carefully down the side of the pot, as necessary, to keep beans mostly covered."
+0.0,0.0,0.1996331810951233,1,pot,large bowl
+1.0,1.0,0.9561713337898254,1,pot,pot
+0.0,0.0,0.3549514710903168,1,4 1/2 hour,about 2 hours
+0.0,0.4615384638309479,0.5864055156707764,1,every 30 minutes until you reach the 4 1/2 hour mark.,every 30 minutes
+0.0,0.0,0.2564493417739868,1,30 minutes until you reach the 4 1/2 hour mark,about 2 hours
+0.0,0.20000000298023224,0.36461883783340454,1,"Return to oven and continue cooking undisturbed until the crust is deep brown and thick, about 5 to 6 hours total.",Break crust with a spoon and shake pot gently to redistribute.
+0.0,0.875,0.7669224739074707,1,Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water. Let soak 15 minutes,Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water.
+1.0,1.0,0.9678341746330261,1,warm water,warm water
+0.0,0.6666666865348816,0.8238691687583923,1,clean kitchen towel,clean kitchen towel or paper towels
+1.0,1.0,0.9592249989509583,1,15 minutes,15 minutes
+1.0,1.0,0.9706619381904602,1,arrange on a clean kitchen towel or paper towels to dry.,Arrange on a clean kitchen towel or paper towels to dry.
+1.0,1.0,0.9685534834861755,1,mushrooms,mushrooms
+1.0,1.0,0.9695580005645752,1,"Pulse until roughly chopped, 6 to 8 short pulses.","Pulse until roughly chopped, 6 to 8 short pulses."
+1.0,1.0,0.9666937589645386,1,large bowl,large bowl
+0.0,0.07999999821186066,0.07020534574985504,1,Fit food processor with grater attachment and grate all of the Brussels sprouts.,Add remaining cup heavy cream and cook until reduced to a loose sauce-like consistency.
+1.0,1.0,0.9666937589645386,1,large bowl,large bowl
+0.0,0.5,0.7096977233886719,1,to 400°f,400°F (200°C)
+0.0,0.09090909361839294,0.21948634088039398,1,"Cut about half the squash into 1-inch chunks, to yield 4 cups. Cut remaining squash into 1/4-inch dice.",Preheat oven to 400°F (200°C).
+0.0,0.47999998927116394,0.7645941376686096,1,"toss large squash chunks with 2 tablespoons (30ml) olive oil, garlic, apple, red pepper flakes, sage sprigs, and a large pinch of salt. Toss small diced squash with 2 tablespoons (30ml) olive oil, maple syrup, and a pinch of salt.","garlic, apple, red pepper flakes, sage sprigs, and a large pinch of salt"
+1.0,1.0,0.9586181044578552,1,sage,sage
+1.0,1.0,0.961093008518219,1,olive,olive
+0.0,0.05128205195069313,0.6482359170913696,1,"In a large mixing bowl, toss large squash chunks with 2 tablespoons (30ml) olive oil, garlic, apple, red pepper flakes, sage sprigs, and a large pinch of salt until evenly coated, then spread in an even layer on a rimmed baking sheet. In a separate bowl, toss small diced squash with 2 tablespoons (30ml) olive oil, maple syrup, and a pinch of salt, then spread in an even layer on a second rimmed baking sheet.","Cut about half the squash into 1-inch chunks, to yield 4 cups."
+0.0,0.5,0.7096977233886719,1,to 400°f,400°F (200°C)
+0.0,0.10526315867900848,0.3305659294128418,1,"Cut about half the squash into 1-inch chunks, to yield 4 cups. Cut remaining squash into 1/4-inch dice.",to 400°F
+0.0,0.6666666865348816,0.8320633172988892,1,olive oil,olive
+1.0,1.0,0.9586181044578552,1,sage,sage
+0.0,0.47999998927116394,0.7645941376686096,1,"toss large squash chunks with 2 tablespoons (30ml) olive oil, garlic, apple, red pepper flakes, sage sprigs, and a large pinch of salt. Toss small diced squash with 2 tablespoons (30ml) olive oil, maple syrup, and a pinch of salt.","garlic, apple, red pepper flakes, sage sprigs, and a large pinch of salt"
+0.0,0.05128205195069313,0.6482359170913696,1,"In a large mixing bowl, toss large squash chunks with 2 tablespoons (30ml) olive oil, garlic, apple, red pepper flakes, sage sprigs, and a large pinch of salt until evenly coated, then spread in an even layer on a rimmed baking sheet. In a separate bowl, toss small diced squash with 2 tablespoons (30ml) olive oil, maple syrup, and a pinch of salt, then spread in an even layer on a second rimmed baking sheet.","Cut about half the squash into 1-inch chunks, to yield 4 cups."
+1.0,1.0,0.9640272259712219,1,about 30 minutes,about 30 minutes
+1.0,1.0,0.9729313254356384,1,"Large chunks are very tender, about 45 minutes, and small diced squash is browned in spots, about 30 minutes.","large chunks are very tender, about 45 minutes, and small diced squash is browned in spots, about 30 minutes."
+1.0,1.0,0.9637883901596069,1,about 45 minutes,about 45 minutes
+1.0,1.0,0.9714912176132202,1,Discard sage sprigs from large squash chunks.,Discard sage sprigs from large squash chunks.
+0.0,0.800000011920929,0.893222987651825,1,large squash,large squash chunks
+0.0,0.5454545617103577,0.826711118221283,1,"food processor, blender","food processor, blender, or the container of a stick blender"
+0.0,0.800000011920929,0.893222987651825,1,large squash,large squash chunks
+0.0,0.8965517282485962,0.7965438365936279,1,Add miso and 1/4 cup (60ml) broth and blend until a smooth purée forms.,Add miso and 1/4 cup (60ml) broth and blend until a smooth purée forms. Season with salt.
+0.0,0.0,0.06244971975684166,1,Season with salt.,Stir in brown butter.
+1.0,1.0,0.9643511176109314,1,salt,salt
+0.0,0.6666666865348816,0.8800576329231262,1,medium-high heat,medium-high
+1.0,1.0,0.9709419012069702,1,Heat remaining 2 tablespoons (30ml) olive oil in a pressure cooker over medium-high heat until shimmering.,heat remaining 2 tablespoons (30ml) olive oil in a pressure cooker over medium-high heat until shimmering.
+0.0,0.4000000059604645,0.618289053440094,1,heat,heat it until shimmering
+1.0,1.0,0.9730117917060852,1,"Add onion and cook, stirring, until translucent but not browned, about 4 minutes.","Add onion and cook, stirring, until translucent but not browned, about 4 minutes."
+1.0,1.0,0.9570634961128235,1,onion,onion
+0.0,0.3636363744735718,0.4220535457134247,1,3 to 4 minutes,"cook, stirring, until rice is evenly coated in oil and toasted but not browned, 3 to 4 minutes."
+1.0,1.0,0.9553631544113159,1,rice,rice
+0.0,0.0,0.022145848721265793,1,rice,garlic
+1.0,1.0,0.9723564982414246,1,Rice grains should start to look like tiny ice cubes: translucent around the edges and cloudy in the center.,rice grains should start to look like tiny ice cubes: translucent around the edges and cloudy in the center.
+1.0,1.0,0.9662765264511108,1,about 2 minutes,about 2 minutes
+0.0,0.0,0.014330172911286354,1,wine,rice
+1.0,1.0,0.9685965776443481,1,raw alcohol,raw alcohol
+1.0,1.0,0.9553631544113159,1,rice,rice
+0.0,0.5,0.7607392072677612,1,onion,pieces of onion
+0.0,0.6451612710952759,0.6677639484405518,1,Scrape any grains of rice or pieces of onion from side of pressure cooker so that they are fully submerged. Close pressure cooker and bring up to low pressure (10 psi on most units).,Stir in remaining 3 1/2 cups (840ml) broth; scrape any grains of rice or pieces of onion from side of pressure cooker so that they are fully submerged.
+1.0,1.0,0.958952784538269,1,broth,broth
+0.0,0.6666666865348816,0.8800576329231262,1,medium-high heat,medium-high
+0.0,0.0,0.01506921648979187,1,"Until milk solids in butter turn a hazelnut-brown color, 1 to 2 minutes longer.",Remove from heat.
+0.0,0.800000011920929,0.9235677719116211,1,2 minutes,about 2 minutes
+1.0,1.0,0.9727622270584106,1,"Using a slotted spoon, transfer sage leaves to a paper towel–lined plate.","Using a slotted spoon, transfer sage leaves to a paper towel–lined plate."
+1.0,1.0,0.9702975153923035,1,It should begin to develop a creamy consistency.,it should begin to develop a creamy consistency.
+1.0,1.0,0.961287796497345,1,squash,squash
+0.0,0.0,0.009464554488658905,1,brown butter,squash
+0.0,0.6666666865348816,0.6256897449493408,1,"If risotto is too soupy, cook for a few minutes longer, stirring, until it begins to thicken more.","cook for a few minutes longer, stirring, until it begins to thicken more; it should look like a smooth, creamy sauce."
+0.0,0.21052631735801697,0.3682948052883148,1,few minutes,"a few minutes longer, stirring, until it begins to thicken more; it should look like a smooth, creamy sauce."
+1.0,1.0,0.9723033308982849,1,"Stir in a generous grating of Parmesan cheese, followed by the maple-roasted diced squash.","Stir in a generous grating of Parmesan cheese, followed by the maple-roasted diced squash."
+0.0,0.0,0.09248647093772888,1,"Season with salt. Spoon risotto onto plates, top with fried sage leaves and more grated cheese, and serve.",Stir in brown butter.
+1.0,1.0,0.9643511176109314,1,salt,salt
+0.0,0.5,0.43764573335647583,1,sage,fried sage leaves
+1.0,1.0,0.9672579169273376,1,grated cheese,grated cheese
+0.0,0.75,0.6661116480827332,1,Top with fried sage leaves and more grated cheese.,"Spoon risotto onto plates, top with fried sage leaves and more grated cheese, and serve."
+0.0,0.5,0.7096977233886719,1,to 400°f,400°F (200°C)
+1.0,1.0,0.9720921516418457,1,"Cut about half the squash into 1-inch chunks, to yield 4 cups. Cut remaining squash into 1/4-inch dice.","Cut about half the squash into 1-inch chunks, to yield 4 cups. Cut remaining squash into 1/4-inch dice."
+0.0,0.47999998927116394,0.7645941376686096,1,"toss large squash chunks with 2 tablespoons (30ml) olive oil, garlic, apple, red pepper flakes, sage sprigs, and a large pinch of salt. Toss small diced squash with 2 tablespoons (30ml) olive oil, maple syrup, and a pinch of salt.","garlic, apple, red pepper flakes, sage sprigs, and a large pinch of salt"
+0.0,0.0,0.029062485322356224,1,2 tablespoons (30ml),6
+0.0,0.3243243098258972,0.6188305020332336,1,Stirring once or twice during baking,"Bake both trays of squash, stirring once or twice during baking, until large chunks are very tender, about 45 minutes, and small diced squash is browned in spots, about 30 minutes."
+0.0,0.6666666865348816,0.29452234506607056,1,about 45 minutes,about 2 minutes
+1.0,1.0,0.9640272259712219,1,about 30 minutes,about 30 minutes
+0.0,0.0,0.00889504887163639,1,Discard sage sprigs from large squash chunks.,Stir in brown butter.
+0.0,0.0,0.36106303334236145,1,yes,discard
+0.0,0.0,0.17065951228141785,1,"food processor, blender","stirring, until it begins to thicken more; it should look like a smooth, creamy sauce."
+1.0,1.0,0.9696053862571716,1,"large squash chunks, apple, and garlic cloves","large squash chunks, apple, and garlic cloves"
+0.0,0.8965517282485962,0.7965438365936279,1,Add miso and 1/4 cup (60ml) broth and blend until a smooth purée forms.,Add miso and 1/4 cup (60ml) broth and blend until a smooth purée forms. Season with salt.
+0.0,0.0,0.06244971975684166,1,Season with salt.,Stir in brown butter.
+1.0,1.0,0.9643511176109314,1,salt,salt
+1.0,1.0,0.957976222038269,1,heat,heat
+0.0,0.6666666865348816,0.8800576329231262,1,medium-high heat,medium-high
+1.0,1.0,0.9730117917060852,1,"Add onion and cook, stirring, until translucent but not browned, about 4 minutes.","Add onion and cook, stirring, until translucent but not browned, about 4 minutes."
+0.0,0.0,0.010272140614688396,1,onion,wine
+0.0,0.0,0.02063199318945408,1,rice,oil
+0.0,0.800000011920929,0.9319920539855957,1,4 minutes,about 4 minutes
+0.0,0.09090909361839294,0.5597599744796753,1,rice,"Add rice and cook, stirring, until rice is evenly coated in oil and toasted but not browned, 3 to 4 minutes."
+1.0,1.0,0.9723564982414246,1,Rice grains should start to look like tiny ice cubes: translucent around the edges and cloudy in the center.,rice grains should start to look like tiny ice cubes: translucent around the edges and cloudy in the center.
+1.0,1.0,0.9685965776443481,1,raw alcohol,raw alcohol
+1.0,1.0,0.960623562335968,1,wine,wine
+0.0,0.6666666865348816,0.37171193957328796,1,about 2 minutes,about 4 minutes
+0.0,0.8965517282485962,0.7995667457580566,1,until raw alcohol smell has cooked off and wine has almost fully evaporated,"until raw alcohol smell has cooked off and wine has almost fully evaporated, about 2 minutes."
+0.0,0.6451612710952759,0.6677639484405518,1,Scrape any grains of rice or pieces of onion from side of pressure cooker so that they are fully submerged. Close pressure cooker and bring up to low pressure (10 psi on most units).,Stir in remaining 3 1/2 cups (840ml) broth; scrape any grains of rice or pieces of onion from side of pressure cooker so that they are fully submerged.
+0.0,0.25,0.5157204270362854,1,onion,grains of rice or pieces of onion
+0.0,0.25,0.5317583680152893,1,rice,grains of rice or pieces of onion
+1.0,1.0,0.958952784538269,1,broth,broth
+0.0,0.9523809552192688,0.7004750370979309,1,"Depressurize cooker either by running it under cold water if it is not electric, or using the steam-release valve if it is electric.","either by running it under cold water if it is not electric, or using the steam-release valve if it is electric."
+0.0,0.0,0.24139773845672607,1,medium-high heat,400°F (200°C)
+0.0,0.52173912525177,0.6457489132881165,1,"Melt butter over medium-high heat until foaming subsides, 2 to 3 minutes. Add remaining 8 sage leaves and fry, gently swirling, until milk solids in butter turn a hazelnut-brown color, 1 to 2 minutes longer.","melt butter over medium-high heat until foaming subsides, 2 to 3 minutes."
+0.0,0.5714285969734192,0.571753740310669,1,2 minutes,1 to 2 minutes longer
+0.0,0.0,0.01506921648979187,1,"Until milk solids in butter turn a hazelnut-brown color, 1 to 2 minutes longer.",Remove from heat.
+0.0,0.5,0.40248942375183105,1,heat,remove from heat
+0.0,0.8235294222831726,0.7434132099151611,1,"Using a slotted spoon, transfer sage leaves to a paper towel–lined plate.",Transfer sage leaves to a paper towel–lined plate.
+0.0,0.0,0.009865708649158478,1,rice,squash purée
+0.0,0.0,0.009987331926822662,1,squash,stir in brown butter
+1.0,1.0,0.969978392124176,1,brown butter,brown butter
+0.0,0.4000000059604645,0.6156378984451294,1,few minutes,about 2 minutes
+0.0,0.0,0.2564375102519989,1,"If risotto is too soupy, cook for a few minutes longer, stirring, until it begins to thicken more.",Stir in brown butter.
+1.0,1.0,0.9723033308982849,1,"Stir in a generous grating of Parmesan cheese, followed by the maple-roasted diced squash.","Stir in a generous grating of Parmesan cheese, followed by the maple-roasted diced squash."
+0.0,0.6666666865348816,0.7271332144737244,1,salt,salt. spoon
+0.0,0.2857142984867096,0.5248191952705383,1,"Season with salt. Spoon risotto onto plates, top with fried sage leaves and more grated cheese, and serve.",Season with salt.
+0.0,0.75,0.6661116480827332,1,Top with fried sage leaves and more grated cheese.,"Spoon risotto onto plates, top with fried sage leaves and more grated cheese, and serve."
+0.0,0.0,0.010197969153523445,1,grated cheese,plates
+0.0,0.6666666865348816,0.734855055809021,1,sage leaves,sage
+1.0,1.0,0.972272515296936,1,"Combine cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom in a spice grinder and grind to a fine powder.","Combine cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom in a spice grinder and grind to a fine powder."
+1.0,1.0,0.9731101989746094,1,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+1.0,1.0,0.9731101989746094,1,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+1.0,1.0,0.9542423486709595,1,Set aside.,Set aside.
+1.0,1.0,0.969273567199707,1,medium-high heat,medium-high heat
+0.0,0.10526315867900848,0.5054547190666199,1,heat,"heat oil, butter, or ghee in a large saucepan over medium-high heat until melted (or until oil is shimmering)."
+1.0,1.0,0.9664576649665833,1,"Add onion, garlic, ginger, and chili.","Add onion, garlic, ginger, and chili."
+0.0,0.0,0.1643388271331787,1,"garlic, ginger","cayenne, cashews, and half of spice mixture"
+0.0,0.44186046719551086,0.3974939286708832,1,"Return mixture to pot. Add chickpeas, spinach, and remaining spice mix and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes. Add salt and lime juice to taste. Stir in half of cilantro.","Add onion, garlic, ginger, and chili. Cook, stirring frequently, and scraping bottom of pan until golden brown and starting to burn in spots, about 10 minutes. Add cayenne, cashews, and half of spice mixture. Cook, stirring constantly until fragrant, about 30 seconds. Add coconut"
+1.0,1.0,0.96327143907547,1,spinach,spinach
+0.0,0.0,0.009090598672628403,1,<no answer>,add salt and lime juice to taste
+0.0,0.3636363744735718,0.7034785747528076,1,1/4 cup fresh juice from 3 to 4 limes,1/4 cup
+0.0,0.875,0.7669224739074707,1,Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water. Let soak 15 minutes,Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water.
+1.0,1.0,0.9678341746330261,1,warm water,warm water
+1.0,1.0,0.9592249989509583,1,15 minutes,15 minutes
+1.0,1.0,0.9706619381904602,1,arrange on a clean kitchen towel or paper towels to dry.,Arrange on a clean kitchen towel or paper towels to dry.
+1.0,1.0,0.9706456661224365,1,clean kitchen towel,clean kitchen towel
+1.0,1.0,0.9685534834861755,1,mushrooms,mushrooms
+1.0,1.0,0.9695580005645752,1,"Pulse until roughly chopped, 6 to 8 short pulses.","Pulse until roughly chopped, 6 to 8 short pulses."
+0.0,0.4444444477558136,0.7269001007080078,1,large bowl,transfer to a large bowl and set aside.
+0.0,0.3333333432674408,0.6159571409225464,1,emaining three batches of mushrooms,mushrooms
+1.0,1.0,0.9666937589645386,1,large bowl,large bowl
+0.0,0.8888888955116272,0.7245669364929199,1,"Heat butter in a large non-stick or cast iron skillet over high heat until foaming subsides. Add mushrooms and cook, stirring occasionally, until all excess moisture evaporates and mushrooms begin to sizzle and brown, about 12 minutes.","Heat butter in a large non-stick or cast iron skillet over high heat until foaming subsides. Add mushrooms and cook, stirring occasionally, until all excess moisture evaporates and mushrooms begin to sizzle and brown, about 12 minutes. When mushrooms are browned, add shallots, garlic, and thyme"
+0.0,0.8888888955116272,0.9235280752182007,1,add 1 cup heavy cream,1 cup heavy cream
+0.0,0.6666666865348816,0.3441469967365265,1,about 2 minutes,about 12 minutes
+0.0,0.0,0.06299144774675369,1,large bowl,lasagna pan
+0.0,0.5454545617103577,0.6300621032714844,1,Transfer to a large bowl and wipe out skillet.,Wipe out skillet.
+0.0,0.11764705926179886,0.3686750531196594,1,heat,return 1/4 cup of the reserved oil to wok and heat over medium-high heat until lightly smoking.
+0.0,0.0,0.02058049850165844,1,flour,water
+1.0,1.0,0.9321802258491516,1,. whisk,whisk
+0.0,0.9166666865348816,0.9721480011940002,1,adding up to 2 tablespoons additional water if batter is too thick.,Add up to 2 tablespoons additional water if batter is too thick.
+0.0,0.12244898080825806,0.3013681173324585,1,It should have the consistency of thin paint and fall off of the whisk in thin ribbons that instantly disappear as they hit the surface of the batter in the bowl.,"Add water and vodka and whisk until a smooth batter is formed, adding up to 2 tablespoons additional water if batter is too thick."
+1.0,1.0,0.9669691324234009,1,paper towel,paper towel
+0.0,0.0,0.009660343639552593,1,tofu,water
+0.0,0.0,0.016517283394932747,1,repeat,carefully pour oil out of wok into a heatproof container and reserve.
+1.0,1.0,0.9735805988311768,1,Carefully pour oil out of wok into a heatproof container and reserve.,Carefully pour oil out of wok into a heatproof container and reserve.
+0.0,0.0,0.010399771854281425,1,stock,dried chilies
+0.0,0.0,0.02843572571873665,1,2 teaspoons,1/2 cup
+1.0,1.0,0.9645510911941528,1,vinegar,vinegar
+0.0,0.0,0.013940279372036457,1,Set aside.,Carefully pour oil out of wok into a heatproof container and reserve.
+1.0,1.0,0.9542423486709595,1,Set aside.,Set aside.
+1.0,1.0,0.9714905619621277,1,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.
+1.0,1.0,0.9702792167663574,1,fine mesh strainer,fine mesh strainer
+1.0,1.0,0.9690685272216797,1,1/4 cup,1/4 cup
+0.0,0.0,0.43001335859298706,1,medium-high heat,350°F
+1.0,1.0,0.9723371267318726,1,"Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds.","Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds."
+0.0,0.0,0.010574393905699253,1,Immediately drain through fine mesh strainer.,Discard cooked peppercorns
+1.0,1.0,0.9638681411743164,1,wok,wok
+0.0,0.125,0.3476865887641907,1,Clear a space in the center of the wok and add the scallion/ginger/garlic mixture.,"Add leeks, celery, and long pepper and cook, stirring and tossing, until vegetables are lightly charred and tender-crisp, about 1 1/2 minutes."
+1.0,1.0,0.9638681411743164,1,wok,wok
+0.0,0.3199999928474426,0.6424288749694824,1,"Stir sauce mixture and add to wok. Cook, tossing and folding ingredients together until tofu is fully coated.",Add tofu and carefully turn to coat.
+0.0,0.2857142984867096,0.3981756865978241,1,tofu,"peanuts, dried chilies, and drained tofu"
+1.0,1.0,0.9664613604545593,1,large saucepan,large saucepan
+1.0,1.0,0.964808464050293,1,about 10 minutes,about 10 minutes
+0.0,0.4516128897666931,0.6433976292610168,1,"Cook, stirring constantly until fragrant, about 30 seconds. Add coconut milk and remove from heat. Scrape up any browned bits from bottom of pan.",Add coconut milk and remove from heat.
+1.0,1.0,0.957976222038269,1,heat,heat
+0.0,0.0,0.08657991886138916,1,blender,pot
+1.0,1.0,0.9720821380615234,1,"Return mixture to pot. Add chickpeas, spinach, and remaining spice mix and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes. Add salt and lime juice to taste. Stir in half of cilantro.","Return mixture to pot. Add chickpeas, spinach, and remaining spice mix and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes. Add salt and lime juice to taste. Stir in half of cilantro."
+1.0,1.0,0.9665839672088623,1,low heat,low heat
+1.0,1.0,0.964808464050293,1,about 10 minutes,about 10 minutes
+1.0,1.0,0.9709750413894653,1,Season quail all over with salt.,Season quail all over with salt.
+0.0,0.25,0.5990970134735107,1,"In a large cast iron skillet, heat oil over medium-high heat until shimmering. Add quail.",Add quail.
+0.0,0.6666666865348816,0.41527724266052246,1,about 4 minutes,about 5 minutes
+1.0,1.0,0.9719443917274475,1,Transfer quail to a plate or wire rack set over a rimmed baking sheet to rest.,Transfer quail to a plate or wire rack set over a rimmed baking sheet to rest.
+1.0,1.0,0.9719443917274475,1,Transfer quail to a plate or wire rack set over a rimmed baking sheet to rest.,Transfer quail to a plate or wire rack set over a rimmed baking sheet to rest.
+0.0,0.0,0.4184083044528961,1,minced,thin slices
+0.0,0.1666666716337204,0.009134527295827866,1,when they start to look pulpy,cut into the meat to check doneness
+1.0,1.0,0.973298192024231,1,"Add water or stock to pan, bring to a simmer, then cook until liquid has reduced and plums have broken down to form a thick sauce.","Add water or stock to pan, bring to a simmer, then cook until liquid has reduced and plums have broken down to form a thick sauce."
+0.0,0.2950819730758667,0.36026284098625183,1,"Add water or stock to pan, bring to a simmer, then cook until liquid has reduced and plums have broken down to form a thick sauce.","Add honey to sauce, stirring to combine; taste, then add more honey as desired to balance the tartness of the plums (this will depend on the plums you have). Stir in butter until melted. Remove from heat. Discard thyme sprigs."
+0.0,0.6666666865348816,0.7241572141647339,1,italian plums,plums
+1.0,1.0,0.9716692566871643,1,Add any juices that have collected below quail.,Add any juices that have collected below quail.
+1.0,1.0,0.9751276969909668,1,"taste, then add more honey as desired to balance the tartness of the plums (this will depend on the plums you have).","taste, then add more honey as desired to balance the tartness of the plums (this will depend on the plums you have)."
+0.0,0.7407407164573669,0.8582471609115601,1,add more honey as desired to balance the tartness of the plums,Add more honey as desired to balance the tartness of the plums (this will depend on the plums you have).
+0.0,0.6666666865348816,0.4548863470554352,1,1 whole quail,4 whole quail
+1.0,1.0,0.9695098996162415,1,"Arrange quail on top, and serve.",Arrange quail on top and serve.
+0.0,0.4000000059604645,0.8217343688011169,1,"You can garnish with minced parsley, if desired.",minced parsley
+0.0,0.25,0.431022584438324,1,add salt,"add salt pork and cook, stirring occasionally, until browned all over, about 8 minutes."
+1.0,1.0,0.9666937589645386,1,large bowl,large bowl
+0.0,0.8571428656578064,0.8576716184616089,1,cover beans with 3 quarts water and add salt.,"In a large bowl, cover beans with 3 quarts water and add salt."
+1.0,1.0,0.9641284942626953,1,3 quarts,3 quarts
+1.0,1.0,0.9720348119735718,1,Drain and rinse beans and set aside.,Drain and rinse beans and set aside.
+1.0,1.0,0.9730844497680664,1,Place stock in a large liquid measuring cup and sprinkle gelatin over the top.,Place stock in a large liquid measuring cup and sprinkle gelatin over the top.
+1.0,1.0,0.9662637114524841,1,duck,duck
+1.0,1.0,0.9670441746711731,1,3 tablespoons,3 tablespoons
+0.0,0.4363636374473572,0.6102190613746643,1,"Place skin side down in now-empty pan. Cook without moving until well-browned, 6 to 8 minutes. Flip chicken pieces and continue cooking until lightly browned on second side, about 3 minutes longer. Transfer to bowl with salt pork.",Season chicken pieces with pepper (do not add salt) and place skin side down in now-empty pan.
+0.0,0.3636363744735718,0.37976759672164917,1,8 minutes,"cook without moving until well-browned, 6 to 8 minutes."
+0.0,0.6666666865348816,0.5179072618484497,1,salt,salt pork
+1.0,1.0,0.9686673879623413,1,salt pork,salt pork
+1.0,1.0,0.9726583361625671,1,"Add sausages and cook, turning occasionally, until well-browned on both sides.","Add sausages and cook, turning occasionally, until well-browned on both sides."
+0.0,0.0,0.07923554629087448,1,bowl,"add sausages and cook, turning occasionally, until well-browned on both sides."
+0.0,0.0,0.034442342817783356,1,2 tablespoons fat,"drained beans, carrot, celery, garlic, parsley, bay leaves, cloves, and stock/gelatin mixture"
+1.0,1.0,0.9723997712135315,1,Drain all but 2 tablespoons fat from pot.,Drain all but 2 tablespoons fat from pot.
+0.0,0.0,0.9337450861930847,1,150°c,150 degrees
+0.0,0.0,0.9317589402198792,1,to 300°f,300 degrees Fahrenheit
+0.0,0.0,0.10499689728021622,1,Place stock in a medium bowl or 1-quart liquid measure and sprinkle with gelatin. Set aside.,"Bring sauce to a simmer, then transfer to oven, uncovered."
+1.0,1.0,0.9728547930717468,1,Purée tomatoes in the can using an immersion blender or transfer to the bowl of a countertop blender and purée until smooth.,Purée tomatoes in the can using an immersion blender or transfer to the bowl of a countertop blender and purée until smooth.
+1.0,1.0,0.961093008518219,1,olive,olive
+1.0,1.0,0.964808464050293,1,about 10 minutes,about 10 minutes
+0.0,0.5,0.5767101645469666,1,"sage, and half of parsley",garlic sage parsley
+1.0,1.0,0.9713448286056519,1,"Add onion, carrots, celery, garlic, sage, and half of parsley and cook, stirring and tossing, until vegetables are completely softened but not browned, about 8 minutes.","Add onion, carrots, celery, garlic, sage, and half of parsley and cook, stirring and tossing, until vegetables are completely softened but not browned, about 8 minutes."
+1.0,1.0,0.9650607109069824,1,high heat,high heat
+0.0,0.6451612710952759,0.7504254579544067,1,"Cook, stirring, until most of the liquid has evaporated from the pan.","Return Dutch oven to high heat and cook, stirring, until most of the liquid has evaporated from the pan, about 10 minutes longer."
+0.0,0.6666666865348816,0.43096137046813965,1,about 10 minutes,about 8 minutes
+0.0,0.7692307829856873,0.7016115784645081,1,"Cook, stirring, until mostly evaporated.","Add wine and cook, stirring, until mostly evaporated."
+0.0,0.8888888955116272,0.7227500081062317,1,"milk, and bay leaves","wine, milk, and bay leaves"
+0.0,0.9090909361839294,0.7019240260124207,1,"tomatoes, milk, and bay leaves","wine, tomatoes, milk, and bay leaves."
+0.0,0.7692307829856873,0.6355023384094238,1,"reserved stock, tomatoes, milk, and bay leaves","wine, tomatoes, milk, and bay leaves"
+1.0,1.0,0.9669319987297058,1,Season gently with salt and pepper.,Season gently with salt and pepper.
+0.0,0.3333333432674408,0.04768151044845581,1,"sauce is rich and thick underneath a heavy layer of fat,","thick and pasta is coated, about 30 seconds."
+0.0,0.0,0.3369879722595215,1,4 hours,about 10 minutes longer
+0.0,0.30000001192092896,0.6618037223815918,1,"transfer to stovetop and finish cooking at a brisk simmer, stirring frequently.","Bring sauce to a simmer, then transfer to oven, uncovered."
+0.0,0.0,0.20627418160438538,1,4 hours,about 10 minutes
+0.0,0.800000011920929,0.8816478848457336,1,1 cup,about 1 cup
+1.0,1.0,0.9666885137557983,1,1 cup,1 cup
+1.0,1.0,0.9733459949493408,1,"let the sauce cool at this point and store in the fridge overnight to let the fat solidify and flavors meld. Then remove the solid fat, reserving a cup to add back in when the sauce is warmed.","Let the sauce cool at this point and store in the fridge overnight to let the fat solidify and flavors meld. Then remove the solid fat, reserving a cup to add back in when the sauce is warmed."
+0.0,0.5,0.7653676867485046,1,cup,about 1 cup
+0.0,0.6666666865348816,0.11524954438209534,1,fish,fish sauce
+0.0,0.6666666865348816,0.6624189019203186,1,stirring constantly to emulsify.,to emulsify
+0.0,0.06060606241226196,0.023031460121273994,1,"Bolognese can be cooled and stored in sealed containers in the refrigerator for up to 1 week, or frozen for later use.","Carefully skim off most of the fat, leaving behind about 1 cup total."
+0.0,0.1875,0.6076081395149231,1,Cook pasta in a large pot of well-salted water until just barely al dente.,"Cook over high heat, tossing and stirring gently, until sauce is thick and pasta is coated, about 30 seconds."
+0.0,0.8500000238418579,0.698753833770752,1,"Drain, reserving 1/2 cup cooking liquid. Return pasta to pot and add just enough sauce to coat, along with some of the cooking liquid.","Return pasta to pot and add just enough sauce to coat, along with some of the cooking liquid."
+0.0,0.800000011920929,0.7406325936317444,1,three layers of paper towels or a clean dish towel,paper towels or a clean dish towel
+0.0,0.3076923191547394,0.39787277579307556,1,rubber spatula,transfer ricotta directly to paper towels and spread with a rubber spatula.
+0.0,0.6315789222717285,0.6771435737609863,1,Place another triple layer of paper towels or a clean dish towel on top and press down firmly with the palms of your hands to blot excess moisture.,Press down firmly with the palms of your hands to blot excess moisture.
+1.0,1.0,0.9730481505393982,1,Place another triple layer of paper towels or a clean dish towel on top and press down firmly with the palms of your hands to blot excess moisture.,Place another triple layer of paper towels or a clean dish towel on top and press down firmly with the palms of your hands to blot excess moisture.
+0.0,0.0,0.009198055602610111,1,another triple layer of paper towels or a clean dish towel,dry flour
+1.0,1.0,0.9666937589645386,1,large bowl,large bowl
+0.0,0.7096773982048035,0.6806201934814453,1,"Transfer to a large clean plate and spread into a thin, even layer. Transfer to freezer and let chill for 15 minutes.","Transfer to a large clean plate and spread into a thin, even layer."
+1.0,1.0,0.9729998111724854,1,Transfer half of the semolina flour to a large bowl and the other half to a 9- by 13-inch baking dish.,Transfer half of the semolina flour to a large bowl and the other half to a 9- by 13-inch baking dish.
+1.0,1.0,0.9666937589645386,1,large bowl,large bowl
+0.0,0.4000000059604645,0.7156282067298889,1,separate empty large bowl,bowl
+0.0,0.3125,0.5669476389884949,1,Scrape it into a separate empty large bowl and fold it with a rubber spatula until no big chunks of frozen ricotta remain.,Transfer ricotta directly to paper towels and spread with a rubber spatula.
+0.0,0.6666666865348816,0.7683398127555847,1,bowl,large bowl
+0.0,0.4166666567325592,0.6299272775650024,1,Transfer it to the baking dish.,Gently lift it and roll it around in your hands to form a neat sphere. Transfer it to the baking dish.
+1.0,1.0,0.9717759490013123,1,Sprinkle any remaining semolina in the bowl over the formed gnudi.,Sprinkle any remaining semolina in the bowl over the formed gnudi.
+1.0,1.0,0.959672749042511,1,bowl,bowl
+1.0,1.0,0.9641238451004028,1,once per day,once per day
+0.0,0.28985506296157837,0.635413408279419,1,"They can be frozen. Transfer to a large plate or a rimmed baking sheet and freeze until solid, about 1 hour. Transfer to a zipper-lock freezer bag and store in the freezer for up to 2 months. Allow to thaw on a plate covered with plastic wrap in the refrigerator overnight before cooking.","Cover baking dish with plastic wrap and refrigerate for at least 1 and up to 3 days, turning the gnudi once per day."
+1.0,1.0,0.9663878679275513,1,about 1 hour,about 1 hour
+1.0,1.0,0.9610991477966309,1,foaming,foaming
+1.0,1.0,0.9670958518981934,1,medium saucepan,medium saucepan
+1.0,1.0,0.9740193486213684,1,"Add sage leaves, season lightly with salt, and cook, turning the leaves occasionally, until crisp, about 2 minutes.","Add sage leaves, season lightly with salt, and cook, turning the leaves occasionally, until crisp, about 2 minutes."
+0.0,0.8888888955116272,0.7745928764343262,1,"Using tongs, transfer the leaves to a paper towel-lined plate to drain.",Transfer the leaves to a paper towel-lined plate to drain.
+1.0,1.0,0.9688140153884888,1,medium skillet,medium skillet
+0.0,0.800000011920929,0.9386152029037476,1,for 3 minutes,3 minutes
+1.0,1.0,0.9708775281906128,1,"cook, stirring very gently, for 3 minutes.","cook, stirring very gently, for 3 minutes."
+0.0,0.0,0.01296535599976778,1,making sure that plenty of pasta water gets into the pan with the gnudi.,Yes
+0.0,0.800000011920929,0.9244444966316223,1,slotted spoon,using a slotted spoon
+0.0,0.5925925970077515,0.6963251829147339,1,Shaking the pan and gently stirring the gnudi helps the butter and pasta water emulsify into a creamy sauce.,"until the butter and pasta water emulsify into a creamy sauce, about 1 minute."
+1.0,1.0,0.9650607109069824,1,high heat,high heat
+1.0,1.0,0.966620147228241,1,about 1 minute,about 1 minute
+0.0,0.550000011920929,0.722519040107727,1,"The sauce is ready when the butter and pasta water emulsify into a creamy sauce, about 1 minute.","Place the skillet over high heat and cook, shaking the pan and gently stirring the gnudi until the butter and pasta water emulsify into a creamy sauce, about 1 minute."
+1.0,1.0,0.9571455121040344,1,pan,pan
+1.0,1.0,0.9725142121315002,1,Transfer gnudi and butter sauce to a warm serving dish or to individual plates.,Transfer gnudi and butter sauce to a warm serving dish or to individual plates.
+0.0,0.05882352963089943,0.02170928567647934,1,Top with fried sage leaves and drizzle with browned butter. Sprinkle with Parmesan and black pepper and serve immediately.,"Transfer to a large plate or a rimmed baking sheet and freeze until solid, about 1 hour."
+0.0,0.05882352963089943,0.02170928567647934,1,Top with fried sage leaves and drizzle with browned butter. Sprinkle with Parmesan and black pepper and serve immediately.,"Transfer to a large plate or a rimmed baking sheet and freeze until solid, about 1 hour."
+0.0,0.0,0.1684167981147766,1,200°c,400°F
+0.0,0.5714285969734192,0.7206203937530518,1,preheat oven,preheat oven to 400°F (200°C).
+0.0,0.5,0.7096977233886719,1,to 400°f,400°F (200°C)
+1.0,1.0,0.9720921516418457,1,"Cut about half the squash into 1-inch chunks, to yield 4 cups. Cut remaining squash into 1/4-inch dice.","Cut about half the squash into 1-inch chunks, to yield 4 cups. Cut remaining squash into 1/4-inch dice."
+0.0,0.47999998927116394,0.7645941376686096,1,"toss large squash chunks with 2 tablespoons (30ml) olive oil, garlic, apple, red pepper flakes, sage sprigs, and a large pinch of salt. Toss small diced squash with 2 tablespoons (30ml) olive oil, maple syrup, and a pinch of salt.","garlic, apple, red pepper flakes, sage sprigs, and a large pinch of salt"
+0.0,0.0714285746216774,0.6608456969261169,1,"In a large mixing bowl, toss large squash chunks with 2 tablespoons (30ml) olive oil, garlic, apple, red pepper flakes, sage sprigs, and a large pinch of salt until evenly coated, then spread in an even layer on a rimmed baking sheet. In a separate bowl, toss small diced squash with 2 tablespoons (30ml) olive oil, maple syrup, and a pinch of salt, then spread in an even layer on a second rimmed baking sheet.","Cut about half the squash into 1-inch chunks, to yield 4 cups. Cut remaining squash into 1/4-inch dice."
+1.0,1.0,0.9729313254356384,1,"Large chunks are very tender, about 45 minutes, and small diced squash is browned in spots, about 30 minutes.","large chunks are very tender, about 45 minutes, and small diced squash is browned in spots, about 30 minutes."
+1.0,1.0,0.9637883901596069,1,about 45 minutes,about 45 minutes
+1.0,1.0,0.9640272259712219,1,about 30 minutes,about 30 minutes
+1.0,1.0,0.9714912176132202,1,Discard sage sprigs from large squash chunks.,Discard sage sprigs from large squash chunks.
+1.0,1.0,0.9738958477973938,1,"If using instant or fresh yeast, combine flour and all of the water in a stand mixer fitted with the dough hook.","If using instant or fresh yeast, combine flour and all of the water in a stand mixer fitted with the dough hook."
+0.0,0.2857142984867096,0.24390700459480286,1,flour and all of the water,warm water
+0.0,0.7200000286102295,0.7669191360473633,1,Mix at low speed or by hand until salt and yeast are fully incorporated and dough is smooth.,"Add salt, along with either the instant yeast, fresh yeast, or the active-dry yeast solution, and mix at low speed or by hand until salt and yeast are fully incorporated and dough is smooth."
+0.0,0.5185185074806213,0.5502007603645325,1,Until salt and yeast are fully incorporated and dough is smooth.,Mix flour and water at low speed until they are fully incorporated and form a uniform dough.
+1.0,1.0,0.9643511176109314,1,salt,salt
+0.0,0.0,0.4267437160015106,1,mixer,"if mixing by hand, skip this step."
+1.0,1.0,0.9667928218841553,1,about 3-5 minutes,about 3-5 minutes
+0.0,0.1428571492433548,0.4604095220565796,1,the dough feels elastic and bounces partway back when indented with your thumb,dough forms
+0.0,0.5142857432365417,0.6987298130989075,1,cover with plastic wrap. Let dough stand at room temperature for 30 minutes.,Cover the bowl with a kitchen towel or plastic wrap and let the dough rest for at least 15 minutes and up to 1 hour.
+0.0,0.4516128897666931,0.6967858076095581,1,"Working with oiled hands, gently transfer dough.","Working with oiled hands, gently transfer dough, being careful not to tear its surface, to a lightly oiled mixing bowl and cover with plastic wrap."
+0.0,0.0,0.03767428919672966,1,bowl,dutch oven
+0.0,0.6190476417541504,0.6843860745429993,1,"Using a bench knife, divide dough in half and shape each portion into a ball.","Using a bench knife, divide dough in half and shape each portion into a ball. Dust the tops of the dough balls with flour, cover with a towel, and let rest for 15 minutes."
+0.0,0.1666666716337204,0.5888172388076782,1,"Dust the tops of the dough balls with flour, cover with a towel, and let rest for 15 minutes.","Transfer each dough ball, seam-side up, to a bowl or basket lined with a lightly floured linen cloth or plain, not-fuzzy kitchen towel. Refrigerate dough balls or store in a cool place until dough has nearly doubled in size, about 1 hour to 1 hour 30 minutes."
+1.0,1.0,0.9635317921638489,1,for 15 minutes,for 15 minutes
+0.0,0.7599999904632568,0.7365858554840088,1,"Flip the dough ball over so that the seams you just created are on the bottom and a smooth surface is on top. Let dough rest on the work surface, seam-side down, for 5 minutes.",Now flip the dough ball over so that the seams you just created are on the bottom and a smooth surface is on top.
+0.0,0.6461538672447205,0.6982794404029846,1,"Transfer each dough ball, seam-side up, to a bowl or basket lined with a lightly floured linen cloth or plain, not-fuzzy kitchen towel.","Transfer each dough ball, seam-side up, to a bowl or basket lined with a lightly floured linen cloth or plain, not-fuzzy kitchen towel. Refrigerate dough balls or store in a cool place until dough has nearly doubled in size, about 1 hour to 1 hour 30 minutes."
+1.0,1.0,0.9742660522460938,1,"transfer each dough ball, seam-side up, to a bowl or basket lined with a lightly floured linen cloth or plain, not-fuzzy kitchen towel","transfer each dough ball, seam-side up, to a bowl or basket lined with a lightly floured linen cloth or plain, not-fuzzy kitchen towel."
+0.0,0.4000000059604645,0.7618234157562256,1,1 hour,about 1 hour to 1 hour 30 minutes
+0.0,0.0,0.12148673087358475,1,a Dutch oven,dough
+1.0,1.0,0.9592031836509705,1,500°F (260°C),500°F (260°C)
+0.0,0.0,0.2236292064189911,1,do not use it.,no
+1.0,1.0,0.9728225469589233,1,"With a razor or paring knife, score the full surface of the dough with 2 parallel lines roughly 3 inches apart. With a spray bottle filled with water, lightly spritz the surface of the dough.","With a razor or paring knife, score the full surface of the dough with 2 parallel lines roughly 3 inches apart. With a spray bottle filled with water, lightly spritz the surface of the dough."
+1.0,1.0,0.9580249190330505,1,water,water
+0.0,0.6666666865348816,0.9215496778488159,1,1 hour,at least 1 hour
+0.0,0.0714285746216774,0.265419602394104,1,"Return Dutch oven to oven, and reheat at 500°F for 10 minutes.","Transfer each dough ball, seam-side up, to a bowl or basket lined with a lightly floured linen cloth or plain, not-fuzzy kitchen towel. Refrigerate dough balls or store in a cool place until dough has nearly doubled in size, about 1 hour to 1 hour 30 minutes."
+0.0,0.2068965584039688,0.08173150569200516,1,"return dutch oven to oven, and reheat at 500°f for 10 minutes. then repeat with the remaining ball of dough.",allow to cool for at least 1 hour before slicing.
+1.0,1.0,0.9678341746330261,1,warm water,warm water
+0.0,0.875,0.7669224739074707,1,Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water. Let soak 15 minutes,Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water.
+1.0,1.0,0.9592249989509583,1,15 minutes,15 minutes
+0.0,0.0,0.009227950125932693,1,clean kitchen towel,lasagna noodles
+1.0,1.0,0.9685534834861755,1,mushrooms,mushrooms
+1.0,1.0,0.9695580005645752,1,"Pulse until roughly chopped, 6 to 8 short pulses.","Pulse until roughly chopped, 6 to 8 short pulses."
+1.0,1.0,0.9666937589645386,1,large bowl,large bowl
+1.0,1.0,0.9685534834861755,1,mushrooms,mushrooms
+0.0,0.07999999821186066,0.07020534574985504,1,Fit food processor with grater attachment and grate all of the Brussels sprouts.,Add remaining cup heavy cream and cook until reduced to a loose sauce-like consistency.
+1.0,1.0,0.9666937589645386,1,large bowl,large bowl
+0.0,0.5569620132446289,0.6658209562301636,1,"Heat butter in a large non-stick or cast iron skillet over high heat until foaming subsides. Add mushrooms and cook, stirring occasionally, until all excess moisture evaporates and mushrooms begin to sizzle and brown, about 12 minutes.","Add mushrooms and cook, stirring occasionally, until all excess moisture evaporates and mushrooms begin to sizzle and brown, about 12 minutes. When mushrooms are browned, add shallots, garlic, and thyme. Cook, stirring, until shallots are translucent, about 4 minutes. Add 1 cup heavy"
+1.0,1.0,0.9726144671440125,1,"When mushrooms are browned, add shallots, garlic, and thyme.","When mushrooms are browned, add shallots, garlic, and thyme."
+1.0,1.0,0.964927077293396,1,heavy cream,heavy cream
+1.0,1.0,0.9662765264511108,1,about 2 minutes,about 2 minutes
+0.0,0.0,0.010310893878340721,1,<no_answer>,Add remaining cup heavy cream and cook until reduced to a loose sauce-like consistency.
+1.0,1.0,0.9650607109069824,1,high heat,high heat
+1.0,1.0,0.9708366394042969,1,"Cook, tossing occasionally, until well-charred on most sides, about 10 minutes.","Cook, tossing occasionally, until well-charred on most sides, about 10 minutes."
+1.0,1.0,0.9735393524169922,1,Add remaining cup heavy cream and cook until reduced to a loose sauce-like consistency. Season to taste with salt and pepper and transfer to a large bowl.,Add remaining cup heavy cream and cook until reduced to a loose sauce-like consistency. Season to taste with salt and pepper and transfer to a large bowl.
+0.0,0.6666666865348816,0.7165907621383667,1,cup,1 cup
+1.0,1.0,0.9666937589645386,1,large bowl,large bowl
+0.0,0.5,0.838045060634613,1,medium-high heat,high heat
+1.0,1.0,0.9662765264511108,1,about 2 minutes,about 2 minutes
+0.0,0.0,0.009666595607995987,1,flour,mushrooms
+0.0,0.5199999809265137,0.643460214138031,1,"To assemble lasagna, lay 1/6th of cheese sauce on bottom of lasagna pan. Add three noodles. Top with 1/4 of Brussels sprouts mixture, 1/4 of mushroom mixture, another 1/6th of cheese sauce, and a sprinkle of grated mozzarella.","To assemble lasagna, lay 1/6th of cheese sauce on bottom of lasagna pan."
+0.0,0.6666666865348816,0.6673515439033508,1,lasagna pan,pan
+0.0,0.0,0.4448545575141907,1,"Repeat noodle, sprouts, and mushroom layer three more times.",noodles
+1.0,1.0,0.9605914950370789,1,cheese,cheese
+0.0,0.0,0.22846296429634094,1,oven,large skillet
+1.0,1.0,0.9661010503768921,1,parsley,parsley
+0.0,0.8799999952316284,0.8073709011077881,1,"Sprinkle with Parmesan and parsley, let rest 10 minutes, and serve.","Remove from oven sprinkle with Parmesan and parsley, let rest 10 minutes, and serve."
+1.0,1.0,0.973778486251831,1,"Remove from oven sprinkle with Parmesan and parsley, let rest 10 minutes, and serve.","Remove from oven sprinkle with Parmesan and parsley, let rest 10 minutes, and serve."

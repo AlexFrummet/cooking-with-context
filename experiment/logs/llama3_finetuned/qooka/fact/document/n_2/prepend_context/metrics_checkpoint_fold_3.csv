@@ -1,0 +1,198 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+0.0,0.800000011920929,0.5225377678871155,3,Answer: thick cilantro,Answer: thick
+0.0,0.5,0.6590359807014465,3,Answer: bowl,Answer: bowl of a mortar and pestle
+1.0,1.0,0.9680395722389221,3,Answer: coconut milk,Answer: coconut milk
+1.0,1.0,0.9691389799118042,3,Answer: about 4 minutes,Answer: about 4 minutes
+1.0,1.0,0.962594211101532,3,Answer: ginger,Answer: ginger
+0.0,0.800000011920929,0.739970862865448,3,Answer: 1 quart,Answer: quart
+1.0,1.0,0.9657847285270691,3,Answer: stock,Answer: stock
+0.0,0.4000000059604645,0.18302494287490845,3,Answer: medium skillet,Answer: bowl
+1.0,1.0,0.9690133333206177,3,Answer: about 8 minutes,Answer: about 8 minutes
+1.0,1.0,0.9621492624282837,3,Answer: bowl,Answer: bowl
+0.0,0.5,0.07369579374790192,3,Answer: cup,Answer: peanuts
+0.0,0.5,0.2036667913198471,3,Answer: peanuts,Answer: sugar
+0.0,0.800000011920929,0.8768249750137329,3,Answer: lime,Answer: lime juice
+1.0,1.0,0.963070273399353,3,Answer: pepper,Answer: pepper
+1.0,1.0,0.9671664834022522,3,Answer: cilantro,Answer: cilantro
+1.0,1.0,0.9655696153640747,3,Answer: tomatoes,Answer: tomatoes
+1.0,1.0,0.9659352898597717,3,Answer: 8g,Answer: 8g
+1.0,1.0,0.9665338397026062,3,Answer: 15 minutes,Answer: 15 minutes
+1.0,1.0,0.9641192555427551,3,Answer: oven,Answer: oven
+0.0,0.2857142984867096,0.7788613438606262,3,Answer:  350°f (180°c) ,Answer: 350 degrees fahrenheit
+0.0,0.5,0.20752650499343872,3,Answer: mustard,Answer: vinegar
+1.0,1.0,0.9649613499641418,3,Answer: tomato,Answer: tomato
+0.0,0.8571428656578064,0.7485160231590271,3,Answer: 1/2 cup (120ml),Answer: 1/2 cup
+1.0,1.0,0.9657956957817078,3,Answer: basil,Answer: basil
+1.0,1.0,0.963070273399353,3,Answer: pepper,Answer: pepper
+1.0,1.0,0.966532826423645,3,Answer: 30 minutes,Answer: 30 minutes
+1.0,1.0,0.9701089859008789,3,Answer: boneless skinless chicken thighs,Answer: boneless skinless chicken thighs
+1.0,1.0,0.9672412872314453,3,Answer: sharp knife,Answer: sharp knife
+0.0,0.800000011920929,0.7555407881736755,3,Answer: chicken thighs,Answer: chicken
+1.0,1.0,0.966581404209137,3,Answer: coarse,Answer: coarse
+1.0,1.0,0.9709962010383606,3,Answer: apple cider vinegar,Answer: apple cider vinegar
+1.0,1.0,0.9683087468147278,3,Answer: 1 teaspoon,Answer: 1 teaspoon
+1.0,1.0,0.9629536271095276,3,Answer: yes,Answer: yes
+0.0,0.4000000059604645,0.01859615184366703,3,Answer: 350°f (175°c),Answer: 4
+0.0,0.3333333432674408,0.1788657158613205,3,Answer: about 30 minutes,Answer: yes
+1.0,1.0,0.9686227440834045,3,Answer: 180°c,Answer: 180°C
+1.0,1.0,0.9672412872314453,3,Answer: sharp knife,Answer: sharp knife
+1.0,1.0,0.9644709825515747,3,Answer: fork,Answer: fork
+1.0,1.0,0.9644491672515869,3,Answer: water,Answer: water
+1.0,1.0,0.9662789702415466,3,Answer: stand mixer,Answer: stand mixer
+1.0,1.0,0.9624305367469788,3,Answer: mustard,Answer: mustard
+0.0,0.5,0.9629809856414795,3,Answer: egg,Answer: eggs
+1.0,1.0,0.9624305367469788,3,Answer: mustard,Answer: mustard
+1.0,1.0,0.9638422131538391,3,Answer: eggs,Answer: eggs
+1.0,1.0,0.9639227390289307,3,Answer: mixture,Answer: mixture
+0.0,0.800000011920929,0.5659077763557434,3,Answer: 25 minutes,Answer: minutes
+0.0,0.800000011920929,0.8228018283843994,3,Answer: large pot,Answer: pot
+1.0,1.0,0.9666697978973389,3,Answer: paring knife,Answer: paring knife
+1.0,1.0,0.9704068303108215,3,Answer: fine mesh strainer,Answer: fine mesh strainer
+0.0,0.20000000298023224,0.06948883086442947,3,"Answer: roasted cherry tomatoes, corn, and zucchini,",Answer: olive oil
+0.0,0.3333333432674408,0.04023332893848419,3,Answer: until al dente,Answer: quickly
+0.0,0.800000011920929,0.5410823822021484,3,Answer: large skillet,Answer: large
+0.0,0.5,0.5353841781616211,3,"Answer: until fat has rendered and guanciale is crisp, about 7 minutes",Answer: about 7 minutes
+0.0,0.8571428656578064,0.7614094018936157,3,Answer: 1 tablespoon (15ml),Answer: 1 tablespoon
+0.0,0.2857142984867096,0.1559925228357315,3,Answer: <no answer>,Answer: about 7 minutes
+1.0,1.0,0.967102587223053,3,Answer: large,Answer: large
+0.0,0.125,0.06546833366155624,3,"Answer: until sauce thickens to a creamy, silky consistency and leaves trails as you stir",Answer: quickly
+1.0,1.0,0.9672412872314453,3,Answer: sharp knife,Answer: sharp knife
+1.0,1.0,0.9644709825515747,3,Answer: fork,Answer: fork
+1.0,1.0,0.9633761048316956,3,Answer: salt,Answer: salt
+1.0,1.0,0.9654918909072876,3,Answer: thyme,Answer: thyme
+0.0,0.800000011920929,0.9595236778259277,3,Answer: to 350°f,Answer: 350°f
+1.0,1.0,0.9679669737815857,3,Answer: about 12 minutes,Answer: about 12 minutes
+0.0,0.5,0.4611603915691376,3,Answer: about 1 minute,Answer: about 30 seconds
+0.0,0.5,0.37280818819999695,3,"Answer: half of parsley, and chervil",Answer: parsley
+0.0,0.5,0.1399185210466385,3,Answer: chervil,Answer: chives
+0.0,0.6666666865348816,0.69814532995224,3,Answer: salt,Answer: salt and pepper
+1.0,1.0,0.963070273399353,3,Answer: pepper,Answer: pepper
+0.0,0.75,0.4499781131744385,3,Answer: about 35 minutes,Answer: about 40 minutes
+0.0,0.800000011920929,0.6817910075187683,3,Answer: work bowl,Answer: bowl
+1.0,1.0,0.9641192555427551,3,Answer: oven,Answer: oven
+0.0,0.75,0.40547001361846924,3,Answer: about 12 minutes,Answer: about 30 minutes
+0.0,0.5,0.1630982905626297,3,Answer: salt,Answer: garlic
+0.0,0.5714285969734192,0.6282922029495239,3,Answer: food processor work bowl,Answer: bowl
+1.0,1.0,0.9621492624282837,3,Answer: bowl,Answer: bowl
+1.0,1.0,0.9698802828788757,3,Answer: rubber spatula,Answer: rubber spatula
+1.0,1.0,0.9659596681594849,3,Answer: chervil,Answer: chervil
+1.0,1.0,0.9633761048316956,3,Answer: salt,Answer: salt
+0.0,0.5,0.059840213507413864,3,Answer: cup,Answer: parsley
+0.0,0.800000011920929,0.735289990901947,3,Answer: mushroom,Answer: mushroom duxelles
+0.0,0.4000000059604645,0.12063676863908768,3,Answer: roasted carrots,Answer: mushroom
+0.0,0.4000000059604645,0.1465349942445755,3,Answer: mixture,Answer: phyllo dough
+0.0,0.800000011920929,0.6884002685546875,3,Answer: dough,Answer: phyllo dough
+1.0,1.0,0.9653774499893188,3,Answer: mushroom,Answer: mushroom
+1.0,1.0,0.967002809047699,3,Answer: olive,Answer: olive
+1.0,1.0,0.9698101878166199,3,Answer: sharp paring knife,Answer: sharp paring knife
+1.0,1.0,0.9681981205940247,3,Answer: about 40 minutes,Answer: about 40 minutes
+0.0,0.8571428656578064,0.9556493759155273,3,Answer: for 10 minutes,Answer: 10 minutes
+1.0,1.0,0.965919017791748,3,Answer: whisk,Answer: whisk
+1.0,1.0,0.9657847285270691,3,Answer: stock,Answer: stock
+0.0,0.800000011920929,0.7294014096260071,3,Answer: thyme,Answer: thyme sprigs
+0.0,0.5,0.08494396507740021,3,Answer: teaspoons,Answer: mortar
+0.0,0.800000011920929,0.6114121079444885,3,Answer: fish,Answer: fish sauce
+0.0,0.75,0.9096593260765076,3,Answer: 15 minutes,Answer: at least 15 minutes
+0.0,0.800000011920929,0.8038605451583862,3,Answer: soy,Answer: soy sauce
+0.0,0.6666666865348816,0.6668371558189392,3,Answer: garlic,Answer: garlic and chilies
+1.0,1.0,0.9657579064369202,3,Answer: shallot,Answer: shallot
+0.0,0.3333333432674408,0.06298089772462845,3,Answer: half of beef,Answer: garlic
+1.0,1.0,0.9682098627090454,3,Answer: high heat,Answer: high heat
+1.0,1.0,0.9698665142059326,3,Answer: about 1 minute,Answer: about 1 minute
+1.0,1.0,0.9643355011940002,3,Answer: beef,Answer: beef
+0.0,0.4000000059604645,0.11422142386436462,3,Answer: basil,Answer: sauce mixture
+0.0,0.6666666865348816,0.7388733625411987,3,Answer: red pepper,Answer: pepper flakes
+0.0,0.4000000059604645,0.2617790997028351,3,Answer: oven,Answer: food processor
+1.0,1.0,0.9690245389938354,3,Answer: about 5 minutes,Answer: about 5 minutes
+1.0,1.0,0.9685256481170654,3,Answer: food processor bowl,Answer: food processor bowl
+1.0,1.0,0.9689826965332031,3,Answer: large skillet,Answer: large skillet
+0.0,0.5,0.12351471930742264,3,Answer: breadcrumbs,Answer: bowl
+1.0,1.0,0.9644491672515869,3,Answer: water,Answer: water
+1.0,1.0,0.9653378129005432,3,Answer: cauliflower,Answer: cauliflower
+1.0,1.0,0.9692129492759705,3,Answer: about 10 minutes,Answer: about 10 minutes
+1.0,1.0,0.968802809715271,3,Answer: medium heat,Answer: medium heat
+1.0,1.0,0.9633761048316956,3,Answer: salt,Answer: salt
+1.0,1.0,0.9692270755767822,3,Answer: wooden spoon,Answer: wooden spoon
+0.0,0.800000011920929,0.8028242588043213,3,Answer: fennel,Answer: fennel pollen
+0.0,0.5,0.10336322337388992,3,Answer: cauliflower,Answer: anchovies
+1.0,1.0,0.9676804542541504,3,Answer: saffron,Answer: saffron
+0.0,0.3333333432674408,0.42134588956832886,3,Answer: reserved pot,Answer: boiling water
+1.0,1.0,0.9653378129005432,3,Answer: cauliflower,Answer: cauliflower
+1.0,1.0,0.8944994807243347,3,Answer: -cup,Answer: cup
+0.0,0.5,0.1937004178762436,3,Answer: 30g,Answer: half
+1.0,1.0,0.9647281169891357,3,Answer: pasta,Answer: pasta
+1.0,1.0,0.9669626355171204,3,Answer: breadcrumbs,Answer: breadcrumbs
+0.0,0.800000011920929,0.6127602458000183,3,Answer: 12-inch skillet,Answer: 12-inch
+1.0,1.0,0.9694161415100098,3,Answer: 1/2 teaspoon,Answer: 1/2 teaspoon
+0.0,0.8571428656578064,0.9568590521812439,3,Answer: for 20 minutes,Answer: 20 minutes
+1.0,1.0,0.9675754308700562,3,Answer: small bowl,Answer: small bowl
+1.0,1.0,0.9700136184692383,3,Answer: 6 medium cloves,Answer: 6 medium cloves
+1.0,1.0,0.9693453311920166,3,Answer: 1 small shallot,Answer: 1 small shallot
+1.0,1.0,0.9682098627090454,3,Answer: high heat,Answer: high heat
+1.0,1.0,0.9698665142059326,3,Answer: about 1 minute,Answer: about 1 minute
+1.0,1.0,0.9657956957817078,3,Answer: basil,Answer: basil
+0.0,0.3076923191547394,0.5935219526290894,3,Answer: salt and and optional thai chili or red pepper flakes,Answer: salt
+0.0,0.800000011920929,0.8442842960357666,3,Answer: large bowl,Answer: bowl
+0.0,0.800000011920929,0.8149978518486023,3,Answer: 12-inch skillet,Answer: skillet
+1.0,1.0,0.9379927515983582,3,Answer:  medium-high heat,Answer: medium-high heat
+1.0,1.0,0.9745039343833923,3,"Answer: onions, 2 teaspoons aleppo pepper, cumin, and 1/2 teaspoon salt","Answer: onions, 2 teaspoons aleppo pepper, cumin, and 1/2 teaspoon salt"
+0.0,0.5,0.1661856472492218,3,Answer: colander,Answer: drain
+0.0,0.5714285969734192,0.3979097604751587,3,Answer: for 20 minutes,Answer: 30 minutes
+0.0,0.2857142984867096,0.33124667406082153,3,Answer: 1/4 cup,Answer: 1 tablespoon (15ml)
+0.0,0.6666666865348816,0.853812575340271,3,"Answer: as needed, 1 tablespoon (15ml) at a time",Answer: 1 tablespoon (15ml)
+1.0,1.0,0.9683087468147278,3,Answer: 1 teaspoon,Answer: 1 teaspoon
+0.0,0.800000011920929,0.6742459535598755,3,Answer: teaspoons,Answer: 5 teaspoons
+0.0,0.800000011920929,0.6114121079444885,3,Answer: fish,Answer: fish sauce
+0.0,0.75,0.9096593260765076,3,Answer: 15 minutes,Answer: at least 15 minutes
+1.0,1.0,0.9633632898330688,3,Answer: garlic,Answer: garlic
+1.0,1.0,0.9657579064369202,3,Answer: shallot,Answer: shallot
+1.0,1.0,0.9643355011940002,3,Answer: beef,Answer: beef
+1.0,1.0,0.9653434753417969,3,Answer: wok,Answer: wok
+1.0,1.0,0.9682098627090454,3,Answer: high heat,Answer: high heat
+1.0,1.0,0.9698665142059326,3,Answer: about 1 minute,Answer: about 1 minute
+1.0,1.0,0.9657956957817078,3,Answer: basil,Answer: basil
+0.0,0.8571428656578064,0.8746300339698792,3,Answer: red pepper,Answer: red pepper flakes
+0.0,0.6666666865348816,0.7717752456665039,3,Answer: to 350°f,Answer: 350°F (180°C)
+1.0,1.0,0.9698101878166199,3,Answer: sharp paring knife,Answer: sharp paring knife
+0.0,0.8571428656578064,0.854280412197113,3,Answer: paring knife,Answer: sharp paring knife
+0.0,0.8571428656578064,0.854280412197113,3,Answer: paring knife,Answer: sharp paring knife
+1.0,1.0,0.966222882270813,3,Answer: 45 minutes,Answer: 45 minutes
+0.0,0.3333333432674408,0.42590129375457764,3,Answer: 1 hour,Answer: 45 minutes
+1.0,1.0,0.9686884880065918,3,Answer: large spoon,Answer: large spoon
+0.0,0.800000011920929,0.8092724084854126,3,Answer: medium bowl,Answer: bowl
+1.0,1.0,0.9641718864440918,3,Answer: spoon,Answer: spoon
+0.0,0.4000000059604645,0.4219014644622803,3,Answer: medium-high heat,Answer: 350°f
+1.0,1.0,0.9692129492759705,3,Answer: about 10 minutes,Answer: about 10 minutes
+1.0,1.0,0.9695862531661987,3,Answer: about 3 minutes,Answer: about 3 minutes
+1.0,1.0,0.9660503268241882,3,Answer: skillet,Answer: skillet
+1.0,1.0,0.9660503268241882,3,Answer: skillet,Answer: skillet
+0.0,0.5,0.16181452572345734,3,"Answer: , whisk",Answer: bowl
+0.0,0.8888888955116272,0.8783632516860962,3,Answer: large liquid measuring cup,Answer: liquid measuring cup
+0.0,0.4000000059604645,0.16833078861236572,3,Answer: small bowl,Answer: whisk
+1.0,1.0,0.9675754308700562,3,Answer: small bowl,Answer: small bowl
+0.0,0.8571428656578064,0.854280412197113,3,Answer: paring knife,Answer: sharp paring knife
+0.0,0.5714285969734192,0.3985511064529419,3,Answer: 45 minutes,Answer: about 10 minutes
+0.0,0.4000000059604645,0.4483175575733185,3,Answer: oven,Answer: baking sheet
+1.0,1.0,0.9672412872314453,3,Answer: sharp knife,Answer: sharp knife
+1.0,1.0,0.9644709825515747,3,Answer: fork,Answer: fork
+0.0,0.800000011920929,0.8392059803009033,3,Answer: yogurt,Answer: yogurt mixture
+1.0,1.0,0.9681482911109924,3,Answer: nectarines,Answer: nectarines
+0.0,0.6666666865348816,0.838434636592865,3,Answer: small dry skillet,Answer: skillet
+1.0,1.0,0.9661277532577515,3,Answer: coriander,Answer: coriander
+1.0,1.0,0.9660342931747437,3,Answer: vinegar,Answer: vinegar
+0.0,0.5,0.09114620834589005,3,Answer: salt,Answer: thyme
+0.0,0.800000011920929,0.8517360687255859,3,Answer: vinegar,Answer: vinegar mixture
+1.0,1.0,0.9654918909072876,3,Answer: thyme,Answer: thyme
+1.0,1.0,0.966532826423645,3,Answer: 30 minutes,Answer: 30 minutes
+1.0,1.0,0.9641192555427551,3,Answer: oven,Answer: oven
+1.0,1.0,0.9685977697372437,3,Answer: about 30 minutes,Answer: about 30 minutes
+1.0,1.0,0.9682098627090454,3,Answer: high heat,Answer: high heat
+1.0,1.0,0.9635211825370789,3,Answer: pot,Answer: pot
+0.0,0.1538461595773697,0.29081931710243225,3,Answer: 8 boneless skinless chicken thighs (1 3/4 pounds; 800g),Answer: 4 pieces
+0.0,0.5,0.2820765972137451,3,Answer: yes,Answer: no
+1.0,1.0,0.9698333144187927,3,Answer: 1 1/2 teaspoons,Answer: 1 1/2 teaspoons
+0.0,0.8571428656578064,0.7378044128417969,3,Answer: plain unsweetened yogurt,Answer: plain unsweetened
+0.0,0.3333333432674408,0.14944899082183838,3,Answer: 2 teaspoons,Answer: 20 g
+1.0,1.0,0.9709962010383606,3,Answer: apple cider vinegar,Answer: apple cider vinegar
+0.0,0.8571428656578064,0.7616350650787354,3,Answer: 2 tablespoons (30ml),Answer: 2 tablespoons
+1.0,1.0,0.9683087468147278,3,Answer: 1 teaspoon,Answer: 1 teaspoon

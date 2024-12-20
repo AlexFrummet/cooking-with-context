@@ -1,0 +1,463 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+1.0,1.0,0.9714755415916443,4,old-fashioned flaky pie dough,Old-Fashioned Flaky Pie Dough
+0.0,0.4000000059604645,0.6204454302787781,4,2 hours,at least 2 hours or up to 24
+1.0,1.0,0.9737933874130249,4,"Transfer to a parchment-lined aluminum rimmed baking sheet, cover with plastic, and refrigerate to relax and chill dough, at least 2 hours or up to 24.","Transfer to a parchment-lined aluminum rimmed baking sheet, cover with plastic, and refrigerate to relax and chill dough, at least 2 hours or up to 24."
+1.0,1.0,0.96662837266922,4,At least 2 hours or up to 24.,at least 2 hours or up to 24
+0.0,0.1538461595773697,0.5478305220603943,4,ripe peaches,Wash peaches (no need to peel) and cut into 1/2-inch slices.
+0.0,0.6666666865348816,0.8043639659881592,4,Measure out 18 ounces (3 cups; 510g) in a medium bowl.,18 ounces (3 cups; 510g)
+0.0,0.6666666865348816,0.5482677817344666,4,medium bowl,medium
+1.0,1.0,0.9725069999694824,4,Enjoy any extras as a snack; do not use more or you will overcrowd the pie.,Enjoy any extras as a snack; do not use more or you will overcrowd the pie.
+1.0,1.0,0.972350537776947,4,"Arrange peaches in a ring in the center of chilled dough, tiling slices like dominoes and leaving about a 2-inch border of dough all around.","Arrange peaches in a ring in the center of chilled dough, tiling slices like dominoes and leaving about a 2-inch border of dough all around."
+1.0,1.0,0.9648323059082031,4,peaches,peaches
+1.0,1.0,0.9649337530136108,4,sharp knife,sharp knife
+0.0,0.5555555820465088,0.567284345626831,4,"Refrigerate pie while you prepare egg wash, but no longer than 15 minutes.",no longer than 15 minutes
+0.0,0.0,0.28881749510765076,4,1 large egg|1 large egg yolk,2
+1.0,1.0,0.9701887369155884,4,"egg, egg yolk, cream, and salt","egg, egg yolk, cream, and salt"
+1.0,1.0,0.9704491496086121,4,"Whisk egg, egg yolk, cream, and salt in a small bowl.","Whisk egg, egg yolk, cream, and salt in a small bowl."
+0.0,0.0,0.09231463819742203,4,"This will give the crust a glossy, golden sheen and help bind the pieces together.","Brush over chilled dough in a thin, even layer (including under each flap)."
+0.0,0.6666666865348816,0.32324346899986267,4,silver rum,silver
+0.0,0.5,0.5410552620887756,4,"Bake until pie is quite juicy, about 20 minutes",about 20 minutes
+0.0,0.6000000238418579,0.6090458035469055,4,3 1/2 ounces sugar (1/2 cup; 100g),3 1/2 ounces
+0.0,0.9090909361839294,0.9642254114151001,4,just brush it over the sugar anyway,brush it over the sugar anyway.
+1.0,1.0,0.9731016159057617,4,"slice into wedges and serve warm, with a side of whipped cream if desired.","Slice into wedges and serve warm, with a side of whipped cream if desired."
+0.0,0.6666666865348816,0.7359216809272766,4,preheat oven,Preheat oven to 375°F.
+0.0,0.1355932205915451,0.3263299763202667,4,"Place potatoes in a large saucepan and cover with 2 quarts cold water. Add vinegar and 2 tablespoons kosher salt. Bring to a boil over high heat. Reduce to a simmer and cook until barely tender, about 5 minutes after coming to a boil. Drain potatoes in a colander and let drain for 2 minutes.",Transfer potatoes to bowl with chorizo and set aside.
+0.0,0.7878788113594055,0.8949393033981323,4,"Bring to a boil over high heat. Reduce to a simmer and cook until barely tender, about 5 minutes","No, reduce to a simmer and cook until barely tender, about 5 minutes after coming to a boil."
+1.0,1.0,0.9639473557472229,4,colander,colander
+1.0,1.0,0.9659022688865662,4,potatoes,potatoes
+0.0,0.21052631735801697,0.3634318709373474,4,Drain potatoes in a colander and let drain for 2 minutes.,Transfer potatoes to bowl with chorizo and set aside.
+0.0,0.5333333611488342,0.7083665132522583,4,"Cook, stirring, until chorizo is crisp on all sides and fat has rendered out, about 10 minutes total. Remove chorizo with a slotted spoon to a large bowl, leaving fat in skillet. Set chorizo aside.","Remove chorizo with a slotted spoon to a large bowl, leaving fat in skillet."
+0.0,0.75,0.6321414709091187,4,chorizo is crisp on all sides and fat has rendered out,"crisp on all sides and fat has rendered out, about 10 minutes total."
+1.0,1.0,0.9666937589645386,4,large bowl,large bowl
+1.0,1.0,0.9681119918823242,4,chorizo,chorizo
+0.0,0.0,0.009172608144581318,4,chorizo,skillet
+1.0,1.0,0.9712018966674805,4,"Add 3 tablespoons oil to skillet and heat over medium-high heat until shimmering. Add drained potatoes and cook, stirring and tossing occasionally, until potatoes are deep brown and crisp on all sides, about 20 minutes total.","Add 3 tablespoons oil to skillet and heat over medium-high heat until shimmering. Add drained potatoes and cook, stirring and tossing occasionally, until potatoes are deep brown and crisp on all sides, about 20 minutes total."
+1.0,1.0,0.9659022688865662,4,potatoes,potatoes
+0.0,0.6909090876579285,0.7160546779632568,4,"Cook, stirring and tossing occasionally, until potatoes are deep brown and crisp on all sides, about 20 minutes total.","Add 3 tablespoons oil to skillet and heat over medium-high heat until shimmering. Add drained potatoes and cook, stirring and tossing occasionally, until potatoes are deep brown and crisp on all sides, about 20 minutes total."
+0.0,0.0,0.009904355742037296,4,potatoes,scallion whites and light greens and poblano
+0.0,0.2142857164144516,0.05751926824450493,4,"Add cumin and paprika and cook, stirring, until fragrant, about 30 seconds. Season to taste with salt and pepper.",Transfer potatoes to bowl with chorizo and set aside.
+0.0,0.0,0.009363078512251377,4,potatoes,salsa verde
+0.0,0.75,0.554210364818573,4,"until charred, about 2 minutes.",about 2 minutes
+0.0,0.46666666865348816,0.6520234942436218,4,transfer to bowl with potatoes and chorizo. Toss contents of bowl and return to skillet. Make 4 wells in potato mixture.,Transfer potatoes to bowl with chorizo and set aside.
+0.0,0.6666666865348816,0.7683398127555847,4,bowl,large bowl
+0.0,0.0,0.057840604335069656,4,Slide into a fine mesh strainer over the sink.,Carefully add to one of the cavities in the skillet.
+1.0,1.0,0.9614646434783936,4,Carefully break 1 egg into a small bowl and slide into a fine mesh strainer over the sink. Swirl egg very gently until excess loose white drains away. Carefully add to one of the cavities in the skillet. Repeat with remaining three eggs.,Carefully break 1 egg into a small bowl and slide into a fine mesh strainer over the sink. Swirl egg very gently until excess loose white drains away. Carefully add to one of the cavities in the skillet. Repeat with remaining three eggs.
+0.0,0.0,0.04649882763624191,4,small bowl,fine mesh strainer
+1.0,1.0,0.9577359557151794,4,egg,egg
+1.0,1.0,0.9577359557151794,4,egg,egg
+0.0,0.11764705926179886,0.05927121266722679,4,Carefully add to one of the cavities in the skillet.,Transfer potatoes to bowl with chorizo and set aside.
+1.0,1.0,0.9630779027938843,4,Transfer to oven.,Transfer to oven.
+1.0,1.0,0.964808464050293,4,about 10 minutes,about 10 minutes
+0.0,0.375,0.4836537539958954,4,"until whites are barely set but yolks are still runny, about 10 minutes.",about 10 minutes
+0.0,0.0,0.011917149648070335,4,oven,skillet
+0.0,0.25806450843811035,0.03820419684052467,4,"Garnish with sliced scallion greens, chopped cilantro, and avocado. Serve immediately with salsa and tortillas.","Drizzly eggs with a few drops of oil, season with salt and pepper, and transfer to oven."
+1.0,1.0,0.9659346342086792,4,tortillas,tortillas
+0.0,0.0,0.05260002240538597,4,tomatoes,"shallot, garlic, mustard, and vinegar"
+0.0,0.9032257795333862,0.8256509900093079,4,"Place chopped tomatoes in a colander set over a bowl and season with 2 teaspoons (8g) kosher salt. Toss to coat. Set aside at room temperature to drain, tossing occasionally.","Place chopped tomatoes in a colander set over a bowl and season with 2 teaspoons (8g) kosher salt. Toss to coat. Set aside at room temperature to drain, tossing occasionally. Drain for a minimum of 15 minutes."
+0.0,0.9032257795333862,0.8256509900093079,4,"Place chopped tomatoes in a colander set over a bowl and season with 2 teaspoons (8g) kosher salt. Toss to coat. Set aside at room temperature to drain, tossing occasionally.","Place chopped tomatoes in a colander set over a bowl and season with 2 teaspoons (8g) kosher salt. Toss to coat. Set aside at room temperature to drain, tossing occasionally. Drain for a minimum of 15 minutes."
+1.0,1.0,0.9598634839057922,4,8g,8g
+0.0,0.5,0.5730127692222595,4,Drain for a minimum of 15 minutes.,15 minutes
+1.0,1.0,0.9592249989509583,4,15 minutes,15 minutes
+1.0,1.0,0.9626295566558838,4,350°f (180°c),350°F (180°C)
+1.0,1.0,0.9582111835479736,4,oven,oven
+0.0,0.8571428656578064,0.8212509751319885,4,"In a large bowl, toss bread cubes with 2 tablespoons (30ml) olive oil.",Toss bread cubes with 2 tablespoons (30ml) olive oil.
+0.0,0.4285714328289032,0.6107245683670044,4,"Bake about 15 minutes, until crisp and firm but not browned.",about 15 minutes
+0.0,0.6666666865348816,0.7967497110366821,4,tomato,tomato juice
+0.0,0.0,0.0819995105266571,4,mustard,vinegar
+1.0,1.0,0.9727951288223267,4,"Whisking constantly, drizzle in remaining 1/2 cup (120ml) olive oil.","Whisking constantly, drizzle in remaining 1/2 cup (120ml) olive oil."
+1.0,1.0,0.9686866998672485,4,1/2 cup (120ml),1/2 cup (120ml)
+1.0,1.0,0.9704157710075378,4,Season dressing to taste with salt and pepper.,Season dressing to taste with salt and pepper.
+0.0,0.6153846383094788,0.7428600788116455,4,"Combine toasted bread, tomatoes, and dressing in a large bowl.","bread, tomatoes, and dressing"
+1.0,1.0,0.9657058715820312,4,basil,basil
+0.0,0.0,0.009222719818353653,4,pepper,shallot
+1.0,1.0,0.9714367389678955,4,Toss everything to coat and season with salt and pepper.,Toss everything to coat and season with salt and pepper.
+0.0,0.7272727489471436,0.6934812068939209,4,"Let rest 30 minutes before serving, tossing occasionally until the dressing is absorbed by the bread.",tossing occasionally until the dressing is absorbed by the bread.
+1.0,1.0,0.9572361707687378,4,30 minutes,30 minutes
+1.0,1.0,0.9621517062187195,4,flour,flour
+0.0,0.5,0.7406910061836243,4,stiff rubber spatula,spatula
+1.0,1.0,0.959672749042511,4,bowl,bowl
+0.0,0.5833333134651184,0.6826822757720947,4,"wipe out bowl that had flour mixture, lightly grease with cooking spray or butter, and set aside.",wipe out bowl that had flour mixture
+0.0,0.3333333432674408,0.6596894860267639,4,"until even, cornmeal-like mixture forms",cornmeal-like
+1.0,1.0,0.962563693523407,4,spatula,spatula
+1.0,1.0,0.9577359557151794,4,egg,egg
+0.0,0.6666666865348816,0.5482677817344666,4,medium bowl,medium
+1.0,1.0,0.972404956817627,4,Transfer dough to the prepared lightly greased medium bowl and cover tightly.,Transfer dough to the prepared lightly greased medium bowl and cover tightly.
+0.0,0.800000011920929,0.9443832635879517,4,for 30 minutes,30 minutes
+1.0,1.0,0.9720959663391113,4,"Transfer to refrigerator and chill for at least 4 hours, and up to 16 hours.","Transfer to refrigerator and chill for at least 4 hours, and up to 16 hours."
+0.0,0.5555555820465088,0.6439963579177856,4,"You need walnuts, flour, sugar, salt, butter and vanilla extract to prepare the filling.","walnuts, flour, sugar, and salt"
+1.0,1.0,0.9676108956336975,4,medium bowl,medium bowl
+0.0,0.0,0.0730363056063652,4,flour,butter
+1.0,1.0,0.9618204236030579,4,butter,butter
+1.0,1.0,0.9747371077537537,4,"Add butter and vanilla extract and, using a rubber spatula, stir until clumpy paste forms and no dry flour remains, about 30 seconds.","Add butter and vanilla extract and, using a rubber spatula, stir until clumpy paste forms and no dry flour remains, about 30 seconds."
+1.0,1.0,0.9719015955924988,4,Adjust oven rack to middle position and preheat oven to 375°F (190°C).,Adjust oven rack to middle position and preheat oven to 375°F (190°C).
+0.0,0.5,0.7069360613822937,4,to 375°f,375°F (190°C)
+0.0,0.0,0.2051137387752533,4,flour,Transfer dough to the prepared lightly greased medium bowl and cover tightly.
+0.0,0.0,0.009315846487879753,4,dough,pinch
+0.0,0.8493150472640991,0.7398571372032166,4,"Using hands, gently press dough into even 6-inch circle, adding flour to both sides of dough as needed to prevent sticking, while pinching closed any major cracks in dough that form. Using a rolling pin, roll dough into a 12-inch circle, about 1/4-inch thick.","Using hands, gently press dough into even 6-inch circle, adding flour to both sides of dough as needed to prevent sticking, while pinching closed any major cracks in dough that form."
+1.0,1.0,0.9618083834648132,4,dough,dough
+1.0,1.0,0.9738204479217529,4,"Place filling in center of dough and, using clean hands and rubber spatula, spread into an even 5-inch round disc, leaving a 3 1/2-inch border of dough on all sides.","Place filling in center of dough and, using clean hands and rubber spatula, spread into an even 5-inch round disc, leaving a 3 1/2-inch border of dough on all sides."
+0.0,0.2666666805744171,0.6893746256828308,4,pleat dough,"fold and pleat dough over filling toward center, working your way around disc."
+1.0,1.0,0.9618083834648132,4,dough,dough
+0.0,0.4000000059604645,0.6634474992752075,4,"Press top of dough gently to form an even 6-inch round. Invert so seam side is facing down and, using a rolling pin, gently roll into an even 9-inch round. Carefully transfer to a rimmed baking sheet lined with parchment or a silicone baking mat.",Press top of dough gently to form an even 6-inch round.
+1.0,1.0,0.9618083834648132,4,dough,dough
+0.0,0.6666666865348816,0.8885923027992249,4,1 inch,about 1 inch apart
+0.0,0.6666666865348816,0.4569096565246582,4,egg,egg wash
+0.0,0.20000000298023224,0.14380678534507751,4,Brush top and sides of gata evenly with egg wash.,Press top of dough gently to form an even 6-inch round.
+1.0,1.0,0.974607527256012,4,"Using a fork, drag flat underside of fork across top of gata to form grooved lines in a crisscross pattern, spaced about 1 inch apart.","Using a fork, drag flat underside of fork across top of gata to form grooved lines in a crisscross pattern, spaced about 1 inch apart."
+1.0,1.0,0.9713411331176758,4,"Bake until evenly golden brown, 28 to 35 minutes, rotating baking sheet after 20 minutes.","Bake until evenly golden brown, 28 to 35 minutes, rotating baking sheet after 20 minutes."
+1.0,1.0,0.9736696481704712,4,Transfer baking sheet to wire rack and let gata cool for at least 20 minutes.,Transfer baking sheet to wire rack and let gata cool for at least 20 minutes.
+0.0,0.6666666865348816,0.92009437084198,4,20 minutes,at least 20 minutes
+1.0,1.0,0.966578483581543,4,"Slice into wedges, and serve.","Slice into wedges, and serve."
+0.0,0.27272728085517883,0.5873584151268005,4,"Pat the chicken dry with paper towels. Using a sharp knife, score the top side of the chicken thighs 2 or 3 times, then prick all over with a fork. Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.",Pat the chicken dry with paper towels.
+1.0,1.0,0.9697934985160828,4,boneless skinless chicken thighs,boneless skinless chicken thighs
+0.0,0.0,0.009298870339989662,4,chicken thighs,all over
+0.0,0.6666666865348816,0.6480798125267029,4,sharp knife,sharp
+1.0,1.0,0.9632516503334045,4,coarse,coarse
+0.0,0.0,0.5888781547546387,4,4 medium garlic cloves (1/2 ounce; 15g),15 g
+0.0,0.0,0.008648337796330452,4,Pulse until very smooth.,Cut the nectarines in half and remove and discard the stone.
+0.0,0.0,0.026740767061710358,4,"Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.",Pat the chicken dry with paper towels.
+1.0,1.0,0.9688491821289062,4,"Heat a small dry skillet over medium heat. Add the coriander seeds to the hot skillet and toast until the seeds become fragrant and start to darken slightly, about 1 minute. Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.","Heat a small dry skillet over medium heat. Add the coriander seeds to the hot skillet and toast until the seeds become fragrant and start to darken slightly, about 1 minute. Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder."
+0.0,0.375,0.49135851860046387,4,"Toast until the seeds become fragrant and start to darken slightly, about 1 minute.",about 1 minute
+1.0,1.0,0.9668243527412415,4,1 teaspoon,1 teaspoon
+1.0,1.0,0.971001923084259,4,apple cider vinegar,apple cider vinegar
+1.0,1.0,0.9386615753173828,4,"the vinegar, honey, and salt","vinegar, honey, and salt"
+1.0,1.0,0.9711441397666931,4,Stir in the chile flakes and coriander powder.,Stir in the chile flakes and coriander powder.
+0.0,0.9019607901573181,0.8158381581306458,4,Cut the nectarines in half and remove and discard the stone. Cut the nectarines into thin segments and add them to the vinegar mixture along with the thyme.,Cut the nectarines in half and remove and discard the stone. Cut the nectarines into thin segments and add them to the vinegar mixture along with the thyme. Stir to coat the fruit well.
+0.0,0.37037035822868347,0.6766214370727539,4,Stir to coat the fruit well. Cover with a lid and refrigerate for at least 30 minutes and up to 1 day before serving.,Stir to coat the fruit well.
+0.0,0.5333333611488342,0.5257461667060852,4,at least 30 minutes and up to 1 day before serving.,up to 1 day
+0.0,0.0,0.02605203352868557,4,yes,350°F (175°C)
+0.0,0.6666666865348816,0.6742227077484131,4,350°f (175°c),175°C
+1.0,1.0,0.9715970754623413,4,Position oven racks in both the bottom-middle and top-middle positions.,Position oven racks in both the bottom-middle and top-middle positions
+1.0,1.0,0.9720491170883179,4,Line two rimmed baking sheets with foil and spray the foil with a little oil.,Line two rimmed baking sheets with foil and spray the foil with a little oil.
+0.0,0.8405796885490417,0.765327513217926,4,"Spread the marinated thighs over the prepared baking sheets, 4 pieces per sheet. Bake the chicken, switching the positions of the two sheets halfway through cooking, until an instant-read thermometer registers 165°F (74°C) in the thickest part of the thighs and the edges are slightly browned, about 30 minutes.","bake the chicken, switching the positions of the two sheets halfway through cooking, until an instant-read thermometer registers 165°F (74°C) in the thickest part of the thighs and the edges are slightly browned, about 30 minutes."
+0.0,0.0,0.018126053735613823,4,about 30 minutes,no
+0.0,0.4285714328289032,0.6136603355407715,4,"Prepare Old-Fashioned Flaky Pie Dough according to the recipe. After rolling, folding, and dividing dough in half, roll one portion into a 14-inch round.",Roll one portion into a 14-inch round.
+0.0,0.8571428656578064,0.9135196805000305,4,2 hours or up to 24,at least 2 hours or up to 24
+1.0,1.0,0.9737933874130249,4,"Transfer to a parchment-lined aluminum rimmed baking sheet, cover with plastic, and refrigerate to relax and chill dough, at least 2 hours or up to 24.","Transfer to a parchment-lined aluminum rimmed baking sheet, cover with plastic, and refrigerate to relax and chill dough, at least 2 hours or up to 24."
+0.0,0.3636363744735718,0.5713843703269958,4,Wash peaches (no need to peel) and cut into 1/2-inch slices. Measure out 18 ounces (3 cups; 510g) in a medium bowl. Enjoy any extras as a snack; do not use more or you will overcrowd the pie. Sprinkle tapioca starch over peaches and toss until well combined.,Sprinkle tapioca starch over peaches and toss until well combined.
+1.0,1.0,0.9613110423088074,4,510g,510g
+0.0,0.0,0.13660188019275665,4,medium bowl,toss
+0.0,0.11764705926179886,0.25837066769599915,4,Enjoy any extras as a snack; do not use more or you will overcrowd the pie.,"Bake until pie is quite juicy, about 20 minutes, then pause to brush rum over any undissolved pockets of sugar."
+1.0,1.0,0.972350537776947,4,"Arrange peaches in a ring in the center of chilled dough, tiling slices like dominoes and leaving about a 2-inch border of dough all around.","Arrange peaches in a ring in the center of chilled dough, tiling slices like dominoes and leaving about a 2-inch border of dough all around."
+0.0,0.08695652335882187,0.39076846837997437,4,dominoes,"Arrange peaches in a ring in the center of chilled dough, tiling slices like dominoes and leaving about a 2-inch border of dough all around."
+1.0,1.0,0.9649698138237,4,sharp knife,a sharp knife
+1.0,1.0,0.9648323059082031,4,peaches,peaches
+0.0,0.6666666865348816,0.4569096565246582,4,egg,egg wash
+1.0,1.0,0.9577359557151794,4,egg,egg
+0.0,0.6666666865348816,0.6889655590057373,4,dough,chilled dough
+1.0,1.0,0.9724927544593811,4,"This will give the crust a glossy, golden sheen and help bind the pieces together.","This will give the crust a glossy, golden sheen and help bind the pieces together."
+1.0,1.0,0.9552308320999146,4,rum,rum
+1.0,1.0,0.9648419618606567,4,about 20 minutes,about 20 minutes
+0.0,0.3333333432674408,0.618945300579071,4,sugar,any undissolved pockets of sugar
+0.0,0.9090909361839294,0.9642254114151001,4,just brush it over the sugar anyway,brush it over the sugar anyway.
+1.0,1.0,0.9731016159057617,4,"slice into wedges and serve warm, with a side of whipped cream if desired.","Slice into wedges and serve warm, with a side of whipped cream if desired."
+1.0,1.0,0.9649337530136108,4,sharp knife,sharp knife
+1.0,1.0,0.9570215940475464,4,fork,fork
+0.0,0.6666666865348816,0.11524954438209534,4,fish,fish sauce
+0.0,0.6666666865348816,0.6510401964187622,4,sugar,palm sugar
+1.0,1.0,0.967517614364624,4,lime juice,lime juice
+1.0,1.0,0.9542423486709595,4,Set aside.,Set aside.
+1.0,1.0,0.9731119871139526,4,"Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes.","Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes."
+0.0,0.1818181872367859,0.6104602813720703,4,cashews,Place cashews in a small cast iron skillet over medium heat.
+0.0,0.47058823704719543,0.5601677894592285,4,"Transfer a medium bowl. Add onion, pineapple, and cilantro; toss to combine. Set aside.",Transfer to a medium bowl.
+0.0,0.0,0.01000893022865057,4,onion,duck
+1.0,1.0,0.9654948115348816,4,pineapple,pineapple
+0.0,0.04878048598766327,0.052555542439222336,4,"Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and arrange the coals on one side of the charcoal grate.","Whisk together lime juice, fish sauce, sesame oil, sugar, and chili in a small bowl."
+1.0,1.0,0.9714478850364685,4,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.
+0.0,0.0,0.009222946129739285,4,salt and pepper,dressing
+1.0,1.0,0.9662637114524841,4,duck,duck
+1.0,1.0,0.9614264369010925,4,130 degrees,130 degrees
+0.0,0.125,0.5413873791694641,4,"Thinly slice duck, halving any long strips into bite-size pieces.",Score duck skin diagonally every 1/2-inch.
+0.0,0.0,0.009567664936184883,4,duck,dressing
+1.0,1.0,0.9662637114524841,4,duck,duck
+0.0,0.0,0.009520183317363262,4,pineapple,dressing
+1.0,1.0,0.9704458713531494,4,Pour on dressing and toss to combine.,Pour on dressing and toss to combine.
+1.0,1.0,0.9657336473464966,4,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9657336473464966,4,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.972272515296936,4,"Combine cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom in a spice grinder and grind to a fine powder.","Combine cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom in a spice grinder and grind to a fine powder."
+0.0,0.38596490025520325,0.7287896871566772,4,"1 1/2 teaspoons whole cumin seeds, toasted 1 1/2 teaspoons coriander seeds, toasted 1 whole star anise, toasted 2 cloves 1/2 teaspoon black peppercorns, toasted 1/2 teaspoon ground cinnamon 1/4 teaspoon grated nutmeg 1 blade mace 1/2 teaspoon ground turmeric 1 black or green cardamom pod","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, cardamom"
+0.0,0.3222222328186035,0.6433233022689819,4,"for the spice mix (see note):  1 1/2 teaspoons whole cumin seeds, toasted 1 1/2 teaspoons coriander seeds, toasted 1 whole star anise, toasted 2 cloves 1/2 teaspoon black peppercorns, toasted 1/2 teaspoon ground cinnamon 1/4 teaspoon grated nutmeg 1 blade mace 1/2 teaspoon ground turmeric 1 black or green cardamom pod for the curry:  3 tablespoons vegetable oil, butter, or ghee 1 small onion, finely minced (about 1 cup) 4 cloves garlic, grated on the medium holes of a box grater 1 tablespoon fresh ginger, grated on the medium holes of a box grater 1 small red or green chili, finely chopped 1/4 teaspoon cayenne pepper 1/2 cup cashew nuts 1 (14-ounce) can coconut milk 2 (14-ounce) cans chickpeas, drained and rinsed 1 bunch (about 3 ounces) flat spinach leaves, trimmed, rinsed, and roughly chopped kosher salt 1/4 cup fresh juice from 3 to 4 limes 1/2 cup fresh cilantro leaves and tender stems, coarsely chopped","cumin seeds, coriander seeds, star anise, black peppercorns, cinnamon, nutmeg, mace, turmeric, green cardamom, ghee, onion, garlic, ginger, green chili, cayenne pepper, cashew nuts, coconut milk, chickpeas, flat spinach"
+0.0,0.8695651888847351,0.8949040770530701,4,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom","cumin, coriander, star anise, black peppercorns, cinnamon, nutmeg, mace, turmeric, cardamom"
+1.0,1.0,0.9542423486709595,4,Set aside.,Set aside.
+0.0,0.4000000059604645,0.5967386364936829,4,ghee,"oil, butter, or ghee"
+0.0,0.0,0.06456595659255981,4,"Add onion, garlic, ginger, and chili.","Heat oil, butter, or ghee in a large saucepan over medium-high heat until melted (or until oil is shimmering)."
+1.0,1.0,0.9602798223495483,4,cashews,cashews
+0.0,0.4000000059604645,0.42522671818733215,4,mixture,half of spice mixture
+0.0,0.5,0.6153871417045593,4,"Cook, stirring constantly until fragrant, about 30 seconds. Add coconut milk and remove from heat. Scrape up any browned bits from bottom of pan.","Cook, stirring constantly until fragrant, about 30 seconds."
+0.0,0.0,0.08657991886138916,4,blender,pot
+0.0,0.8333333134651184,0.6583395004272461,4,"Return mixture to pot. Add chickpeas, spinach, and remaining spice mix and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes. Add salt and lime juice to taste. Stir in half of cilantro.","Return mixture to pot. Add chickpeas, spinach, and remaining spice mix and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes."
+0.0,0.0,0.010653174482285976,4,cilantro,cayenne
+0.0,0.1818181872367859,0.4930478632450104,4,Rinse chickpeas and place in a large bowl.,"Cover with cold water, adding enough to allow the chickpeas to at least triple in volume."
+1.0,1.0,0.9687236547470093,4,cold water,cold water
+1.0,1.0,0.9741165041923523,4,"Cover with cold water, adding enough to allow the chickpeas to at least triple in volume.","Cover with cold water, adding enough to allow the chickpeas to at least triple in volume."
+0.0,0.6666666865348816,0.5103932619094849,4,in a salad spinner,carefully dry chickpeas in a salad spinner.
+0.0,0.8999999761581421,0.8112471699714661,4,"The next day, drain, rinse, and carefully dry chickpeas in a salad spinner.","drain, rinse, and carefully dry chickpeas in a salad spinner."
+0.0,0.0,0.13854137063026428,4,yes,"Combine chickpeas, herbs, scallions, garlic, cumin, coriander, and salt in the work bowl of a food processor."
+0.0,0.0,0.010945362038910389,4,yes,coriander
+0.0,0.8333333134651184,0.9726483821868896,4,until chickpeas are very finley minced,until chickpeas are very finely minced
+0.0,0.4444444477558136,0.5244635939598083,4,Pulse until chickpeas are very finely minced.,very finely
+1.0,1.0,0.9551274180412292,4,a bowl,bowl
+0.0,0.6451612710952759,0.6397584676742554,4,to allow time for more starch to seep out of chickpeas. This will help the balls retain their shape better once formed.,Allow time for more starch to seep out of chickpeas.
+0.0,0.0,0.35689935088157654,4,yes,"Using a tablespoon measure, scoop out heaping spoonfuls of the mixture into your hand."
+0.0,0.2857142984867096,0.6472392678260803,4,"Using a tablespoon measure, scoop out heaping spoonfuls of the mixture into your hand. Gently shape each into a ball.",Gently shape each into a ball (you will not be able to roll the mixture like cookie dough; this is okay) and place them on a clean plate.
+0.0,0.9655172228813171,0.9687014818191528,4,you will not be able to roll the mixture like cookie dough; this is okay.,"No, you will not be able to roll the mixture like cookie dough; this is okay."
+1.0,1.0,0.9636133909225464,4,375°f,375°F
+0.0,0.1818181872367859,0.4591752290725708,4,"Carefully lower chickpea balls into oil one at a time, allowing a little space between each ball and cooking in batches if necessary.",Transfer cooked chickpea balls to a paper towel–lined plate and season with salt.
+0.0,0.5,0.5392759442329407,4,about 4 minutes,4
+0.0,0.0,0.009314420633018017,4,a paper towel–lined plate,skillet
+0.0,0.0,0.20211191475391388,4,yes,No
+1.0,1.0,0.9424877762794495,4,1 teaspoon,1 teaspoon
+1.0,1.0,0.9542423486709595,4,Set aside.,Set aside.
+0.0,0.0,0.02728399820625782,4,raw unsalted,plain
+1.0,1.0,0.9731119871139526,4,"Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes.","Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes."
+0.0,0.0,0.2399192601442337,4,"Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and arrange the coals on one side of the charcoal grate.",Place cashews in a small cast iron skillet over medium heat.
+1.0,1.0,0.9714478850364685,4,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.
+0.0,0.125,0.5413873791694641,4,"Thinly slice duck, halving any long strips into bite-size pieces.",Score duck skin diagonally every 1/2-inch.
+0.0,0.0,0.009790826588869095,4,"Thinly slice duck, halving any long strips into bite-size pieces.","Flip and brown on other side, about 4 minutes."
+1.0,1.0,0.9704458713531494,4,Pour on dressing and toss to combine.,Pour on dressing and toss to combine.
+1.0,1.0,0.9704458713531494,4,Pour on dressing and toss to combine.,Pour on dressing and toss to combine.
+1.0,1.0,0.9657336473464966,4,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9657336473464966,4,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9570215940475464,4,fork,fork
+1.0,1.0,0.9649698138237,4,sharp knife,a sharp knife
+0.0,0.20000000298023224,0.33538001775741577,4,"Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.",Serve the chicken with the pickled nectarines on the side.
+0.0,0.0,0.009302323684096336,4,salt,coriander
+0.0,0.0,0.0777912363409996,4,Pulse until very smooth.,"Pour the yogurt mixture all over the chicken, then gently toss to coat well."
+0.0,0.10256410390138626,0.07262729853391647,4,"Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.","Pat the chicken dry with paper towels. Using a sharp knife, score the top side of the chicken thighs 2 or 3 times, then prick all over with a fork."
+0.0,0.4000000059604645,0.4941004514694214,4,light brown sugar,palm sugar
+1.0,1.0,0.9542423486709595,4,Set aside.,Set aside.
+1.0,1.0,0.9731119871139526,4,"Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes.","Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes."
+0.0,0.2857142984867096,0.48429161310195923,4,diced pineapple,"No, it should be diced."
+0.0,0.04878048598766327,0.052555542439222336,4,"Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and arrange the coals on one side of the charcoal grate.","Whisk together lime juice, fish sauce, sesame oil, sugar, and chili in a small bowl."
+1.0,1.0,0.9714478850364685,4,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.
+0.0,0.0,0.009541536681354046,4,1 teaspoon,liberally
+0.0,0.0,0.09052635729312897,4,yes,130
+1.0,1.0,0.9716563820838928,4,"Thinly slice duck, halving any long strips into bite-size pieces.","Thinly slice duck, halving any long strips into bite-size pieces."
+0.0,0.125,0.5413873791694641,4,"Thinly slice duck, halving any long strips into bite-size pieces.",Score duck skin diagonally every 1/2-inch.
+1.0,1.0,0.9704458713531494,4,Pour on dressing and toss to combine.,Pour on dressing and toss to combine.
+1.0,1.0,0.9657336473464966,4,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9657336473464966,4,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9628241062164307,4,coffee,coffee
+0.0,0.0,0.06611093878746033,4,large bowl,garlic
+0.0,0.0,0.011183085851371288,4,vinegar,sesame seeds
+1.0,1.0,0.9719929099082947,4,Stir in sesame seeds and black pepper; set aside.,Stir in sesame seeds and black pepper; set aside.
+1.0,1.0,0.9650607109069824,4,high heat,high heat
+0.0,0.0,0.48036906123161316,4,pan,large cast iron or carbon steel skillet
+1.0,1.0,0.9571455121040344,4,pan,pan
+0.0,0.4878048896789551,0.6557336449623108,4,"Add to bowl with dressing, along with leeks and Dijon. Using clean hands, scrunch, mix, and massage together until vegetables are evenly coated with dressing and slightly softened, about 30 seconds.","Add to bowl with dressing, along with leeks and Dijon."
+0.0,0.0,0.10028522461652756,4,bowl,a rimmed baking sheet or large plate
+1.0,1.0,0.9635061025619507,4,leeks,leeks
+1.0,1.0,0.9739308953285217,4,"Using clean hands, scrunch, mix, and massage together until vegetables are evenly coated with dressing and slightly softened, about 30 seconds.","Using clean hands, scrunch, mix, and massage together until vegetables are evenly coated with dressing and slightly softened, about 30 seconds."
+1.0,1.0,0.9739308953285217,4,"Using clean hands, scrunch, mix, and massage together until vegetables are evenly coated with dressing and slightly softened, about 30 seconds.","Using clean hands, scrunch, mix, and massage together until vegetables are evenly coated with dressing and slightly softened, about 30 seconds."
+0.0,0.09090909361839294,0.32031065225601196,4,mix,"Using clean hands, scrunch, mix, and massage together until vegetables are evenly coated with dressing and slightly softened, about 30 seconds."
+1.0,1.0,0.9708392024040222,4,Divide salad between small individual serving bowls and serve.,Divide salad between small individual serving bowls and serve.
+0.0,0.6666666865348816,0.9171757698059082,4,1 day,up to 1 day
+0.0,0.1538461595773697,0.5285696983337402,4,the salad can be refrigerated in an airtight container for up to 1 day,refrigerated
+1.0,1.0,0.972272515296936,4,"Combine cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom in a spice grinder and grind to a fine powder.","Combine cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom in a spice grinder and grind to a fine powder."
+1.0,1.0,0.9731101989746094,4,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+1.0,1.0,0.9731101989746094,4,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+1.0,1.0,0.9542423486709595,4,Set aside.,Set aside.
+0.0,0.6666666865348816,0.8800576329231262,4,medium-high heat,medium-high
+0.0,0.10526315867900848,0.5093495845794678,4,heat,"Heat oil, butter, or ghee in a large saucepan over medium-high heat until melted (or until oil is shimmering)."
+0.0,0.0,0.06456595659255981,4,"Add onion, garlic, ginger, and chili.","Heat oil, butter, or ghee in a large saucepan over medium-high heat until melted (or until oil is shimmering)."
+0.0,0.0,0.1643388271331787,4,"garlic, ginger","cayenne, cashews, and half of spice mixture"
+0.0,0.8333333134651184,0.6583395004272461,4,"Return mixture to pot. Add chickpeas, spinach, and remaining spice mix and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes. Add salt and lime juice to taste. Stir in half of cilantro.","Return mixture to pot. Add chickpeas, spinach, and remaining spice mix and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes."
+1.0,1.0,0.96327143907547,4,spinach,spinach
+0.0,0.0,0.009251704439520836,4,<no answer>,salt
+0.0,0.3636363744735718,0.7034785747528076,4,1/4 cup fresh juice from 3 to 4 limes,1/4 cup
+0.0,0.0,0.032884519547224045,4,3 minutes,occasionally
+1.0,1.0,0.9653299450874329,4,about 5 minutes,about 5 minutes
+0.0,0.0,0.17221517860889435,4,Transfer Brussels sprouts to a rimmed baking sheet or large plate,bowl
+0.0,0.0,0.03711025044322014,4,bowl,large cast iron or carbon steel skillet
+0.0,0.06666667014360428,0.08578503131866455,4,"Using clean hands, scrunch, mix, and massage together until vegetables are evenly coated with dressing and slightly softened, about 30 seconds.",Divide salad between small individual serving bowls and serve.
+1.0,1.0,0.9739308953285217,4,"Using clean hands, scrunch, mix, and massage together until vegetables are evenly coated with dressing and slightly softened, about 30 seconds.","Using clean hands, scrunch, mix, and massage together until vegetables are evenly coated with dressing and slightly softened, about 30 seconds."
+1.0,1.0,0.9708392024040222,4,Divide salad between small individual serving bowls and serve.,Divide salad between small individual serving bowls and serve.
+1.0,1.0,0.968018114566803,4,bring to room temperature before serving.,Bring to room temperature before serving.
+1.0,1.0,0.9611291289329529,4,1 day,1 day
+0.0,0.3333333432674408,0.7909492254257202,4,heavy 12-inch cast iron skillet,skillet
+0.0,0.2083333283662796,0.44895753264427185,4,"Working in batches, cook chilies in the skillet, pressing down with a spatula, until lightly toasted and fragrant, about 5 seconds on each side; be careful not to let chilies burn.","Transfer to a large bowl and cover chilies with hot water, setting a small plate on top to keep them submerged."
+1.0,1.0,0.9650573134422302,4,skillet,skillet
+0.0,0.05263157933950424,0.01414063572883606,4,"Transfer to a large bowl and cover chilies with hot water, setting a small plate on top to keep them submerged.","Arrange 1/4 cup of cheese and 1 tablespoon chopped onions in a line along center of tortilla, then roll up."
+1.0,1.0,0.9572361707687378,4,30 minutes,30 minutes
+1.0,1.0,0.9664613604545593,4,large saucepan,large saucepan
+1.0,1.0,0.964808464050293,4,about 10 minutes,about 10 minutes
+0.0,0.5,0.6153871417045593,4,"Cook, stirring constantly until fragrant, about 30 seconds. Add coconut milk and remove from heat. Scrape up any browned bits from bottom of pan.","Cook, stirring constantly until fragrant, about 30 seconds."
+1.0,1.0,0.957976222038269,4,heat,heat
+0.0,0.0,0.08657991886138916,4,blender,pot
+0.0,0.8333333134651184,0.6583395004272461,4,"Return mixture to pot. Add chickpeas, spinach, and remaining spice mix and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes. Add salt and lime juice to taste. Stir in half of cilantro.","Return mixture to pot. Add chickpeas, spinach, and remaining spice mix and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes."
+0.0,0.6666666865348816,0.7009466290473938,4,low heat,low
+1.0,1.0,0.964808464050293,4,about 10 minutes,about 10 minutes
+0.0,0.27272728085517883,0.5873584151268005,4,"Pat the chicken dry with paper towels. Using a sharp knife, score the top side of the chicken thighs 2 or 3 times, then prick all over with a fork. Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.",Pat the chicken dry with paper towels.
+1.0,1.0,0.9570215940475464,4,fork,fork
+1.0,1.0,0.9649698138237,4,sharp knife,a sharp knife
+0.0,0.8695651888847351,0.5862701535224915,4,"Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.","a baking dish, ziptop bag, or a food-safe storage container with a lid"
+0.0,0.0,0.0777912363409996,4,Pulse until very smooth.,"Pour the yogurt mixture all over the chicken, then gently toss to coat well."
+0.0,0.6666666865348816,0.8737565279006958,4,yogurt,yogurt mixture
+0.0,0.6315789222717285,0.7132230997085571,4,"Pour the yogurt mixture all over the chicken, then gently toss to coat well. Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.","Pour the yogurt mixture all over the chicken, then gently toss to coat well."
+0.0,0.0,0.026740767061710358,4,"Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.",Pat the chicken dry with paper towels.
+1.0,1.0,0.9688491821289062,4,"Heat a small dry skillet over medium heat. Add the coriander seeds to the hot skillet and toast until the seeds become fragrant and start to darken slightly, about 1 minute. Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.","Heat a small dry skillet over medium heat. Add the coriander seeds to the hot skillet and toast until the seeds become fragrant and start to darken slightly, about 1 minute. Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder."
+1.0,1.0,0.9714032411575317,4,small dry skillet,a small dry skillet
+1.0,1.0,0.9656792879104614,4,nectarines,nectarines
+0.0,0.375,0.49135851860046387,4,"Toast until the seeds become fragrant and start to darken slightly, about 1 minute.",about 1 minute
+1.0,1.0,0.9727809429168701,4,Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.,Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.
+1.0,1.0,0.9661808013916016,4,coriander,coriander
+0.0,0.0,0.011953841894865036,4,salt,garlic
+1.0,1.0,0.9645510911941528,4,vinegar,vinegar
+1.0,1.0,0.9711441397666931,4,Stir in the chile flakes and coriander powder.,Stir in the chile flakes and coriander powder.
+0.0,0.9019607901573181,0.8158381581306458,4,Cut the nectarines in half and remove and discard the stone. Cut the nectarines into thin segments and add them to the vinegar mixture along with the thyme.,Cut the nectarines in half and remove and discard the stone. Cut the nectarines into thin segments and add them to the vinegar mixture along with the thyme. Stir to coat the fruit well.
+1.0,1.0,0.9592024087905884,4,thyme,thyme
+0.0,0.6666666865348816,0.8539856672286987,4,vinegar,vinegar mixture
+0.0,0.37037035822868347,0.6766214370727539,4,Stir to coat the fruit well. Cover with a lid and refrigerate for at least 30 minutes and up to 1 day before serving.,Stir to coat the fruit well.
+1.0,1.0,0.9572361707687378,4,30 minutes,30 minutes
+1.0,1.0,0.9582111835479736,4,oven,oven
+1.0,1.0,0.9715970754623413,4,Position oven racks in both the bottom-middle and top-middle positions.,Position oven racks in both the bottom-middle and top-middle positions
+0.0,0.8405796885490417,0.765327513217926,4,"Spread the marinated thighs over the prepared baking sheets, 4 pieces per sheet. Bake the chicken, switching the positions of the two sheets halfway through cooking, until an instant-read thermometer registers 165°F (74°C) in the thickest part of the thighs and the edges are slightly browned, about 30 minutes.","bake the chicken, switching the positions of the two sheets halfway through cooking, until an instant-read thermometer registers 165°F (74°C) in the thickest part of the thighs and the edges are slightly browned, about 30 minutes."
+1.0,1.0,0.9640272259712219,4,about 30 minutes,about 30 minutes
+1.0,1.0,0.9688132405281067,4,heavy 12-inch cast iron skillet,a heavy 12-inch cast iron skillet
+0.0,0.0,0.11018503457307816,4,skillet,large bowl
+0.0,0.2083333283662796,0.44895753264427185,4,"Working in batches, cook chilies in the skillet, pressing down with a spatula, until lightly toasted and fragrant, about 5 seconds on each side; be careful not to let chilies burn.","Transfer to a large bowl and cover chilies with hot water, setting a small plate on top to keep them submerged."
+1.0,1.0,0.9730389714241028,4,"Transfer to a large bowl and cover chilies with hot water, setting a small plate on top to keep them submerged.","Transfer to a large bowl and cover chilies with hot water, setting a small plate on top to keep them submerged."
+1.0,1.0,0.9572361707687378,4,30 minutes,30 minutes
+1.0,1.0,0.9653299450874329,4,about 5 minutes,about 5 minutes
+1.0,1.0,0.9728810787200928,4,"cook over medium heat, stirring often, until well browned, about 5 minutes","Cook over medium heat, stirring often, until well browned, about 5 minutes."
+1.0,1.0,0.9672372937202454,4,slotted spoon,slotted spoon
+0.0,0.6666666865348816,0.1807541400194168,4,stock,chicken stock
+0.0,0.5,0.549008846282959,4,onions,onions and garlic
+0.0,0.4444444477558136,0.576484739780426,4,2 minutes,about 1 to 2 minutes on high
+0.0,0.75,0.6816930174827576,4,"If the mixture won’t blend, add another 1/2 cup of stock.",Add another 1/2 cup of stock.
+0.0,0.0,0.03247082233428955,4,strainer,large bowl
+0.0,0.8888888955116272,0.873752236366272,4,press chili mixture through a mesh strainer set over a large bow until only chili skins remain in strainer.,Press chili mixture through a mesh strainer set over a large bowl until only chili skins remain in strainer. Discard skins.
+1.0,1.0,0.9691181182861328,4,wooden spoon,wooden spoon
+1.0,1.0,0.9674819111824036,4,Discard skins.,Discard skins.
+0.0,0.0,0.009401542134582996,4,flour,ground beef
+0.0,0.6399999856948853,0.6583548188209534,4,Add flour and stir immediately with a wire whisk. Continue to stir until roux turns light golden brown.,Add flour and stir immediately with a wire whisk.
+0.0,0.0,0.018485363572835922,4,beef,chicken stock
+0.0,0.0,0.28062450885772705,4,"Cook, stirring occasionally, until sauce is dark red and thick like a gravy, about 30 minutes.",Add a little water to thin it out.
+0.0,0.6666666865348816,0.7511056065559387,4,little water,water
+0.0,0.8235294222831726,0.7736297249794006,4,"If too thick, add a little water to thin it out.",Add a little water to thin it out.
+0.0,0.6666666865348816,0.9312508702278137,4,to 375°f,375°F
+0.0,0.20000000298023224,0.5216078758239746,4,heat,heat oil in a large skillet over medium-high until shimmering.
+0.0,0.7213114500045776,0.7225533723831177,4,"carefully slide tortillas into oil and cook, turning once, until just starting to look leathery, about 5 to 10 seconds per side","Working 1 tortilla at a time, carefully slide tortillas into oil and cook, turning once, until just starting to look leathery, about 5 to 10 seconds per side; avoid frying too long, as overly crisp tortillas will crack when folded."
+1.0,1.0,0.953304648399353,4,"Working 1 tortilla at a time, carefully slide tortillas into oil and cook, turning once, until just starting to look leathery, about 5 to 10 seconds per side; avoid frying too long, as overly crisp tortillas will crack when folded.","Working 1 tortilla at a time, carefully slide tortillas into oil and cook, turning once, until just starting to look leathery, about 5 to 10 seconds per side; avoid frying too long, as overly crisp tortillas will crack when folded."
+1.0,1.0,0.9736909866333008,4,"Avoid frying too long, as overly crisp tortillas will crack when folded.","Avoid frying too long, as overly crisp tortillas will crack when folded."
+0.0,0.27272728085517883,0.38654977083206177,4,"dip fried tortilla into sauce, then transfer to a plate","Bring sauce to a boil, then reduce heat to maintain a slow and steady simmer."
+0.0,0.0,0.009792361408472061,4,onions,cheese
+0.0,0.0,0.06837908178567886,4,Arrange 1/4 cup of cheese and 1 tablespoon chopped onions in a line along center of tortilla,Transfer to a blender.
+0.0,0.0,0.08112220466136932,4,pan,along center of tortilla
+0.0,0.692307710647583,0.7240751385688782,4,"Set rolled tortilla, seam-side down, in a 9-by-11-inch baking pan","Set rolled tortilla, seam-side down, in a 9-by-11-inch baking pan and repeat with remaining tortillas, cheese, and onion."
+0.0,0.1599999964237213,0.2811688780784607,4,Follow it by spooning remaining cheese and onion.,"Transfer to the oven, and bake until cheese melts and just starts to bubble, 10 to 15 minutes."
+1.0,1.0,0.9669135212898254,4,remaining cheese and onion,remaining cheese and onion
+1.0,1.0,0.9743379950523376,4,"transfer to the oven, and bake until cheese melts and just starts to bubble, 10 to 15 minutes.","Transfer to the oven, and bake until cheese melts and just starts to bubble, 10 to 15 minutes."
+1.0,1.0,0.9632601737976074,4,10 to 15 minutes,10 to 15 minutes
+1.0,1.0,0.9584270715713501,4,Serve immediately.,Serve immediately.
+0.0,0.20000000298023224,0.21261729300022125,4,fish,"lime juice, fish sauce, sesame oil, sugar, and chili"
+1.0,1.0,0.9599570631980896,4,lime,lime
+0.0,0.0,0.009323902428150177,4,sugar,lodge
+1.0,1.0,0.9542423486709595,4,Set aside.,Set aside.
+1.0,1.0,0.9602798223495483,4,cashews,cashews
+1.0,1.0,0.9731119871139526,4,"Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes.","Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes."
+1.0,1.0,0.9570634961128235,4,onion,onion
+1.0,1.0,0.9654948115348816,4,pineapple,pineapple
+1.0,1.0,0.9714478850364685,4,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.
+1.0,1.0,0.966008722782135,4,salt and pepper,salt and pepper
+1.0,1.0,0.9614264369010925,4,130 degrees,130 degrees
+1.0,1.0,0.9662637114524841,4,duck,duck
+1.0,1.0,0.9716563820838928,4,"Thinly slice duck, halving any long strips into bite-size pieces.","Thinly slice duck, halving any long strips into bite-size pieces."
+0.0,0.07999999821186066,0.4294356405735016,4,"Thinly slice duck, halving any long strips into bite-size pieces.",Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.
+1.0,1.0,0.9662637114524841,4,duck,duck
+0.0,0.6666666865348816,0.7377696633338928,4,pineapple mixture,bowl with pineapple mixture
+1.0,1.0,0.9704458713531494,4,Pour on dressing and toss to combine.,Pour on dressing and toss to combine.
+1.0,1.0,0.9704458713531494,4,Pour on dressing and toss to combine.,Pour on dressing and toss to combine.
+1.0,1.0,0.9657336473464966,4,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9657336473464966,4,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.8343263268470764,4,2 tablespoons,2 tablespoons
+0.0,0.6666666865348816,0.7125607132911682,4,1 teaspoon,teaspoon
+1.0,1.0,0.9674291610717773,4,1 tablespoon,1 tablespoon
+0.0,0.0,0.03363553062081337,4,Set aside.,Transfer to plates and serve immediately.
+0.0,0.1818181872367859,0.4930478632450104,4,Rinse chickpeas and place in a large bowl.,"Cover with cold water, adding enough to allow the chickpeas to at least triple in volume."
+1.0,1.0,0.9741165041923523,4,"Cover with cold water, adding enough to allow the chickpeas to at least triple in volume.","Cover with cold water, adding enough to allow the chickpeas to at least triple in volume."
+1.0,1.0,0.9684532284736633,4,chickpeas,chickpeas
+0.0,0.8999999761581421,0.8112471699714661,4,"The next day, drain, rinse, and carefully dry chickpeas in a salad spinner.","drain, rinse, and carefully dry chickpeas in a salad spinner."
+1.0,1.0,0.9529009461402893,4,the next day,The next day.
+0.0,0.3333333432674408,0.5694677233695984,4,"garlic, cumin, coriander, and salt",garlic
+0.0,0.0,0.009490203112363815,4,salt,ground cumin
+0.0,0.2222222238779068,0.5487185120582581,4,chickpeas,"chickpeas, herbs, scallions, garlic, cumin, coriander, and salt"
+1.0,1.0,0.9713715314865112,4,A handful of the mixture squeezed into a ball should be able to barely hold together.,A handful of the mixture squeezed into a ball should be able to barely hold together.
+0.0,0.6451612710952759,0.6397584676742554,4,to allow time for more starch to seep out of chickpeas. This will help the balls retain their shape better once formed.,Allow time for more starch to seep out of chickpeas.
+0.0,0.4000000059604645,0.6519210934638977,4,mixture,heaping spoonfuls of the mixture
+0.0,0.2857142984867096,0.6472392678260803,4,"Using a tablespoon measure, scoop out heaping spoonfuls of the mixture into your hand. Gently shape each into a ball.",Gently shape each into a ball (you will not be able to roll the mixture like cookie dough; this is okay) and place them on a clean plate.
+0.0,0.6666666865348816,0.6188919544219971,4,dough,cookie dough
+0.0,0.0,0.07774493098258972,4,you will not be able to roll the mixture like cookie dough; this is okay.,No
+0.0,0.0,0.13596482574939728,4,instant-read thermometer,375°F
+0.0,0.0,0.07606688141822815,4,"Carefully lower chickpea balls into oil one at a time, allowing a little space between each ball and cooking in batches if necessary.",375°F
+1.0,1.0,0.9656605124473572,4,about 4 minutes,about 4 minutes
+1.0,1.0,0.9694022536277771,4,chickpea balls,chickpea balls
+0.0,0.0,0.034457046538591385,4,pickles,tomatoes
+0.0,0.0,0.009185687638819218,4,tomatoes,hummus
+0.0,0.25,0.6397597193717957,4,"Serve immediately with tahini and/or hummus on the side, or stuffed into pita bread with tahini, tomatoes, cucumber, pickles, and shredded cabbage.",tahini and/or hummus
+1.0,1.0,0.9658735394477844,4,cucumber,cucumber
+1.0,1.0,0.9674291610717773,4,1 tablespoon,1 tablespoon
+1.0,1.0,0.8343263268470764,4,2 tablespoons,2 tablespoons
+0.0,0.0,0.045494429767131805,4,teaspoon,small bowl
+1.0,1.0,0.9731119871139526,4,"Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes.","Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes."
+0.0,0.6666666865348816,0.6359298825263977,4,medium heat,medium
+0.0,0.47058823704719543,0.5601677894592285,4,"Transfer a medium bowl. Add onion, pineapple, and cilantro; toss to combine. Set aside.",Transfer to a medium bowl.
+0.0,0.5,0.7395101189613342,4,diced pineapple,pineapple chunks
+0.0,0.04878048598766327,0.052555542439222336,4,"Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and arrange the coals on one side of the charcoal grate.","Whisk together lime juice, fish sauce, sesame oil, sugar, and chili in a small bowl."
+1.0,1.0,0.9714478850364685,4,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.
+0.0,0.6666666865348816,0.7942982912063599,4,kosher salt,salt
+0.0,0.800000011920929,0.9066394567489624,4,about 1 pound,1 pound
+1.0,1.0,0.9614264369010925,4,130 degrees,130 degrees
+0.0,0.07999999821186066,0.4294356405735016,4,"Thinly slice duck, halving any long strips into bite-size pieces.",Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.
+0.0,0.25,0.5077005624771118,4,"1 large duck breast, about 1 pound",duck
+1.0,1.0,0.9704458713531494,4,Pour on dressing and toss to combine.,Pour on dressing and toss to combine.
+1.0,1.0,0.9704458713531494,4,Pour on dressing and toss to combine.,Pour on dressing and toss to combine.
+1.0,1.0,0.9657336473464966,4,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9657336473464966,4,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+0.0,0.095238097012043,0.5025734305381775,4,flour,"Using spatula followed by hands, mix flour and butter mixtures together until even, cornmeal-like mixture forms, 1 to 2 minutes."
+0.0,0.2142857164144516,0.5072367787361145,4,"whisk together flour, yeast, baking soda, and salt","Using spatula followed by hands, mix flour and butter mixtures together until even, cornmeal-like mixture forms, 1 to 2 minutes."
+0.0,0.6666666865348816,0.5482677817344666,4,medium bowl,medium
+1.0,1.0,0.9736246466636658,4,"wipe out bowl that had flour mixture, lightly grease with cooking spray or butter, and set aside.","wipe out bowl that had flour mixture, lightly grease with cooking spray or butter, and set aside."
+0.0,0.3333333432674408,0.6596894860267639,4,"until even, cornmeal-like mixture forms",cornmeal-like
+0.0,0.8888888955116272,0.8426842093467712,4,"Using spatula followed by hands, mix flour and butter mixtures together until even, cornmeal-like mixture forms","Using spatula followed by hands, mix flour and butter mixtures together until even, cornmeal-like mixture forms, 1 to 2 minutes."
+1.0,1.0,0.9398447871208191,4,large,large
+0.0,0.4000000059604645,0.6048189401626587,4,spatula followed by hands,spatula
+0.0,0.6666666865348816,0.5482677817344666,4,medium bowl,medium
+0.0,0.0,0.0730363056063652,4,flour,butter
+1.0,1.0,0.9747371077537537,4,"Add butter and vanilla extract and, using a rubber spatula, stir until clumpy paste forms and no dry flour remains, about 30 seconds.","Add butter and vanilla extract and, using a rubber spatula, stir until clumpy paste forms and no dry flour remains, about 30 seconds."
+1.0,1.0,0.9618204236030579,4,butter,butter
+0.0,0.5,0.7069360613822937,4,to 375°f,375°F (190°C)
+1.0,1.0,0.9719015955924988,4,Adjust oven rack to middle position and preheat oven to 375°F (190°C).,Adjust oven rack to middle position and preheat oven to 375°F (190°C).
+1.0,1.0,0.9621517062187195,4,flour,flour
+0.0,0.0,0.6810909509658813,4,pinching closed any major cracks,pinch
+0.0,0.8493150472640991,0.7398571372032166,4,"Using hands, gently press dough into even 6-inch circle, adding flour to both sides of dough as needed to prevent sticking, while pinching closed any major cracks in dough that form. Using a rolling pin, roll dough into a 12-inch circle, about 1/4-inch thick.","Using hands, gently press dough into even 6-inch circle, adding flour to both sides of dough as needed to prevent sticking, while pinching closed any major cracks in dough that form."
+0.0,0.0,0.18391862511634827,4,"Place filling in center of dough and, using clean hands and rubber spatula, spread into an even 5-inch round disc, leaving a 3 1/2-inch border of dough on all sides.",gata
+0.0,0.8571428656578064,0.9372637271881104,4,in the center of dough,center of dough
+0.0,0.13953489065170288,0.5353719592094421,4,"Starting at one edge, using your hands, fold and pleat dough over filling toward center, working your way around disc. Pinch and press pleats together to fully enclose filling.","Transfer dough to clean, lightly-floured surface, and dust top of dough lightly with flour."
+0.0,0.1538461595773697,0.5603252053260803,4,pleat dough,Transfer dough to the prepared lightly greased medium bowl and cover tightly.
+0.0,0.08695652335882187,0.43694251775741577,4,"Press top of dough gently to form an even 6-inch round. Invert so seam side is facing down and, using a rolling pin, gently roll into an even 9-inch round. Carefully transfer to a rimmed baking sheet lined with parchment or a silicone baking mat.",Place filling in center of dough
+0.0,0.095238097012043,0.5574250817298889,4,press top of dough gently to form an even 6-inch round.,"Using a rolling pin, roll dough into a 12-inch circle, about 1/4-inch thick."
+1.0,1.0,0.9727333188056946,4,"pinch dough around the edge of the gata between the index finger of one hand and thumb and index finger of the other hand to form decorative points, spaced about 1 inch apart.","Pinch dough around the edge of the gata between the index finger of one hand and thumb and index finger of the other hand to form decorative points, spaced about 1 inch apart."
+0.0,0.800000011920929,0.8920848965644836,4,1 inch,about 1 inch
+1.0,1.0,0.967524528503418,4,egg wash,egg wash
+0.0,0.0833333358168602,0.3736579716205597,4,"Using a fork, drag flat underside of fork across top of gata to form grooved lines in a crisscross pattern, spaced about 1 inch apart.",gata
+1.0,1.0,0.9713411331176758,4,"Bake until evenly golden brown, 28 to 35 minutes, rotating baking sheet after 20 minutes.","Bake until evenly golden brown, 28 to 35 minutes, rotating baking sheet after 20 minutes."
+1.0,1.0,0.9736696481704712,4,Transfer baking sheet to wire rack and let gata cool for at least 20 minutes.,Transfer baking sheet to wire rack and let gata cool for at least 20 minutes.
+0.0,0.6666666865348816,0.92009437084198,4,20 minutes,at least 20 minutes
+1.0,1.0,0.966578483581543,4,"Slice into wedges, and serve.","Slice into wedges, and serve."
+0.0,0.27272728085517883,0.5873584151268005,4,"Pat the chicken dry with paper towels. Using a sharp knife, score the top side of the chicken thighs 2 or 3 times, then prick all over with a fork. Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.",Pat the chicken dry with paper towels.
+0.0,0.0,0.11333371698856354,4,8 boneless skinless chicken thighs (1 3/4 pounds; 800g),4
+0.0,0.8695651888847351,0.6063918471336365,4,"Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.","baking dish, ziptop bag, or a food-safe storage container with a lid"
+0.0,0.0,0.19784465432167053,4,yes,no
+0.0,0.4000000059604645,0.6428511142730713,4,1 1/2 teaspoons,1 teaspoon
+0.0,0.0,0.0777912363409996,4,Pulse until very smooth.,"Pour the yogurt mixture all over the chicken, then gently toss to coat well."
+0.0,0.6315789222717285,0.7132230997085571,4,"Pour the yogurt mixture all over the chicken, then gently toss to coat well. Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.","Pour the yogurt mixture all over the chicken, then gently toss to coat well."
+0.0,0.5,0.5242645144462585,4,plain unsweetened yogurt,plain
+0.0,0.10256410390138626,0.07262729853391647,4,"Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.","Pat the chicken dry with paper towels. Using a sharp knife, score the top side of the chicken thighs 2 or 3 times, then prick all over with a fork."
+0.0,0.375,0.49135851860046387,4,"Toast until the seeds become fragrant and start to darken slightly, about 1 minute.",about 1 minute
+0.0,0.0,0.016595326364040375,4,2 teaspoons,20
+1.0,1.0,0.9727809429168701,4,Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.,Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.
+1.0,1.0,0.971001923084259,4,apple cider vinegar,apple cider vinegar
+1.0,1.0,0.9668243527412415,4,1 teaspoon,1 teaspoon
+0.0,0.800000011920929,0.7518466114997864,4,2 tablespoons (30ml),2 tablespoons
+0.0,0.9333333373069763,0.9323968887329102,4,"Yes, stir in the chile flakes and coriander powder.",Stir in the chile flakes and coriander powder.

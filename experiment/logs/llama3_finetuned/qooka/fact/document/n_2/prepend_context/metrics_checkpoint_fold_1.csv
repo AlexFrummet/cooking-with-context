@@ -1,0 +1,199 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+0.0,0.6666666865348816,0.6977837085723877,1,Answer: cream cheese,Answer: heavy cream
+0.0,0.75,0.5703963041305542,1,Answer: 1/2 cup (1 stick),Answer: 1 stick
+0.0,0.4444444477558136,0.5017139911651611,1,Answer: the mixture for the dough so far,Answer: creamed mixture
+1.0,1.0,0.9649104475975037,1,Answer: potatoes,Answer: potatoes
+1.0,1.0,0.964209794998169,1,Answer: colander,Answer: colander
+1.0,1.0,0.9658846855163574,1,Answer: chorizo,Answer: chorizo
+0.0,0.800000011920929,0.8442842960357666,1,Answer: large bowl,Answer: bowl
+1.0,1.0,0.9658846855163574,1,Answer: chorizo,Answer: chorizo
+1.0,1.0,0.9649104475975037,1,Answer: potatoes,Answer: potatoes
+1.0,1.0,0.9649104475975037,1,Answer: potatoes,Answer: potatoes
+1.0,1.0,0.9649104475975037,1,Answer: potatoes,Answer: potatoes
+0.0,0.5,0.2351047247648239,1,Answer: bowl,Answer: skillet
+1.0,1.0,0.9619284868240356,1,Answer: egg,Answer: egg
+0.0,0.4000000059604645,0.17177778482437134,1,Answer: small bowl,Answer: skillet
+1.0,1.0,0.9619284868240356,1,Answer: egg,Answer: egg
+1.0,1.0,0.9692129492759705,1,Answer: about 10 minutes,Answer: about 10 minutes
+0.0,0.5,0.4137572646141052,1,Answer: oven,Answer: skillet
+1.0,1.0,0.9648075699806213,1,Answer: tortillas,Answer: tortillas
+1.0,1.0,0.9621492624282837,1,Answer: bowl,Answer: bowl
+0.0,0.2857142984867096,0.45434361696243286,1,Answer: about 1 hour,Answer: 30 minutes
+0.0,0.75,0.9255324602127075,1,Answer: for 30 minutes,Answer: about 30 minutes
+0.0,0.2857142984867096,0.12521590292453766,1,Answer: bowl and stand mixer,Answer: applesauce
+0.0,0.4000000059604645,0.22151190042495728,1,Answer: minute,Answer: until needed
+0.0,0.6666666865348816,0.7736983895301819,1,Answer: to 350°f,Answer: 350°F (175°C)
+1.0,1.0,0.9682038426399231,1,Answer: 175°c,Answer: 175°c
+0.0,0.6666666865348816,0.770190417766571,1,Answer: offset spatula,Answer: slide an offset spatula under the dough
+0.0,0.2857142984867096,0.1538785696029663,1,Answer: half sheet pan,Answer: 8-inch square
+1.0,1.0,0.9682585597038269,1,Answer: about 18 minutes,Answer: about 18 minutes
+0.0,0.4000000059604645,0.11128302663564682,1,Answer: paper towel,Answer: parchment
+0.0,0.75,0.9153428077697754,1,Answer: 6 hours,Answer: at least 6 hours
+0.0,0.5,0.11364016681909561,1,Answer: yes,Answer: chicken
+1.0,1.0,0.969222366809845,1,Answer: 500°f (260°c),Answer: 500°F (260°C)
+0.0,0.5,0.4239221215248108,1,Answer: 15g,Answer: 14.79g
+1.0,1.0,0.9694161415100098,1,Answer: 1/2 teaspoon,Answer: 1/2 teaspoon
+0.0,0.800000011920929,0.5722058415412903,1,Answer: 66°c,Answer: 150°F (66°C)
+1.0,1.0,0.9683519005775452,1,Answer: about 45 minutes,Answer: about 45 minutes
+0.0,0.6000000238418579,0.6184576153755188,1,"Answer: soy sauce, butter, and lemon juice",Answer: soy sauce
+1.0,1.0,0.9641192555427551,1,Answer: oven,Answer: oven
+1.0,1.0,0.9669850468635559,1,Answer: 5 minutes,Answer: 5 minutes
+1.0,1.0,0.9678226709365845,1,Answer: cold water,Answer: cold water
+1.0,1.0,0.9705698490142822,1,Answer: in a salad spinner,Answer: in a salad spinner
+1.0,1.0,0.9629536271095276,1,Answer: yes,Answer: yes
+1.0,1.0,0.9629536271095276,1,Answer: yes,Answer: yes
+0.0,0.8571428656578064,0.9739112257957458,1,Answer: until chickpeas are very finley minced,Answer: until chickpeas are very finely minced
+1.0,1.0,0.9619637727737427,1,Answer: a bowl,Answer: bowl
+1.0,1.0,0.9629536271095276,1,Answer: yes,Answer: yes
+1.0,1.0,0.9682649374008179,1,Answer: 375°f,Answer: 375°F
+1.0,1.0,0.9691389799118042,1,Answer: about 4 minutes,Answer: about 4 minutes
+0.0,0.3333333432674408,0.05267104506492615,1,Answer: a paper towel–lined plate,Answer: skillet
+1.0,1.0,0.9629536271095276,1,Answer: yes,Answer: yes
+1.0,1.0,0.9683519005775452,1,Answer: about 45 minutes,Answer: about 45 minutes
+1.0,1.0,0.9629536271095276,1,Answer: yes,Answer: yes
+0.0,0.75,0.7160993218421936,1,Answer: ground black pepper,Answer: cracked black pepper
+0.0,0.6666666865348816,0.763694703578949,1,Answer: to 400°f,Answer: 400°F (200°C)
+0.0,0.800000011920929,0.866733193397522,1,Answer: olive,Answer: olive oil
+1.0,1.0,0.9632308483123779,1,Answer: sage,Answer: sage
+0.0,0.6666666865348816,0.763694703578949,1,Answer: to 400°f,Answer: 400°F (200°C)
+1.0,1.0,0.966457188129425,1,Answer: olive oil,Answer: olive oil
+1.0,1.0,0.9632308483123779,1,Answer: sage,Answer: sage
+1.0,1.0,0.9683519005775452,1,Answer: about 45 minutes,Answer: about 45 minutes
+1.0,1.0,0.9685977697372437,1,Answer: about 30 minutes,Answer: about 30 minutes
+0.0,0.8571428656578064,0.9151131510734558,1,Answer: large squash,Answer: large squash chunks
+0.0,0.8571428656578064,0.9151131510734558,1,Answer: large squash,Answer: large squash chunks
+0.0,0.8571428656578064,0.791984498500824,1,"Answer: food processor, blender",Answer: food processor
+1.0,1.0,0.9633761048316956,1,Answer: salt,Answer: salt
+1.0,1.0,0.9704205989837646,1,Answer: medium-high heat,Answer: medium-high heat
+1.0,1.0,0.9629287719726562,1,Answer: onion,Answer: onion
+1.0,1.0,0.9644612073898315,1,Answer: rice,Answer: rice
+1.0,1.0,0.9644612073898315,1,Answer: rice,Answer: rice
+0.0,0.9090909361839294,0.9370551109313965,1,Answer: 3 to 4 minutes,Answer: about 3 to 4 minutes
+1.0,1.0,0.9643270969390869,1,Answer: wine,Answer: wine
+1.0,1.0,0.9696829319000244,1,Answer: raw alcohol,Answer: raw alcohol
+1.0,1.0,0.969739556312561,1,Answer: about 2 minutes,Answer: about 2 minutes
+0.0,0.5,0.1783265620470047,1,Answer: broth,Answer: squash
+1.0,1.0,0.9644612073898315,1,Answer: rice,Answer: rice
+1.0,1.0,0.9629287719726562,1,Answer: onion,Answer: onion
+1.0,1.0,0.9704205989837646,1,Answer: medium-high heat,Answer: medium-high heat
+0.0,0.8571428656578064,0.889386773109436,1,Answer: 2 minutes,Answer: about 2 minutes
+1.0,1.0,0.9643958210945129,1,Answer: squash,Answer: squash
+1.0,1.0,0.967602014541626,1,Answer: brown butter,Answer: brown butter
+1.0,1.0,0.9670459032058716,1,Answer: few minutes,Answer: a few minutes
+1.0,1.0,0.9633761048316956,1,Answer: salt,Answer: salt
+0.0,0.6666666865348816,0.5182173252105713,1,Answer: sage,Answer: fried sage leaves
+0.0,0.2857142984867096,0.022088905796408653,1,Answer: grated cheese,Answer: maple-roasted diced squash
+1.0,1.0,0.9672018885612488,1,Answer: slotted spoon,Answer: slotted spoon
+1.0,1.0,0.9667602777481079,1,Answer: mushrooms,Answer: mushrooms
+0.0,0.5,0.2500816285610199,1,Answer: cup,Answer: bowl
+1.0,1.0,0.9633632898330688,1,Answer: garlic,Answer: garlic
+0.0,0.3333333432674408,0.3140418827533722,1,Answer: 1 tablespoon,Answer: 1/4 cup
+0.0,0.800000011920929,0.8452717065811157,1,Answer: medium heat,Answer: heat
+0.0,0.5,0.24921195209026337,1,Answer: mushrooms,Answer: garlic
+1.0,1.0,0.9698665142059326,1,Answer: about 1 minute,Answer: about 1 minute
+1.0,1.0,0.9732465744018555,1,Answer: reserved 1/4 cup (60ml) mushroom soaking liquid,Answer: reserved 1/4 cup (60ml) mushroom soaking liquid
+0.0,0.5,0.24489694833755493,1,Answer: mushroom,Answer: garlic
+0.0,0.5,0.11616140604019165,1,Answer: water,Answer: tomatoes
+0.0,0.6666666865348816,0.7587471008300781,1,Answer: about 1 minute,Answer: about 1 minute less than package recommends
+1.0,1.0,0.9695862531661987,1,Answer: about 3 minutes,Answer: about 3 minutes
+1.0,1.0,0.9643927216529846,1,Answer: parsley,Answer: parsley
+0.0,0.800000011920929,0.7122212052345276,1,Answer: minced parsley,Answer: parsley
+0.0,0.6666666865348816,0.763694703578949,1,Answer: to 400°f,Answer: 400°F (200°C)
+0.0,0.6666666865348816,0.5482630133628845,1,Answer: 2 tablespoons (30ml),Answer: 2
+0.0,0.6000000238418579,0.3909529149532318,1,Answer: about 45 minutes,Answer: about 1 to 2 minutes
+1.0,1.0,0.9685977697372437,1,Answer: about 30 minutes,Answer: about 30 minutes
+0.0,0.4000000059604645,0.5644003748893738,1,"Answer: large squash chunks, apple, and garlic cloves",Answer: squash
+1.0,1.0,0.9633761048316956,1,Answer: salt,Answer: salt
+1.0,1.0,0.9704205989837646,1,Answer: medium-high heat,Answer: medium-high heat
+0.0,0.5,0.15813472867012024,1,Answer: onion,Answer: rice
+1.0,1.0,0.9644612073898315,1,Answer: rice,Answer: rice
+1.0,1.0,0.9644612073898315,1,Answer: rice,Answer: rice
+0.0,0.6666666865348816,0.7011085152626038,1,Answer: 4 minutes,Answer: about 3 to 4 minutes
+1.0,1.0,0.9643270969390869,1,Answer: wine,Answer: wine
+1.0,1.0,0.9696829319000244,1,Answer: raw alcohol,Answer: raw alcohol
+1.0,1.0,0.969739556312561,1,Answer: about 2 minutes,Answer: about 2 minutes
+1.0,1.0,0.9667553901672363,1,Answer: broth,Answer: broth
+0.0,0.800000011920929,0.8303600549697876,1,Answer: rice,Answer: rice grains
+1.0,1.0,0.9629287719726562,1,Answer: onion,Answer: onion
+1.0,1.0,0.9704205989837646,1,Answer: medium-high heat,Answer: medium-high heat
+0.0,0.3529411852359772,0.21576637029647827,1,Answer: 2 minutes,"Answer: until milk solids in butter turn a hazelnut-brown color, 1 to 2 minutes longer"
+1.0,1.0,0.9644612073898315,1,Answer: rice,Answer: rice
+0.0,0.4000000059604645,0.04726118594408035,1,Answer: brown butter,Answer: squash
+0.0,0.5714285969734192,0.5853729248046875,1,Answer: few minutes,Answer: about 45 minutes
+1.0,1.0,0.9633761048316956,1,Answer: salt,Answer: salt
+1.0,1.0,0.9688137769699097,1,Answer: sage leaves,Answer: sage leaves
+0.0,0.4000000059604645,0.06824857741594315,1,Answer: grated cheese,Answer: plates
+0.0,0.3333333432674408,0.12928728759288788,1,"Answer: no, slotted spoon",Answer: yes
+0.0,0.3333333432674408,0.1611396074295044,1,"Answer: no, medium heat",Answer: yes
+1.0,1.0,0.9629536271095276,1,Answer: yes,Answer: yes
+1.0,1.0,0.9698665142059326,1,Answer: about 1 minute,Answer: about 1 minute
+1.0,1.0,0.9629536271095276,1,Answer: yes,Answer: yes
+0.0,0.25,0.15397098660469055,1,"Answer: no, reserved 1/4 cup (60ml)",Answer: yes
+0.0,0.8571428656578064,0.740716814994812,1,Answer: 1 cup (235ml),Answer: 1 cup
+0.0,0.3333333432674408,0.10815618187189102,1,Answer: no,Answer: about 3 minutes
+0.0,0.5,0.8298780918121338,1,Answer: heavy 12-inch cast iron skillet,Answer: skillet
+0.0,0.5,0.13181884586811066,1,Answer: skillet,Answer: chilies
+1.0,1.0,0.966532826423645,1,Answer: 30 minutes,Answer: 30 minutes
+0.0,0.8571428656578064,0.9576848745346069,1,Answer: for 30 minutes,Answer: 30 minutes
+0.0,0.75,0.4786706864833832,1,Answer: about 4 minutes,Answer: about 5 minutes
+0.0,0.5,0.11989579349756241,1,Answer: minced,Answer: medium
+0.0,0.8571428656578064,0.8438645005226135,1,Answer: italian plums,Answer: small Italian plums
+0.0,0.8571428656578064,0.9099342226982117,1,Answer: 1 whole quail,Answer: 1 quail
+1.0,1.0,0.9700380563735962,1,Answer: sharp kitchen shears,Answer: sharp kitchen shears
+1.0,1.0,0.963180661201477,1,Answer: chicken,Answer: chicken
+0.0,0.5,0.8298780918121338,1,Answer: heavy 12-inch cast iron skillet,Answer: skillet
+0.0,0.4000000059604645,0.16115713119506836,1,Answer: skillet,Answer: large bowl
+0.0,0.8571428656578064,0.8948395252227783,1,Answer: 30 minutes,Answer: about 30 minutes
+1.0,1.0,0.9690245389938354,1,Answer: about 5 minutes,Answer: about 5 minutes
+1.0,1.0,0.9672018885612488,1,Answer: slotted spoon,Answer: slotted spoon
+0.0,0.800000011920929,0.5670353770256042,1,Answer: stock,Answer: chicken stock
+0.0,0.6666666865348816,0.6769399046897888,1,Answer: 2 minutes,Answer: about 1 to 2 minutes
+0.0,0.800000011920929,0.8345119953155518,1,Answer: wooden spoon,Answer: spoon
+0.0,0.4000000059604645,0.09093407541513443,1,Answer: strainer,Answer: large bowl
+0.0,0.5,0.17141789197921753,1,Answer: flour,Answer: oil
+0.0,0.5,0.26075538992881775,1,Answer: beef,Answer: broth
+0.0,0.800000011920929,0.844109833240509,1,Answer: little water,Answer: water
+0.0,0.800000011920929,0.9593620300292969,1,Answer: to 375°f,Answer: 375°F
+0.0,0.5,0.1600329428911209,1,Answer: onions,Answer: cheese
+0.0,0.5,0.2287759929895401,1,Answer: pan,Answer: tortilla
+0.0,0.5714285969734192,0.5373289585113525,1,Answer: remaining cheese and onion,Answer: cheese
+1.0,1.0,0.9688758850097656,1,Answer: 10 to 15 minutes,Answer: 10 to 15 minutes
+1.0,1.0,0.9674183130264282,1,Answer: chickpeas,Answer: chickpeas
+1.0,1.0,0.9658615589141846,1,Answer: the next day,Answer: next day
+0.0,0.5,0.6293139457702637,1,"Answer: garlic, cumin, coriander, and salt",Answer: garlic
+0.0,0.5,0.14887045323848724,1,Answer: salt,Answer: cumin
+1.0,1.0,0.9674183130264282,1,Answer: chickpeas,Answer: chickpeas
+1.0,1.0,0.9639227390289307,1,Answer: mixture,Answer: mixture
+0.0,0.800000011920929,0.7060210108757019,1,Answer: dough,Answer: cookie dough
+1.0,1.0,0.9705526828765869,1,Answer: instant-read thermometer,Answer: instant-read thermometer
+1.0,1.0,0.9691389799118042,1,Answer: about 4 minutes,Answer: about 4 minutes
+1.0,1.0,0.9698099493980408,1,Answer: chickpea balls,Answer: chickpea balls
+0.0,0.5,0.16664591431617737,1,Answer: tomatoes,Answer: hummus
+1.0,1.0,0.9659103751182556,1,Answer: cucumber,Answer: cucumber
+0.0,0.5,0.028021743521094322,1,Answer: pickles,Answer: tahini
+0.0,0.6666666865348816,0.763694703578949,1,Answer: to 400°f,Answer: 400°F (200°C)
+0.0,0.4000000059604645,0.1761893928050995,1,Answer: 200°c,Answer: to 400°f
+1.0,1.0,0.9683519005775452,1,Answer: about 45 minutes,Answer: about 45 minutes
+1.0,1.0,0.9685977697372437,1,Answer: about 30 minutes,Answer: about 30 minutes
+0.0,0.1818181872367859,0.3961774408817291,1,Answer: 1 1/2 ounces (40g),Answer: 40 g dried porcini mushrooms
+1.0,1.0,0.9704736471176147,1,Answer: 4 medium cloves,Answer: 4 medium cloves
+0.0,0.25,0.6661725044250488,1,Answer: 1 1/2 ounces (40g),Answer: 40 g
+1.0,1.0,0.972369909286499,1,Answer: lightly sautéed and fragrant,Answer: lightly sautéed and fragrant
+0.0,0.5,0.23417548835277557,1,Answer: no,Answer: yes
+0.0,0.8571428656578064,0.740716814994812,1,Answer: 1 cup (235ml),Answer: 1 cup
+0.0,0.5,0.2145463079214096,1,Answer: hard,Answer: soft
+0.0,0.5,0.13795490562915802,1,Answer: blender,Answer: garlic
+0.0,0.3636363744735718,0.46230024099349976,1,"Answer: black pepper, allspice (if using), and 2 teaspoons kosher salt","Answer: garlic, orange juice, lime juice, cumin, oregano, black pepper, allspice"
+0.0,0.5,0.23202157020568848,1,Answer: allspice,Answer: cumin
+1.0,1.0,0.963180661201477,1,Answer: chicken,Answer: chicken
+1.0,1.0,0.963180661201477,1,Answer: chicken,Answer: chicken
+0.0,0.8571428656578064,0.9576848745346069,1,Answer: for 30 minutes,Answer: 30 minutes
+1.0,1.0,0.963180661201477,1,Answer: chicken,Answer: chicken
+1.0,1.0,0.9704205989837646,1,Answer: medium-high heat,Answer: medium-high heat
+0.0,0.4000000059604645,0.10467997938394547,1,Answer: chicken,Answer: onion rings
+1.0,1.0,0.9640366435050964,1,Answer: pan,Answer: pan
+1.0,1.0,0.9644491672515869,1,Answer: water,Answer: water
+1.0,1.0,0.9640366435050964,1,Answer: pan,Answer: pan
+1.0,1.0,0.9644612073898315,1,Answer: rice,Answer: rice
+1.0,1.0,0.9671664834022522,1,Answer: cilantro,Answer: cilantro
+1.0,1.0,0.9646319150924683,1,Answer: lime,Answer: lime

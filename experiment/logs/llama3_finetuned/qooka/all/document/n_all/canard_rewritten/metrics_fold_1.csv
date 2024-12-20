@@ -1,0 +1,348 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+0.0,0.800000011920929,0.8844881057739258,1,thick cilantro,thick cilantro stems
+0.0,0.125,0.32840627431869507,1,bowl,"garlic, ginger, thick cilantro stems, and half of the chili in the bowl of a mortar and pestle"
+1.0,1.0,0.9699666500091553,1,"garlic, ginger, thick cilantro stems, and half of the chili","garlic, ginger, thick cilantro stems, and half of the chili"
+1.0,1.0,0.968511700630188,1,mortar and pestle,mortar and pestle
+0.0,0.15000000596046448,0.09088527411222458,1,Thinly slice remaining half chili and set aside for garnish.,"Transfer half of the remaining peanuts to the now-empty mortar and pestle. Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup."
+0.0,0.0,0.009804955683648586,1,coconut milk,remaining half chili
+1.0,1.0,0.9716690182685852,1,Carefully spoon off about 3 tablespoons of the solid fat from the surface and place it in a large Dutch oven.,Carefully spoon off about 3 tablespoons of the solid fat from the surface and place it in a large Dutch oven.
+1.0,1.0,0.9656605124473572,1,about 4 minutes,about 4 minutes
+1.0,1.0,0.9665487408638,1,medium-high heat.,medium-high heat
+1.0,1.0,0.9611756801605225,1,ginger,ginger
+0.0,0.8965517282485962,0.840105414390564,1,"Add half of sliced scallions and turmeric and cook, stirring, until lightly softened.","Add half of sliced scallions and turmeric and cook, stirring, until lightly softened, about 1 minute."
+1.0,1.0,0.950712263584137,1,stock,stock
+1.0,1.0,0.9653207063674927,1,1 quart,1 quart
+1.0,1.0,0.9689046740531921,1,bare simmer,bare simmer
+0.0,0.4615384638309479,0.5207661390304565,1,"Cook until sweet potatoes are totally softened, about 15 minutes.",about 15 minutes
+0.0,0.14492753148078918,0.35794463753700256,1,"combine peanuts and remaining tablespoon oil in a medium skillet set over medium heat. Cook, tossing and stirring frequently, until peanuts are a deep golden brown","Transfer 1/2 cup of peanuts to a cutting board and roughly chop. Reserve for garnish. Transfer half of the remaining peanuts to the now-empty mortar and pestle. Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup. Repeat"
+1.0,1.0,0.9688014984130859,1,medium skillet,a medium skillet
+1.0,1.0,0.96286940574646,1,about 8 minutes.,about 8 minutes
+1.0,1.0,0.9646674394607544,1,about 8 minutes,about 8 minutes
+1.0,1.0,0.9698712825775146,1,Immediately transfer to a bowl to prevent scorching.,Immediately transfer to a bowl to prevent scorching.
+0.0,0.4000000059604645,0.6405929327011108,1,bowl,a bowl to prevent scorching.
+0.0,0.0,0.009943636134266853,1,cup,peanuts
+0.0,0.22727273404598236,0.42304378747940063,1,Transfer 1/2 cup of peanuts to a cutting board and roughly chop. Reserve for garnish.,"Transfer half of the remaining peanuts to the now-empty mortar and pestle. Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup."
+0.0,0.800000011920929,0.7726024985313416,1,"Transfer half of the remaining peanuts to the now-empty mortar and pestle. Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup.","Transfer 1/2 cup of peanuts to a cutting board and roughly chop. Reserve for garnish. Transfer half of the remaining peanuts to the now-empty mortar and pestle. Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup. Repeat"
+0.0,0.5789473652839661,0.590648889541626,1,"Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup. Repeat with the other half of the remaining peanuts.","Pound to form a rough paste, then transfer to pot of soup."
+0.0,0.0,0.08695283532142639,1,repeat,Transfer to pot of soup.
+1.0,1.0,0.9668850898742676,1,peanuts,peanuts
+1.0,1.0,0.9732662439346313,1,blend soup until mostly smooth but a little texture remains using a hand blender directly in the pot or by transferring to a countertop blender in batches.,Blend soup until mostly smooth but a little texture remains using a hand blender directly in the pot or by transferring to a countertop blender in batches.
+0.0,0.6764705777168274,0.6483467221260071,1,"blend soup until mostly smooth but a little texture remains using a hand blender directly in the pot or by transferring to a countertop blender in batches. Bring to a simmer, stir in kale, and cook until kale is completely wilted and tender, about 5 minutes. Stir in lime juice.",Blend soup until mostly smooth but a little texture remains using a hand blender directly in the pot or by transferring to a countertop blender in batches.
+0.0,0.2222222238779068,0.5188001990318298,1,"cook until kale is completely wilted and tender, about 5 minutes. Stir in lime juice. Season soup to taste with salt, pepper, and hot sauce. Stir in cilantro, reserving some for garnish.",Stir in lime juice.
+0.0,0.6666666865348816,0.8451792001724243,1,lime,lime juice
+0.0,0.3333333432674408,0.48956099152565,1,pepper,"salt, pepper, and hot sauce"
+1.0,1.0,0.9614855051040649,1,cilantro,cilantro
+0.0,0.7428571581840515,0.752707302570343,1,"Place the lamb in a 1 gallon (3.8L) ziptop bag...pour the yogurt mixture over the lamb, seal the bag, and shake the bag to coat the lamb well.","Pour the yogurt mixture over the lamb, seal the bag, and shake the bag to coat the lamb well."
+0.0,0.0,0.010770907625555992,1,yogurt,water
+0.0,0.0,0.4729178845882416,1,one 2–inch piece fresh ginger,2 inch
+0.0,0.5263158082962036,0.7224665880203247,1,pour the yogurt mixture over the lamb,"pour the yogurt mixture over the lamb, seal the bag, and shake the bag to coat the lamb well."
+0.0,0.0,0.009385112673044205,1,lamb,yogurt
+1.0,1.0,0.9729202389717102,1,Leave the ziptop bag in the refrigerator to marinate overnight.,Leave the ziptop bag in the refrigerator to marinate overnight.
+0.0,0.0,0.06612254679203033,1,saucepan,Dutch oven
+0.0,0.7142857313156128,0.7646873593330383,1,until the onions caramelize and turn dark brown (but not black),"cook, stirring occasionally, until the onions caramelize and turn dark brown (but not black), about 25 to 30 minutes."
+1.0,1.0,0.9649068713188171,1,about 25 to 30 minutes,about 25 to 30 minutes
+0.0,0.5714285969734192,0.6434870362281799,1,30 minutes,about 25 to 30 minutes
+0.0,0.25,0.4747007489204407,1,"Add the onions, season with a pinch of salt",salt
+0.0,0.380952388048172,0.6650633215904236,1,Remove half of the caramelized onions and reserve to use as garnish for the biryani.,Garnish the top of the rice with the reserved caramelized onions.
+0.0,0.7118644118309021,0.7105783224105835,1,"Add 3 green cardamom pods, cinnamon, cloves, bay leaves, garam masala, Kashmiri chili, mace, and turmeric, and sauté just until spices become fragrant, 30 to 45 seconds. Add the lamb along with the yogurt marinade, the water or stock, and the cilantro, mint, and green chili. Stir to mix well, increase the heat to medium-high, and bring liquid to a boil. Reduce heat to low, cover with lid, and cook for 30 to 45 minutes, stirring occasionally, until the lamb is completely tender.","Add the lamb along with the yogurt marinade, the water or stock, and the cilantro, mint, and green chili. Stir to mix well, increase the heat to medium-high, and bring liquid to a boil. Reduce heat to low, cover with lid, and cook for 30 to 45 minutes,"
+0.0,0.6666666865348816,0.5117314457893372,1,"until spices become fragrant, 30 to 45 seconds.",30 to 45 seconds
+0.0,0.4000000059604645,0.2617083489894867,1,3,3 green cardamom pods
+0.0,0.0,0.6006796360015869,1,heat to medium-high,medium
+0.0,0.6666666865348816,0.7472936511039734,1,45 minutes,30 to 45 minutes
+0.0,0.0,0.019101109355688095,1,rice,water
+0.0,0.6666666865348816,0.7337192296981812,1,water,soaking water
+0.0,0.06896551698446274,0.4416292607784271,1,"Combine rice with 4 cups cold water, lemon juice, the remaining 1 1/2 teaspoons kosher salt, the remaining 2 green cardamom pods, and the remaining 2 teaspoons of ghee or oil.",rice
+0.0,0.9411764740943909,0.9707565307617188,1,"If you break a grain of rice, you will see an outer translucent ring and a tiny, opaque inner ring.","—if you break a grain of rice, you will see an outer translucent ring and a tiny, opaque inner ring."
+0.0,0.7142857313156128,0.7439512014389038,1,"Increase the heat to medium, stirring often to prevent scorching.",stirring often to prevent scorching
+0.0,0.9375,0.6860097646713257,1,"When the lamb is tender, remove lid and increase the heat to medium, stirring often to prevent scorching, and cook until the liquid starts to thicken and reduces to about 1 1/2 cups (360ml), about 5 minutes.","Remove lid and increase the heat to medium, stirring often to prevent scorching, and cook until the liquid starts to thicken and reduces to about 1 1/2 cups (360ml), about 5 minutes."
+1.0,1.0,0.9553631544113159,1,rice,rice
+0.0,0.6666666865348816,0.8079162836074829,1,large wooden spoon,"clean, large wooden spoon or spatula"
+1.0,1.0,0.9598270058631897,1,350°F (180°C),350°F (180°C)
+0.0,0.6849315166473389,0.7700455188751221,1,Place half the saffron threads in a mortar and pestle and grind to a fine powder. Add the ground saffron and remaining saffron strands to the hot milk and let steep for 10 minutes.,"Place half the saffron threads in a mortar and pestle and grind to a fine powder. In a small saucepan placed over low heat, warm the milk just until it starts to bubble, then turn off the heat. Add the ground saffron and remaining saffron strands to the hot milk and let"
+0.0,0.27272728085517883,0.5387436151504517,1,turn off the heat. Add the ground saffron and remaining saffron strands to the hot milk and let steep for 10 minutes.,Turn off the heat.
+1.0,1.0,0.9670432806015015,1,small saucepan,small saucepan
+1.0,1.0,0.9665839672088623,1,low heat,low heat
+0.0,0.800000011920929,0.9424626231193542,1,for 10 minutes,10 minutes
+1.0,1.0,0.9676804542541504,1,caramelized onions,caramelized onions
+0.0,0.800000011920929,0.9407268166542053,1,for 20 minutes,20 minutes
+0.0,0.1818181872367859,0.6367741227149963,1,"Cover the Dutch oven with two sheets of aluminum foil and crimp the overhang to form a tight seal, place the lid over the foil.",aluminum foil
+0.0,0.23529411852359772,0.38720324635505676,1,Remove from the oven and let stand for 5 minutes. Uncover the pot and carefully peel off the aluminum seal. Use a fork to loosen the rice a little and serve immediately straight from the Dutch oven.,"Sprinkle the saffron-infused milk over the rice, followed by the rosewater and the pandan water. Garnish the top of the rice with the reserved caramelized onions. Cover the Dutch oven with two sheets of aluminum foil and crimp the overhang to form a tight seal, place the lid over"
+1.0,1.0,0.9613679051399231,1,pot,the pot
+0.0,0.5619834661483765,0.6603685021400452,1,"Adjust oven rack to center position and preheat to 350°F (180°C). Working with one pumpkin at a time, use a sharp paring knife to cut the top of the pumpkin off in one piece. Carefully run knife along the cavity of the pumpkin to loosen seeds and stringy pulp, then use a spoon to scoop them out and scrape the cavity clean. Using the paring knife, scrape seeds and pulp from the tops as well. Discard seeds and pulp or reserve for another use. Repeat with remaining pumpkins.","Roast the Pumpkins and Squash: Adjust oven rack to center position and preheat to 350°F (180°C). Line a rimmed baking sheet with parchment paper. Working with one pumpkin at a time, use a sharp paring knife to cut the top of the pumpkin off in one piece (as when"
+0.0,0.800000011920929,0.9200237393379211,1,to 350°F (180°C).,350°F (180°C)
+0.0,0.6666666865348816,0.6445892453193665,1,180°c,350°F (180°C)
+0.0,0.7058823704719543,0.7982885837554932,1,"Carefully run knife along the cavity of the pumpkin to loosen seeds and stringy pulp, then use a spoon to scoop them out and scrape the cavity clean. Using the paring knife, scrape seeds and pulp from the tops as well. Discard seeds and pulp or reserve for another use.","Carefully run knife along the cavity of the pumpkin to loosen seeds and stringy pulp, then use a spoon to scoop them out and scrape the cavity clean."
+1.0,1.0,0.9723204374313354,1,"Lightly drizzle the cut and inner surfaces of kabocha squash, pumpkins, and pumpkin tops with olive oil, rubbing them with your hands to evenly coat. Season heavily with salt and pepper.","Lightly drizzle the cut and inner surfaces of kabocha squash, pumpkins, and pumpkin tops with olive oil, rubbing them with your hands to evenly coat. Season heavily with salt and pepper."
+0.0,0.8888888955116272,0.7732844352722168,1,"Lightly drizzle the cut and inner surfaces of kabocha squash, pumpkins, and pumpkin tops with olive oil, rubbing them with your hands to evenly coat.","Lightly drizzle the cut and inner surfaces of kabocha squash, pumpkins, and pumpkin tops with olive oil, rubbing them with your hands to evenly coat. Season heavily with salt and pepper."
+1.0,1.0,0.9662688374519348,1,Season heavily with salt and pepper.,Season heavily with salt and pepper.
+1.0,1.0,0.972493588924408,1,"Place pumpkin tops on pumpkins, then set pumpkins on prepared baking sheet. Set kabocha squash, cut side down, on the same baking sheet.","Place pumpkin tops on pumpkins, then set pumpkins on prepared baking sheet. Set kabocha squash, cut side down, on the same baking sheet."
+0.0,0.8372092843055725,0.7485000491142273,1,"Roast until kabocha squash is tender and can easily be pierced with a paring knife, and sugar pumpkins have slightly softened, 45 minutes to 1 hour.","kabocha squash is tender and can easily be pierced with a paring knife, and sugar pumpkins have slightly softened"
+0.0,0.09836065769195557,0.3857843279838562,1,Lift pumpkin tops from pumpkins to allow steam to escape and set all roasted squash aside to cool on baking sheet.,"Stuff pumpkins by evenly dividing and layering half the ingredients in the following order: mashed kabocha squash, bread, mushroom-kale mixture, pepitas, pecans, Gruyère, and spiced cream. Gently press mixture down with your hands, then repeat layering process with remaining half of stuffing"
+0.0,0.625,0.7130687236785889,1,"heat oil over medium-high heat until shimmering. Add mushrooms, season with salt and pepper, and cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes.","cook, stirring frequently, until moisture has evaporated and mushrooms are well browned, about 10 minutes."
+0.0,0.20895522832870483,0.5223339200019836,1,"cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes.","Push mushrooms and kale to outer edge of skillet and add butter to center of skillet. Once butter has melted and begun foaming, add shallots, garlic, and thyme to center of skillet and cook, stirring constantly, until fragrant, about 30 seconds. Add sherry and sherry vinegar and stir to"
+0.0,0.1463414579629898,0.43389812111854553,1,Push mushrooms and kale to outer edge of skillet and add butter to center of skillet.,"mushrooms, season with salt and pepper, and cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes."
+1.0,1.0,0.9745060205459595,1,"Once butter has melted and begun foaming, add shallots, garlic, and thyme to center of skillet and cook, stirring constantly, until fragrant, about 30 seconds.","Once butter has melted and begun foaming, add shallots, garlic, and thyme to center of skillet and cook, stirring constantly, until fragrant, about 30 seconds."
+1.0,1.0,0.9732715487480164,1,Add sherry and sherry vinegar and stir to combine. Season with salt and pepper and transfer mixture to a heatproof medium bowl to cool.,Add sherry and sherry vinegar and stir to combine. Season with salt and pepper and transfer mixture to a heatproof medium bowl to cool.
+0.0,0.75,0.787527322769165,1,"Stuff pumpkins by evenly dividing and layering half the ingredients in the following order: mashed kabocha squash, bread, mushroom-kale mixture, pepitas, pecans, Gruyère, and spiced cream.","Stuff pumpkins by evenly dividing and layering half the ingredients in the following order: mashed kabocha squash, bread, mushroom-kale mixture, pepitas, pecans, Gruyère, and spiced cream. Gently press mixture down with your hands, then repeat layering process with remaining half of stuffing"
+1.0,1.0,0.9712197780609131,1,Use a pastry brush to paint glaze onto pumpkins and pumpkin tops.,Use a pastry brush to paint glaze onto pumpkins and pumpkin tops.
+1.0,1.0,0.9721588492393494,1,pumpkins are tender and easily pierced by a paring knife.,pumpkins are tender and easily pierced by a paring knife
+1.0,1.0,0.959867537021637,1,30 to 45 minutes.,30 to 45 minutes
+1.0,1.0,0.9718970656394958,1,Set tops on pumpkins and continue roasting for 10 minutes longer.,Set tops on pumpkins and continue roasting for 10 minutes longer.
+0.0,0.2222222238779068,0.6151430010795593,1,bowl,bowl of a stand mixer fitted with a paddle attachment
+1.0,1.0,0.9717236161231995,1,"butter, brown sugar, baking soda, salt, cinnamon, honey, and orange zest ","butter, brown sugar, baking soda, salt, cinnamon, honey, and orange zest"
+0.0,0.6000000238418579,0.5460976958274841,1,"until light and fluffy, about 5 minutes.",about 5 minutes
+0.0,0.8461538553237915,0.7033960223197937,1,Add the egg yolks one at a time and continue beating until smooth.,"Add orange juice, then add the egg yolks one at a time and continue beating until smooth."
+0.0,0.1818181872367859,0.47385603189468384,1,bowl,knead the dough against the sides of the bowl to form a smooth ball.
+0.0,0.5600000023841858,0.7047849297523499,1,Flatten into a disc and wrap in plastic.,"Flatten into a disc and wrap in plastic. Refrigerate until cool and firm but not hard, about 1 hour."
+0.0,0.0,0.5073315501213074,1,about 1 hour,30 minutes
+0.0,0.4615384638309479,0.5737665295600891,1,"until cool and firm but not hard, about 1 hour.",about 1 hour
+0.0,0.0555555559694767,0.38242846727371216,1,The dough can be refrigerated for up to 1 week; soften for 30 minutes at room temperature.,"Knead the cool dough on a bare work surface until pliable and smooth, then dust with flour and roll into an 8-inch square."
+0.0,0.800000011920929,0.9443832635879517,1,for 30 minutes,30 minutes
+1.0,1.0,0.9696462154388428,1,Cut the figs in half.,Cut the figs in half.
+0.0,0.0,0.03659748286008835,1,minute,up to 24 hours
+0.0,0.0,0.010625362396240234,1,bowl and stand mixer,"figs, applesauce, orange juice"
+1.0,1.0,0.9745264649391174,1,"Transfer to a sturdy piping bag fitted with a 1/2-inch plain tip and set aside until needed, up to 24 hours.","Transfer to a sturdy piping bag fitted with a 1/2-inch plain tip and set aside until needed, up to 24 hours."
+0.0,0.12903225421905518,0.17392921447753906,1,The preserves can be refrigerated in an airtight container for up to 3 weeks.,"Transfer to a sturdy piping bag fitted with a 1/2-inch plain tip and set aside until needed, up to 24 hours."
+0.0,0.5,0.7234034538269043,1,to 350°f,350°F (175°C)
+1.0,1.0,0.9725254774093628,1,Adjust oven rack to middle position and preheat to 350°F (175°C).,Adjust oven rack to middle position and preheat to 350°F (175°C).
+0.0,0.6666666865348816,0.626113772392273,1,175°c,350°F (175°C)
+0.0,0.190476194024086,0.5677366256713867,1,offset spatula,"Slide an offset spatula under the dough to loosen it, brush off excess flour, and cut into four 3 1/4-inch strips."
+1.0,1.0,0.9738933444023132,1,"Holding the bag at a 90-degree angle just above the surface of the dough (this will force the preserves to flatten as they leave the bag), pipe a 1-inch-wide strip down the center of each portion.","Holding the bag at a 90-degree angle just above the surface of the dough (this will force the preserves to flatten as they leave the bag), pipe a 1-inch-wide strip down the center of each portion."
+0.0,0.75,0.7343345880508423,1,"Fold a long flap of dough over each strip, brush away excess flour","Fold a long flap of dough over each strip, brush away excess flour, and roll each bar over, seam side down."
+0.0,0.8571428656578064,0.7590559124946594,1,half sheet pan,parchment-lined half sheet pan
+1.0,1.0,0.9638438820838928,1,about 18 minutes,about 18 minutes
+0.0,0.0,0.009715378284454346,1,paper towel,offset spatula
+1.0,1.0,0.973688542842865,1,"Immediately cut into 1-inch pieces with a bench scraper, then transfer to an airtight container, with a paper towel between each layer and on top.","Immediately cut into 1-inch pieces with a bench scraper, then transfer to an airtight container, with a paper towel between each layer and on top."
+0.0,0.9375,0.8694998025894165,1,"This will steam the cookies and retain moisture for them to reabsorb, creating a uniquely soft and cakey texture.","steam the cookies and retain moisture for them to reabsorb, creating a uniquely soft and cakey texture"
+0.0,0.6666666865348816,0.9256659746170044,1,6 hours,at least 6 hours
+0.0,0.1875,0.2310020625591278,1,Store for up to 1 week at room temperature or up to a month in the fridge.,"Cover and “mature” for at least 6 hours before serving; prior to that, the cookies will taste dry."
+1.0,1.0,0.9580249190330505,1,water,water
+1.0,1.0,0.9692448973655701,1,"Bring water, butter, and salt to a boil in a medium saucepan over high heat.","Bring water, butter, and salt to a boil in a medium saucepan over high heat."
+0.0,0.25,0.6793325543403625,1,"Continue to stir, beating dough forcefully and rapidly",stir with a wooden spoon until a smooth dough forms.
+0.0,0.8965517282485962,0.8213003873825073,1,Continue cooking until dough pulls away from sides of pot leaving a thin layer and steams slightly.,dough pulls away from sides of pot leaving a thin layer and steams slightly.
+0.0,0.4000000059604645,0.6787686944007874,1,stand mixer,the bowl of a stand mixer fitted with a paddle attachment
+1.0,1.0,0.9668411612510681,1,mustard,mustard
+1.0,1.0,0.9714995622634888,1,Add mustard and cheese and beat on medium-low speed.,Add mustard and cheese and beat on medium-low speed.
+1.0,1.0,0.9729397892951965,1,"Add eggs one at a time, allowing dough to fully incorporate egg before adding the next one.","Add eggs one at a time, allowing dough to fully incorporate egg before adding the next one."
+0.0,0.0,0.733145534992218,1,egg,eggs
+0.0,0.17391304671764374,0.3375243842601776,1,Transfer mixture to a gallon-sized zipper-lock bag or a pastry bag fitted with a 1/2-inch tip.,Let mixture rest 15 to 25 minutes at room temperature.
+0.0,0.0,0.011775962077081203,1,mustard and cheese,herbs
+1.0,1.0,0.9634914994239807,1,eggs,eggs
+0.0,0.7317073345184326,0.7201992869377136,1,"Add eggs one at a time, beating vigorously with each addition to prevent eggs from curdling and allowing dough to fully incorporate egg before adding the next one.","Add eggs one at a time, allowing dough to fully incorporate egg before adding the next one."
+0.0,0.0,0.15033528208732605,1,Transfer mixture to a gallon-sized zipper-lock bag or a pastry bag fitted with a 1/2-inch tip.,stand mixer
+0.0,0.0,0.017014874145388603,1,mixture,herbs
+0.0,0.6666666865348816,0.6419409513473511,1,25 minutes,15 to 25 minutes
+1.0,1.0,0.9654474854469299,1,large pot,large pot
+0.0,0.05714285746216774,0.11122354865074158,1,"Meanwhile, bring a large pot of salted water to a simmer and have a rimmed baking sheet. If using a zipper-lock bag, cut off a 1/2-inch opening in one corner.",Let mixture rest 15 to 25 minutes at room temperature.
+1.0,1.0,0.9736551642417908,1,"Holding the bag over the boiling water, squeeze the mixture out of the bag, cutting it off with a paring knife into 1-inch lengths and letting them fall directly into the simmering water.","Holding the bag over the boiling water, squeeze the mixture out of the bag, cutting it off with a paring knife into 1-inch lengths and letting them fall directly into the simmering water."
+1.0,1.0,0.9686475396156311,1,paring knife,paring knife
+0.0,0.6341463327407837,0.7189493179321289,1,"Continue cooking until gnocchi are fully cooked to the center, about 3 minutes longer. Lift gnocchi with a fine mesh strainer or a metal spider and transfer to rimmed baking sheet.","Continue cooking until gnocchi are fully cooked to the center, about 3 minutes longer."
+0.0,0.6666666865348816,0.6830294132232666,1,fine mesh strainer,fine mesh strainer or a metal spider
+0.0,0.5945945978164673,0.6436657905578613,1,Lift gnocchi with a fine mesh strainer or a metal spider and transfer to rimmed baking sheet. Drizzle with a little bit of olive oil and toss to coat.,Drizzle with a little bit of olive oil and toss to coat.
+0.0,0.17391304671764374,0.013504932634532452,1,Drizzle with a little bit of olive oil and toss to coat.,beat dough forcefully and rapidly to prevent it from sticking to the pot.
+0.0,0.0,0.018038714304566383,1,"roasted cherry tomatoes, corn, and zucchini,",a little bit of olive oil
+0.0,0.8421052694320679,0.7541245818138123,1,"If using day-old rice (see note), transfer to a medium bowl and break the rice up with your hands into individual grains before proceeding.",Transfer to a medium bowl and break the rice up with your hands into individual grains before proceeding.
+1.0,1.0,0.9650607109069824,1,high heat,high heat
+0.0,0.0,0.07481669634580612,1,wok,vegetable oil
+1.0,1.0,0.966289222240448,1,about 3 minutes,about 3 minutes
+0.0,0.800000011920929,0.7209744453430176,1,"Return all the rice to the wok and press it up the sides, leaving a space in the middle.","Return all the rice to the wok and press it up the sides, leaving a space in the middle. Add 1/2 tablespoon (7ml) oil to the space."
+0.0,0.6666666865348816,0.8047413229942322,1,rice,all the rice
+0.0,0.0,0.025188477709889412,1,rice,soy sauce and sesame oil
+0.0,0.6666666865348816,0.7732694745063782,1,soy,soy sauce
+0.0,0.3333333432674408,0.3526068925857544,1,wok,rice to the side of the wok
+1.0,1.0,0.9670887589454651,1,little salt,a little salt
+0.0,0.0,0.038259752094745636,1,egg,soy sauce and sesame oil
+1.0,1.0,0.9705345630645752,1,Toss the egg and the rice together.,Toss the egg and the rice together.
+0.0,0.2857142984867096,0.32512935996055603,1,Continue to toss and stir until peas are thawed and every grain of rice is separate.,Toss the egg and the rice together.
+0.0,0.6666666865348816,0.5999182462692261,1,peas,frozen peas
+0.0,0.8421052694320679,0.8201854825019836,1,Continue to toss and stir until peas are thawed and every grain of rice is separate. Serve immediately.,Add frozen peas and continue to toss and stir until peas are thawed and every grain of rice is separate.
+1.0,1.0,0.9684145450592041,1,frozen peas,frozen peas
+0.0,0.4000000059604645,0.6422430872917175,1,rice,every grain of rice
+0.0,0.0,0.009571162983775139,1,paper towel,scallions
+1.0,1.0,0.9718760251998901,1,Place a paper towel or kitchen towel directly on the surface of water to keep mushrooms mostly submerged.,Place a paper towel or kitchen towel directly on surface of water to keep mushrooms mostly submerged.
+0.0,0.0,0.024674709886312485,1,water,oil
+1.0,1.0,0.9648589491844177,1,large wok,large wok
+0.0,0.0,0.20626218616962433,1,small saucepan,large wok
+0.0,0.1428571492433548,0.20044544339179993,1,transfer fried mushrooms to a medium bowl and return oil to wok.,"Discard kombu. Discard all but 3/4 cups soaking liquid. Add cornstarch, wine, and soy sauce to liquid."
+0.0,0.2222222238779068,0.11465584486722946,1,small bowl,fine mesh strainer set over a small saucepan
+0.0,0.6363636255264282,0.6314582824707031,1,"Discard all but 3/4 cups soaking liquid. Add cornstarch, wine, and soy sauce to liquid.",Discard all but 3/4 cups soaking liquid.
+0.0,0.2857142984867096,0.5507899522781372,1,mushrooms,Add to bowl with fried mushrooms.
+0.0,0.9285714030265808,0.9388952851295471,1,"Remove and discard hard central stems from woodear mushrooms, then finely chope all the mushrooms.","Remove and discard hard central stems from woodear mushrooms, then finely chop all the mushrooms."
+0.0,0.6666666865348816,0.6926964521408081,1,mushrooms,woodear mushrooms
+1.0,1.0,0.9650607109069824,1,high heat,high heat
+0.0,0.0,0.0092325359582901,1,wok,mushrooms
+0.0,0.0,0.01477969903498888,1,wok,oil
+0.0,0.7555555701255798,0.7703701853752136,1,"Add garlic, ginger, scallion whites, chives, and yacai (if using). Stir-fry until fragrant, about 30 seconds. Add chopped mushrooms and stir-fry to combine. Add fermented chili broad bean paste and stir until all the vegetables are well coated. Stir mushroom liquid mixture to incorporate cornstarch, then add to wok.","Heat oil over high heat until lightly smoking. Add garlic, ginger, scallion whites, chives, and yacai (if using). Stir-fry until fragrant, about 30 seconds. Add chopped mushrooms and stir-fry to combine. Add fermented chili broad bean paste and stir until all the vegetables"
+1.0,1.0,0.9701576828956604,1,"garlic, ginger, scallion whites, chives, and yacai (if using)","garlic, ginger, scallion whites, chives, and yacai (if using)"
+1.0,1.0,0.9685534834861755,1,mushrooms,mushrooms
+0.0,0.0,0.014139837585389614,1,liquid mixture,heated
+1.0,1.0,0.9722253084182739,1,"Add tofu and carefully fold in, trying not to break it.","Add tofu and carefully fold in, trying not to break it."
+0.0,0.0,0.009522593580186367,1,tofu,mushrooms
+0.0,0.0,0.008874424733221531,1,"Drizzle with chili oil, and top with scallions and ground Sichuan peppercorns.","Carefully fold in, trying not to break it."
+0.0,0.8648648858070374,0.7434586882591248,1,"Transfer to a serving platter, drizzle with chili oil, and top with scallions and ground Sichuan peppercorns.","Transfer to a serving platter, drizzle with chili oil, and top with scallions and ground Sichuan peppercorns. Serve immediately with white rice."
+1.0,1.0,0.9675986170768738,1,peppercorns,peppercorns
+0.0,0.0,0.008981619961559772,1,white rice,scallions
+1.0,1.0,0.9679620862007141,1,Serve immediately with white rice.,Serve immediately with white rice.
+0.0,0.42553192377090454,0.6672206521034241,1,"Add onion, leek, carrots, celery, and rosemary or thyme sprigs.","Add onion, leek, carrots, celery, and rosemary or thyme sprigs. Season gently with salt and cook, stirring, until the vegetables are fully softened but not browned, about 10 minutes, adding more oil as necessary if the pot looks dry."
+0.0,0.7142857313156128,0.682096004486084,1,Add more oil as necessary.,Add more oil as necessary if the pot looks dry.
+1.0,1.0,0.970167338848114,1,"stir until it is incorporated, about 30 seconds.","stir until it is incorporated, about 30 seconds."
+0.0,0.0,0.009282078593969345,1,Add bread,tomato paste
+1.0,1.0,0.97305828332901,1,"Add water, 1/2 cup at a time, if soup becomes too thick and dry.","Add water, 1/2 cup at a time, if soup becomes too thick and dry."
+0.0,0.4935064911842346,0.5920811295509338,1,"The soup can be served at varying consistencies: more wet and brothy, like a thick, chunky soup, or cooked down until thickened like a porridge. Slide it onto a plate. To serve at any consistency, discard bay leaves, rosemary or thyme sprigs, and Parmesan rind, drizzle with fresh olive oil and top with freshly ground black pepper and more grated cheese (optional).","Serve at varying consistencies: more wet and brothy, like a thick, chunky soup, or cooked down until thickened like a porridge."
+0.0,0.04545454680919647,0.19019655883312225,1,"Once reduced to a thick porridge, you can ladle some of it into a small (8-inch) nonstick skillet with 1 tablespoon oil and cook over medium-high heat, stirring frequently, until it coalesces into a dense mass; it will eventually take the shape of a pancake.",Slide it onto a plate.
+0.0,0.43478259444236755,0.6879527568817139,1,"whisk together water, salt, lemon juice, sugar, and black pepper until sugar is completely dissolved",stir until sugar and salt have fully dissolved.
+1.0,1.0,0.973116397857666,1,"whisk together water, salt, lemon juice, sugar, and black pepper until sugar is completely dissolved.","whisk together water, salt, lemon juice, sugar, and black pepper until sugar is completely dissolved."
+0.0,0.6666666865348816,0.8478519320487976,1,lemon juice,lemon
+0.0,0.2857142984867096,0.391696035861969,1,"lemon juice, sugar, and black pepper",sugar
+0.0,0.2222222238779068,0.4672544598579407,1,"water, salt, lemon juice, sugar, and black pepper",water
+0.0,0.0,0.17692340910434723,1,Set aside.,Discard marinade.
+0.0,0.0,0.5411065220832825,1,in a gallon zipper-lock bag or large baking dish|in a gallon zipper-lock bag|large baking dish|zipper-lock bag,pork belly
+1.0,1.0,0.9674884080886841,1,Wrap tightly with plastic wrap.,wrap tightly with plastic wrap
+0.0,0.6666666865348816,0.9400196075439453,1,24 hours,up to 24 hours
+0.0,0.6666666865348816,0.9256659746170044,1,6 hours,at least 6 hours
+0.0,0.1599999964237213,0.23965956270694733,1,"When all the charcoal is lit and covered with gray ash, pour out and arrange the coals on one side of the charcoal grate. Set cooking grate in place, cover grill, and allow to preheat for 5 minutes.","Transfer to refrigerator, and marinate for at least 6 hours and up to 24 hours."
+0.0,0.800000011920929,0.9397533535957336,1,for 5 minutes,5 minutes
+0.0,0.800000011920929,0.9548433423042297,1,highest heat,highest heat setting
+0.0,0.8648648858070374,0.7420016527175903,1,"Set half the burners on a gas grill to the highest heat setting, cover, and preheat for 10 minutes. Clean and oil the grill grates.","set half the burners on a gas grill to the highest heat setting, cover, and preheat for 10 minutes."
+0.0,0.800000011920929,0.9424626231193542,1,for 10 minutes,10 minutes
+1.0,1.0,0.9712653160095215,1,Clean and oil the grill grates.,Clean and oil the grill grates.
+1.0,1.0,0.9727568030357361,1,Wipe off excess and pat dry with paper towels; discard marinade.,"Wipe off excess, and pat dry with paper towels; discard marinade."
+1.0,1.0,0.9739128947257996,1,"Quickly move pork to cooler side of grill; once flare-up subsides, move pork back to hotter side of grill and continue to cook.","Quickly move pork to cooler side of grill; once flare-up subsides, move pork back to hotter side of grill and continue to cook."
+0.0,0.10526315867900848,0.4294455051422119,1,pork,Transfer to a cutting board and let rest for 5 minutes; slice pork belly into 1-inch-wide by 2-inch-long strips.
+0.0,0.6666666865348816,0.6642999053001404,1,68°c,155°F (68°C)
+0.0,0.5714285969734192,0.7090489864349365,1,25 minutes,between 20 to 25 minutes
+1.0,1.0,0.9669108390808105,1,"garlic, vinegar, black pepper, salt, and sugar","garlic, vinegar, black pepper, salt, and sugar"
+0.0,0.875,0.7303971648216248,1,"sliced onion, garlic, vinegar, black pepper, salt, and sugar","garlic, vinegar, black pepper, salt, and sugar"
+0.0,0.2222222238779068,0.5833421349525452,1,Stir until sugar and salt have fully dissolved,stir
+1.0,1.0,0.9612960815429688,1,sugar,sugar
+1.0,1.0,0.9702634811401367,1,Add pork and toss to evenly coat with dressing,Add pork and toss to evenly coat with dressing.
+0.0,0.1428571492433548,0.4732351005077362,1,onion,"Transfer to serving platter or bowl, garnish with scallions and remaining sliced onion."
+0.0,0.6666666865348816,0.8303390145301819,1,Garnish with scallions and remaining sliced onion.,"Transfer to serving platter or bowl, garnish with scallions and remaining sliced onion. Serve."
+0.0,0.0,0.14216108620166779,1,Garnish with scallions and remaining sliced onion.,Serve.
+0.0,0.8421052694320679,0.7541245818138123,1,"If using day-old rice (see note), transfer to a medium bowl and break the rice up with your hands into individual grains before proceeding.",Transfer to a medium bowl and break the rice up with your hands into individual grains before proceeding.
+0.0,0.7777777910232544,0.7589728236198425,1,"If using day-old rice (see note), transfer to a medium bowl and break the rice up with your hands into individual grains",Transfer to a medium bowl and break the rice up with your hands into individual grains before proceeding.
+0.0,0.0,0.07481669634580612,1,wok,vegetable oil
+1.0,1.0,0.9650607109069824,1,high heat,high heat
+1.0,1.0,0.966289222240448,1,about 3 minutes,about 3 minutes
+1.0,1.0,0.9553631544113159,1,rice,rice
+1.0,1.0,0.9553631544113159,1,rice,rice
+0.0,0.6666666865348816,0.7732694745063782,1,soy,soy sauce
+1.0,1.0,0.9684650301933289,1,side of the wok,side of the wok
+1.0,1.0,0.9708159565925598,1,Add remaining 1/2 tablespoon (7ml) oil.,Add remaining 1/2 tablespoon (7ml) oil.
+0.0,0.6206896305084229,0.7268678545951843,1,"Break the egg into the oil and season with a little salt. Use a spatula to scramble the egg, breaking it up into small bits.",Break the egg into the oil and season with a little salt.
+0.0,0.3333333432674408,0.5573237538337708,1,little salt,salt and white pepper
+0.0,0.0,0.009751839563250542,1,egg,remaining 1/2 tablespoon (7ml) oil
+1.0,1.0,0.9705345630645752,1,Toss the egg and the rice together.,Toss the egg and the rice together.
+0.0,0.6666666865348816,0.5999182462692261,1,peas,frozen peas
+0.0,0.8421052694320679,0.8201854825019836,1,Continue to toss and stir until peas are thawed and every grain of rice is separate. Serve immediately.,Add frozen peas and continue to toss and stir until peas are thawed and every grain of rice is separate.
+0.0,0.4000000059604645,0.6422430872917175,1,rice,every grain of rice
+1.0,1.0,0.9684145450592041,1,frozen peas,frozen peas
+0.0,0.8888888955116272,0.8733967542648315,1,Continue to toss and stir until peas are thawed and every grain of rice is separate.,Add frozen peas and continue to toss and stir until peas are thawed and every grain of rice is separate.
+0.0,0.5,0.7181164026260376,1,to 350°f,350°F (180°C)
+1.0,1.0,0.9662363529205322,1,sharp paring knife,sharp paring knife
+0.0,0.7058823704719543,0.7982885837554932,1,"Carefully run knife along the cavity of the pumpkin to loosen seeds and stringy pulp, then use a spoon to scoop them out and scrape the cavity clean. Using the paring knife, scrape seeds and pulp from the tops as well. Discard seeds and pulp or reserve for another use.","Carefully run knife along the cavity of the pumpkin to loosen seeds and stringy pulp, then use a spoon to scoop them out and scrape the cavity clean."
+0.0,0.800000011920929,0.8643007278442383,1,paring knife,sharp paring knife
+1.0,1.0,0.972493588924408,1,"Place pumpkin tops on pumpkins, then set pumpkins on prepared baking sheet. Set kabocha squash, cut side down, on the same baking sheet.","Place pumpkin tops on pumpkins, then set pumpkins on prepared baking sheet. Set kabocha squash, cut side down, on the same baking sheet."
+0.0,0.5714285969734192,0.6959991455078125,1,1 hour,45 minutes to 1 hour
+0.0,0.8372092843055725,0.7485000491142273,1,"Roast until kabocha squash is tender and can easily be pierced with a paring knife, and sugar pumpkins have slightly softened, 45 minutes to 1 hour.","kabocha squash is tender and can easily be pierced with a paring knife, and sugar pumpkins have slightly softened"
+0.0,0.5714285969734192,0.7347111105918884,1,45 minutes,45 minutes to 1 hour
+0.0,0.800000011920929,0.8643007278442383,1,paring knife,sharp paring knife
+0.0,0.6451612710952759,0.6083118319511414,1,Lift pumpkin tops from pumpkins to allow steam to escape and set all roasted squash aside to cool on baking sheet.,Set all roasted squash aside to cool on baking sheet.
+0.0,0.7111111283302307,0.6769274473190308,1,use a large spoon to scoop the flesh into a medium bowl and roughly mash with the back of the spoon.,Use a large spoon to scoop the flesh into a medium bowl and roughly mash with the back of the spoon. Discard squash skin. Season mashed squash with salt and pepper and set aside.
+0.0,0.6666666865348816,0.8561497330665588,1,spoon,large spoon
+1.0,1.0,0.9676108956336975,1,medium bowl,medium bowl
+1.0,1.0,0.9666078090667725,1,large spoon,large spoon
+1.0,1.0,0.969126284122467,1,Discard squash skin.,Discard squash skin.
+0.0,0.0,0.2669740915298462,1,medium-high heat,350°F (180°C)
+0.0,0.625,0.7130687236785889,1,"heat oil over medium-high heat until shimmering. Add mushrooms, season with salt and pepper, and cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes.","cook, stirring frequently, until moisture has evaporated and mushrooms are well browned, about 10 minutes."
+1.0,1.0,0.964808464050293,1,about 10 minutes,about 10 minutes
+0.0,0.3921568691730499,0.621491551399231,1,"cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes.","Push mushrooms to outer edge of skillet, add kale to now-empty center of skillet, and cook, stirring frequently, until kale is slightly wilted and softened and has mixed with mushrooms, about 3 minutes."
+1.0,1.0,0.9734452366828918,1,"Push mushrooms to outer edge of skillet, add kale to now-empty center of skillet, and cook, stirring frequently, until kale is slightly wilted and softened and has mixed with mushrooms, about 3 minutes.","Push mushrooms to outer edge of skillet, add kale to now-empty center of skillet, and cook, stirring frequently, until kale is slightly wilted and softened and has mixed with mushrooms, about 3 minutes."
+1.0,1.0,0.966289222240448,1,about 3 minutes,about 3 minutes
+0.0,0.2222222238779068,0.689473569393158,1,skillet,large 12-inch stainless steel or cast iron skillet
+0.0,0.1463414579629898,0.43389812111854553,1,Push mushrooms and kale to outer edge of skillet and add butter to center of skillet.,"mushrooms, season with salt and pepper, and cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes."
+1.0,1.0,0.9745060205459595,1,"Once butter has melted and begun foaming, add shallots, garlic, and thyme to center of skillet and cook, stirring constantly, until fragrant, about 30 seconds.","Once butter has melted and begun foaming, add shallots, garlic, and thyme to center of skillet and cook, stirring constantly, until fragrant, about 30 seconds."
+0.0,0.2222222238779068,0.689473569393158,1,skillet,large 12-inch stainless steel or cast iron skillet
+1.0,1.0,0.9732715487480164,1,Add sherry and sherry vinegar and stir to combine. Season with salt and pepper and transfer mixture to a heatproof medium bowl to cool.,Add sherry and sherry vinegar and stir to combine. Season with salt and pepper and transfer mixture to a heatproof medium bowl to cool.
+0.0,0.8461538553237915,0.6332136392593384,1,"After squashes have cooled and kabocha is mashed, whisk together cream, milk, cinnamon, paprika, nutmeg, ginger, and cloves in a large liquid measuring cup. Season to taste with salt and pepper.","whisk together cream, milk, cinnamon, paprika, nutmeg, ginger, and cloves in a large liquid measuring cup. Season to taste with salt and pepper."
+0.0,0.0,0.09918028861284256,1,large liquid measuring cup,"cream, milk"
+0.0,0.0,0.012581690214574337,1,", whisk","cream, milk"
+1.0,1.0,0.967810869216919,1,Season to taste with salt and pepper.,Season to taste with salt and pepper.
+1.0,1.0,0.9715816974639893,1,Whisk ingredients together in a small bowl and set aside.,Whisk ingredients together in a small bowl and set aside.
+0.0,0.4000000059604645,0.47557368874549866,1,small bowl,heatproof medium bowl
+0.0,0.0,0.014974505640566349,1,small bowl,whisk
+0.0,0.0,0.009325443767011166,1,paring knife,whisk
+0.0,0.0,0.0675780400633812,1,45 minutes,"whisk together cream, milk, cinnamon, paprika, nutmeg, ginger, and cloves in a large liquid measuring cup. Season to taste with salt and pepper."
+1.0,1.0,0.9721588492393494,1,pumpkins are tender and easily pierced by a paring knife.,pumpkins are tender and easily pierced by a paring knife
+0.0,0.3125,0.5440641641616821,1,Set tops on pumpkins and continue roasting for 10 minutes longer.,Lift pumpkin tops from pumpkins to allow steam to escape and set all roasted squash aside to cool on baking sheet.
+0.0,0.0,0.010401410050690174,1,oven,large liquid measuring cup
+0.0,0.0,0.01047572772949934,1,garlic,olive oil
+0.0,0.42553192377090454,0.6672206521034241,1,"Add onion, leek, carrots, celery, and rosemary or thyme sprigs.","Add onion, leek, carrots, celery, and rosemary or thyme sprigs. Season gently with salt and cook, stirring, until the vegetables are fully softened but not browned, about 10 minutes, adding more oil as necessary if the pot looks dry."
+1.0,1.0,0.9643511176109314,1,salt,salt
+1.0,1.0,0.970167338848114,1,"stir until it is incorporated, about 30 seconds.","stir until it is incorporated, about 30 seconds."
+0.0,0.2857142984867096,0.5681557059288025,1,"bay leaves, rosemary or thyme sprigs",thyme
+0.0,0.5,0.6160181760787964,1,salt and pepper,salt
+1.0,1.0,0.9646338224411011,1,about 15 minutes,about 15 minutes
+1.0,1.0,0.9580249190330505,1,water,water
+1.0,1.0,0.97305828332901,1,"Add water, 1/2 cup at a time, if soup becomes too thick and dry.","Add water, 1/2 cup at a time, if soup becomes too thick and dry."
+0.0,0.3333333432674408,0.4918791353702545,1,cup,"water, 1/2 cup at a time"
+0.0,0.4935064911842346,0.5920811295509338,1,"The soup can be served at varying consistencies: more wet and brothy, like a thick, chunky soup, or cooked down until thickened like a porridge. Slide it onto a plate. To serve at any consistency, discard bay leaves, rosemary or thyme sprigs, and Parmesan rind, drizzle with fresh olive oil and top with freshly ground black pepper and more grated cheese (optional).","Serve at varying consistencies: more wet and brothy, like a thick, chunky soup, or cooked down until thickened like a porridge."
+0.0,0.04545454680919647,0.19019655883312225,1,"Once reduced to a thick porridge, you can ladle some of it into a small (8-inch) nonstick skillet with 1 tablespoon oil and cook over medium-high heat, stirring frequently, until it coalesces into a dense mass; it will eventually take the shape of a pancake.",Slide it onto a plate.
+0.0,0.9041095972061157,0.6899110674858093,1,"Once reduced to a thick porridge, you can ladle some of it into a small (8-inch) nonstick skillet with 1 tablespoon oil and cook over medium-high heat, stirring frequently, until it coalesces into a dense mass; it will eventually take the shape of a pancake.","Ladle some of it into a small (8-inch) nonstick skillet with 1 tablespoon oil and cook over medium-high heat, stirring frequently, until it coalesces into a dense mass; it will eventually take the shape of a pancake."
+0.0,0.3636363744735718,0.7058756947517395,1,inch) nonstick skillet,small (8-inch) nonstick skillet with 1 tablespoon oil
+0.0,0.2857142984867096,0.5681557059288025,1,"bay leaves, rosemary or thyme sprigs",thyme
+1.0,1.0,0.9692832827568054,1,black pepper,black pepper
+1.0,1.0,0.9652275443077087,1,small bowl,small bowl
+0.0,0.6666666865348816,0.7456179857254028,1,in a small bowl and stir briefly to combine.,stir briefly to combine
+0.0,0.6666666865348816,0.6482676267623901,1,vinegar,rice vinegar
+0.0,0.9411764740943909,0.8767961859703064,1,"Combine soy sauce, rice vinegar, and sesame oil in a small bowl and stir briefly to combine.","Combine soy sauce, rice vinegar, and sesame oil in a small bowl and stir briefly to combine. Set aside."
+0.0,0.6666666865348816,0.4655412435531616,1,rice,rice vinegar
+0.0,0.800000011920929,0.9168385863304138,1,In a large bowl.,large bowl
+0.0,0.0,0.013335445895791054,1,flour,soy sauce
+0.0,0.4000000059604645,0.33840543031692505,1,"large bowl, whisk",small bowl
+1.0,1.0,0.9621517062187195,1,flour,flour
+1.0,1.0,0.9542423486709595,1,Set aside.,Set aside.
+0.0,0.0,0.053787533193826675,1,"separate medium bowl, whisk","soy sauce, rice vinegar, and sesame oil"
+1.0,1.0,0.9622127413749695,1,mixture,mixture
+0.0,0.0,0.010287267155945301,1,whisk,water
+0.0,0.8108108043670654,0.7197670340538025,1,the consistency should be similar to pancake batter; it should flow easily off the whisk and puddle briefly on top of the batter in the bowl.,it should flow easily off the whisk and puddle briefly on top of the batter in the bowl.
+0.0,0.32258063554763794,0.6172691583633423,1,"whisk together just until a smooth, loose batter forms; taking care not to over-mix the batter.","whisk together egg, doubanjiang (or other fermented bean paste), garlic, and water until mixture is homogeneous, about 1 minute. Add wet mixture to large mixing bowl with flour mixture and whisk together just until a smooth, loose batter forms; the consistency should be similar to pancake batter; it should flow"
+0.0,0.8421052694320679,0.7541245818138123,1,"If using day-old rice (see note), transfer to a medium bowl and break the rice up with your hands into individual grains before proceeding.",Transfer to a medium bowl and break the rice up with your hands into individual grains before proceeding.
+0.0,0.7777777910232544,0.7589728236198425,1,"If using day-old rice (see note), transfer to a medium bowl and break the rice up with your hands into individual grains",Transfer to a medium bowl and break the rice up with your hands into individual grains before proceeding.
+1.0,1.0,0.9638681411743164,1,wok,wok
+1.0,1.0,0.966289222240448,1,about 3 minutes,about 3 minutes
+0.0,0.6666666865348816,0.8047413229942322,1,rice,all the rice
+0.0,0.800000011920929,0.7209744453430176,1,"Return all the rice to the wok and press it up the sides, leaving a space in the middle.","Return all the rice to the wok and press it up the sides, leaving a space in the middle. Add 1/2 tablespoon (7ml) oil to the space."
+0.0,0.0,0.015002679079771042,1,rice,"onion, carrot, scallions, and garlic"
+0.0,0.6666666865348816,0.7732694745063782,1,soy,soy sauce
+1.0,1.0,0.9553631544113159,1,rice,rice
+1.0,1.0,0.9708159565925598,1,Add remaining 1/2 tablespoon (7ml) oil.,Add remaining 1/2 tablespoon (7ml) oil.
+0.0,0.6666666865348816,0.8669852018356323,1,little salt,season with a little salt
+0.0,0.0,0.07384791225194931,1,egg,rice
+1.0,1.0,0.9705345630645752,1,Toss the egg and the rice together.,Toss the egg and the rice together.
+1.0,1.0,0.9684145450592041,1,frozen peas,frozen peas
+0.0,0.8888888955116272,0.8733967542648315,1,Continue to toss and stir until peas are thawed and every grain of rice is separate.,Add frozen peas and continue to toss and stir until peas are thawed and every grain of rice is separate.
+1.0,1.0,0.9692448973655701,1,"Bring water, butter, and salt to a boil in a medium saucepan over high heat.","Bring water, butter, and salt to a boil in a medium saucepan over high heat."
+0.0,0.2666666805744171,0.44658517837524414,1,high heat,"Bring water, butter, and salt to a boil in a medium saucepan over high heat."
+1.0,1.0,0.9613679051399231,1,pot,the pot
+0.0,0.8965517282485962,0.8213003873825073,1,Continue cooking until dough pulls away from sides of pot leaving a thin layer and steams slightly.,dough pulls away from sides of pot leaving a thin layer and steams slightly.
+0.0,0.0,0.0584731325507164,1,small bowl,"soy sauce, rice vinegar, and sesame oil"
+0.0,0.6666666865348816,0.6482676267623901,1,vinegar,rice vinegar
+0.0,0.9411764740943909,0.8767961859703064,1,"Combine soy sauce, rice vinegar, and sesame oil in a small bowl and stir briefly to combine.","Combine soy sauce, rice vinegar, and sesame oil in a small bowl and stir briefly to combine. Set aside."
+0.0,0.6666666865348816,0.7456179857254028,1,in a small bowl and stir briefly to combine.,stir briefly to combine
+0.0,0.6666666865348816,0.4655412435531616,1,rice,rice vinegar
+0.0,0.4000000059604645,0.7743469476699829,1,"all-purpose flour, whole wheat flour (or other flour)",all-purpose flour
+0.0,0.4000000059604645,0.33840543031692505,1,"large bowl, whisk",small bowl
+0.0,0.0,0.08166409283876419,1,Set aside.,"In a separate medium bowl, whisk together egg, doubanjiang (or other fermented bean paste), garlic, and water until mixture is homogeneous, about 1 minute."
+0.0,0.0,0.36582428216934204,1,until mixture is homogeneous,stir briefly to combine.
+0.0,0.8108108043670654,0.7197670340538025,1,the consistency should be similar to pancake batter; it should flow easily off the whisk and puddle briefly on top of the batter in the bowl.,it should flow easily off the whisk and puddle briefly on top of the batter in the bowl.
+0.0,0.1818181872367859,0.5180577039718628,1,"whisk together just until a smooth, loose batter forms; taking care not to over-mix the batter.","whisk together egg, doubanjiang (or other fermented bean paste), garlic, and water until mixture is homogeneous, about 1 minute."
+0.0,0.0,0.009353049099445343,1,cabbage,salt
+1.0,1.0,0.967220664024353,1,flexible spatula,flexible spatula
+0.0,0.5714285969734192,0.6271422505378723,1,"Using a flexible spatula, fold in the vegetables gently until they are evenly incorporated.","Add salted cabbage (or kimchi), grated carrot, and sliced scallions to batter and, using flexible spatula, fold in vegetables gently until evenly incorporated."
+0.0,0.0,0.04209521412849426,1,"salted cabbage (or kimchi), grated carrot, and sliced scallions",garlic
+0.0,0.8235294222831726,0.729770302772522,1,"Using flexible spatula, fold in vegetables gently until evenly incorporated.",fold in vegetables gently until evenly incorporated.
+0.0,0.0,0.09458445012569427,1,medium-high heat,"Combine soy sauce, rice vinegar, and sesame oil in a small bowl and stir briefly to combine. Set aside."
+0.0,0.4000000059604645,0.654107928276062,1,stainless steel,"stainless steel, well-seasoned cast iron, or nonstick skillet"
+0.0,0.0,0.013439856469631195,1,cup,large spoon
+0.0,0.800000011920929,0.6669639348983765,1,"For thinner, crispier pancakes, press down on batter to flatten them out.",press down on batter to flatten them out

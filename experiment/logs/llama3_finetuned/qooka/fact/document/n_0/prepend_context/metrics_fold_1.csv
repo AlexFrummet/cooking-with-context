@@ -1,0 +1,199 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+1.0,1.0,0.9665543437004089,1,cream cheese.,cream cheese.
+0.0,0.5,0.39968323707580566,1,1/2 cup (1 stick).,1 stick unsalted butter.
+0.0,0.0,0.16370141506195068,1,the mixture for the dough so far.,"cream cheese, butter, and shortening."
+1.0,1.0,0.9608151316642761,1,potatoes.,potatoes.
+1.0,1.0,0.958737850189209,1,colander.,colander.
+1.0,1.0,0.9649856686592102,1,chorizo.,chorizo.
+1.0,1.0,0.9549034237861633,1,large bowl.,large bowl.
+1.0,1.0,0.9649856686592102,1,chorizo.,chorizo.
+1.0,1.0,0.9608151316642761,1,potatoes.,potatoes.
+0.0,0.0,0.011328826658427715,1,potatoes.,scallion whites and light greens and poblano.
+1.0,1.0,0.9608151316642761,1,potatoes.,potatoes.
+0.0,0.6666666865348816,0.7469799518585205,1,bowl.,large bowl.
+1.0,1.0,0.9459296464920044,1,egg.,egg.
+0.0,0.0,0.04304751381278038,1,small bowl.,fine mesh strainer.
+1.0,1.0,0.9459296464920044,1,egg.,egg.
+1.0,1.0,0.9614142179489136,1,about 10 minutes.,about 10 minutes.
+1.0,1.0,0.9578759074211121,1,oven.,oven.
+1.0,1.0,0.9624254703521729,1,tortillas.,tortillas.
+0.0,0.2222222238779068,0.6062915921211243,1,bowl.,bowl of a stand mixer fitted with a paddle attachment.
+0.0,0.0,0.5042334794998169,1,about 1 hour.,30 minutes.
+0.0,0.800000011920929,0.9280263185501099,1,for 30 minutes.,30 minutes.
+0.0,0.2222222238779068,0.03133860602974892,1,bowl and stand mixer.,"figs, applesauce, and orange juice."
+0.0,0.0,0.02845321036875248,1,minute.,up to 24 hours.
+0.0,0.5,0.7265228033065796,1,to 350°f.,350°F (175°C).
+0.0,0.0,0.20813438296318054,1,175°c.,350°F.
+0.0,0.5714285969734192,0.7045830488204956,1,offset spatula.,slide an offset spatula under the dough.
+0.0,0.0,0.16158343851566315,1,half sheet pan.,8-inch square.
+1.0,1.0,0.959971010684967,1,about 18 minutes.,about 18 minutes.
+0.0,0.0,0.008969617076218128,1,paper towel.,offset spatula.
+0.0,0.6666666865348816,0.904216468334198,1,6 hours.,at least 6 hours.
+1.0,1.0,0.9040893912315369,1,yes.,yes.
+1.0,1.0,0.9652027487754822,1,500°f (260°c).,500°F (260°C).
+1.0,1.0,0.9560692310333252,1,15g.,15g.
+1.0,1.0,0.9655418992042542,1,1/2 teaspoon.,1/2 teaspoon.
+0.0,0.6666666865348816,0.6174666285514832,1,66°c.,150°F (66°C).
+1.0,1.0,0.959587037563324,1,about 45 minutes.,about 45 minutes.
+0.0,0.5,0.5465639233589172,1,"soy sauce, butter, and lemon juice.",soy sauce.
+1.0,1.0,0.9578759074211121,1,oven.,oven.
+1.0,1.0,0.9557759165763855,1,5 minutes.,5 minutes.
+1.0,1.0,0.9652445316314697,1,cold water.,cold water.
+0.0,0.8571428656578064,0.5873662233352661,1,in a salad spinner.,chickpeas in a salad spinner.
+1.0,1.0,0.9040893912315369,1,yes.,yes.
+1.0,1.0,0.9040893912315369,1,yes.,yes.
+0.0,0.0,0.0640089139342308,1,until chickpeas are very finley minced.,about 4 minutes.
+1.0,1.0,0.9462820887565613,1,a bowl.,bowl.
+1.0,1.0,0.9040893912315369,1,yes.,yes.
+1.0,1.0,0.9584212899208069,1,375°f.,375°F.
+1.0,1.0,0.9625367522239685,1,about 4 minutes.,about 4 minutes.
+0.0,0.0,0.009050092659890652,1,a paper towel–lined plate.,oil.
+1.0,1.0,0.9040893912315369,1,yes.,yes.
+1.0,1.0,0.959587037563324,1,about 45 minutes.,about 45 minutes.
+1.0,1.0,0.9040893912315369,1,yes.,yes.
+0.0,0.800000011920929,0.8384150862693787,1,ground black pepper.,black pepper.
+0.0,0.5,0.7196969985961914,1,to 400°f.,400°F (200°C).
+0.0,0.6666666865348816,0.7453362941741943,1,olive.,olive oil.
+0.0,0.6666666865348816,0.5232974886894226,1,sage.,sage sprigs.
+0.0,0.5,0.7196969985961914,1,to 400°f.,400°F (200°C).
+1.0,1.0,0.9642364382743835,1,olive oil.,olive oil.
+1.0,1.0,0.9449113011360168,1,sage.,sage.
+1.0,1.0,0.959587037563324,1,about 45 minutes.,about 45 minutes.
+1.0,1.0,0.9611327648162842,1,about 30 minutes.,about 30 minutes.
+0.0,0.800000011920929,0.8802708387374878,1,large squash.,large squash chunks.
+0.0,0.800000011920929,0.8802708387374878,1,large squash.,large squash chunks.
+0.0,0.5454545617103577,0.7899502515792847,1,"food processor, blender.","food processor, blender, or the container of a stick blender."
+1.0,1.0,0.9592428803443909,1,salt.,salt.
+1.0,1.0,0.9660979509353638,1,medium-high heat.,medium-high heat.
+1.0,1.0,0.9564700722694397,1,onion.,onion.
+0.0,0.0,0.010301467962563038,1,rice.,onion.
+0.0,0.6666666865348816,0.7265794277191162,1,rice.,rice grains.
+0.0,0.8888888955116272,0.9497842788696289,1,3 to 4 minutes.,about 3 to 4 minutes.
+0.0,0.0,0.03525221347808838,1,wine.,rice.
+1.0,1.0,0.9644802808761597,1,raw alcohol.,raw alcohol.
+1.0,1.0,0.9621065258979797,1,about 2 minutes.,about 2 minutes.
+0.0,0.0,0.009483822621405125,1,broth.,squash purée.
+1.0,1.0,0.9349943995475769,1,rice.,rice.
+1.0,1.0,0.9564700722694397,1,onion.,onion.
+1.0,1.0,0.9660979509353638,1,medium-high heat.,medium-high heat.
+0.0,0.4000000059604645,0.35923102498054504,1,2 minutes.,about 4 minutes.
+1.0,1.0,0.9541234970092773,1,squash.,squash.
+1.0,1.0,0.9677327871322632,1,brown butter.,brown butter.
+1.0,1.0,0.9580205678939819,1,few minutes.,a few minutes.
+1.0,1.0,0.9592428803443909,1,salt.,salt.
+0.0,0.6666666865348816,0.4952557384967804,1,sage.,sage leaves.
+0.0,0.0,0.009107829071581364,1,grated cheese.,maple-roasted diced squash.
+1.0,1.0,0.9652976989746094,1,slotted spoon.,slotted spoon.
+1.0,1.0,0.9627821445465088,1,mushrooms.,mushrooms.
+0.0,0.2857142984867096,0.6511602997779846,1,cup.,small heatproof bowl or measuring cup.
+1.0,1.0,0.9592713117599487,1,garlic.,garlic.
+0.0,0.0,0.2874036729335785,1,1 tablespoon.,1/4 cup.
+0.0,0.6666666865348816,0.7750003337860107,1,medium heat.,heat.
+0.0,0.0,0.060522206127643585,1,mushrooms.,garlic.
+1.0,1.0,0.9615797400474548,1,about 1 minute.,about 1 minute.
+0.0,0.6000000238418579,0.6530355215072632,1,reserved 1/4 cup (60ml) mushroom soaking liquid.,mushroom soaking liquid.
+0.0,0.0,0.046474963426589966,1,mushroom.,garlic.
+1.0,1.0,0.9547113180160522,1,water.,water.
+0.0,0.6000000238418579,0.7151823043823242,1,about 1 minute.,about 1 minute less than package recommends.
+1.0,1.0,0.9610533714294434,1,about 3 minutes.,about 3 minutes.
+1.0,1.0,0.9588013887405396,1,parsley.,parsley.
+0.0,0.6666666865348816,0.5636730790138245,1,minced parsley.,parsley.
+0.0,0.5,0.7196969985961914,1,to 400°f.,400°F (200°C).
+0.0,0.800000011920929,0.7212526202201843,1,2 tablespoons (30ml).,2 tablespoons.
+0.0,0.6666666865348816,0.36644598841667175,1,about 45 minutes.,about 4 minutes.
+1.0,1.0,0.9611327648162842,1,about 30 minutes.,about 30 minutes.
+1.0,1.0,0.9682945609092712,1,"large squash chunks, apple, and garlic cloves.","large squash chunks, apple, and garlic cloves."
+1.0,1.0,0.9592428803443909,1,salt.,salt.
+1.0,1.0,0.9660979509353638,1,medium-high heat.,medium-high heat.
+0.0,0.0,0.017014745622873306,1,onion.,rice.
+1.0,1.0,0.9349943995475769,1,rice.,rice.
+0.0,0.0,0.00962746236473322,1,rice.,medium-high heat until shimmering.
+0.0,0.5714285969734192,0.6861196160316467,1,4 minutes.,about 3 to 4 minutes.
+0.0,0.0,0.03525221347808838,1,wine.,rice.
+1.0,1.0,0.9644802808761597,1,raw alcohol.,raw alcohol.
+0.0,0.6666666865348816,0.36287161707878113,1,about 2 minutes.,about 4 minutes.
+1.0,1.0,0.9578625559806824,1,broth.,broth.
+0.0,0.6666666865348816,0.7265794277191162,1,rice.,rice grains.
+0.0,0.0,0.014139095321297646,1,onion.,rice grains.
+0.0,0.0,0.3027363121509552,1,medium-high heat.,400°F (200°C).
+0.0,0.5,0.5663644075393677,1,2 minutes.,about 1 to 2 minutes longer.
+1.0,1.0,0.9349943995475769,1,rice.,rice.
+1.0,1.0,0.9677327871322632,1,brown butter.,brown butter.
+0.0,0.4000000059604645,0.5035169124603271,1,few minutes.,about 4 minutes.
+0.0,0.3333333432674408,0.5621253848075867,1,salt.,salt. stir in brown butter.
+1.0,1.0,0.9620999097824097,1,sage leaves.,sage leaves.
+0.0,0.0,0.017683906480669975,1,grated cheese.,plates.
+0.0,0.0,0.04163692146539688,1,"no, slotted spoon.",yes.
+0.0,0.0,0.1055399477481842,1,"no, medium heat.",yes.
+1.0,1.0,0.9040893912315369,1,yes.,yes.
+0.0,0.0,0.03775877133011818,1,about 1 minute.,yes.
+1.0,1.0,0.9040893912315369,1,yes.,yes.
+0.0,0.0,0.09389853477478027,1,"no, reserved 1/4 cup (60ml).",yes.
+0.0,0.800000011920929,0.6931973695755005,1,1 cup (235ml).,1 cup.
+0.0,0.0,0.012752210721373558,1,no.,about 1 minute less than package recommends.
+0.0,0.3333333432674408,0.7629245519638062,1,heavy 12-inch cast iron skillet.,skillet.
+1.0,1.0,0.9560065865516663,1,skillet.,skillet.
+0.0,0.800000011920929,0.8999719619750977,1,30 minutes.,about 30 minutes.
+0.0,0.800000011920929,0.9280263185501099,1,for 30 minutes.,30 minutes.
+0.0,0.6666666865348816,0.40836918354034424,1,about 4 minutes.,about 5 minutes.
+0.0,0.0,0.11840807646512985,1,minced.,medium.
+0.0,0.800000011920929,0.8370740413665771,1,italian plums.,small Italian plums.
+0.0,0.6666666865348816,0.46647173166275024,1,1 whole quail.,4 whole quail.
+1.0,1.0,0.9638868570327759,1,sharp kitchen shears.,sharp kitchen shears.
+1.0,1.0,0.9563560485839844,1,chicken.,chicken.
+0.0,0.2857142984867096,0.8078341484069824,1,heavy 12-inch cast iron skillet.,cast-iron skillet.
+0.0,0.0,0.09185729175806046,1,skillet.,large bowl.
+1.0,1.0,0.9488645792007446,1,30 minutes.,30 minutes.
+1.0,1.0,0.962330162525177,1,about 5 minutes.,about 5 minutes.
+1.0,1.0,0.9652976989746094,1,slotted spoon.,slotted spoon.
+0.0,0.6666666865348816,0.22664068639278412,1,stock.,chicken stock.
+0.0,0.4444444477558136,0.5826271176338196,1,2 minutes.,about 1 to 2 minutes on high.
+1.0,1.0,0.9676830172538757,1,wooden spoon.,wooden spoon.
+0.0,0.0,0.07700677961111069,1,strainer.,large bowl.
+0.0,0.0,0.00930430181324482,1,flour.,ground beef.
+0.0,0.0,0.014658336527645588,1,beef.,chili mixture.
+0.0,0.6666666865348816,0.7635910511016846,1,little water.,water.
+0.0,0.6666666865348816,0.9003369808197021,1,to 375°f.,375°F.
+0.0,0.0,0.010531798005104065,1,onions.,cheese.
+0.0,0.0,0.0978914201259613,1,pan.,center of tortilla.
+0.0,0.3333333432674408,0.27774474024772644,1,remaining cheese and onion.,remaining sauce.
+0.0,0.8888888955116272,0.9444771409034729,1,10 to 15 minutes.,about 10 to 15 minutes.
+1.0,1.0,0.9648248553276062,1,chickpeas.,chickpeas.
+1.0,1.0,0.9502156972885132,1,the next day.,the next day.
+0.0,0.3333333432674408,0.5499454140663147,1,"garlic, cumin, coriander, and salt.",garlic.
+0.0,0.0,0.014037752524018288,1,salt.,cumin.
+1.0,1.0,0.9648248553276062,1,chickpeas.,chickpeas.
+0.0,0.4000000059604645,0.6037032008171082,1,mixture.,heaping spoonfuls of the mixture.
+0.0,0.6666666865348816,0.6123262047767639,1,dough.,cookie dough.
+0.0,0.0,0.06514803320169449,1,instant-read thermometer.,375°F.
+1.0,1.0,0.9625367522239685,1,about 4 minutes.,about 4 minutes.
+1.0,1.0,0.96824049949646,1,chickpea balls.,chickpea balls.
+0.0,0.0,0.009107503108680248,1,tomatoes.,hummus.
+1.0,1.0,0.9648088812828064,1,cucumber.,cucumber.
+1.0,1.0,0.9624060988426208,1,pickles.,pickles.
+0.0,0.5,0.7196969985961914,1,to 400°f.,400°F (200°C).
+0.0,0.6666666865348816,0.5450729727745056,1,200°c.,400°F (200°C).
+1.0,1.0,0.959587037563324,1,about 45 minutes.,about 45 minutes.
+1.0,1.0,0.9611327648162842,1,about 30 minutes.,about 30 minutes.
+0.0,0.0,0.3801964819431305,1,1 1/2 ounces (40g).,40 g dried porcini mushrooms.
+1.0,1.0,0.9692118167877197,1,4 medium cloves.,4 medium cloves.
+0.0,0.0,0.3801964819431305,1,1 1/2 ounces (40g).,40 g dried porcini mushrooms.
+1.0,1.0,0.968788206577301,1,lightly sautéed and fragrant.,lightly sautéed and fragrant.
+0.0,0.0,0.18212077021598816,1,no.,yes.
+0.0,0.800000011920929,0.6931973695755005,1,1 cup (235ml).,1 cup.
+0.0,0.0,0.010289597325026989,1,hard.,al dente.
+0.0,0.0,0.01361007709056139,1,blender.,garlic.
+0.0,0.4000000059604645,0.4808851182460785,1,"black pepper, allspice (if using), and 2 teaspoons kosher salt.","cumin, oregano, black pepper, allspice."
+0.0,0.0,0.0877222791314125,1,allspice.,cumin.
+0.0,0.5,0.47130411863327026,1,chicken.,chicken breast halves.
+0.0,0.5,0.47130411863327026,1,chicken.,chicken breast halves.
+0.0,0.800000011920929,0.9280263185501099,1,for 30 minutes.,30 minutes.
+1.0,1.0,0.9563560485839844,1,chicken.,chicken.
+1.0,1.0,0.9660979509353638,1,medium-high heat.,medium-high heat.
+0.0,0.0,0.008766267448663712,1,chicken.,onion rings.
+0.0,0.0,0.015607460401952267,1,pan.,skillet.
+1.0,1.0,0.9547113180160522,1,water.,water.
+1.0,1.0,0.9430596232414246,1,pan.,pan.
+0.0,0.0,0.09695236384868622,1,rice.,black beans.
+0.0,0.6666666865348816,0.5415372252464294,1,cilantro.,cilantro leaves.
+0.0,0.6666666865348816,0.6486157774925232,1,lime.,lime wedge.

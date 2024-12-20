@@ -1,0 +1,362 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+1.0,1.0,0.9593192338943481,3,350°F.,350°F
+1.0,1.0,0.9690712094306946,3,1/2 cup,1/2 cup
+0.0,0.9166666865348816,0.9721480011940002,3,adding up to 2 tablespoons additional water if batter is too thick.,Add up to 2 tablespoons additional water if batter is too thick.
+0.0,0.1428571492433548,0.47177761793136597,3,It should have the consistency of thin paint and fall off of the whisk in thin ribbons that instantly disappear as they hit the surface of the batter in the bowl.,thin paint
+0.0,0.3333333432674408,0.31144195795059204,3,Add tofu and carefully turn to coat.,"Carefully turn to coat. Working one at a time, lift one piece and allow excess batter to drip off. Carefully lower into hot oil."
+1.0,1.0,0.9635546803474426,3,about 6 minutes.,about 6 minutes
+1.0,1.0,0.9735805988311768,3,Carefully pour oil out of wok into a heatproof container and reserve.,Carefully pour oil out of wok into a heatproof container and reserve.
+1.0,1.0,0.9704824686050415,3,"Stock, soy sauce, bean paste, vinegar, sugar, and remaining 2 teaspoons corn starch.","stock, soy sauce, bean paste, vinegar, sugar, and remaining 2 teaspoons corn starch"
+0.0,0.6666666865348816,0.41394856572151184,3,chinkiang vinegar,Chinkiang
+0.0,0.2857142984867096,0.44419950246810913,3,Set aside.,"Combine scallion whites, garlic, and ginger in a second small bowl. Set aside."
+1.0,1.0,0.9714905619621277,3,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.
+0.0,0.6341463327407837,0.6815409064292908,3,"Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds.","Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds. Immediately drain through fine mesh strainer. Pick out chilies and set aside. Discard cooked peppercorns"
+0.0,0.0,0.010574393905699253,3,Immediately drain through fine mesh strainer.,Discard cooked peppercorns
+1.0,1.0,0.9684082865715027,3,"leeks, celery, and long pepper","leeks, celery, and long pepper"
+0.0,0.7407407164573669,0.7272350788116455,3,Clear a space in the center of the wok and add the scallion/ginger/garlic mixture.,"Clear a space in the center of the wok and add the scallion/ginger/garlic mixture. Cook, stirring, until fragrant, about 30 seconds."
+0.0,0.2666666805744171,0.5189778804779053,3,"Stir sauce mixture and add to wok. Cook, tossing and folding ingredients together until tofu is fully coated.","Working one at a time, lift one piece and allow excess batter to drip off. Carefully lower into hot oil. Repeat with remaining tofu until wok is full."
+0.0,0.0,0.13398300111293793,3,"Using a blender or food processor, purée garlic, orange juice, lime juice, cumin, oregano, black pepper, allspice (if using), and 2 teaspoons kosher salt until well blended.",yes
+0.0,0.6511628031730652,0.7113509178161621,3,"(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.)",finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.
+1.0,1.0,0.9710991382598877,3,making sure it coats chicken evenly all over,making sure it coats chicken evenly all over.
+0.0,0.6666666865348816,0.5390022993087769,3,"if chicken is in a dish, turn it once halfway through.",Turn it once halfway through.
+0.0,0.1599999964237213,0.28814423084259033,3,Remove the chicken breasts from the marinade and wipe off any excess.,"Press out excess air and seal zipper-lock bag, or cover dish with plastic or a lid."
+1.0,1.0,0.922936201095581,3,yes,yes
+0.0,0.0,0.00942621286958456,3,teaspoons,stone mortar
+0.0,0.6666666865348816,0.11524954438209534,3,fish,fish sauce
+0.0,0.4000000059604645,0.6316049098968506,3,15 minutes,at least 15 minutes and up to overnight.
+0.0,0.581818163394928,0.68466717004776,3,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar.,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar. Grind with pestle until a mostly smooth paste has formed. Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.
+0.0,0.6000000238418579,0.6321282982826233,3,Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.,mash in mortar to form a sauce.
+0.0,0.0,0.01039392314851284,3,soy,fish sauce
+0.0,0.2666666805744171,0.21453838050365448,3,Finely slice remaining garlic and chilies and combine with shallot and lime leaves in a small bowl.,Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.
+0.0,0.5,0.6097451448440552,3,garlic,garlic and chilies
+1.0,1.0,0.9635080099105835,3,shallot,shallot
+0.0,0.17391304671764374,0.4621467590332031,3,"Heat 1 tablespoon oil in a wok over high heat until smoking. Add half of beef and cook, without moving, until well seared, about 1 minute. Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute. Repeat with 1 more tablespoon oil and remaining beef.",Finely slice remaining garlic and chilies and combine with shallot and lime leaves in a small bowl.
+0.0,0.7179487347602844,0.726632297039032,3,"Heat 1 tablespoon oil in a wok over high heat until smoking. Add half of beef and cook, without moving, until well seared, about 1 minute.","Add half of beef and cook, without moving, until well seared, about 1 minute."
+0.0,0.9047619104385376,0.7777438163757324,3,"Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute. Transfer to a large bowl.","Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute."
+1.0,1.0,0.9691309928894043,3,half of beef,half of beef
+1.0,1.0,0.9706520438194275,3,reheat wok,reheat wok
+1.0,1.0,0.9714206457138062,3,Reheat wok over high heat.,Reheat wok over high heat.
+0.0,0.5128205418586731,0.6729684472084045,3,"Add all of the beef, along with sliced garlic/chili/makrut lime mixture.","Add all of the beef, along with sliced garlic/chili/makrut lime mixture. Continue to cook, tossing and stirring constantly, until stir-fry is aromatic and shallots have completely softened, about 1 minute."
+1.0,1.0,0.9650607109069824,3,high heat,high heat
+1.0,1.0,0.966620147228241,3,about 1 minute,about 1 minute
+1.0,1.0,0.9724833369255066,3,"cook, tossing and stirring constantly, until completely reduced.","cook, tossing and stirring constantly, until completely reduced."
+0.0,0.8799999952316284,0.6772662997245789,3,"The beef should look moist, but there should be no liquid in the bottom of the wok.","moist, but there should be no liquid in the bottom of the wok."
+1.0,1.0,0.9660969376564026,3,beef,beef
+0.0,0.5,0.5737965106964111,3,red pepper,Thai chili or red pepper flakes
+0.0,0.0,0.052388470619916916,3,basil,sliced garlic/chili/makrut lime mixture
+1.0,1.0,0.9723680019378662,3,Adjust oven rack to middle position and preheat oven to 325°F (165°C).,Adjust oven rack to middle position and preheat oven to 325°F (165°C).
+0.0,0.0,0.025019444525241852,3,oven,food processor bowl
+1.0,1.0,0.9653299450874329,3,about 5 minutes,about 5 minutes
+0.0,0.1666666716337204,0.44505730271339417,3,food processor bowl,"Transfer bread to food processor bowl (set aside but don't clean rimmed baking sheet), and pulse until reduced to small crumbs, taking care not to over-process into a fine powder, 8 to 10 pulses."
+0.0,0.0,0.45056232810020447,3,Combine breadcrumbs and 1 tablespoon (15ml) oil in a large skillet.,"pulse until reduced to small crumbs, taking care not to over-process into a fine powder, 8 to 10 pulses."
+0.0,0.13333334028720856,0.42145001888275146,3,large skillet,"Combine breadcrumbs and 1 tablespoon (15ml) oil in a large skillet and cook over medium-low heat, stirring and tossing occasionally, until crisp and golden brown, 8 to 10 minutes."
+0.0,0.3333333432674408,0.5970659852027893,3,breadcrumbs,1/2 cup (60g) toasted breadcrumbs
+1.0,1.0,0.9733484387397766,3,Transfer remaining crumbs to an airtight container for future use; the extra breadcrumbs can be stored at room temperature for up to 2 weeks.,Transfer remaining crumbs to an airtight container for future use; the extra breadcrumbs can be stored at room temperature for up to 2 weeks.
+1.0,1.0,0.9580249190330505,3,water,water
+1.0,1.0,0.964808464050293,3,about 10 minutes,about 10 minutes
+1.0,1.0,0.9674715399742126,3,cauliflower,cauliflower
+0.0,0.7714285850524902,0.682265043258667,3,"Cook at a rapid simmer, stirring occasionally, until floret pieces are very tender and offer no resistance when poked with a paring knife at thickest part of stem end.","Bring a pot of salted water to a boil over high heat. Add cauliflower and cook at a rapid simmer, stirring occasionally, until floret pieces are very tender and offer no resistance when poked with a paring knife at thickest part of stem end, about 10 minutes."
+1.0,1.0,0.9738911986351013,3,"Using a spider skimmer, fine-mesh strainer, or slotted spoon, drain cauliflower while keeping boiling water in the pot; transfer cauliflower to a bowl or plate and set aside.","Using a spider skimmer, fine-mesh strainer, or slotted spoon, drain cauliflower while keeping boiling water in the pot; transfer cauliflower to a bowl or plate and set aside."
+1.0,1.0,0.9669032692909241,3,medium heat,medium heat
+1.0,1.0,0.9643511176109314,3,salt,salt
+1.0,1.0,0.9691181182861328,3,wooden spoon,wooden spoon
+0.0,0.6666666865348816,0.6810442209243774,3,fennel,fennel pollen
+0.0,0.0,0.010629499331116676,3,cauliflower,occasionally
+0.0,0.0,0.5755016207695007,3,saffron,safron
+0.0,0.5789473652839661,0.652117133140564,3,"Season lightly with salt, bring to a rapid simmer over medium-high heat, and cook, stirring and breaking up cauliflower with a wooden spoon, until florets break down to form a thick, yellow-tinged sauce, 8 to 10 minutes.","Add cauliflower to skillet along with 1 cup (240ml) reserved cooking water, raisins, pine nuts, saffron, and fennel pollen (if using). Season lightly with salt, bring to a rapid simmer over medium-high heat, and cook, stirring and breaking up cauliflower with a wooden spoon,"
+1.0,1.0,0.974267303943634,3,Add more cooking water in 1/4-cup (60ml) increments as needed to ensure there is enough liquid in the pan to coax cauliflower into breaking down into a saucy consistency.,Add more cooking water in 1/4-cup (60ml) increments as needed to ensure there is enough liquid in the pan to coax cauliflower into breaking down into a saucy consistency.
+0.0,0.5714285969734192,0.742419421672821,3,reserved pot,reserved pot of boiling water
+0.0,0.7142857313156128,0.7405492067337036,3,Cook pasta in the reserved pot of boiling water used for cooking the cauliflower until pasta is just shy of al dente (about 2 minutes less than the package directs).,until pasta is just shy of al dente (about 2 minutes less than the package directs).
+0.0,0.4615384638309479,0.6894762516021729,3,"Using a spider skimmer (or tongs if cooking bucatini), transfer pasta to sauce, along with 1/2 cup (120ml) pasta cooking water. Alternatively, drain pasta using a colander or fine-mesh strainer, making sure to reserve at least 1 cup (240ml) pasta cooking water.","Transfer pasta to sauce, along with 1/2 cup (120ml) pasta cooking water."
+1.0,1.0,0.9674715399742126,3,cauliflower,cauliflower
+0.0,0.0784313753247261,0.4680091440677643,3,"Increase heat to high and cook, stirring and tossing rapidly, until pasta is al dente and cauliflower has broken down even further so that sauce coats noodles and pools around edges of the pan, about 2 minutes.",Add more pasta cooking water in 1/4-cup (60ml) increments as needed to achieve desired consistency.
+1.0,1.0,0.9734824299812317,3,add more pasta cooking water in 1/4-cup (60ml) increments as needed to achieve desired consistency,Add more pasta cooking water in 1/4-cup (60ml) increments as needed to achieve desired consistency.
+1.0,1.0,0.9292132258415222,3,-cup,cup
+0.0,0.2857142984867096,0.4358404874801636,3,30g,half of the breadcrumbs (1/4 cup; 30g)
+0.0,0.8799999952316284,0.7769716382026672,3,"Remove from heat, add half of the breadcrumbs (1/4 cup; 30g), and toss to combine.","Add half of the breadcrumbs (1/4 cup; 30g), and toss to combine."
+1.0,1.0,0.9630816578865051,3,pasta,pasta
+1.0,1.0,0.9734441041946411,3,Adjust sauce consistency as needed with more pasta water if it seems too dry.,Adjust sauce consistency as needed with more pasta water if it seems too dry.
+1.0,1.0,0.9662132263183594,3,breadcrumbs,breadcrumbs
+0.0,0.581818163394928,0.68466717004776,3,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar.,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar. Grind with pestle until a mostly smooth paste has formed. Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.
+0.0,0.6000000238418579,0.6321282982826233,3,Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.,mash in mortar to form a sauce.
+0.0,0.0,0.19699488580226898,3,6 medium cloves,Finely slice remaining garlic and chilies and combine with shallot and lime leaves in a small bowl.
+1.0,1.0,0.9684435725212097,3,1 small shallot,1 small shallot
+1.0,1.0,0.9650607109069824,3,high heat,high heat
+0.0,0.5128205418586731,0.6729684472084045,3,"Add all of the beef, along with sliced garlic/chili/makrut lime mixture.","Add all of the beef, along with sliced garlic/chili/makrut lime mixture. Continue to cook, tossing and stirring constantly, until stir-fry is aromatic and shallots have completely softened, about 1 minute."
+1.0,1.0,0.9714206457138062,3,Reheat wok over high heat.,Reheat wok over high heat.
+0.0,0.0,0.11384941637516022,3,reheat wok,"Add all of the beef, along with sliced garlic/chili/makrut lime mixture."
+1.0,1.0,0.966620147228241,3,about 1 minute,about 1 minute
+1.0,1.0,0.9724833369255066,3,"cook, tossing and stirring constantly, until completely reduced.","cook, tossing and stirring constantly, until completely reduced."
+0.0,0.0,0.009454652667045593,3,basil,shallot
+0.0,0.1818181872367859,0.5657426118850708,3,salt and and optional thai chili or red pepper flakes,salt
+0.0,0.5882353186607361,0.5653489232063293,3,Season short ribs all over with salt and pepper.,Season sauce with salt and pepper to taste.
+0.0,0.6666666865348816,0.8800576329231262,3,medium-high heat,medium-high
+0.0,0.1666666716337204,0.40574103593826294,3,heat,Heat oil in a large Dutch oven over medium-high heat until shimmering.
+0.0,0.24242424964904785,0.30301573872566223,3,"Heat oil in a large Dutch oven over medium-high heat until shimmering. Working in batches, add short ribs and brown on all sides, about 4 minutes per side.","Return to the heat and add celery, carrot, onion, and garlic. Cook, stirring, until browned, about 6 minutes. Stir in tomato paste and cook for 1 minute longer; lower heat at any point if the contents of the pot threaten to burn."
+0.0,0.0,0.12402314692735672,3,about 4 minutes,2 to 3 hours
+0.0,0.8888888955116272,0.9644113183021545,3,"celery, carrot, onion, and garlic","celery, carrot, onion, garlic"
+0.0,0.3888888955116272,0.6308683156967163,3,"Cook, stirring, until browned, about 6 minutes.","Cook, stirring, until browned, about 6 minutes. Stir in tomato paste and cook for 1 minute longer; lower heat at any point if the contents of the pot threaten to burn."
+1.0,1.0,0.966143012046814,3,about 6 minutes,about 6 minutes
+0.0,0.3333333432674408,0.6046292781829834,3,Add thyme and bay leaves.,thyme
+0.0,0.7083333134651184,0.726142942905426,3,"bring port to a very gentle simmer, regulating heat to maintain that simmer. Cook, uncovered, and reduce until syrupy, about 1 hour; should yield about 1/2 cup (120ml) in volume.","Cook, uncovered, and reduce until syrupy, about 1 hour; should yield about 1/2 cup (120ml) in volume. Set aside."
+0.0,0.9523809552192688,0.7896401882171631,3,"Carefully remove short ribs from pot and transfer to a clean platter (they will be very tender, so the bones may slip out; try to hold them together as you transfer them).","Carefully remove short ribs from pot and transfer to a clean platter (they will be very tender, so the bones may slip out; try to hold them together as you transfer them). Tent with foil."
+0.0,0.8571428656578064,0.9148674607276917,3,Tent them with foil.,Tent with foil.
+1.0,1.0,0.9745106101036072,3,"Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible.","Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible."
+1.0,1.0,0.9745106101036072,3,"Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible.","Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible."
+1.0,1.0,0.9582899808883667,3,"Return to heat and bring to a gentle simmer, adjusting heat to maintain simmer. Simmer until braising liquid is reduced to 2 cups, about 1 hour; skim any foam that accumulates on the surface as needed.","Return to heat and bring to a gentle simmer, adjusting heat to maintain simmer. Simmer until braising liquid is reduced to 2 cups, about 1 hour; skim any foam that accumulates on the surface as needed."
+0.0,0.21052631735801697,0.47909343242645264,3,Skim any foam that accumulates on the surface as needed.,Skim accumulated fat from surface of braising liquid and discard.
+0.0,0.7058823704719543,0.6099509000778198,3,whisk in the cornstarch slurry and bring to a simmer until thickened slightly.,Bring to a simmer until thickened slightly.
+0.0,0.8148148059844971,0.7520907521247864,3,"If it's still a little thin, whisk in the cornstarch slurry and bring to a simmer until thickened slightly.",Whisk in the cornstarch slurry and bring to a simmer until thickened slightly.
+1.0,1.0,0.9734381437301636,3,"Return short ribs to Dutch oven, spooning the sauce all over and around them to glaze and rewarm.","Return short ribs to Dutch oven, spooning the sauce all over and around them to glaze and rewarm."
+0.0,0.10526315867900848,0.31270959973335266,3,Serve.,"Return short ribs to Dutch oven, spooning the sauce all over and around them to glaze and rewarm. Serve."
+0.0,0.125,0.3745836913585663,3,heat,Return 1/4 cup of the reserved oil to wok and heat over medium-high heat until shimmering.
+0.0,0.0,0.02058049850165844,3,flour,water
+1.0,1.0,0.9321802258491516,3,. whisk,whisk
+0.0,0.9166666865348816,0.9721480011940002,3,adding up to 2 tablespoons additional water if batter is too thick.,Add up to 2 tablespoons additional water if batter is too thick.
+0.0,0.05263157933950424,0.18673689663410187,3,It should have the consistency of thin paint and fall off of the whisk in thin ribbons that instantly disappear as they hit the surface of the batter in the bowl.,Add up to 2 tablespoons additional water if batter is too thick.
+1.0,1.0,0.9669691324234009,3,paper towel,paper towel
+0.0,0.0,0.009660343639552593,3,tofu,water
+0.0,0.0,0.058472830802202225,3,repeat,Transfer to a paper towel-lined plate.
+1.0,1.0,0.9735805988311768,3,Carefully pour oil out of wok into a heatproof container and reserve.,Carefully pour oil out of wok into a heatproof container and reserve.
+1.0,1.0,0.950712263584137,3,stock,stock
+1.0,1.0,0.966880738735199,3,2 teaspoons,2 teaspoons
+0.0,0.1428571492433548,0.38012608885765076,3,vinegar,"stock, soy sauce, bean paste, vinegar, sugar, and remaining 2 teaspoons corn starch"
+0.0,0.2857142984867096,0.44419950246810913,3,Set aside.,"Combine scallion whites, garlic, and ginger in a second small bowl. Set aside."
+0.0,0.2857142984867096,0.44419950246810913,3,Set aside.,"Combine scallion whites, garlic, and ginger in a second small bowl. Set aside."
+1.0,1.0,0.9714905619621277,3,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.,Coarsely grind half of peppercorns in a mortar and pestle or spice grinder.
+1.0,1.0,0.9702792167663574,3,fine mesh strainer,fine mesh strainer
+1.0,1.0,0.9690685272216797,3,1/4 cup,1/4 cup
+0.0,0.0,0.43001335859298706,3,medium-high heat,350°F
+0.0,0.6341463327407837,0.6815409064292908,3,"Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds.","Add remaining half of peppercorns and chilies and cook, stirring, for 5 seconds. Immediately drain through fine mesh strainer. Pick out chilies and set aside. Discard cooked peppercorns"
+0.0,0.0,0.010574393905699253,3,Immediately drain through fine mesh strainer.,Discard cooked peppercorns
+1.0,1.0,0.9638681411743164,3,wok,wok
+0.0,0.7407407164573669,0.7272350788116455,3,Clear a space in the center of the wok and add the scallion/ginger/garlic mixture.,"Clear a space in the center of the wok and add the scallion/ginger/garlic mixture. Cook, stirring, until fragrant, about 30 seconds."
+0.0,0.0,0.12582232058048248,3,wok,"cook, stirring, until fragrant, about 30 seconds."
+0.0,0.2448979616165161,0.5398081541061401,3,"Stir sauce mixture and add to wok. Cook, tossing and folding ingredients together until tofu is fully coated.","Carefully turn to coat. Working one at a time, lift one piece and allow excess batter to drip off. Carefully lower into hot oil. Repeat with remaining tofu until wok is full."
+0.0,0.0,0.009660343639552593,3,tofu,water
+0.0,0.7368420958518982,0.5723637342453003,3,"Using a blender, food processor, or immersion blender","Using a blender, food processor, or immersion blender, purée blackberries until totally smooth."
+0.0,0.0,0.9634139537811279,3,21°c,21 degrees Celsius
+0.0,0.25,0.28152647614479065,3,6 ounces (about 3/4 cup; 170g),7 ounces
+0.0,0.1818181872367859,0.2942201793193817,3,preheat to 350°F (180°C),Bring to about 70°F (21°C) before using.
+0.0,0.8947368264198303,0.880304217338562,3,Lightly grease an 8- by 2-inch or 8- by 3-inch anodized aluminum cake pan and line with parchment,Lightly grease an 8- by 2-inch or 8- by 3-inch anodized aluminum cake pan and line with parchment (explanation and tutorial here).
+0.0,0.0,0.19274629652500153,3,"With mixer still running, add egg whites a little at a time, letting each addition fully incorporate before proceeding to the next.",about halfway through
+1.0,1.0,0.9736817479133606,3,"With mixer still running, add egg whites a little at a time, letting each addition fully incorporate before proceeding to the next.","With mixer still running, add egg whites a little at a time, letting each addition fully incorporate before proceeding to the next."
+0.0,0.13333334028720856,0.14582271873950958,3,"Repeat with remaining flour and fruit, working in thirds as before.","With mixer still running, add egg whites a little at a time, letting each addition fully incorporate before proceeding to the next."
+0.0,0.0,0.0649985522031784,3,The batter should look bright purple and register between 65 and 68°F (18 and 20°C) on a digital thermometer.,"With mixer still running, add egg whites a little at a time, letting each addition fully incorporate before proceeding to the next."
+1.0,1.0,0.9709936380386353,3,"(Significant deviation indicates ingredients were too warm or too cold, which can lead to textural problems with the cake.)","Significant deviation indicates ingredients were too warm or too cold, which can lead to textural problems with the cake."
+1.0,1.0,0.9719709753990173,3,gently fold with a flexible spatula until streaks disappear.,Gently fold with a flexible spatula until streaks disappear.
+1.0,1.0,0.9727236032485962,3,"Cool directly in pan for 1 hour, then run a butter knife around the edges to loosen.","Cool directly in pan for 1 hour, then run a butter knife around the edges to loosen."
+1.0,1.0,0.9737949967384338,3,Top with a batch of Cream Cheese Frosting and a handful of fresh blackberries and cut with a chef's knife to serve.,Top with a batch of Cream Cheese Frosting and a handful of fresh blackberries and cut with a chef's knife to serve.
+1.0,1.0,0.9735488295555115,3,"Wrapped in plastic, this cake will keep for up to 3 days at cool room temperature.","Wrapped in plastic, this cake will keep for up to 3 days at cool room temperature."
+0.0,0.6666666865348816,0.6469885110855103,3,teaspoons,5 teaspoons
+0.0,0.6666666865348816,0.11524954438209534,3,fish,fish sauce
+0.0,0.4000000059604645,0.6316049098968506,3,15 minutes,at least 15 minutes and up to overnight.
+0.0,0.581818163394928,0.68466717004776,3,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar.,Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar. Grind with pestle until a mostly smooth paste has formed. Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.
+0.0,0.6000000238418579,0.6321282982826233,3,Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.,mash in mortar to form a sauce.
+0.0,0.2666666805744171,0.21453838050365448,3,Finely slice remaining garlic and chilies and combine with shallot and lime leaves in a small bowl.,Add remaining fish sauce and soy sauce and mash in mortar to form a sauce.
+1.0,1.0,0.9635080099105835,3,shallot,shallot
+1.0,1.0,0.9642309546470642,3,garlic,garlic
+0.0,0.7179487347602844,0.726632297039032,3,"Heat 1 tablespoon oil in a wok over high heat until smoking. Add half of beef and cook, without moving, until well seared, about 1 minute.","Add half of beef and cook, without moving, until well seared, about 1 minute."
+0.0,0.29032257199287415,0.7162497043609619,3,"Heat 1 tablespoon oil in a wok over high heat until smoking. Add half of beef and cook, without moving, until well seared, about 1 minute. Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute. Repeat with 1 more tablespoon oil and remaining beef.","cook, without moving, until well seared, about 1 minute."
+0.0,0.9047619104385376,0.7777438163757324,3,"Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute. Transfer to a large bowl.","Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute."
+0.0,0.20000000298023224,0.4383038878440857,3,beef,"all of the beef, along with sliced garlic/chili/makrut lime mixture"
+1.0,1.0,0.9638681411743164,3,wok,wok
+1.0,1.0,0.9714206457138062,3,Reheat wok over high heat.,Reheat wok over high heat.
+0.0,0.0,0.10837001353502274,3,reheat wok,"add all of the beef, along with sliced garlic/chili/makrut lime mixture."
+1.0,1.0,0.9650607109069824,3,high heat,high heat
+0.0,0.5454545617103577,0.3907858729362488,3,about 1 minute,"until shallots have completely softened, about 1 minute."
+1.0,1.0,0.9724833369255066,3,"cook, tossing and stirring constantly, until completely reduced.","cook, tossing and stirring constantly, until completely reduced."
+0.0,0.5,0.5203837752342224,3,basil,Thai purple basil
+0.0,0.0,0.009283252991735935,3,red pepper,Thai bird
+0.0,0.0,0.13398300111293793,3,"Using a blender or food processor, purée garlic, orange juice, lime juice, cumin, oregano, black pepper, allspice (if using), and 2 teaspoons kosher salt until well blended.",yes
+0.0,0.9722222089767456,0.964131236076355,3,"(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste and then mix in the rest of the ingredients. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.)","Yes, to make with a mortar and pestle, pound the garlic with the salt to form a paste and then mix in the rest of the ingredients. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl."
+0.0,0.6511628031730652,0.7113509178161621,3,"(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.)",finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.
+0.0,0.6666666865348816,0.5390022993087769,3,"if chicken is in a dish, turn it once halfway through.",Turn it once halfway through.
+0.0,0.0,0.02770143561065197,3,for 30 minutes,yes
+0.0,0.10169491171836853,0.578114926815033,3,"Using the tines of a fork, poke holes in potato all over.","Place potato on a plate and microwave on high until a paring knife can be inserted in middle of potato with no resistance, 9 to 12 minutes, checking and flipping the potato every 3 minutes. Alternatively, place potato in 425°F oven and cook until a paring knife can be inserted in middle of"
+0.0,0.9599999785423279,0.9661263227462769,3,a paring knife can be inserted in middle of potato with no resistance,When a paring knife can be inserted in middle of potato with no resistance.
+0.0,0.125,0.3563757538795471,3,can be inserted in middle of potato with no resistance,to check if a potato is cooked
+1.0,1.0,0.922936201095581,3,yes,yes
+1.0,1.0,0.922936201095581,3,yes,yes
+1.0,1.0,0.9715443253517151,3,"Using a spoon, scoop out flesh in a small bowl, discard skin.","Using a spoon, scoop out flesh in a small bowl, discard skin."
+1.0,1.0,0.922936201095581,3,yes,yes
+0.0,0.1111111119389534,0.09975764155387878,3,celery,"When foaming subsides, add onion and celery and cook, stirring occasionally, until softened, 5 to 7 minutes."
+0.0,0.6315789222717285,0.619840145111084,3,"Stir in sage, thyme, and garlic and cook until fragrant, about 30 seconds.","cook until fragrant, about 30 seconds."
+0.0,0.0,0.07736916840076447,3,garlic,"cook until fragrant, about 30 seconds."
+1.0,1.0,0.922936201095581,3,yes,yes
+0.0,0.0,0.1232282742857933,3,yes,medium
+1.0,1.0,0.922936201095581,3,yes,yes
+1.0,1.0,0.9742920994758606,3,"When all the charcoal is lit and covered with gray ash, pour out and spread the coals evenly over entire surface of charcoal grate.","When all the charcoal is lit and covered with gray ash, pour out and spread the coals evenly over entire surface of charcoal grate."
+1.0,1.0,0.922936201095581,3,yes,yes
+0.0,0.16326530277729034,0.3408139646053314,3,"Clean and oil the grilling grate. Grill burgers over direct heat until an instant read thermometer reads at least 145°F in the center of burger, but no more than 165°F.","When all the charcoal is lit and covered with gray ash, pour out and spread the coals evenly over entire surface of charcoal grate."
+1.0,1.0,0.922936201095581,3,yes,yes
+1.0,1.0,0.973109781742096,3,"Grill burgers over direct heat until an instant read thermometer reads at least 145°F in the center of burger, but no more than 165°F.","Grill burgers over direct heat until an instant read thermometer reads at least 145°F in the center of burger, but no more than 165°F."
+1.0,1.0,0.922936201095581,3,yes,yes
+1.0,1.0,0.9720540642738342,3,"Lightly toast potato rolls on grill, about 30 seconds.","Lightly toast potato rolls on grill, about 30 seconds."
+1.0,1.0,0.9686475396156311,3,paring knife,paring knife
+0.0,0.0,0.026499120518565178,3,boiling,"large enough to hold the spaghetti, blanch tomatoes until skins just begin to slip off where you scored them, 30 seconds to 1 minute."
+0.0,0.0,0.17539474368095398,3,"In a pot of boiling water large enough to hold the spaghetti, blanch tomatoes until skins just begin to slip off where you scored them, 30 seconds to 1 minute.",Cut out the stem end.
+1.0,1.0,0.9706802368164062,3,"Using a slotted spoon, remove tomatoes.","Using a slotted spoon, remove tomatoes."
+1.0,1.0,0.9672372937202454,3,slotted spoon,slotted spoon
+0.0,0.4285714328289032,0.626735508441925,3,remove and discard skins and seeds. Grate tomato flesh on largest holes of a box grater into a large heatproof mixing or serving bowl,Remove and discard skins and seeds.
+0.0,0.21621622145175934,0.5240605473518372,3,"Run tomatoes under cold water, then remove and discard skins and seeds. Grate tomato flesh on largest holes of a box grater into a large heatproof mixing or serving bowl.","Using a paring knife, score an ""X"" on the top side of each tomato and cut out the stem end. In a pot of boiling water large enough to hold the spaghetti, blanch tomatoes until skins just begin to slip off where you scored them, 30 seconds to 1 minute. Using a sl"
+1.0,1.0,0.9451174139976501,3,3 medium cloves,3 medium cloves
+0.0,0.6666666865348816,0.5897579789161682,3,"basil, garlic",basil
+1.0,1.0,0.9643511176109314,3,salt,salt
+0.0,0.3333333432674408,0.3832186162471771,3,"Season with salt. Cook spaghetti, stirring frequently, until al dente.",Return water to a boil and season with salt.
+0.0,0.6363636255264282,0.7500998377799988,3,"Cook spaghetti, stirring frequently, until al dente.","Return water to a boil and season with salt. Cook spaghetti, stirring frequently, until al dente."
+0.0,0.7777777910232544,0.6757603883743286,3,Transfer 1/4 cup (30ml) pasta cooking water to tomato mixture and whisk to form an emulsion.,"When pasta has almost finished cooking, transfer 1/4 cup (60ml) pasta cooking water to tomato mixture and whisk to form an emulsion."
+0.0,0.2702702581882477,0.5113028287887573,3,"Using tongs, transfer pasta to tomato mixture along with an additional 1/4 cup (60ml) pasta cooking water. Vigorously toss and stir pasta to emulsify sauce and coat noodles.",Transfer pasta to warmed plates and sprinkle with remaining breadcrumbs.
+1.0,1.0,0.9637096524238586,3,tongs,tongs
+0.0,0.0,0.00976081844419241,3,breadcrumbs,an additional 1/4 cup (60ml) pasta cooking water
+1.0,1.0,0.9719244241714478,3,Add half of the breadcrumbs and toss to combine.,Add half of the breadcrumbs and toss to combine.
+1.0,1.0,0.9729976654052734,3,"If it seems dry, add extra pasta water and olive oil, 1 tablespoon (15ml) at a time, until it reaches the desired consistency.","If it seems dry, add extra pasta water and olive oil, 1 tablespoon (15ml) at a time, until it reaches the desired consistency."
+0.0,0.0,0.013274886645376682,3,breadcrumbs,cheese
+0.0,0.1666666716337204,0.6839257478713989,3,Sprinkle with remaining breadcrumbs.,Add half of the breadcrumbs and toss to combine.
+0.0,0.0,0.009351851418614388,3,cheese,salt
+0.0,0.2857142984867096,0.4871969223022461,3,Serve right away.,"Transfer pasta to warmed plates and sprinkle with remaining breadcrumbs. Top with cheese, if desired. Serve right away."
+0.0,0.8888888955116272,0.9713186621665955,3,three layers of paper towels or a clean dish towel,3 layers of paper towels or a clean dish towel
+0.0,0.3076923191547394,0.4182528555393219,3,rubber spatula,Transfer ricotta directly to paper towels and spread with a rubber spatula.
+0.0,0.9122806787490845,0.8238711357116699,3,Place another triple layer of paper towels or a clean dish towel on top and press down firmly with the palms of your hands to blot excess moisture.,Place another triple layer of paper towels or a clean dish towel on top and press down firmly with the palms of your hands to blot excess moisture. Peel off upper paper towels.
+0.0,0.6315789222717285,0.6771435737609863,3,Place another triple layer of paper towels or a clean dish towel on top and press down firmly with the palms of your hands to blot excess moisture.,Press down firmly with the palms of your hands to blot excess moisture.
+0.0,0.0,0.009740914218127728,3,another triple layer of paper towels or a clean dish towel,fried sage leaves
+1.0,1.0,0.9666937589645386,3,large bowl,large bowl
+0.0,0.7096773982048035,0.6806201934814453,3,"Transfer to a large clean plate and spread into a thin, even layer. Transfer to freezer and let chill for 15 minutes.","Transfer to a large clean plate and spread into a thin, even layer."
+1.0,1.0,0.9729998111724854,3,Transfer half of the semolina flour to a large bowl and the other half to a 9- by 13-inch baking dish.,Transfer half of the semolina flour to a large bowl and the other half to a 9- by 13-inch baking dish.
+1.0,1.0,0.9666937589645386,3,large bowl,large bowl
+0.0,0.4000000059604645,0.7156282067298889,3,separate empty large bowl,bowl
+0.0,0.190476194024086,0.4973509609699249,3,Scrape it into a separate empty large bowl and fold it with a rubber spatula until no big chunks of frozen ricotta remain.,Transfer ricotta directly to paper towels and spread with a rubber spatula. Place another triple layer of paper towels or a clean dish towel on top and press down firmly with the palms of your hands to blot excess moisture. Peel off upper paper towels.
+1.0,1.0,0.959672749042511,3,bowl,bowl
+1.0,1.0,0.9692413210868835,3,Transfer it to the baking dish.,Transfer it to the baking dish.
+1.0,1.0,0.9717759490013123,3,Sprinkle any remaining semolina in the bowl over the formed gnudi.,Sprinkle any remaining semolina in the bowl over the formed gnudi.
+0.0,0.0,0.009378093294799328,3,bowl,over the formed gnudi
+1.0,1.0,0.9641238451004028,3,once per day,once per day
+0.0,0.4838709533214569,0.7193192839622498,3,"They can be frozen. Transfer to a large plate or a rimmed baking sheet and freeze until solid, about 1 hour. Transfer to a zipper-lock freezer bag and store in the freezer for up to 2 months. Allow to thaw on a plate covered with plastic wrap in the refrigerator overnight before cooking.","Transfer to a large plate or a rimmed baking sheet and freeze until solid, about 1 hour."
+1.0,1.0,0.9663878679275513,3,about 1 hour,about 1 hour
+0.0,0.0,0.009637739509344101,3,foaming,butter
+1.0,1.0,0.9670958518981934,3,medium saucepan,medium saucepan
+1.0,1.0,0.9740193486213684,3,"Add sage leaves, season lightly with salt, and cook, turning the leaves occasionally, until crisp, about 2 minutes.","Add sage leaves, season lightly with salt, and cook, turning the leaves occasionally, until crisp, about 2 minutes."
+0.0,0.8888888955116272,0.7745928764343262,3,"Using tongs, transfer the leaves to a paper towel-lined plate to drain.",Transfer the leaves to a paper towel-lined plate to drain.
+1.0,1.0,0.9688140153884888,3,medium skillet,medium skillet
+0.0,0.800000011920929,0.9386152029037476,3,for 3 minutes,3 minutes
+0.0,0.0,0.4152964651584625,3,"cook, stirring very gently, for 3 minutes.","Using a slotted spoon, transfer the gnudi to the skillet with the butter, making sure that plenty of pasta water gets into the pan with the gnudi."
+0.0,0.0,0.01296535599976778,3,making sure that plenty of pasta water gets into the pan with the gnudi.,Yes
+1.0,1.0,0.9672372937202454,3,slotted spoon,slotted spoon
+0.0,0.5925925970077515,0.6963251829147339,3,Shaking the pan and gently stirring the gnudi helps the butter and pasta water emulsify into a creamy sauce.,"until the butter and pasta water emulsify into a creamy sauce, about 1 minute."
+1.0,1.0,0.9650607109069824,3,high heat,high heat
+1.0,1.0,0.966620147228241,3,about 1 minute,about 1 minute
+0.0,0.12765957415103912,0.39611417055130005,3,"The sauce is ready when the butter and pasta water emulsify into a creamy sauce, about 1 minute.",Transfer gnudi and butter sauce to a warm serving dish or to individual plates. Top with fried sage leaves and drizzle with browned butter. Sprinkle with Parmesan and black pepper and serve immediately.
+1.0,1.0,0.9571455121040344,3,pan,pan
+0.0,0.5777778029441833,0.6742224097251892,3,Transfer gnudi and butter sauce to a warm serving dish or to individual plates.,Transfer gnudi and butter sauce to a warm serving dish or to individual plates. Top with fried sage leaves and drizzle with browned butter. Sprinkle with Parmesan and black pepper and serve immediately.
+0.0,0.7450980544090271,0.7428019046783447,3,Top with fried sage leaves and drizzle with browned butter. Sprinkle with Parmesan and black pepper and serve immediately.,Transfer gnudi and butter sauce to a warm serving dish or to individual plates. Top with fried sage leaves and drizzle with browned butter. Sprinkle with Parmesan and black pepper and serve immediately.
+0.0,0.7450980544090271,0.7428019046783447,3,Top with fried sage leaves and drizzle with browned butter. Sprinkle with Parmesan and black pepper and serve immediately.,Transfer gnudi and butter sauce to a warm serving dish or to individual plates. Top with fried sage leaves and drizzle with browned butter. Sprinkle with Parmesan and black pepper and serve immediately.
+0.0,0.5714285969734192,0.6818857192993164,3,preheat oven,Preheat oven to 300°F (150°C).
+1.0,1.0,0.9705696105957031,3,Season short ribs all over with salt and pepper.,Season short ribs all over with salt and pepper.
+0.0,0.800000011920929,0.9027080535888672,3,large dutch oven,Dutch oven
+0.0,0.24242424964904785,0.30301573872566223,3,"Heat oil in a large Dutch oven over medium-high heat until shimmering. Working in batches, add short ribs and brown on all sides, about 4 minutes per side.","Return to the heat and add celery, carrot, onion, and garlic. Cook, stirring, until browned, about 6 minutes. Stir in tomato paste and cook for 1 minute longer; lower heat at any point if the contents of the pot threaten to burn."
+0.0,0.3888888955116272,0.6308683156967163,3,"Cook, stirring, until browned, about 6 minutes.","Cook, stirring, until browned, about 6 minutes. Stir in tomato paste and cook for 1 minute longer; lower heat at any point if the contents of the pot threaten to burn."
+1.0,1.0,0.9707550406455994,3,Lower heat at any point if the contents of the pot threaten to burn.,Lower heat at any point if the contents of the pot threaten to burn.
+0.0,0.6666666865348816,0.7454157471656799,3,tomato,tomato paste
+0.0,0.2857142984867096,0.6520563960075378,3,lower heat,lower heat at any point if the contents of the pot threaten to burn.
+0.0,0.4000000059604645,0.3434979319572449,3,red wine,ruby port wine
+0.0,0.27272728085517883,0.24003538489341736,3,"If using store-bought stock, place it in a large bowl first and sprinkle all over with gelatin until bloomed, then add to Dutch oven.","Add thyme and bay leaves, cover partially, then transfer to oven, and cook until beef is fork-tender, 2 to 3 hours."
+0.0,0.5384615659713745,0.671527087688446,3,Place it in a large bowl first and sprinkle all over with gelatin until bloomed.,"Sprinkle all over with gelatin until bloomed, then add to Dutch oven."
+0.0,0.3333333432674408,0.6046292781829834,3,Add thyme and bay leaves.,thyme
+0.0,0.739130437374115,0.7218798995018005,3,"bring port to a very gentle simmer, regulating heat to maintain that simmer. Cook, uncovered, and reduce until syrupy, about 1 hour; should yield about 1/2 cup (120ml) in volume.","Cook, uncovered, and reduce until syrupy, about 1 hour; should yield about 1/2 cup (120ml) in volume."
+0.0,0.9523809552192688,0.7896401882171631,3,"Carefully remove short ribs from pot and transfer to a clean platter (they will be very tender, so the bones may slip out; try to hold them together as you transfer them).","Carefully remove short ribs from pot and transfer to a clean platter (they will be very tender, so the bones may slip out; try to hold them together as you transfer them). Tent with foil."
+0.0,0.5,0.6265366673469543,3,Transfer them to a clean platter and tent with foil.,Tent with foil.
+0.0,0.8571428656578064,0.9148674607276917,3,Tent them with foil.,Tent with foil.
+1.0,1.0,0.9724526405334473,3,Skim accumulated fat from surface of braising liquid and discard.,Skim accumulated fat from surface of braising liquid and discard.
+1.0,1.0,0.9745106101036072,3,"Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible.","Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible."
+1.0,1.0,0.9745106101036072,3,"Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible.","Strain braising liquid through a fine-mesh strainer set over a large heatproof bowl, pressing on solids to extract as much liquid as possible."
+1.0,1.0,0.9582899808883667,3,"Return to heat and bring to a gentle simmer, adjusting heat to maintain simmer. Simmer until braising liquid is reduced to 2 cups, about 1 hour; skim any foam that accumulates on the surface as needed.","Return to heat and bring to a gentle simmer, adjusting heat to maintain simmer. Simmer until braising liquid is reduced to 2 cups, about 1 hour; skim any foam that accumulates on the surface as needed."
+0.0,0.21052631735801697,0.47909343242645264,3,Skim any foam that accumulates on the surface as needed.,Skim accumulated fat from surface of braising liquid and discard.
+1.0,1.0,0.9727670550346375,3,The sauce should be thick enough to coat the back of a spoon and leave a trail when you drag your finger through it.,The sauce should be thick enough to coat the back of a spoon and leave a trail when you drag your finger through it.
+0.0,0.7058823704719543,0.6099509000778198,3,whisk in the cornstarch slurry and bring to a simmer until thickened slightly.,Bring to a simmer until thickened slightly.
+0.0,0.8148148059844971,0.7520907521247864,3,"If it's still a little thin, whisk in the cornstarch slurry and bring to a simmer until thickened slightly.",Whisk in the cornstarch slurry and bring to a simmer until thickened slightly.
+1.0,1.0,0.9734381437301636,3,"Return short ribs to Dutch oven, spooning the sauce all over and around them to glaze and rewarm.","Return short ribs to Dutch oven, spooning the sauce all over and around them to glaze and rewarm."
+0.0,0.10526315867900848,0.31270959973335266,3,Serve.,"Return short ribs to Dutch oven, spooning the sauce all over and around them to glaze and rewarm. Serve."
+0.0,0.6666666865348816,0.813593327999115,3,a traditional cake pan of those dimensions,Traditional cake pan
+1.0,1.0,0.9688723087310791,3,traditional cake pan,traditional cake pan
+0.0,0.6666666865348816,0.5897557735443115,3,pan,cake pan
+0.0,0.9830508232116699,0.9685566425323486,3,"cheesecake can be baked in any size or style of pan, but the volume of batter, bake temperatures, and times will require individual adjustments which have not been tested here.","Yes, cheesecake can be baked in any size or style of pan, but the volume of batter, bake temperatures, and times will require individual adjustments which have not been tested here."
+1.0,1.0,0.9571455121040344,3,pan,pan
+1.0,1.0,0.9732605814933777,3,"wrap the bottom piece in foil before assembly, then tear away the excess so the pan sits flat","Wrap the bottom piece in foil before assembly, then tear away the excess so the pan sits flat."
+0.0,0.1818181872367859,0.5886329412460327,3,a two-piece pan,"preferably a non-latching, two-piece style; this style can be difficult to find, but this pan was manufactured especially for this recipe."
+0.0,0.0,0.30821892619132996,3,line the bottom with a parchment round,"Stand the cake in a few inches of scalding hot water until the pan feels warm (a roasting pan works well for this). Drape the cake in plastic wrap to protect its surface, then invert onto a large, flat plate, and lift the pan to pull it away. It should slide free without any"
+0.0,0.6666666865348816,0.8211147785186768,3,traditional cake pan,a traditional cake pan of those dimensions
+0.0,0.0,0.014570680446922779,3,lightly grease the pan,Yes
+0.0,0.0,0.17469049990177155,3,fork,"Mix on low until roughly combined, then increase to medium and cream until no lumps of cheese remain, and the mixture is perfectly smooth; about 5 minutes. Halfway through, pause to scrape the bowl and beater with a flexible spatula."
+0.0,0.6000000238418579,0.5859302282333374,3,"graham cracker crumbs, melted butter, and salt",Graham cracker crumbs
+0.0,0.6415094137191772,0.8105342388153076,3,"Add the graham cracker crumbs, melted butter, and salt to the pan, and stir with a fork until well combined.","Add the graham cracker crumbs, melted butter, and salt to the pan, and stir with a fork until well combined. If needed, season to taste with additional salt. With your fingers, compress into an even layer along the bottom of the pan."
+0.0,0.0,0.16955254971981049,3,pan,"If needed, season to taste with additional salt."
+0.0,0.4680851101875305,0.6084423661231995,3,"With your fingers, compress into an even layer along the bottom of the pan.","Add the graham cracker crumbs, melted butter, and salt to the pan, and stir with a fork until well combined. If needed, season to taste with additional salt. With your fingers, compress into an even layer along the bottom of the pan."
+1.0,1.0,0.9720529317855835,3,orange flower water,orange flower water
+0.0,0.3333333432674408,0.4260927140712738,3,"salt, and orange flower water",salt
+0.0,0.0,0.07899817079305649,3,Do not add the sugar at this time.,salt
+0.0,0.05263157933950424,0.30435335636138916,3,cream,"Mix on low until roughly combined, then increase to medium and cream until no lumps of cheese remain, and the mixture is perfectly smooth; about 5 minutes. Halfway through, pause to scrape the bowl and beater with a flexible spatula."
+0.0,0.24390244483947754,0.49515867233276367,3,"Reduce speed to medium-low, add the sugar all at once, and mix only until well combined.","Mix on low until roughly combined, then increase to medium and cream until no lumps of cheese remain, and the mixture is perfectly smooth; about 5 minutes."
+0.0,0.0,0.012944924645125866,3,bowl,cream cheese
+1.0,1.0,0.9634914994239807,3,eggs,eggs
+0.0,0.3333333432674408,0.6207008957862854,3,whisk,whisk until they pass through
+1.0,1.0,0.9722893238067627,3,Discard any clots of chalazae that remain trapped in the strainer.,Discard any clots of chalazae that remain trapped in the strainer.
+0.0,0.75,0.737834095954895,3,stainless steel pot,In a 1-quart stainless steel pot.
+0.0,0.0,0.009192903526127338,3,cream,1-quart stainless steel pot
+1.0,1.0,0.974782407283783,3,"While mixing on low, add the hot cream all at once in a steady stream, and mix a few seconds more.","While mixing on low, add the hot cream all at once in a steady stream, and mix a few seconds more."
+1.0,1.0,0.9675819873809814,3,hot cream,hot cream
+0.0,0.21052631735801697,0.44688647985458374,3,"Refrigerate the batter in an airtight container until needed, up to one week.",Bring cold batter to room temperature before baking.
+1.0,1.0,0.9719071984291077,3,Bring cold batter to room temperature before baking.,Bring cold batter to room temperature before baking.
+0.0,0.8888888955116272,0.9028372764587402,3,Place it on a baking sheet.,Place on a baking sheet.
+1.0,1.0,0.9580571055412292,3,spoon,a spoon
+1.0,1.0,0.9722785949707031,3,Bounce a spoon across the surface to dislodge any air bubbles that may have slipped through.,Bounce a spoon across the surface to dislodge any air bubbles that may have slipped through.
+0.0,0.0,0.32471469044685364,3,250°f,450°f
+0.0,0.8275862336158752,0.8770055174827576,3,Skip to the next step and bake only at 250°F until done; this may take an hour or more.,bake only at 250°F until done; this may take an hour or more.
+1.0,1.0,0.9568932056427002,3,10 minutes,10 minutes
+0.0,0.3589743673801422,0.6207533478736877,3,"Close the door and set the oven to 250°F. Continue baking until the outer edge of the cheesecake feels firm, though the innermost ring of cheesecake will wobble quite freely if you shake the pan, about 35 minutes.",Close the door and set the oven to 250°F.
+1.0,1.0,0.9636724591255188,3,about 35 minutes,about 35 minutes
+0.0,0.30000001192092896,0.5680445432662964,3,The cheesecake will be done when the very center registers 145°F on a digital thermometer inserted to a depth of 2-inches.,"Continue baking until the outer edge of the cheesecake feels firm, though the innermost ring of cheesecake will wobble quite freely if you shake the pan, about 35 minutes. This wobbly zone should be no more than 3-inches across. The cheesecake will be done when the very center registers"
+1.0,1.0,0.9708980917930603,3,Cracking is the result of over-baking and nothing more.,cracking is the result of over-baking and nothing more.
+0.0,0.5714285969734192,0.7193537354469299,3,thin knife,thin knife or offset spatula
+1.0,1.0,0.9735642075538635,3,Run a thin knife or offset spatula around the sides to loosen (this helps the cake settle evenly as it cools).,Run a thin knife or offset spatula around the sides to loosen (this helps the cake settle evenly as it cools).
+0.0,0.26229506731033325,0.6805352568626404,3,Run a thin knife or offset spatula around the sides to loosen (this helps the cake settle evenly as it cools).,"Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula. Place the pan on a large can of tomatoes or a similarly sized object; something tall enough to lift the cheesecake 4-inches from the counter, and wide enough to form a stable base. With both hands on"
+0.0,0.4000000059604645,0.6859589219093323,3,1 hour,at least 1 hour (or up to 4)
+0.0,0.0,0.017937231808900833,3,12 hours,up to 10 days
+0.0,0.7272727489471436,0.7976132035255432,3,"Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula. Place the pan on a large can of tomatoes or a similarly sized object; something tall enough to lift the cheesecake 4-inches from the counter, and wide enough to form a stable base. With both hands on the sides of the pan, pull downward to drop the outer ring away from the bottom. Place the cake onto a flat work surface, loosen it from the bottom of the pan with an offset spatula, and transfer to a large, flat serving plate.","Place the pan on a large can of tomatoes or a similarly sized object; something tall enough to lift the cheesecake 4-inches from the counter, and wide enough to form a stable base. With both hands on the sides of the pan, pull downward to drop the outer ring away from the bottom. Place the"
+0.0,0.0,0.1958056390285492,3,thin knife,offset spatula
+0.0,0.4000000059604645,0.6458489894866943,3,tomatoes,large can of tomatoes
+0.0,0.6666666865348816,0.9438804388046265,3,10 days,up to 10 days
+0.0,0.682539701461792,0.7453466057777405,3,"Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula. Stand the cake in a few inches of scalding hot water until the pan feels warm (a roasting pan works well for this). Drape the cake in plastic wrap to protect its surface, then invert onto a large, flat plate, and lift the pan to pull it away. It should slide free without any resistance; if not, continue standing in hot water a few minutes more. After removing the pan, peel the parchment from the crust, and re-invert the cheesecake onto a serving plate.","Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula. Stand the cake in a few inches of scalding hot water until the pan feels warm (a roasting pan works well for this). Drape the cake in plastic wrap to protect its surface, then invert onto a"
+0.0,0.4000000059604645,0.4042436182498932,3,roasting pan,non-reactive aluminum pan
+1.0,1.0,0.9571455121040344,3,pan,pan
+0.0,0.8103448152542114,0.7688888311386108,3,"Combine the fresh fruit and warmed fruit syrup or jam in a large bowl, and gently fold with a flexible spatula until the fruit is well coated and glistening (optional). Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade under hot running water between each slice. Top with spoonfuls of the sauced fruit, if using, or other toppings and sauces as desired.","Combine the fresh fruit and warmed fruit syrup or jam in a large bowl, and gently fold with a flexible spatula until the fruit is well coated and glistening (optional). Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade"
+1.0,1.0,0.9742515683174133,3,"Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade under hot running water between each slice.","Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade under hot running water between each slice."
+0.0,0.25,0.5875128507614136,3,knife,large chef's knife dipped in hot water
+0.0,0.1818181872367859,0.6181200742721558,3,"black pepper, allspice (if using), and 2 teaspoons kosher salt",salt
+0.0,0.0,0.13398300111293793,3,"Using a blender or food processor, purée garlic, orange juice, lime juice, cumin, oregano, black pepper, allspice (if using), and 2 teaspoons kosher salt until well blended.",yes
+0.0,0.0,0.30810272693634033,3,allspice,black pepper
+0.0,0.4000000059604645,0.8034401535987854,3,blender,blender or food processor
+0.0,0.6511628031730652,0.7113509178161621,3,"(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.)",finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.
+0.0,0.9722222089767456,0.964131236076355,3,"(Alternatively, to make with a mortar and pestle, pound the garlic with the salt to form a paste and then mix in the rest of the ingredients. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl.)","Yes, to make with a mortar and pestle, pound the garlic with the salt to form a paste and then mix in the rest of the ingredients. Alternatively, finely grate or mince the garlic and stir together with the remaining ingredients in a small bowl."
+1.0,1.0,0.9640725255012512,3,chicken,chicken
+0.0,0.5538461804389954,0.649976372718811,3,"If using chicken breast halves, cut into cutlets following our instructions here, pounding to an even thickness of about 1/4 inch","Cut into cutlets following our instructions here, pounding to an even thickness of about 1/4 inch (if desired, you can butterfly the breast halves by not fully cutting all the way through, so that they open like a book; butterflied breasts also need to be pounded to an even thickness)."
+0.0,0.0,0.03796730563044548,3,chicken,cutlets
+0.0,0.1111111119389534,0.4166802167892456,3,making sure it coats chicken evenly all over,Remove the chicken breasts from the marinade and wipe off any excess.
+0.0,0.800000011920929,0.9443832635879517,3,for 30 minutes,30 minutes
+0.0,0.6666666865348816,0.5390022993087769,3,"if chicken is in a dish, turn it once halfway through.",Turn it once halfway through.
+1.0,1.0,0.9640725255012512,3,chicken,chicken
+0.0,0.1599999964237213,0.28814423084259033,3,Remove the chicken breasts from the marinade and wipe off any excess.,"Press out excess air and seal zipper-lock bag, or cover dish with plastic or a lid."
+0.0,0.0,0.4063973128795624,3,medium-high heat,low oven
+0.0,0.4444444477558136,0.58758944272995,3,Heat oil over medium-high heat until shimmering.,medium-high heat
+0.0,0.0,0.009580949321389198,3,chicken,onion rings
+1.0,1.0,0.9727550745010376,3,Transfer cooked cutlets to a platter and cover with foil or place in a low oven to keep warm.,Transfer cooked cutlets to a platter and cover with foil or place in a low oven to keep warm.
+1.0,1.0,0.9731334447860718,3,"repeat with remaining chicken, adding more oil if the pan gets too dry.","Repeat with remaining chicken, adding more oil if the pan gets too dry."
+0.0,0.40909090638160706,0.6055290102958679,3,It involves cooking them over medium-high heat until they have softened a bit and started to brown.,"until the onions have softened a bit and started to brown, 7 to 10 minutes; lower heat and/or add a small splash of water if the contents of the pan threaten to burn."
+0.0,0.0,0.012716037221252918,3,pan,skillet
+1.0,1.0,0.9580249190330505,3,water,water
+0.0,0.7272727489471436,0.8327823877334595,3,You should add a small splash of water.,small splash of water
+1.0,1.0,0.9571455121040344,3,pan,pan
+0.0,0.13333334028720856,0.03392947092652321,3,Top with browned onions.,Cover with foil or place in a low oven to keep warm.
+1.0,1.0,0.9614855051040649,3,cilantro,cilantro
+0.0,0.0,0.009453313425183296,3,lime,cilantro
+0.0,0.800000011920929,0.7848454117774963,3,Serve with black beans and rice.,black beans and rice
+1.0,1.0,0.9553631544113159,3,rice,rice

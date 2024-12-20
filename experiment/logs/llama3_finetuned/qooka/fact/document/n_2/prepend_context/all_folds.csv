@@ -1,0 +1,992 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+1.0,1.0,0.9726772904396057,0,old-fashioned flaky pie dough,old-fashioned flaky pie dough
+1.0,1.0,0.959079384803772,0,2 hours,2 hours
+0.0,0.6666666865348816,0.7781375646591187,0,ripe peaches,peaches
+0.0,0.6666666865348816,0.5482677817344666,0,medium bowl,medium
+0.0,0.0,0.9014220237731934,0,peaches,peach
+1.0,1.0,0.9649337530136108,0,sharp knife,sharp knife
+0.0,0.0,0.28881749510765076,0,1 large egg|1 large egg yolk,2
+0.0,0.0,0.010116086341440678,0,silver rum,brush
+0.0,0.6000000238418579,0.6090458035469055,0,3 1/2 ounces sugar (1/2 cup; 100g),3 1/2 ounces
+0.0,0.0,0.4729178845882416,0,one 2–inch piece fresh ginger,2 inch
+1.0,1.0,0.969417154788971,0,yogurt,yogurt
+1.0,1.0,0.9551090598106384,0,lamb,lamb
+0.0,0.0,0.057456497102975845,0,saucepan,dutch oven
+0.0,0.6666666865348816,0.6587688326835632,0,30 minutes,25 to 30 minutes
+1.0,1.0,0.9352486729621887,0,3,3
+0.0,0.4000000059604645,0.9127486348152161,0,heat to medium-high,medium heat
+0.0,0.6666666865348816,0.7472936511039734,0,45 minutes,30 to 45 minutes
+0.0,0.0,0.011162135750055313,0,rice,lamb
+0.0,0.6666666865348816,0.7337192296981812,0,water,soaking water
+0.0,0.0,0.07199212163686752,0,large wooden spoon,fork
+1.0,1.0,0.9553631544113159,0,rice,rice
+1.0,1.0,0.9670432806015015,0,small saucepan,small saucepan
+1.0,1.0,0.9665839672088623,0,low heat,low heat
+0.0,0.800000011920929,0.9424626231193542,0,for 10 minutes,10 minutes
+0.0,0.800000011920929,0.8721681833267212,0,caramelized onions,reserved caramelized onions
+1.0,1.0,0.9561713337898254,0,pot,pot
+1.0,1.0,0.9621517062187195,0,flour,flour
+0.0,0.5,0.7406910061836243,0,stiff rubber spatula,spatula
+1.0,1.0,0.959672749042511,0,bowl,bowl
+1.0,1.0,0.9577359557151794,0,egg,egg
+1.0,1.0,0.962563693523407,0,spatula,spatula
+0.0,0.5,0.4698786437511444,0,medium bowl,large bowl
+0.0,0.6666666865348816,0.7788843512535095,0,medium bowl,bowl
+1.0,1.0,0.9621517062187195,0,flour,flour
+1.0,1.0,0.9618204236030579,0,butter,butter
+0.0,0.6666666865348816,0.9236947894096375,0,to 375°f,375°f
+0.0,0.0,0.009485874325037003,0,flour,at room temperature
+1.0,1.0,0.9618083834648132,0,dough,dough
+1.0,1.0,0.9618083834648132,0,dough,dough
+1.0,1.0,0.9618083834648132,0,dough,dough
+1.0,1.0,0.9618083834648132,0,dough,dough
+1.0,1.0,0.9639261960983276,0,1 inch,1 inch
+1.0,1.0,0.9577359557151794,0,egg,egg
+0.0,0.6666666865348816,0.92009437084198,0,20 minutes,at least 20 minutes
+1.0,1.0,0.9679068922996521,0,sharp boning knife,sharp boning knife
+1.0,1.0,0.9595386385917664,0,5 days,5 days
+0.0,0.6666666865348816,0.9208916425704956,0,to 145°f,145°f
+1.0,1.0,0.9622138142585754,0,63°c,63°c
+1.0,1.0,0.9582111835479736,0,oven,oven
+0.0,0.0,0.2290673404932022,0,200°c,400°c
+1.0,1.0,0.9583045244216919,0,45 minutes,45 minutes
+0.0,0.800000011920929,0.9426606297492981,0,for 1 hour,1 hour
+1.0,1.0,0.969934344291687,0,fine-mesh strainer,fine-mesh strainer
+0.0,0.800000011920929,0.7014803290367126,0,1 quart,1 quart (900ml)
+0.0,0.6666666865348816,0.8596242666244507,0,medium saucepan,saucepan
+1.0,1.0,0.9669032692909241,0,medium heat,medium heat
+1.0,1.0,0.966289222240448,0,about 3 minutes,about 3 minutes
+0.0,0.75,0.8879205584526062,0,large dutch oven,base of a large Dutch oven
+1.0,1.0,0.969273567199707,0,medium-high heat,medium-high heat
+1.0,1.0,0.9656605124473572,0,about 4 minutes,about 4 minutes
+1.0,1.0,0.9640725255012512,0,chicken,chicken
+1.0,1.0,0.9643511176109314,0,salt,salt
+1.0,1.0,0.9638596177101135,0,about 40 minutes,about 40 minutes
+1.0,1.0,0.9637096524238586,0,tongs,tongs
+0.0,0.0,0.014425395987927914,0,bowl,large plate
+1.0,1.0,0.958952784538269,0,broth,broth
+0.0,0.0,0.057175926864147186,0,dutch oven,bowl
+1.0,1.0,0.9643511176109314,0,salt,salt
+1.0,1.0,0.9640725255012512,0,chicken,chicken
+0.0,0.2857142984867096,0.631844699382782,0,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion",diced avocado
+0.0,0.1538461595773697,0.4028175473213196,0,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion",radish
+1.0,1.0,0.9729605317115784,0,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion","diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion"
+0.0,0.800000011920929,0.9208853244781494,0,2 hours or up to 24,at least 2 hours or up to 24 hours
+1.0,1.0,0.9613110423088074,0,510g,510g
+1.0,1.0,0.9676108956336975,0,medium bowl,medium bowl
+0.0,0.0,0.008993249386548996,0,dominoes,in a ring
+1.0,1.0,0.9649337530136108,0,sharp knife,sharp knife
+1.0,1.0,0.9648323059082031,0,peaches,peaches
+1.0,1.0,0.9577359557151794,0,egg,egg
+1.0,1.0,0.9577359557151794,0,egg,egg
+0.0,0.6666666865348816,0.6889655590057373,0,dough,chilled dough
+1.0,1.0,0.9648419618606567,0,about 20 minutes,about 20 minutes
+1.0,1.0,0.9552308320999146,0,rum,rum
+1.0,1.0,0.9612960815429688,0,sugar,sugar
+1.0,1.0,0.9582111835479736,0,oven,oven
+0.0,0.0,0.009324224665760994,0,salt,rosemary
+0.0,0.6666666865348816,0.3543377220630646,0,about 30 minutes,about 10 minutes
+1.0,1.0,0.9649337530136108,0,sharp knife,sharp knife
+1.0,1.0,0.959672749042511,0,bowl,bowl
+1.0,1.0,0.9672093987464905,0,tomatoes,tomatoes
+0.0,0.5,0.5086475014686584,0,reserved tomato,tomato pulp
+1.0,1.0,0.9655163884162903,0,tomato,tomato
+0.0,0.5,0.37421366572380066,0,broth,low-sodium chicken broth
+0.0,0.0,0.01863413117825985,0,salt,lightly
+1.0,1.0,0.9642309546470642,0,garlic,garlic
+1.0,1.0,0.9642309546470642,0,garlic,garlic
+0.0,0.0,0.022145848721265793,0,rice,garlic
+1.0,1.0,0.9691490530967712,0,tomato paste,tomato paste
+0.0,0.6666666865348816,0.8023447394371033,0,rice,rice mixture
+0.0,0.0,0.009574146941304207,0,tomato pulp,fish sauce
+1.0,1.0,0.9643511176109314,0,salt,salt
+0.0,0.6666666865348816,0.5313299298286438,0,tomato cavities,tomato
+1.0,1.0,0.9672093987464905,0,tomatoes,tomatoes
+0.0,0.800000011920929,0.719028890132904,0,1 tablespoon,1 tablespoon (15ml)
+0.0,0.0,0.9390032291412354,0,tomatoes,potatoes
+0.0,0.5,0.5641730427742004,0,rice and potatoes,rice
+1.0,1.0,0.9659022688865662,0,potatoes,potatoes
+1.0,1.0,0.9650607109069824,0,high heat,high heat
+0.0,0.800000011920929,0.9397533535957336,0,for 5 minutes,5 minutes
+1.0,1.0,0.970089316368103,0,tuna steaks,tuna steaks
+1.0,1.0,0.9380396604537964,0,fish,fish
+0.0,0.5,0.7979058623313904,0,thin metal spatula,spatula
+0.0,0.6666666865348816,0.8712426424026489,0,carving fork,tines of a carving fork
+1.0,1.0,0.957976222038269,0,heat,heat
+1.0,1.0,0.9380396604537964,0,fish,fish
+0.0,0.0,0.009783653542399406,0,tuna,from a deep purple when raw to a beige when cooked
+0.0,0.0,0.6064385175704956,0,2 pounds (900g),900 g
+0.0,0.0,0.5862310528755188,0,aluminium-foil,foil
+0.0,0.6666666865348816,0.7035663723945618,0,diamond crystal kosher salt,kosher salt
+0.0,0.800000011920929,0.8169301748275757,0,preground spices,using pre-ground spices
+0.0,0.0,0.6474032998085022,0,1 ounce (28g),28 g
+0.0,0.800000011920929,0.9316966533660889,0,about 1 minute,1 minute
+1.0,1.0,0.922936201095581,0,yes,yes
+0.0,0.6666666865348816,0.6144262552261353,0,1 medium,1
+0.0,0.800000011920929,0.49392715096473694,0,4 tablespoons (60g),4 tablespoons
+0.0,0.0,0.013496790081262589,0,"2 pounds (900g) boneless, skinless chicken thighs (about 4)",1/2 cup
+0.0,0.0,0.12787623703479767,0,serving bowl,small
+0.0,0.0,0.00976110901683569,0,small skillet,fenugreek leaves
+0.0,0.6666666865348816,0.7760022878646851,0,fenugreek,fenugreek leaves
+1.0,1.0,0.9669032692909241,0,medium heat,medium heat
+0.0,0.2857142984867096,0.600231409072876,0,9- by 13-inch with 1-inch sides,1-inch
+1.0,1.0,0.9611756801605225,0,ginger,ginger
+1.0,1.0,0.9637662768363953,0,fenugreek,fenugreek
+0.0,0.5,0.9686295390129089,0,chicken thigh,chicken thighs
+0.0,0.5,0.5315106511116028,0,chicken thigh pieces,chicken
+0.0,0.0,0.20805707573890686,0,prepared baking sheet,bowl
+1.0,1.0,0.9640725255012512,0,chicken,chicken
+1.0,1.0,0.9637662768363953,0,fenugreek,fenugreek
+0.0,0.0,0.42893439531326294,0,2 teaspoons,1 teaspoon
+1.0,1.0,0.9640725255012512,0,chicken,chicken
+1.0,1.0,0.9678947329521179,0,small skillet,small skillet
+1.0,1.0,0.9637662768363953,0,fenugreek,fenugreek
+0.0,0.0,0.12147777527570724,0,medium mixing bowl,rimmed baking sheet
+1.0,1.0,0.9690426588058472,0,black salt,black salt
+0.0,0.0,0.09269078820943832,0,bowl,baking sheet
+1.0,1.0,0.9640725255012512,0,chicken,chicken
+1.0,1.0,0.9656744003295898,0,aluminum,aluminum
+1.0,1.0,0.9669032692909241,0,medium heat,medium heat
+0.0,0.0,0.009243438951671124,0,salt,brown cardamom
+0.0,0.0,0.2054130733013153,0,shortcut spice mix,brown cardamom
+1.0,1.0,0.9580249190330505,0,water,water
+1.0,1.0,0.9602798223495483,0,cashews,cashews
+0.0,0.800000011920929,0.9316966533660889,0,about 1 minute,1 minute
+0.0,0.0,0.34642311930656433,0,dutch oven,broiler
+0.0,0.0,0.09281549602746964,0,pot,with a wooden spoon
+0.0,0.6666666865348816,0.5040305256843567,0,about 1 minute,"until quite fragrant, about 1 minute"
+1.0,1.0,0.9613491892814636,0,onions,onions
+0.0,0.6666666865348816,0.7287383675575256,0,wooden spoon,back of wooden spoon
+1.0,1.0,0.9672093987464905,0,tomatoes,tomatoes
+1.0,1.0,0.9638596177101135,0,about 40 minutes,about 40 minutes
+1.0,1.0,0.9640725255012512,0,chicken,chicken
+1.0,1.0,0.9642106890678406,0,about 14 minutes,about 14 minutes
+1.0,1.0,0.9691334366798401,0,immersion blender,immersion blender
+1.0,1.0,0.9618204236030579,0,butter,butter
+1.0,1.0,0.9640725255012512,0,chicken,chicken
+1.0,1.0,0.959672749042511,0,bowl,bowl
+0.0,0.0,0.010621488094329834,0,garlic,3 tablespoons extra-virgin olive oil
+1.0,1.0,0.9643511176109314,0,salt,salt
+0.0,0.2857142984867096,0.583458423614502,0,"bay leaves, rosemary or thyme sprigs",rosemary
+0.0,0.5,0.6160181760787964,0,salt and pepper,salt
+0.0,0.800000011920929,0.9404579997062683,0,about 15 minutes,15 minutes
+1.0,1.0,0.9580249190330505,0,water,water
+0.0,0.6666666865348816,0.6307018399238586,0,cup,1/2 cup
+0.0,0.5714285969734192,0.7249377965927124,0,inch) nonstick skillet,small (8-inch) nonstick skillet
+0.0,0.2857142984867096,0.583458423614502,0,"bay leaves, rosemary or thyme sprigs",rosemary
+1.0,1.0,0.9692832827568054,0,black pepper,black pepper
+1.0,1.0,0.9361117482185364,0,2 teaspoons,2 teaspoons
+1.0,1.0,0.922936201095581,0,yes,yes
+0.0,0.0,0.2915208339691162,0,medium mixing bowl,small
+1.0,1.0,0.922936201095581,0,yes,yes
+0.0,0.0,0.17160409688949585,0,no,yes
+1.0,1.0,0.9695694446563721,0,1/4 cup (60ml),1/4 cup (60ml)
+0.0,0.5,0.15072201192378998,0,1 ounce (28g),1
+0.0,0.800000011920929,0.9316966533660889,0,about 1 minute,1 minute
+1.0,1.0,0.969273567199707,0,medium-high heat,medium-high heat
+0.0,0.6666666865348816,0.9204258322715759,0,"yes, about 40 minutes",40 minutes
+1.0,1.0,0.9643842577934265,0,sheet pan,sheet pan
+0.0,0.6666666865348816,0.5308156609535217,0,serving bowl,serving
+0.0,0.5,0.4698786437511444,0,medium bowl,large bowl
+0.0,0.6666666865348816,0.2725237309932709,0,large,large egg
+0.0,0.4000000059604645,0.6048189401626587,0,spatula followed by hands,spatula
+0.0,0.6666666865348816,0.5482677817344666,0,medium bowl,medium
+0.0,0.0,0.00939987413585186,0,flour,rubber spatula
+1.0,1.0,0.9618204236030579,0,butter,butter
+0.0,0.6666666865348816,0.9236947894096375,0,to 375°f,375°f
+1.0,1.0,0.9621517062187195,0,flour,flour
+1.0,1.0,0.9639261960983276,0,1 inch,1 inch
+1.0,1.0,0.967524528503418,0,egg wash,egg wash
+0.0,0.6666666865348816,0.92009437084198,0,20 minutes,at least 20 minutes
+0.0,0.5,0.35422056913375854,1,cream cheese,heavy cream
+0.0,0.6666666865348816,0.5031899213790894,1,1/2 cup (1 stick),1 stick
+0.0,0.2857142984867096,0.4201550781726837,1,the mixture for the dough so far,creamed mixture
+1.0,1.0,0.9659022688865662,1,potatoes,potatoes
+1.0,1.0,0.9639473557472229,1,colander,colander
+1.0,1.0,0.9681119918823242,1,chorizo,chorizo
+0.0,0.6666666865348816,0.8530408143997192,1,large bowl,bowl
+1.0,1.0,0.9681119918823242,1,chorizo,chorizo
+1.0,1.0,0.9659022688865662,1,potatoes,potatoes
+1.0,1.0,0.9659022688865662,1,potatoes,potatoes
+1.0,1.0,0.9659022688865662,1,potatoes,potatoes
+0.0,0.0,0.012681161053478718,1,bowl,skillet
+1.0,1.0,0.9577359557151794,1,egg,egg
+0.0,0.0,0.07834095507860184,1,small bowl,skillet
+1.0,1.0,0.9577359557151794,1,egg,egg
+1.0,1.0,0.964808464050293,1,about 10 minutes,about 10 minutes
+0.0,0.0,0.011917149648070335,1,oven,skillet
+1.0,1.0,0.9659346342086792,1,tortillas,tortillas
+1.0,1.0,0.959672749042511,1,bowl,bowl
+0.0,0.0,0.5073315501213074,1,about 1 hour,30 minutes
+0.0,0.6666666865348816,0.924666702747345,1,for 30 minutes,about 30 minutes
+0.0,0.0,0.01223738957196474,1,bowl and stand mixer,applesauce
+0.0,0.0,0.08198153227567673,1,minute,until needed
+0.0,0.5,0.7234034538269043,1,to 350°f,350°F (175°C)
+1.0,1.0,0.9636799097061157,1,175°c,175°c
+0.0,0.5714285969734192,0.7020092606544495,1,offset spatula,slide an offset spatula under the dough
+0.0,0.0,0.15639260411262512,1,half sheet pan,8-inch square
+1.0,1.0,0.9638438820838928,1,about 18 minutes,about 18 minutes
+0.0,0.0,0.009368786588311195,1,paper towel,parchment
+0.0,0.6666666865348816,0.9256659746170044,1,6 hours,at least 6 hours
+0.0,0.0,0.012640734203159809,1,yes,chicken
+1.0,1.0,0.9623141884803772,1,500°f (260°c),500°F (260°C)
+0.0,0.0,0.3619098365306854,1,15g,14.79g
+1.0,1.0,0.9688478112220764,1,1/2 teaspoon,1/2 teaspoon
+0.0,0.6666666865348816,0.6548687219619751,1,66°c,150°F (66°C)
+1.0,1.0,0.9637883901596069,1,about 45 minutes,about 45 minutes
+0.0,0.5,0.5597683787345886,1,"soy sauce, butter, and lemon juice",soy sauce
+1.0,1.0,0.9582111835479736,1,oven,oven
+1.0,1.0,0.9586168527603149,1,5 minutes,5 minutes
+1.0,1.0,0.9687236547470093,1,cold water,cold water
+1.0,1.0,0.9689692258834839,1,in a salad spinner,in a salad spinner
+1.0,1.0,0.922936201095581,1,yes,yes
+1.0,1.0,0.922936201095581,1,yes,yes
+0.0,0.8333333134651184,0.9726483821868896,1,until chickpeas are very finley minced,until chickpeas are very finely minced
+1.0,1.0,0.9551274180412292,1,a bowl,bowl
+1.0,1.0,0.922936201095581,1,yes,yes
+1.0,1.0,0.9636133909225464,1,375°f,375°F
+1.0,1.0,0.9656605124473572,1,about 4 minutes,about 4 minutes
+0.0,0.0,0.009314420633018017,1,a paper towel–lined plate,skillet
+1.0,1.0,0.922936201095581,1,yes,yes
+1.0,1.0,0.9637883901596069,1,about 45 minutes,about 45 minutes
+1.0,1.0,0.922936201095581,1,yes,yes
+0.0,0.6666666865348816,0.6498414874076843,1,ground black pepper,cracked black pepper
+0.0,0.5,0.7096977233886719,1,to 400°f,400°F (200°C)
+0.0,0.6666666865348816,0.8023880124092102,1,olive,olive oil
+1.0,1.0,0.9586181044578552,1,sage,sage
+0.0,0.5,0.7096977233886719,1,to 400°f,400°F (200°C)
+1.0,1.0,0.9680314064025879,1,olive oil,olive oil
+1.0,1.0,0.9586181044578552,1,sage,sage
+1.0,1.0,0.9637883901596069,1,about 45 minutes,about 45 minutes
+1.0,1.0,0.9640272259712219,1,about 30 minutes,about 30 minutes
+0.0,0.800000011920929,0.893222987651825,1,large squash,large squash chunks
+0.0,0.800000011920929,0.893222987651825,1,large squash,large squash chunks
+0.0,0.800000011920929,0.7660157084465027,1,"food processor, blender",food processor
+1.0,1.0,0.9643511176109314,1,salt,salt
+1.0,1.0,0.969273567199707,1,medium-high heat,medium-high heat
+1.0,1.0,0.9570634961128235,1,onion,onion
+1.0,1.0,0.9553631544113159,1,rice,rice
+1.0,1.0,0.9553631544113159,1,rice,rice
+0.0,0.8888888955116272,0.9595668315887451,1,3 to 4 minutes,about 3 to 4 minutes
+1.0,1.0,0.960623562335968,1,wine,wine
+1.0,1.0,0.9685965776443481,1,raw alcohol,raw alcohol
+1.0,1.0,0.9662765264511108,1,about 2 minutes,about 2 minutes
+0.0,0.0,0.00941851269453764,1,broth,squash
+1.0,1.0,0.9553631544113159,1,rice,rice
+1.0,1.0,0.9570634961128235,1,onion,onion
+1.0,1.0,0.969273567199707,1,medium-high heat,medium-high heat
+0.0,0.800000011920929,0.9235677719116211,1,2 minutes,about 2 minutes
+1.0,1.0,0.961287796497345,1,squash,squash
+1.0,1.0,0.969978392124176,1,brown butter,brown butter
+1.0,1.0,0.9606021642684937,1,few minutes,a few minutes
+1.0,1.0,0.9643511176109314,1,salt,salt
+0.0,0.5,0.43764573335647583,1,sage,fried sage leaves
+0.0,0.0,0.009163884446024895,1,grated cheese,maple-roasted diced squash
+1.0,1.0,0.9672372937202454,1,slotted spoon,slotted spoon
+1.0,1.0,0.9685534834861755,1,mushrooms,mushrooms
+0.0,0.0,0.15653519332408905,1,cup,bowl
+1.0,1.0,0.9642309546470642,1,garlic,garlic
+0.0,0.0,0.22664082050323486,1,1 tablespoon,1/4 cup
+0.0,0.6666666865348816,0.8015131950378418,1,medium heat,heat
+0.0,0.0,0.02366337552666664,1,mushrooms,garlic
+1.0,1.0,0.966620147228241,1,about 1 minute,about 1 minute
+1.0,1.0,0.9736133813858032,1,reserved 1/4 cup (60ml) mushroom soaking liquid,reserved 1/4 cup (60ml) mushroom soaking liquid
+0.0,0.0,0.018420536071062088,1,mushroom,garlic
+0.0,0.0,0.016503144055604935,1,water,tomatoes
+0.0,0.6000000238418579,0.7092472910881042,1,about 1 minute,about 1 minute less than package recommends
+1.0,1.0,0.966289222240448,1,about 3 minutes,about 3 minutes
+1.0,1.0,0.9661010503768921,1,parsley,parsley
+0.0,0.6666666865348816,0.5627683997154236,1,minced parsley,parsley
+0.0,0.5,0.7096977233886719,1,to 400°f,400°F (200°C)
+0.0,0.5,0.3821201026439667,1,2 tablespoons (30ml),2
+0.0,0.5,0.31412646174430847,1,about 45 minutes,about 1 to 2 minutes
+1.0,1.0,0.9640272259712219,1,about 30 minutes,about 30 minutes
+0.0,0.25,0.4775533676147461,1,"large squash chunks, apple, and garlic cloves",squash
+1.0,1.0,0.9643511176109314,1,salt,salt
+1.0,1.0,0.969273567199707,1,medium-high heat,medium-high heat
+0.0,0.0,0.011752074584364891,1,onion,rice
+1.0,1.0,0.9553631544113159,1,rice,rice
+1.0,1.0,0.9553631544113159,1,rice,rice
+0.0,0.5714285969734192,0.6659550070762634,1,4 minutes,about 3 to 4 minutes
+1.0,1.0,0.960623562335968,1,wine,wine
+1.0,1.0,0.9685965776443481,1,raw alcohol,raw alcohol
+1.0,1.0,0.9662765264511108,1,about 2 minutes,about 2 minutes
+1.0,1.0,0.958952784538269,1,broth,broth
+0.0,0.6666666865348816,0.7202175855636597,1,rice,rice grains
+1.0,1.0,0.9570634961128235,1,onion,onion
+1.0,1.0,0.969273567199707,1,medium-high heat,medium-high heat
+0.0,0.2666666805744171,0.27021655440330505,1,2 minutes,"until milk solids in butter turn a hazelnut-brown color, 1 to 2 minutes longer"
+1.0,1.0,0.9553631544113159,1,rice,rice
+0.0,0.0,0.009464554488658905,1,brown butter,squash
+0.0,0.4000000059604645,0.48144879937171936,1,few minutes,about 45 minutes
+1.0,1.0,0.9643511176109314,1,salt,salt
+1.0,1.0,0.9695443511009216,1,sage leaves,sage leaves
+0.0,0.0,0.010197969153523445,1,grated cheese,plates
+0.0,0.0,0.022240489721298218,1,"no, slotted spoon",yes
+0.0,0.0,0.07893892377614975,1,"no, medium heat",yes
+1.0,1.0,0.922936201095581,1,yes,yes
+1.0,1.0,0.966620147228241,1,about 1 minute,about 1 minute
+1.0,1.0,0.922936201095581,1,yes,yes
+0.0,0.0,0.0889948159456253,1,"no, reserved 1/4 cup (60ml)",yes
+0.0,0.800000011920929,0.73197340965271,1,1 cup (235ml),1 cup
+0.0,0.0,0.03144707530736923,1,no,about 3 minutes
+0.0,0.3333333432674408,0.7909492254257202,1,heavy 12-inch cast iron skillet,skillet
+0.0,0.0,0.009278961457312107,1,skillet,chilies
+1.0,1.0,0.9572361707687378,1,30 minutes,30 minutes
+0.0,0.800000011920929,0.9443832635879517,1,for 30 minutes,30 minutes
+0.0,0.6666666865348816,0.41527724266052246,1,about 4 minutes,about 5 minutes
+0.0,0.0,0.01048455759882927,1,minced,medium
+0.0,0.800000011920929,0.8625374436378479,1,italian plums,small Italian plums
+0.0,0.800000011920929,0.8884969353675842,1,1 whole quail,1 quail
+1.0,1.0,0.9670842885971069,1,sharp kitchen shears,sharp kitchen shears
+1.0,1.0,0.9640725255012512,1,chicken,chicken
+0.0,0.3333333432674408,0.7909492254257202,1,heavy 12-inch cast iron skillet,skillet
+0.0,0.0,0.11018503457307816,1,skillet,large bowl
+0.0,0.800000011920929,0.916987419128418,1,30 minutes,about 30 minutes
+1.0,1.0,0.9653299450874329,1,about 5 minutes,about 5 minutes
+1.0,1.0,0.9672372937202454,1,slotted spoon,slotted spoon
+0.0,0.6666666865348816,0.1807541400194168,1,stock,chicken stock
+0.0,0.5714285969734192,0.6446757912635803,1,2 minutes,about 1 to 2 minutes
+0.0,0.6666666865348816,0.7644402384757996,1,wooden spoon,spoon
+0.0,0.0,0.03247082233428955,1,strainer,large bowl
+0.0,0.0,0.024235153570771217,1,flour,oil
+0.0,0.0,0.009558551013469696,1,beef,broth
+0.0,0.6666666865348816,0.7511056065559387,1,little water,water
+0.0,0.6666666865348816,0.9312508702278137,1,to 375°f,375°F
+0.0,0.0,0.009792361408472061,1,onions,cheese
+0.0,0.0,0.01967536471784115,1,pan,tortilla
+0.0,0.4000000059604645,0.5031642913818359,1,remaining cheese and onion,cheese
+1.0,1.0,0.9632601737976074,1,10 to 15 minutes,10 to 15 minutes
+1.0,1.0,0.9684532284736633,1,chickpeas,chickpeas
+1.0,1.0,0.9374561309814453,1,the next day,next day
+0.0,0.3333333432674408,0.5694677233695984,1,"garlic, cumin, coriander, and salt",garlic
+0.0,0.0,0.010667195543646812,1,salt,cumin
+1.0,1.0,0.9684532284736633,1,chickpeas,chickpeas
+1.0,1.0,0.9622127413749695,1,mixture,mixture
+0.0,0.6666666865348816,0.6188919544219971,1,dough,cookie dough
+1.0,1.0,0.9711136817932129,1,instant-read thermometer,instant-read thermometer
+1.0,1.0,0.9656605124473572,1,about 4 minutes,about 4 minutes
+1.0,1.0,0.9694022536277771,1,chickpea balls,chickpea balls
+0.0,0.0,0.009185687638819218,1,tomatoes,hummus
+1.0,1.0,0.9658735394477844,1,cucumber,cucumber
+0.0,0.0,0.009370303712785244,1,pickles,tahini
+0.0,0.5,0.7096977233886719,1,to 400°f,400°F (200°C)
+0.0,0.0,0.12795332074165344,1,200°c,to 400°f
+1.0,1.0,0.9637883901596069,1,about 45 minutes,about 45 minutes
+1.0,1.0,0.9640272259712219,1,about 30 minutes,about 30 minutes
+0.0,0.0,0.37878140807151794,1,1 1/2 ounces (40g),40 g dried porcini mushrooms
+1.0,1.0,0.9703187346458435,1,4 medium cloves,4 medium cloves
+0.0,0.0,0.6519380211830139,1,1 1/2 ounces (40g),40 g
+1.0,1.0,0.9711052179336548,1,lightly sautéed and fragrant,lightly sautéed and fragrant
+0.0,0.0,0.17160409688949585,1,no,yes
+0.0,0.800000011920929,0.73197340965271,1,1 cup (235ml),1 cup
+0.0,0.0,0.07936740666627884,1,hard,soft
+0.0,0.0,0.009918787516653538,1,blender,garlic
+0.0,0.30000001192092896,0.41144293546676636,1,"black pepper, allspice (if using), and 2 teaspoons kosher salt","garlic, orange juice, lime juice, cumin, oregano, black pepper, allspice"
+0.0,0.0,0.06336647272109985,1,allspice,cumin
+1.0,1.0,0.9640725255012512,1,chicken,chicken
+1.0,1.0,0.9640725255012512,1,chicken,chicken
+0.0,0.800000011920929,0.9443832635879517,1,for 30 minutes,30 minutes
+1.0,1.0,0.9640725255012512,1,chicken,chicken
+1.0,1.0,0.969273567199707,1,medium-high heat,medium-high heat
+0.0,0.0,0.009580949321389198,1,chicken,onion rings
+1.0,1.0,0.9571455121040344,1,pan,pan
+1.0,1.0,0.9580249190330505,1,water,water
+1.0,1.0,0.9571455121040344,1,pan,pan
+1.0,1.0,0.9553631544113159,1,rice,rice
+1.0,1.0,0.9614855051040649,1,cilantro,cilantro
+1.0,1.0,0.9599570631980896,1,lime,lime
+0.0,0.0,0.011018958874046803,2,lime juice,chili
+0.0,0.0,0.010875631123781204,2,fish,chili
+1.0,1.0,0.9612960815429688,2,sugar,sugar
+0.0,0.0,0.010105988010764122,2,cashews,duck
+1.0,1.0,0.9570634961128235,2,onion,onion
+1.0,1.0,0.9654948115348816,2,pineapple,pineapple
+0.0,0.0,0.009216099046170712,2,salt and pepper,duck
+0.0,0.6666666865348816,0.40221911668777466,2,duck,duck breast
+1.0,1.0,0.9614264369010925,2,130 degrees,130 degrees
+1.0,1.0,0.9662637114524841,2,duck,duck
+1.0,1.0,0.9662637114524841,2,duck,duck
+0.0,0.0,0.009520183317363262,2,pineapple,dressing
+0.0,0.14723926782608032,0.5245463252067566,2,"for the spice mix (see note):  1 1/2 teaspoons whole cumin seeds, toasted 1 1/2 teaspoons coriander seeds, toasted 1 whole star anise, toasted 2 cloves 1/2 teaspoon black peppercorns, toasted 1/2 teaspoon ground cinnamon 1/4 teaspoon grated nutmeg 1 blade mace 1/2 teaspoon ground turmeric 1 black or green cardamom pod for the curry:  3 tablespoons vegetable oil, butter, or ghee 1 small onion, finely minced (about 1 cup) 4 cloves garlic, grated on the medium holes of a box grater 1 tablespoon fresh ginger, grated on the medium holes of a box grater 1 small red or green chili, finely chopped 1/4 teaspoon cayenne pepper 1/2 cup cashew nuts 1 (14-ounce) can coconut milk 2 (14-ounce) cans chickpeas, drained and rinsed 1 bunch (about 3 ounces) flat spinach leaves, trimmed, rinsed, and roughly chopped kosher salt 1/4 cup fresh juice from 3 to 4 limes 1/2 cup fresh cilantro leaves and tender stems, coarsely chopped","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+0.0,0.37931033968925476,0.7317521572113037,2,"1 1/2 teaspoons whole cumin seeds, toasted 1 1/2 teaspoons coriander seeds, toasted 1 whole star anise, toasted 2 cloves 1/2 teaspoon black peppercorns, toasted 1/2 teaspoon ground cinnamon 1/4 teaspoon grated nutmeg 1 blade mace 1/2 teaspoon ground turmeric 1 black or green cardamom pod","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+0.0,0.0,0.07535561919212341,2,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom",yes
+0.0,0.0,0.032346103340387344,2,ghee,"onion, garlic, ginger, and chili"
+1.0,1.0,0.9602798223495483,2,cashews,cashews
+0.0,0.0,0.17239879071712494,2,mixture,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+0.0,0.0,0.08657991886138916,2,blender,pot
+1.0,1.0,0.9614855051040649,2,cilantro,cilantro
+1.0,1.0,0.9666937589645386,2,large bowl,large bowl
+0.0,0.5,0.5886557102203369,2,water,3 quarts water
+1.0,1.0,0.9643511176109314,2,salt,salt
+0.0,0.6666666865348816,0.5344575643539429,2,duck,duck fat
+0.0,0.6666666865348816,0.5179072618484497,2,salt,salt pork
+0.0,0.0,0.05875089019536972,2,dutch oven,in large bowl
+0.0,0.6666666865348816,0.6654677391052246,2,8 minutes,6 to 8 minutes
+0.0,0.6666666865348816,0.6343876123428345,2,pork,salt pork
+0.0,0.2857142984867096,0.4939328730106354,2,bowl,bowl with salt pork and chicken
+0.0,0.0,0.055881112813949585,2,chicken,salt pork
+0.0,0.3333333432674408,0.4825214147567749,2,all but 2 tablespoons fat,fat
+0.0,0.0,0.19199183583259583,2,high heat,low
+0.0,0.25,0.5273451805114746,2,carrots,"carrots, celery, parsley, bay leaves, and cloves"
+0.0,0.0,0.009283946827054024,2,chicken,onions
+1.0,1.0,0.9561713337898254,2,pot,pot
+1.0,1.0,0.9561713337898254,2,pot,pot
+0.0,0.0,0.2470555156469345,2,30 minutes until you reach the 4 1/2 hour mark,2 hours
+0.0,0.0,0.3634921610355377,2,4 1/2 hour,5 to 6 hours total
+1.0,1.0,0.9678341746330261,2,warm water,warm water
+1.0,1.0,0.9592249989509583,2,15 minutes,15 minutes
+0.0,0.6666666865348816,0.8238691687583923,2,clean kitchen towel,clean kitchen towel or paper towels
+1.0,1.0,0.9685534834861755,2,mushrooms,mushrooms
+0.0,0.6666666865348816,0.8530408143997192,2,large bowl,bowl
+1.0,1.0,0.9424877762794495,2,1 teaspoon,1 teaspoon
+0.0,0.5,0.8349180817604065,2,raw unsalted,"plain, unsalted"
+0.0,0.3333333432674408,0.5105300545692444,2,"garlic, and anchovies (if using)",garlic
+0.0,0.0,0.05070297792553902,2,<no answer>,lightly
+1.0,1.0,0.9632601737976074,2,10 to 15 minutes,10 to 15 minutes
+1.0,1.0,0.9630816578865051,2,pasta,pasta
+0.0,0.0,0.32754960656166077,2,1 cup (240ml),2 cups (475ml)
+0.0,0.23529411852359772,0.33664393424987793,2,al dente,"until softened on the exterior, but well shy of al dente and still uncooked in the center"
+0.0,0.0,0.09409768134355545,2,<no answer>,a little
+0.0,0.20000000298023224,0.21253365278244019,2,2 1/4 ounces (3/4 cup; 65g),3/4 of grated cheese
+0.0,0.4000000059604645,0.4941004514694214,2,light brown sugar,palm sugar
+0.0,0.0,0.010543059557676315,2,diced pineapple,yes
+0.0,0.0,0.009541536681354046,2,1 teaspoon,liberally
+1.0,1.0,0.922936201095581,2,yes,yes
+0.0,0.6666666865348816,0.8023880124092102,2,olive,olive oil
+1.0,1.0,0.9691181182861328,2,wooden spoon,wooden spoon
+1.0,1.0,0.960623562335968,2,wine,wine
+1.0,1.0,0.9643511176109314,2,salt,salt
+0.0,0.0,0.2736811935901642,2,"1 pound 5 ounces (3 cups; 600g) cooked dry white beans (such as cannellini or great northern) or two (15-ounce; 425g) cans low-sodium white beans, drained and rinsed",salt
+1.0,1.0,0.966289222240448,2,about 3 minutes,about 3 minutes
+1.0,1.0,0.9575389623641968,2,kale,kale
+1.0,1.0,0.9712689518928528,2,pasta cooking water,pasta cooking water
+1.0,1.0,0.9672579169273376,2,grated cheese,grated cheese
+0.0,0.2222222238779068,0.4672544598579407,2,"water, salt, lemon juice, sugar, and black pepper",water
+0.0,0.2857142984867096,0.391696035861969,2,"lemon juice, sugar, and black pepper",sugar
+0.0,0.6666666865348816,0.621038556098938,2,lemon juice,juice
+0.0,0.5714285969734192,0.9652876257896423,2,in a gallon zipper-lock bag or large baking dish|in a gallon zipper-lock bag|large baking dish|zipper-lock bag,gallon zipper-lock bag or large baking dish
+1.0,1.0,0.9605674743652344,2,6 hours,6 hours
+1.0,1.0,0.9585209488868713,2,24 hours,24 hours
+0.0,0.800000011920929,0.9397533535957336,2,for 5 minutes,5 minutes
+0.0,0.800000011920929,0.9548433423042297,2,highest heat,highest heat setting
+0.0,0.800000011920929,0.9424626231193542,2,for 10 minutes,10 minutes
+0.0,0.6666666865348816,0.68173748254776,2,68°c,155°f (68°c)
+0.0,0.5714285969734192,0.7090489864349365,2,25 minutes,between 20 to 25 minutes
+0.0,0.8999999761581421,0.8121073246002197,2,"sliced onion, garlic, vinegar, black pepper, salt, and sugar","half of the sliced onion, garlic, vinegar, black pepper, salt, and sugar"
+1.0,1.0,0.9669108390808105,2,"garlic, vinegar, black pepper, salt, and sugar","garlic, vinegar, black pepper, salt, and sugar"
+1.0,1.0,0.969273567199707,2,medium-high heat,medium-high heat
+0.0,0.75,0.7800697684288025,2,about 4 minutes,about 4 minutes per side
+1.0,1.0,0.9657044410705566,2,"celery, carrot, onion, and garlic","celery, carrot, onion, and garlic"
+0.0,0.6666666865348816,0.4150671362876892,2,about 6 minutes,about 4 minutes
+1.0,1.0,0.9731101989746094,2,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+1.0,1.0,0.9731101989746094,2,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+1.0,1.0,0.9731101989746094,2,"cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom","cumin, coriander, star anise, cloves, peppercorns, cinnamon, nutmeg, mace, turmeric, and cardamom"
+1.0,1.0,0.969273567199707,2,medium-high heat,medium-high heat
+0.0,0.6666666865348816,0.6460992693901062,2,"garlic, ginger","garlic, ginger, and chili"
+1.0,1.0,0.96327143907547,2,spinach,spinach
+0.0,0.0,0.009636573493480682,2,<no answer>,to taste
+0.0,0.20000000298023224,0.625003457069397,2,1/4 cup fresh juice from 3 to 4 limes,juice
+1.0,1.0,0.9678341746330261,2,warm water,warm water
+1.0,1.0,0.9592249989509583,2,15 minutes,15 minutes
+0.0,0.6666666865348816,0.8238691687583923,2,clean kitchen towel,clean kitchen towel or paper towels
+1.0,1.0,0.9685534834861755,2,mushrooms,mushrooms
+0.0,0.0,0.18687714636325836,2,emaining three batches of mushrooms,Brussels sprouts
+1.0,1.0,0.9666937589645386,2,large bowl,large bowl
+1.0,1.0,0.9662765264511108,2,about 2 minutes,about 2 minutes
+1.0,1.0,0.9666937589645386,2,large bowl,large bowl
+0.0,0.25,0.28152647614479065,2,6 ounces (about 3/4 cup; 170g),7 ounces
+0.0,0.0,0.9634139537811279,2,21°c,21 degrees Celsius
+1.0,1.0,0.9664613604545593,2,large saucepan,large saucepan
+1.0,1.0,0.964808464050293,2,about 10 minutes,about 10 minutes
+1.0,1.0,0.957976222038269,2,heat,heat
+1.0,1.0,0.963707685470581,2,blender,blender
+1.0,1.0,0.9665839672088623,2,low heat,low heat
+1.0,1.0,0.964808464050293,2,about 10 minutes,about 10 minutes
+0.0,0.6666666865348816,0.846722424030304,2,dried peppers,dried peppers (if using)
+0.0,0.5714285969734192,0.7271966934204102,2,30 minutes,30 minutes to 1 hour
+0.0,0.0,0.03565751016139984,2,30 minutes to 1 hour,yes
+0.0,0.0,0.013164266012609005,2,the flesh,stems and seeds
+1.0,1.0,0.969273567199707,2,medium-high heat,medium-high heat
+1.0,1.0,0.950166642665863,2,oil,oil
+1.0,1.0,0.966143012046814,2,about 6 minutes,about 6 minutes
+0.0,0.6666666865348816,0.9393014311790466,2,5 days,up to 5 days
+1.0,1.0,0.9646674394607544,2,about 8 minutes,about 8 minutes
+0.0,0.4000000059604645,0.7822078466415405,2,reduce heat to medium-low,medium-low
+0.0,0.4000000059604645,0.5091668367385864,2,rice and chicken mixture,rice
+0.0,0.800000011920929,0.9424651265144348,2,about 8 minutes,8 minutes
+0.0,0.0,0.48525330424308777,2,low,medium-low heat
+1.0,1.0,0.9586168527603149,2,5 minutes,5 minutes
+1.0,1.0,0.9666937589645386,2,large bowl,large bowl
+1.0,1.0,0.9641284942626953,2,3 quarts,3 quarts
+0.0,0.6666666865348816,0.5344575643539429,2,duck,duck fat
+1.0,1.0,0.9670441746711731,2,3 tablespoons,3 tablespoons
+0.0,0.6666666865348816,0.6654677391052246,2,8 minutes,6 to 8 minutes
+0.0,0.6666666865348816,0.5179072618484497,2,salt,salt pork
+0.0,0.6666666865348816,0.4020165205001831,2,salt pork,salt
+0.0,0.0,0.2503267526626587,2,bowl,pot
+0.0,0.4000000059604645,0.5145058631896973,2,2 tablespoons fat,rendered fat
+0.0,0.125,0.3563757538795471,2,can be inserted in middle of potato with no resistance,to check if a potato is cooked
+0.0,0.0,0.03873084485530853,2,yes,9 to 12 minutes
+0.0,0.0,0.011766714975237846,2,yes,flesh
+1.0,1.0,0.922936201095581,2,yes,yes
+1.0,1.0,0.922936201095581,2,yes,yes
+0.0,0.0,0.1232282742857933,2,yes,medium
+1.0,1.0,0.922936201095581,2,yes,yes
+1.0,1.0,0.922936201095581,2,yes,yes
+1.0,1.0,0.922936201095581,2,yes,yes
+0.0,0.0,0.19784465432167053,2,yes,no
+0.0,0.6666666865348816,0.8451792001724243,2,lime,lime juice
+0.0,0.6666666865348816,0.11524954438209534,2,fish,fish sauce
+1.0,1.0,0.9612960815429688,2,sugar,sugar
+1.0,1.0,0.9602798223495483,2,cashews,cashews
+1.0,1.0,0.9570634961128235,2,onion,onion
+1.0,1.0,0.9654948115348816,2,pineapple,pineapple
+1.0,1.0,0.966008722782135,2,salt and pepper,salt and pepper
+1.0,1.0,0.9614264369010925,2,130 degrees,130 degrees
+1.0,1.0,0.9662637114524841,2,duck,duck
+1.0,1.0,0.9662637114524841,2,duck,duck
+0.0,0.0,0.06527909636497498,2,pineapple mixture,bowl
+0.0,0.0,0.9317589402198792,2,to 300°f,300 degrees Fahrenheit
+1.0,1.0,0.9648551344871521,2,150°c,150°c
+0.0,0.6666666865348816,0.8023880124092102,2,olive,olive oil
+1.0,1.0,0.964808464050293,2,about 10 minutes,about 10 minutes
+0.0,0.3333333432674408,0.39264369010925293,2,"sage, and half of parsley",sage
+1.0,1.0,0.9650607109069824,2,high heat,high heat
+1.0,1.0,0.964808464050293,2,about 10 minutes,about 10 minutes
+0.0,0.25,0.4648679494857788,2,"reserved stock, tomatoes, milk, and bay leaves",tomatoes
+1.0,1.0,0.9685426354408264,2,"tomatoes, milk, and bay leaves","tomatoes, milk, and bay leaves"
+0.0,0.4000000059604645,0.4880048334598541,2,"milk, and bay leaves",milk
+0.0,0.6666666865348816,0.6680004000663757,2,4 hours,3 to 4 hours
+0.0,0.6666666865348816,0.6680004000663757,2,4 hours,3 to 4 hours
+0.0,0.800000011920929,0.8816478848457336,2,1 cup,about 1 cup
+1.0,1.0,0.9666885137557983,2,1 cup,1 cup
+0.0,0.5,0.7653676867485046,2,cup,about 1 cup
+0.0,0.0,0.009420524351298809,2,fish,heavy cream
+1.0,1.0,0.8343263268470764,2,2 tablespoons,2 tablespoons
+1.0,1.0,0.9674291610717773,2,1 tablespoon,1 tablespoon
+0.0,0.6666666865348816,0.7125607132911682,2,1 teaspoon,teaspoon
+1.0,1.0,0.8343263268470764,2,2 tablespoons,2 tablespoons
+1.0,1.0,0.9674291610717773,2,1 tablespoon,1 tablespoon
+1.0,1.0,0.9646319150924683,2,teaspoon,teaspoon
+1.0,1.0,0.9669032692909241,2,medium heat,medium heat
+0.0,0.5,0.7395101189613342,2,diced pineapple,pineapple chunks
+0.0,0.6666666865348816,0.7942982912063599,2,kosher salt,salt
+0.0,0.800000011920929,0.9066394567489624,2,about 1 pound,1 pound
+1.0,1.0,0.9614264369010925,2,130 degrees,130 degrees
+0.0,0.25,0.5077005624771118,2,"1 large duck breast, about 1 pound",duck
+1.0,1.0,0.9678341746330261,2,warm water,warm water
+1.0,1.0,0.9592249989509583,2,15 minutes,15 minutes
+0.0,0.6666666865348816,0.8238691687583923,2,clean kitchen towel,clean kitchen towel or paper towels
+1.0,1.0,0.9685534834861755,2,mushrooms,mushrooms
+1.0,1.0,0.9685534834861755,2,mushrooms,mushrooms
+1.0,1.0,0.9666937589645386,2,large bowl,large bowl
+1.0,1.0,0.964927077293396,2,heavy cream,heavy cream
+1.0,1.0,0.9662765264511108,2,about 2 minutes,about 2 minutes
+0.0,0.6666666865348816,0.7165907621383667,2,cup,1 cup
+1.0,1.0,0.9666937589645386,2,large bowl,large bowl
+1.0,1.0,0.969273567199707,2,medium-high heat,medium-high heat
+1.0,1.0,0.9621517062187195,2,flour,flour
+1.0,1.0,0.9662765264511108,2,about 2 minutes,about 2 minutes
+1.0,1.0,0.9699808955192566,2,lasagna pan,lasagna pan
+0.0,0.6666666865348816,0.8174744248390198,2,cheese,cheese sauce
+0.0,0.0,0.011917149648070335,2,oven,skillet
+1.0,1.0,0.9661010503768921,2,parsley,parsley
+1.0,1.0,0.9676977396011353,2,large dutch oven,large dutch oven
+0.0,0.6666666865348816,0.7454157471656799,2,tomato,tomato paste
+0.0,0.800000011920929,0.8268699645996094,2,red wine,dry red wine
+0.0,0.6666666865348816,0.49115365743637085,3,thick cilantro,thick
+0.0,0.3333333432674408,0.5418612957000732,3,bowl,bowl of a mortar and pestle
+1.0,1.0,0.9690185785293579,3,coconut milk,coconut milk
+1.0,1.0,0.9656605124473572,3,about 4 minutes,about 4 minutes
+1.0,1.0,0.9611756801605225,3,ginger,ginger
+0.0,0.6666666865348816,0.6419278383255005,3,1 quart,quart
+1.0,1.0,0.950712263584137,3,stock,stock
+0.0,0.0,0.08115924149751663,3,medium skillet,bowl
+1.0,1.0,0.9646674394607544,3,about 8 minutes,about 8 minutes
+1.0,1.0,0.959672749042511,3,bowl,bowl
+0.0,0.0,0.009943636134266853,3,cup,peanuts
+0.0,0.0,0.023101352155208588,3,peanuts,sugar
+0.0,0.6666666865348816,0.8451792001724243,3,lime,lime juice
+1.0,1.0,0.9639416933059692,3,pepper,pepper
+1.0,1.0,0.9614855051040649,3,cilantro,cilantro
+1.0,1.0,0.9672093987464905,3,tomatoes,tomatoes
+1.0,1.0,0.9598634839057922,3,8g,8g
+1.0,1.0,0.9592249989509583,3,15 minutes,15 minutes
+1.0,1.0,0.9582111835479736,3,oven,oven
+0.0,0.0,0.7394130825996399,3,350°f (180°c),350 degrees fahrenheit
+0.0,0.0,0.0819995105266571,3,mustard,vinegar
+1.0,1.0,0.9655163884162903,3,tomato,tomato
+0.0,0.800000011920929,0.7441170811653137,3,1/2 cup (120ml),1/2 cup
+1.0,1.0,0.9657058715820312,3,basil,basil
+1.0,1.0,0.9639416933059692,3,pepper,pepper
+1.0,1.0,0.9572361707687378,3,30 minutes,30 minutes
+1.0,1.0,0.9697934985160828,3,boneless skinless chicken thighs,boneless skinless chicken thighs
+1.0,1.0,0.9649337530136108,3,sharp knife,sharp knife
+0.0,0.6666666865348816,0.629806399345398,3,chicken thighs,chicken
+1.0,1.0,0.9632516503334045,3,coarse,coarse
+1.0,1.0,0.971001923084259,3,apple cider vinegar,apple cider vinegar
+1.0,1.0,0.9668243527412415,3,1 teaspoon,1 teaspoon
+1.0,1.0,0.922936201095581,3,yes,yes
+0.0,0.0,0.009370649233460426,3,350°f (175°c),4
+0.0,0.0,0.02412502095103264,3,about 30 minutes,yes
+1.0,1.0,0.965061604976654,3,180°c,180°C
+1.0,1.0,0.9649337530136108,3,sharp knife,sharp knife
+1.0,1.0,0.9570215940475464,3,fork,fork
+1.0,1.0,0.9580249190330505,3,water,water
+1.0,1.0,0.9653293490409851,3,stand mixer,stand mixer
+1.0,1.0,0.9668411612510681,3,mustard,mustard
+0.0,0.0,0.733145534992218,3,egg,eggs
+1.0,1.0,0.9668411612510681,3,mustard,mustard
+1.0,1.0,0.9634914994239807,3,eggs,eggs
+1.0,1.0,0.9622127413749695,3,mixture,mixture
+0.0,0.6666666865348816,0.551355242729187,3,25 minutes,minutes
+0.0,0.6666666865348816,0.8200381398200989,3,large pot,pot
+1.0,1.0,0.9686475396156311,3,paring knife,paring knife
+1.0,1.0,0.9702792167663574,3,fine mesh strainer,fine mesh strainer
+0.0,0.0,0.011798734776675701,3,"roasted cherry tomatoes, corn, and zucchini,",olive oil
+0.0,0.0,0.009717865847051144,3,until al dente,quickly
+0.0,0.6666666865348816,0.25928017497062683,3,large skillet,large
+0.0,0.4285714328289032,0.5120949149131775,3,"until fat has rendered and guanciale is crisp, about 7 minutes",about 7 minutes
+0.0,0.800000011920929,0.7495297193527222,3,1 tablespoon (15ml),1 tablespoon
+0.0,0.0,0.009435856714844704,3,<no answer>,about 7 minutes
+1.0,1.0,0.9398447871208191,3,large,large
+0.0,0.0,0.06678276509046555,3,"until sauce thickens to a creamy, silky consistency and leaves trails as you stir",quickly
+1.0,1.0,0.9649337530136108,3,sharp knife,sharp knife
+1.0,1.0,0.9570215940475464,3,fork,fork
+1.0,1.0,0.9643511176109314,3,salt,salt
+1.0,1.0,0.9592024087905884,3,thyme,thyme
+0.0,0.6666666865348816,0.9113237857818604,3,to 350°f,350°f
+1.0,1.0,0.9636203646659851,3,about 12 minutes,about 12 minutes
+0.0,0.3333333432674408,0.38303396105766296,3,about 1 minute,about 30 seconds
+0.0,0.3333333432674408,0.5131985545158386,3,"half of parsley, and chervil",parsley
+0.0,0.0,0.011340368539094925,3,chervil,chives
+0.0,0.5,0.6854930520057678,3,salt,salt and pepper
+1.0,1.0,0.9639416933059692,3,pepper,pepper
+0.0,0.6666666865348816,0.4059161841869354,3,about 35 minutes,about 40 minutes
+0.0,0.6666666865348816,0.7323812246322632,3,work bowl,bowl
+1.0,1.0,0.9582111835479736,3,oven,oven
+0.0,0.6666666865348816,0.3580218553543091,3,about 12 minutes,about 30 minutes
+0.0,0.0,0.011953841894865036,3,salt,garlic
+0.0,0.4000000059604645,0.6254950761795044,3,food processor work bowl,bowl
+1.0,1.0,0.959672749042511,3,bowl,bowl
+1.0,1.0,0.9690544009208679,3,rubber spatula,rubber spatula
+1.0,1.0,0.9625500440597534,3,chervil,chervil
+1.0,1.0,0.9643511176109314,3,salt,salt
+0.0,0.0,0.010141151957213879,3,cup,parsley
+0.0,0.6666666865348816,0.6954610347747803,3,mushroom,mushroom duxelles
+0.0,0.0,0.009176083840429783,3,roasted carrots,mushroom
+0.0,0.0,0.1914777010679245,3,mixture,phyllo dough
+0.0,0.6666666865348816,0.6447172164916992,3,dough,phyllo dough
+1.0,1.0,0.9696579575538635,3,mushroom,mushroom
+1.0,1.0,0.961093008518219,3,olive,olive
+1.0,1.0,0.9662363529205322,3,sharp paring knife,sharp paring knife
+1.0,1.0,0.9638596177101135,3,about 40 minutes,about 40 minutes
+0.0,0.800000011920929,0.9424626231193542,3,for 10 minutes,10 minutes
+1.0,1.0,0.96306973695755,3,whisk,whisk
+1.0,1.0,0.950712263584137,3,stock,stock
+0.0,0.6666666865348816,0.5667396783828735,3,thyme,thyme sprigs
+0.0,0.0,0.009729311801493168,3,teaspoons,mortar
+0.0,0.6666666865348816,0.11524954438209534,3,fish,fish sauce
+0.0,0.6666666865348816,0.9232539534568787,3,15 minutes,at least 15 minutes
+0.0,0.6666666865348816,0.7732694745063782,3,soy,soy sauce
+0.0,0.5,0.6097451448440552,3,garlic,garlic and chilies
+1.0,1.0,0.9635080099105835,3,shallot,shallot
+0.0,0.0,0.010588327422738075,3,half of beef,garlic
+1.0,1.0,0.9650607109069824,3,high heat,high heat
+1.0,1.0,0.966620147228241,3,about 1 minute,about 1 minute
+1.0,1.0,0.9660969376564026,3,beef,beef
+0.0,0.0,0.01001033280044794,3,basil,sauce mixture
+0.0,0.5,0.7045781016349792,3,red pepper,pepper flakes
+0.0,0.0,0.021203026175498962,3,oven,food processor
+1.0,1.0,0.9653299450874329,3,about 5 minutes,about 5 minutes
+1.0,1.0,0.9679862856864929,3,food processor bowl,food processor bowl
+1.0,1.0,0.9674074649810791,3,large skillet,large skillet
+0.0,0.0,0.0413571298122406,3,breadcrumbs,bowl
+1.0,1.0,0.9580249190330505,3,water,water
+1.0,1.0,0.9674715399742126,3,cauliflower,cauliflower
+1.0,1.0,0.964808464050293,3,about 10 minutes,about 10 minutes
+1.0,1.0,0.9669032692909241,3,medium heat,medium heat
+1.0,1.0,0.9643511176109314,3,salt,salt
+1.0,1.0,0.9691181182861328,3,wooden spoon,wooden spoon
+0.0,0.6666666865348816,0.6810442209243774,3,fennel,fennel pollen
+0.0,0.0,0.01590736210346222,3,cauliflower,anchovies
+1.0,1.0,0.9658219814300537,3,saffron,saffron
+0.0,0.0,0.415152907371521,3,reserved pot,boiling water
+1.0,1.0,0.9674715399742126,3,cauliflower,cauliflower
+1.0,1.0,0.9292132258415222,3,-cup,cup
+0.0,0.0,0.026685215532779694,3,30g,half
+1.0,1.0,0.9630816578865051,3,pasta,pasta
+1.0,1.0,0.9662132263183594,3,breadcrumbs,breadcrumbs
+0.0,0.6666666865348816,0.6959950923919678,3,12-inch skillet,12-inch
+1.0,1.0,0.9688478112220764,3,1/2 teaspoon,1/2 teaspoon
+0.0,0.800000011920929,0.9407268166542053,3,for 20 minutes,20 minutes
+1.0,1.0,0.9652275443077087,3,small bowl,small bowl
+1.0,1.0,0.9700321555137634,3,6 medium cloves,6 medium cloves
+1.0,1.0,0.9684435725212097,3,1 small shallot,1 small shallot
+1.0,1.0,0.9650607109069824,3,high heat,high heat
+1.0,1.0,0.966620147228241,3,about 1 minute,about 1 minute
+1.0,1.0,0.9657058715820312,3,basil,basil
+0.0,0.1818181872367859,0.5657426118850708,3,salt and and optional thai chili or red pepper flakes,salt
+0.0,0.6666666865348816,0.8530408143997192,3,large bowl,bowl
+0.0,0.6666666865348816,0.7948878407478333,3,12-inch skillet,skillet
+1.0,1.0,0.969273567199707,3,medium-high heat,medium-high heat
+1.0,1.0,0.9733719229698181,3,"onions, 2 teaspoons aleppo pepper, cumin, and 1/2 teaspoon salt","onions, 2 teaspoons aleppo pepper, cumin, and 1/2 teaspoon salt"
+0.0,0.0,0.009408864192664623,3,colander,drain
+0.0,0.4000000059604645,0.36399468779563904,3,for 20 minutes,30 minutes
+0.0,0.0,0.24078592658042908,3,1/4 cup,1 tablespoon (15ml)
+0.0,0.6000000238418579,0.843485951423645,3,"as needed, 1 tablespoon (15ml) at a time",1 tablespoon (15ml)
+1.0,1.0,0.9668243527412415,3,1 teaspoon,1 teaspoon
+0.0,0.6666666865348816,0.6469885110855103,3,teaspoons,5 teaspoons
+0.0,0.6666666865348816,0.11524954438209534,3,fish,fish sauce
+0.0,0.6666666865348816,0.9232539534568787,3,15 minutes,at least 15 minutes
+1.0,1.0,0.9642309546470642,3,garlic,garlic
+1.0,1.0,0.9635080099105835,3,shallot,shallot
+1.0,1.0,0.9660969376564026,3,beef,beef
+1.0,1.0,0.9638681411743164,3,wok,wok
+1.0,1.0,0.9650607109069824,3,high heat,high heat
+1.0,1.0,0.966620147228241,3,about 1 minute,about 1 minute
+1.0,1.0,0.9657058715820312,3,basil,basil
+0.0,0.800000011920929,0.8762561678886414,3,red pepper,red pepper flakes
+0.0,0.5,0.7181164026260376,3,to 350°f,350°F (180°C)
+1.0,1.0,0.9662363529205322,3,sharp paring knife,sharp paring knife
+0.0,0.800000011920929,0.8643007278442383,3,paring knife,sharp paring knife
+0.0,0.800000011920929,0.8643007278442383,3,paring knife,sharp paring knife
+1.0,1.0,0.9583045244216919,3,45 minutes,45 minutes
+0.0,0.0,0.46384090185165405,3,1 hour,45 minutes
+1.0,1.0,0.9666078090667725,3,large spoon,large spoon
+0.0,0.6666666865348816,0.7788843512535095,3,medium bowl,bowl
+1.0,1.0,0.9605576992034912,3,spoon,spoon
+0.0,0.0,0.4325271546840668,3,medium-high heat,350°f
+1.0,1.0,0.964808464050293,3,about 10 minutes,about 10 minutes
+1.0,1.0,0.966289222240448,3,about 3 minutes,about 3 minutes
+1.0,1.0,0.9650573134422302,3,skillet,skillet
+1.0,1.0,0.9650573134422302,3,skillet,skillet
+0.0,0.0,0.031852126121520996,3,", whisk",bowl
+0.0,0.8571428656578064,0.881263792514801,3,large liquid measuring cup,liquid measuring cup
+0.0,0.0,0.014974505640566349,3,small bowl,whisk
+1.0,1.0,0.9652275443077087,3,small bowl,small bowl
+0.0,0.800000011920929,0.8643007278442383,3,paring knife,sharp paring knife
+0.0,0.4000000059604645,0.3320665657520294,3,45 minutes,about 10 minutes
+0.0,0.0,0.08850087225437164,3,oven,baking sheet
+1.0,1.0,0.9649337530136108,3,sharp knife,sharp knife
+1.0,1.0,0.9570215940475464,3,fork,fork
+0.0,0.6666666865348816,0.8737565279006958,3,yogurt,yogurt mixture
+1.0,1.0,0.9656792879104614,3,nectarines,nectarines
+0.0,0.5,0.8036849498748779,3,small dry skillet,skillet
+1.0,1.0,0.9661808013916016,3,coriander,coriander
+1.0,1.0,0.9645510911941528,3,vinegar,vinegar
+0.0,0.0,0.009299753233790398,3,salt,thyme
+0.0,0.6666666865348816,0.8539856672286987,3,vinegar,vinegar mixture
+1.0,1.0,0.9592024087905884,3,thyme,thyme
+1.0,1.0,0.9572361707687378,3,30 minutes,30 minutes
+1.0,1.0,0.9582111835479736,3,oven,oven
+1.0,1.0,0.9640272259712219,3,about 30 minutes,about 30 minutes
+1.0,1.0,0.9650607109069824,3,high heat,high heat
+1.0,1.0,0.9561713337898254,3,pot,pot
+0.0,0.0,0.22243225574493408,3,8 boneless skinless chicken thighs (1 3/4 pounds; 800g),4 pieces
+0.0,0.0,0.19784465432167053,3,yes,no
+1.0,1.0,0.9674129486083984,3,1 1/2 teaspoons,1 1/2 teaspoons
+0.0,0.800000011920929,0.7115685939788818,3,plain unsweetened yogurt,plain unsweetened
+0.0,0.0,0.023986488580703735,3,2 teaspoons,20 g
+1.0,1.0,0.971001923084259,3,apple cider vinegar,apple cider vinegar
+0.0,0.800000011920929,0.7518466114997864,3,2 tablespoons (30ml),2 tablespoons
+1.0,1.0,0.9668243527412415,3,1 teaspoon,1 teaspoon
+1.0,1.0,0.9690712094306946,4,1/2 cup,1/2 cup
+0.0,0.5,0.39270517230033875,4,chinkiang vinegar,rice vinegar
+1.0,1.0,0.9638681411743164,4,wok,wok
+1.0,1.0,0.9650607109069824,4,high heat,high heat
+1.0,1.0,0.966289222240448,4,about 3 minutes,about 3 minutes
+1.0,1.0,0.9553631544113159,4,rice,rice
+0.0,0.0,0.042806513607501984,4,rice,soy sauce
+0.0,0.6666666865348816,0.7732694745063782,4,soy,soy sauce
+0.0,0.5,0.7035027742385864,4,wok,side of the wok
+0.0,0.6666666865348816,0.8974706530570984,4,little salt,salt
+0.0,0.0,0.0334932766854763,4,egg,soy sauce
+0.0,0.0,0.009442352689802647,4,frozen peas,onion
+1.0,1.0,0.9657022356987,4,peas,peas
+1.0,1.0,0.9553631544113159,4,rice,rice
+1.0,1.0,0.9669691324234009,4,paper towel,paper towel
+0.0,0.0,0.009520524181425571,4,water,wok
+0.0,0.6666666865348816,0.8769499659538269,4,large wok,wok
+0.0,0.0,0.010880393907427788,4,small saucepan,no
+1.0,1.0,0.9652275443077087,4,small bowl,small bowl
+1.0,1.0,0.9685534834861755,4,mushrooms,mushrooms
+1.0,1.0,0.9685534834861755,4,mushrooms,mushrooms
+0.0,0.0,0.0092325359582901,4,wok,mushrooms
+1.0,1.0,0.9650607109069824,4,high heat,high heat
+1.0,1.0,0.9638681411743164,4,wok,wok
+0.0,0.0,0.009703819639980793,4,"garlic, ginger, scallion whites, chives, and yacai (if using)",tofu
+1.0,1.0,0.9685534834861755,4,mushrooms,mushrooms
+0.0,0.0,0.2643894851207733,4,liquid mixture,rehydrated
+0.0,0.0,0.009259488433599472,4,tofu,stir-fry
+0.0,0.0,0.009276997298002243,4,peppercorns,mushrooms
+0.0,0.0,0.008981619961559772,4,white rice,scallions
+0.0,0.0,0.16831019520759583,4,large bowl,vegetables
+0.0,0.0,0.009277939796447754,4,coffee,garlic
+0.0,0.0,0.011183085851371288,4,vinegar,sesame seeds
+1.0,1.0,0.9650607109069824,4,high heat,high heat
+0.0,0.0,0.48036906123161316,4,pan,large cast iron or carbon steel skillet
+1.0,1.0,0.9571455121040344,4,pan,pan
+0.0,0.0,0.1398411989212036,4,bowl,rimmed baking sheet
+1.0,1.0,0.9635061025619507,4,leeks,leeks
+1.0,1.0,0.9611291289329529,4,1 day,1 day
+1.0,1.0,0.9638681411743164,4,wok,wok
+1.0,1.0,0.9650607109069824,4,high heat,high heat
+1.0,1.0,0.966289222240448,4,about 3 minutes,about 3 minutes
+1.0,1.0,0.9553631544113159,4,rice,rice
+1.0,1.0,0.9553631544113159,4,rice,rice
+0.0,0.6666666865348816,0.7732694745063782,4,soy,soy sauce
+1.0,1.0,0.9684650301933289,4,side of the wok,side of the wok
+0.0,0.6666666865348816,0.8974706530570984,4,little salt,salt
+0.0,0.0,0.009751839563250542,4,egg,remaining 1/2 tablespoon (7ml) oil
+0.0,0.0,0.009347783401608467,4,frozen peas,oil
+1.0,1.0,0.9657022356987,4,peas,peas
+1.0,1.0,0.9553631544113159,4,rice,rice
+1.0,1.0,0.9321802258491516,4,. whisk,whisk
+0.0,0.0,0.02058049850165844,4,flour,water
+0.0,0.5,0.9649221897125244,4,paper towel,paper towels
+1.0,1.0,0.9611524343490601,4,tofu,tofu
+1.0,1.0,0.950712263584137,4,stock,stock
+0.0,0.0,0.1368587166070938,4,vinegar,soy sauce
+0.0,0.5,0.3345498740673065,4,2 teaspoons,2 tablespoons
+1.0,1.0,0.9702792167663574,4,fine mesh strainer,fine mesh strainer
+1.0,1.0,0.9690685272216797,4,1/4 cup,1/4 cup
+0.0,0.0,0.4325271546840668,4,medium-high heat,350°f
+1.0,1.0,0.9638681411743164,4,wok,wok
+1.0,1.0,0.9638681411743164,4,wok,wok
+1.0,1.0,0.9611524343490601,4,tofu,tofu
+0.0,0.0,0.3075345456600189,4,3 minutes,1 minute
+1.0,1.0,0.9653299450874329,4,about 5 minutes,about 5 minutes
+0.0,0.0,0.11729014664888382,4,bowl,pan
+1.0,1.0,0.9611291289329529,4,1 day,1 day
+0.0,0.6666666865348816,0.4655412435531616,4,rice,rice vinegar
+0.0,0.6666666865348816,0.6482676267623901,4,vinegar,rice vinegar
+1.0,1.0,0.9652275443077087,4,small bowl,small bowl
+0.0,0.4000000059604645,0.33840543031692505,4,"large bowl, whisk",small bowl
+1.0,1.0,0.9621517062187195,4,flour,flour
+1.0,1.0,0.9621517062187195,4,flour,flour
+0.0,0.0,0.09863941371440887,4,"separate medium bowl, whisk",flour
+1.0,1.0,0.9622127413749695,4,mixture,mixture
+0.0,0.0,0.009721211157739162,4,whisk,batter
+1.0,1.0,0.9638681411743164,4,wok,wok
+1.0,1.0,0.966289222240448,4,about 3 minutes,about 3 minutes
+1.0,1.0,0.9553631544113159,4,rice,rice
+1.0,1.0,0.9553631544113159,4,rice,rice
+0.0,0.6666666865348816,0.7732694745063782,4,soy,soy sauce
+1.0,1.0,0.9553631544113159,4,rice,rice
+0.0,0.6666666865348816,0.8974706530570984,4,little salt,salt
+1.0,1.0,0.9577359557151794,4,egg,egg
+0.0,0.6666666865348816,0.5628283619880676,4,frozen peas,peas
+0.0,0.0,0.008840441703796387,4,an 8 1/2- by 4 1/2-inch loaf pan,parchment paper
+0.0,0.6666666865348816,0.6050060987472534,4,pan,loaf pan
+1.0,1.0,0.9621517062187195,4,flour,flour
+0.0,0.6666666865348816,0.6276776790618896,4,190°c,375°f (190°c)
+0.0,0.0,0.023036271333694458,4,"small bowl, whisk",cake
+0.0,0.4000000059604645,0.617371141910553,4,flour and baking powder,flour
+0.0,0.6666666865348816,0.8769158720970154,4,bowl,small bowl
+0.0,0.0,0.008986574597656727,4,"medium bowl, whisk",8- by 13-inch sheet of parchment paper
+0.0,0.5,0.5709032416343689,4,miso and butter,miso
+0.0,0.800000011920929,0.9354430437088013,4,about 30 seconds,30 seconds
+1.0,1.0,0.959672749042511,4,bowl,bowl
+0.0,0.4000000059604645,0.5367230176925659,4,electric handheld mixer,stand mixer
+0.0,0.3333333432674408,0.7111756205558777,4,electric handheld mixer or a whisk,whisk
+0.0,0.0,0.04007161781191826,4,flour,sugar
+0.0,0.0,0.1596023589372635,4,mixture,flour
+0.0,0.0,0.010911623015999794,4,large rubber spatula,batter
+0.0,0.0,0.046541761606931686,4,wooden spoon,large rubber spatula
+1.0,1.0,0.9646843075752258,4,apples,apples
+1.0,1.0,0.9646843075752258,4,apples,apples
+0.0,0.6666666865348816,0.6050060987472534,4,pan,loaf pan
+1.0,1.0,0.9571455121040344,4,pan,pan
+0.0,0.2857142984867096,0.26362472772598267,4,for 10 minutes,65 to 75 minutes
+0.0,0.0,0.24834969639778137,4,140°f,375°f
+0.0,0.0,0.009552503004670143,4,water,sugar
+0.0,0.0,0.22025129199028015,4,5 minutes,about 2 hours
+0.0,0.0,0.29596424102783203,4,about 1 minute,65 minutes
+0.0,0.0,0.01811942458152771,4,cream,sugar
+0.0,0.4000000059604645,0.7822078466415405,4,reduce heat to medium-low,medium-low
+1.0,1.0,0.9695826768875122,4,heat-resistant spatula,heat-resistant spatula
+1.0,1.0,0.9634727239608765,4,225°f,225°f
+0.0,0.0,0.03899260237812996,4,107°c,medium-low
+0.0,0.0,0.009750067256391048,4,miso,sugar
+1.0,1.0,0.96306973695755,4,whisk,whisk
+0.0,0.0,0.012624028138816357,4,a serrated knife,whisk
+1.0,1.0,0.9686475396156311,4,paring knife,paring knife
+1.0,1.0,0.9627804756164551,4,boiling,boiling
+1.0,1.0,0.9672372937202454,4,slotted spoon,slotted spoon
+0.0,0.6666666865348816,0.6930733919143677,4,"basil, garlic",garlic
+1.0,1.0,0.9451174139976501,4,3 medium cloves,3 medium cloves
+1.0,1.0,0.9643511176109314,4,salt,salt
+1.0,1.0,0.9637096524238586,4,tongs,tongs
+0.0,0.0,0.01425162237137556,4,breadcrumbs,pasta
+0.0,0.0,0.013274886645376682,4,breadcrumbs,cheese
+0.0,0.0,0.014879081398248672,4,cheese,garlic
+0.0,0.3636363744735718,0.6797743439674377,4,three layers of paper towels or a clean dish towel,paper towels
+0.0,0.800000011920929,0.953790545463562,4,rubber spatula,with a rubber spatula
+0.0,0.3333333432674408,0.7378355264663696,4,another triple layer of paper towels or a clean dish towel,paper towels
+1.0,1.0,0.9666937589645386,4,large bowl,large bowl
+1.0,1.0,0.9666937589645386,4,large bowl,large bowl
+0.0,0.6666666865348816,0.7595916390419006,4,separate empty large bowl,large bowl
+1.0,1.0,0.959672749042511,4,bowl,bowl
+1.0,1.0,0.959672749042511,4,bowl,bowl
+1.0,1.0,0.9641238451004028,4,once per day,once per day
+1.0,1.0,0.9663878679275513,4,about 1 hour,about 1 hour
+1.0,1.0,0.9670958518981934,4,medium saucepan,medium saucepan
+1.0,1.0,0.9610991477966309,4,foaming,foaming
+0.0,0.6666666865348816,0.787377655506134,4,medium skillet,skillet
+0.0,0.800000011920929,0.9386152029037476,4,for 3 minutes,3 minutes
+1.0,1.0,0.9672372937202454,4,slotted spoon,slotted spoon
+1.0,1.0,0.9650607109069824,4,high heat,high heat
+1.0,1.0,0.9571455121040344,4,pan,pan
+1.0,1.0,0.966620147228241,4,about 1 minute,about 1 minute
+0.0,0.6666666865348816,0.4655412435531616,4,rice,rice vinegar
+0.0,0.6666666865348816,0.6482676267623901,4,vinegar,rice vinegar
+0.0,0.6666666865348816,0.9180927276611328,4,small bowl,bowl
+0.0,0.5,0.735539436340332,4,"large bowl, whisk",whisk
+0.0,0.4000000059604645,0.7743469476699829,4,"all-purpose flour, whole wheat flour (or other flour)",all-purpose flour
+0.0,0.4000000059604645,0.7743469476699829,4,"all-purpose flour, whole wheat flour (or other flour)",all-purpose flour
+0.0,0.5,0.4698786437511444,4,medium bowl,large bowl
+0.0,0.0,0.009353049099445343,4,cabbage,salt
+0.0,0.20000000298023224,0.4631197154521942,4,"salted cabbage (or kimchi), grated carrot, and sliced scallions",carrot
+0.0,0.0,0.009312954731285572,4,flexible spatula,whisk
+0.0,0.3636363744735718,0.6452807784080505,4,stainless steel,"12-inch stainless steel, well-seasoned cast iron, or nonstick skillet"
+1.0,1.0,0.969273567199707,4,medium-high heat,medium-high heat
+0.0,0.0,0.013439856469631195,4,cup,large spoon
+0.0,0.3333333432674408,0.3943827450275421,4,flour and all of the water,water
+0.0,0.0,0.01137805636972189,4,salt,no
+0.0,0.0,0.12855274975299835,4,mixer,yes
+0.0,0.6666666865348816,0.7239152193069458,4,about 3-5 minutes,about 3 minutes
+0.0,0.4000000059604645,0.6865155100822449,4,bowl,lightly oiled mixing bowl
+0.0,0.0,0.3994334936141968,4,for 15 minutes,about 1 hour
+0.0,0.4000000059604645,0.7618234157562256,4,1 hour,about 1 hour to 1 hour 30 minutes
+1.0,1.0,0.9580249190330505,4,water,water
+0.0,0.6666666865348816,0.9215496778488159,4,1 hour,at least 1 hour
+1.0,1.0,0.9688723087310791,4,traditional cake pan,traditional cake pan
+0.0,0.5,0.626006543636322,4,pan,traditional cake pan
+0.0,0.4000000059604645,0.3833077549934387,4,a two-piece pan,non-reactive aluminum pan
+0.0,0.0,0.04047312214970589,4,pan,yes
+1.0,1.0,0.9688723087310791,4,traditional cake pan,traditional cake pan
+0.0,0.6000000238418579,0.59662926197052,4,"graham cracker crumbs, melted butter, and salt",graham cracker crumbs
+0.0,0.5,0.5993547439575195,4,pan,bottom of the pan
+0.0,0.0,0.010056459344923496,4,fork,on low speed
+0.0,0.0,0.013512494042515755,4,"salt, and orange flower water",sugar
+0.0,0.0,0.009843027219176292,4,orange flower water,sugar
+0.0,0.0,0.009530322626233101,4,bowl,clots of chalazae
+0.0,0.0,0.012396212667226791,4,eggs,sugar
+0.0,0.8571428656578064,0.7684317827224731,4,stainless steel pot,1-quart stainless steel pot
+1.0,1.0,0.9611021280288696,4,cream,cream
+0.0,0.0,0.009745119139552116,4,hot cream,sugar
+1.0,1.0,0.9605576992034912,4,spoon,spoon
+0.0,0.0,0.32471469044685364,4,250°f,450°f
+1.0,1.0,0.9568932056427002,4,10 minutes,10 minutes
+1.0,1.0,0.9636724591255188,4,about 35 minutes,about 35 minutes
+1.0,1.0,0.9653001427650452,4,thin knife,thin knife
+0.0,0.4000000059604645,0.6859589219093323,4,1 hour,at least 1 hour (or up to 4)
+0.0,0.6666666865348816,0.9219686388969421,4,12 hours,at least 12 hours
+1.0,1.0,0.9653001427650452,4,thin knife,thin knife
+0.0,0.4000000059604645,0.6458489894866943,4,tomatoes,large can of tomatoes
+1.0,1.0,0.9571678042411804,4,10 days,10 days
+0.0,0.6666666865348816,0.5546641945838928,4,pan,roasting pan
+1.0,1.0,0.9678768515586853,4,roasting pan,roasting pan
+0.0,0.5,0.6490975618362427,4,knife,large chef's knife

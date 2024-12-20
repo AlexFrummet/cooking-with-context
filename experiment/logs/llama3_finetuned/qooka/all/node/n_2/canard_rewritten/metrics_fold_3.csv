@@ -1,0 +1,414 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+0.0,0.6666666865348816,0.7359216809272766,3,preheat oven,Preheat oven to 375°F.
+0.0,0.3870967626571655,0.628947913646698,3,"Place potatoes in a large saucepan and cover with 2 quarts cold water. Add vinegar and 2 tablespoons kosher salt. Bring to a boil over high heat. Reduce to a simmer and cook until barely tender, about 5 minutes after coming to a boil. Drain potatoes in a colander and let drain for 2 minutes.",Place potatoes in a large saucepan and cover with 2 quarts cold water.
+0.0,0.52173912525177,0.6286376714706421,3,"Bring to a boil over high heat. Reduce to a simmer and cook until barely tender, about 5 minutes",Bring to a boil over high heat.
+1.0,1.0,0.9639473557472229,3,colander,colander
+1.0,1.0,0.9659022688865662,3,potatoes,potatoes
+1.0,1.0,0.9721606373786926,3,Drain potatoes in a colander and let drain for 2 minutes.,Drain potatoes in a colander and let drain for 2 minutes.
+1.0,1.0,0.9666505455970764,3,"Cook, stirring, until chorizo is crisp on all sides and fat has rendered out, about 10 minutes total. Remove chorizo with a slotted spoon to a large bowl, leaving fat in skillet. Set chorizo aside.","Cook, stirring, until chorizo is crisp on all sides and fat has rendered out, about 10 minutes total. Remove chorizo with a slotted spoon to a large bowl, leaving fat in skillet. Set chorizo aside."
+0.0,0.7586206793785095,0.7602293491363525,3,chorizo is crisp on all sides and fat has rendered out,"Cook, stirring, until chorizo is crisp on all sides and fat has rendered out, about 10 minutes total."
+0.0,0.0,0.025074100121855736,3,large bowl,cast iron skillet
+0.0,0.0,0.009172608144581318,3,chorizo,skillet
+0.0,0.0,0.010876119136810303,3,chorizo,fat
+0.0,0.1304347813129425,0.4094540476799011,3,"Add 3 tablespoons oil to skillet and heat over medium-high heat until shimmering. Add drained potatoes and cook, stirring and tossing occasionally, until potatoes are deep brown and crisp on all sides, about 20 minutes total.",Drain potatoes in a colander and let drain for 2 minutes.
+1.0,1.0,0.9659022688865662,3,potatoes,potatoes
+0.0,0.6909090876579285,0.7160546779632568,3,"Cook, stirring and tossing occasionally, until potatoes are deep brown and crisp on all sides, about 20 minutes total.","Add 3 tablespoons oil to skillet and heat over medium-high heat until shimmering. Add drained potatoes and cook, stirring and tossing occasionally, until potatoes are deep brown and crisp on all sides, about 20 minutes total."
+1.0,1.0,0.9659022688865662,3,potatoes,potatoes
+0.0,0.375,0.5750420093536377,3,"Add cumin and paprika and cook, stirring, until fragrant, about 30 seconds. Season to taste with salt and pepper.",Season to taste with salt and pepper then transfer to bowl with potatoes and chorizo. Toss contents of bowl and return to skillet. Make 4 wells in potato mixture.
+0.0,0.0,0.013024725019931793,3,potatoes,oil
+0.0,0.75,0.554210364818573,3,"until charred, about 2 minutes.",about 2 minutes
+0.0,0.19354838132858276,0.32986757159233093,3,transfer to bowl with potatoes and chorizo. Toss contents of bowl and return to skillet. Make 4 wells in potato mixture.,Drain potatoes in a colander and let drain for 2 minutes.
+0.0,0.0,0.12400972098112106,3,bowl,large saucepan
+0.0,0.6363636255264282,0.6844145655632019,3,Slide into a fine mesh strainer over the sink.,Carefully break 1 egg into a small bowl and slide into a fine mesh strainer over the sink.
+1.0,1.0,0.9614646434783936,3,Carefully break 1 egg into a small bowl and slide into a fine mesh strainer over the sink. Swirl egg very gently until excess loose white drains away. Carefully add to one of the cavities in the skillet. Repeat with remaining three eggs.,Carefully break 1 egg into a small bowl and slide into a fine mesh strainer over the sink. Swirl egg very gently until excess loose white drains away. Carefully add to one of the cavities in the skillet. Repeat with remaining three eggs.
+0.0,0.0,0.04649882763624191,3,small bowl,fine mesh strainer
+0.0,0.0,0.733145534992218,3,egg,eggs
+1.0,1.0,0.9577359557151794,3,egg,egg
+0.0,0.0,0.008798295632004738,3,Carefully add to one of the cavities in the skillet.,excess loose white drains away.
+0.0,0.2222222238779068,0.13780663907527924,3,Transfer to oven.,Season to taste with salt and pepper then transfer to bowl with potatoes and chorizo.
+1.0,1.0,0.964808464050293,3,about 10 minutes,about 10 minutes
+0.0,0.375,0.4836537539958954,3,"until whites are barely set but yolks are still runny, about 10 minutes.",about 10 minutes
+0.0,0.0,0.011917149648070335,3,oven,skillet
+0.0,0.9090909361839294,0.8081104755401611,3,"Garnish with sliced scallion greens, chopped cilantro, and avocado. Serve immediately with salsa and tortillas.","Remove from oven, garnish with sliced scallion greens, chopped cilantro, and avocado. Serve immediately with salsa and tortillas."
+1.0,1.0,0.9659346342086792,3,tortillas,tortillas
+0.0,0.27272728085517883,0.5873584151268005,3,"Pat the chicken dry with paper towels. Using a sharp knife, score the top side of the chicken thighs 2 or 3 times, then prick all over with a fork. Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.",Pat the chicken dry with paper towels.
+0.0,0.2857142984867096,0.41956013441085815,3,boneless skinless chicken thighs,800 g chicken
+0.0,0.0,0.009490893222391605,3,chicken thighs,fork
+1.0,1.0,0.9649337530136108,3,sharp knife,sharp knife
+1.0,1.0,0.9632516503334045,3,coarse,coarse
+0.0,0.0,0.5888781547546387,3,4 medium garlic cloves (1/2 ounce; 15g),15 g
+0.0,0.0,0.008877838961780071,3,Pulse until very smooth.,salt
+0.0,0.0,0.026740767061710358,3,"Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.",Pat the chicken dry with paper towels.
+1.0,1.0,0.9688491821289062,3,"Heat a small dry skillet over medium heat. Add the coriander seeds to the hot skillet and toast until the seeds become fragrant and start to darken slightly, about 1 minute. Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.","Heat a small dry skillet over medium heat. Add the coriander seeds to the hot skillet and toast until the seeds become fragrant and start to darken slightly, about 1 minute. Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder."
+0.0,0.375,0.49135851860046387,3,"Toast until the seeds become fragrant and start to darken slightly, about 1 minute.",about 1 minute
+0.0,0.4000000059604645,0.5939032435417175,3,1 teaspoon,1 1/2 teaspoons
+0.0,0.5,0.6790123581886292,3,apple cider vinegar,vinegar
+0.0,0.2857142984867096,0.19799502193927765,3,"the vinegar, honey, and salt","yogurt, scallions, mint, peppercorns, garlic, ginger, chile, turmeric, and salt"
+1.0,1.0,0.9711441397666931,3,Stir in the chile flakes and coriander powder.,Stir in the chile flakes and coriander powder.
+0.0,0.1587301641702652,0.3136976659297943,3,Cut the nectarines in half and remove and discard the stone. Cut the nectarines into thin segments and add them to the vinegar mixture along with the thyme.,"Heat a small dry skillet over medium heat. Add the coriander seeds to the hot skillet and toast until the seeds become fragrant and start to darken slightly, about 1 minute. Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder."
+0.0,0.37037035822868347,0.6766214370727539,3,Stir to coat the fruit well. Cover with a lid and refrigerate for at least 30 minutes and up to 1 day before serving.,Stir to coat the fruit well.
+0.0,0.3076923191547394,0.5384857654571533,3,at least 30 minutes and up to 1 day before serving.,30 minutes
+0.0,0.0,0.19784465432167053,3,yes,no
+0.0,0.6666666865348816,0.6742227077484131,3,350°f (175°c),175°C
+1.0,1.0,0.9718637466430664,3,Position oven racks in both the bottom-middle and top-middle positions.,position oven racks in both the bottom-middle and top-middle positions
+1.0,1.0,0.9720491170883179,3,Line two rimmed baking sheets with foil and spray the foil with a little oil.,Line two rimmed baking sheets with foil and spray the foil with a little oil.
+0.0,0.8405796885490417,0.765327513217926,3,"Spread the marinated thighs over the prepared baking sheets, 4 pieces per sheet. Bake the chicken, switching the positions of the two sheets halfway through cooking, until an instant-read thermometer registers 165°F (74°C) in the thickest part of the thighs and the edges are slightly browned, about 30 minutes.","bake the chicken, switching the positions of the two sheets halfway through cooking, until an instant-read thermometer registers 165°F (74°C) in the thickest part of the thighs and the edges are slightly browned, about 30 minutes."
+0.0,0.0,0.02412502095103264,3,about 30 minutes,yes
+1.0,1.0,0.9649337530136108,3,sharp knife,sharp knife
+1.0,1.0,0.9570215940475464,3,fork,fork
+1.0,1.0,0.9582111835479736,3,oven,oven
+0.0,0.800000011920929,0.729028046131134,3,"In a large baking dish, combine potatoes, rosemary, and 2 tablespoons (30ml) olive oil. Season with salt and pepper, then toss to combine. Spread potatoes in an even, single layer.","Adjust oven rack to upper middle position and preheat oven to 375°F (190°C). In a large baking dish, combine potatoes, rosemary, and 2 tablespoons (30ml) olive oil. Season with salt and pepper, then toss to combine. Spread potatoes in an even, single layer. Roast"
+1.0,1.0,0.9643511176109314,3,salt,salt
+0.0,0.3333333432674408,0.5449515581130981,3,"Roast until a knife meets little resistance when inserted into a piece of potato, about 30 minutes",about 30 minutes
+1.0,1.0,0.9640272259712219,3,about 30 minutes,about 30 minutes
+0.0,0.6666666865348816,0.8673081398010254,3,sharp knife,knife
+0.0,0.15094339847564697,0.4457462728023529,3,"Cut top 1/2 inch off stem end of tomatoes and set aside. Carefully run knife along the cavity of the tomato to loosen core and pulp, then use a spoon to carefully scoop them out into a bowl.","Blot tomato cavities with paper towels, then nestle them into potatoes in baking dish so that they remain upright."
+0.0,0.0,0.08520479500293732,3,Carefully scoop them out into a bowl.,Discard seeds.
+1.0,1.0,0.959672749042511,3,bowl,bowl
+1.0,1.0,0.9672093987464905,3,tomatoes,tomatoes
+0.0,0.9803921580314636,0.973597526550293,3,"Season insides of tomatoes and their tops with salt, and place them upside down on wire rack set inside a rimmed baking sheet. Set tomatoes aside.","Season insides of tomatoes and their tops with salt, and place them upside down on wire rack rack set inside a rimmed baking sheet. Set tomatoes aside."
+0.0,0.5,0.5086475014686584,3,reserved tomato,tomato pulp
+1.0,1.0,0.9737536311149597,3,"Using a food mill, pass reserved tomato pulp into a non-reactive container; discard seeds.","Using a food mill, pass reserved tomato pulp into a non-reactive container; discard seeds."
+0.0,0.7857142686843872,0.7655917406082153,3,"If you don't have that much, add low-sodium chicken broth or vegetable stock to reach that volume.",Add low-sodium chicken broth or vegetable stock to reach that volume.
+0.0,0.2857142984867096,0.2889932692050934,3,broth,low-sodium chicken broth or vegetable stock
+0.0,0.6666666865348816,0.7903153896331787,3,tomato,tomato pulp
+1.0,1.0,0.9748619198799133,3,"Add shallots, season lightly with salt, and cook, stirring frequently with a rubber spatula, until shallots are softened but not browned, about 3 minutes.","Add shallots, season lightly with salt, and cook, stirring frequently with a rubber spatula, until shallots are softened but not browned, about 3 minutes."
+0.0,0.7222222089767456,0.769054651260376,3,"Cook, stirring frequently with a rubber spatula, until shallots are softened but not browned.","Add shallots, season lightly with salt, and cook, stirring frequently with a rubber spatula, until shallots are softened but not browned, about 3 minutes."
+1.0,1.0,0.9643511176109314,3,salt,salt
+1.0,1.0,0.9642309546470642,3,garlic,garlic
+1.0,1.0,0.9642309546470642,3,garlic,garlic
+0.0,0.0,0.11175046116113663,3,"Continue to cook, stirring frequently, until garlic is softened as well, about 1 minute longer.",yes
+1.0,1.0,0.9742431640625,3,"Stir in tomato paste and continue to cook, stirring, until tomato paste evenly coats rice mixture and turns rust-colored, about 1 minute longer.","Stir in tomato paste and continue to cook, stirring, until tomato paste evenly coats rice mixture and turns rust-colored, about 1 minute longer."
+0.0,0.0,0.42187967896461487,3,rice,"Add garlic and continue to cook, stirring frequently, until garlic is softened as well, about 1 minute longer."
+1.0,1.0,0.9691490530967712,3,tomato paste,tomato paste
+0.0,0.6666666865348816,0.8023447394371033,3,rice,rice mixture
+0.0,0.095238097012043,0.4697667062282562,3,"Cook rice at a steady simmer, stirring frequently, until rice is just beginning to soften, about 10 minutes",about 1 minute longer
+1.0,1.0,0.9700560569763184,3,tomato pulp,tomato pulp
+1.0,1.0,0.9643511176109314,3,salt,salt
+0.0,0.0,0.14471013844013214,3,stir in fish sauce,"Add tomato pulp, increase heat to medium-high, and cook rice at a steady simmer, stirring frequently, until rice is just beginning to soften, about 10 minutes."
+0.0,0.1538461595773697,0.506492555141449,3,"Stir in fish sauce (if using) and basil, and season with salt.",salt
+0.0,0.774193525314331,0.6368685960769653,3,Nestle them into potatoes in baking dish so that they remain upright.,"Blot tomato cavities with paper towels, then nestle them into potatoes in baking dish so that they remain upright."
+1.0,1.0,0.9694256782531738,3,tomato cavities,tomato cavities
+1.0,1.0,0.9674291610717773,3,1 tablespoon,1 tablespoon
+1.0,1.0,0.9740709066390991,3,"Fill tomatoes with rice mixture, set tops on tomatoes, and drizzle with remaining 1 tablespoon (15ml) of olive oil.","Fill tomatoes with rice mixture, set tops on tomatoes, and drizzle with remaining 1 tablespoon (15ml) of olive oil."
+0.0,0.0,0.009342553094029427,3,tomatoes,heat
+0.0,0.0,0.009253217838704586,3,tomatoes,roast
+0.0,0.8157894611358643,0.8221040368080139,3,"Turn oven to broil, remove tops from tomatoes (keeping them in baking dish) to expose rice, and broil until rice and potatoes are lightly charred and crispy, 5 to 7 minutes.","Turn oven to broil, remove tops from tomatoes (keeping them in baking dish) to expose rice, and broil until rice and potatoes are lightly charred and crispy, 5 to 7 minutes (keep a close eye as broiler intensity can vary significantly from one oven to the next)."
+0.0,0.0,0.033773768693208694,3,potatoes,Set baking dish aside to cool; keep oven on.
+0.0,0.5,0.5641730427742004,3,rice and potatoes,rice
+1.0,1.0,0.9580249190330505,3,water,water
+1.0,1.0,0.9692448973655701,3,"Bring water, butter, and salt to a boil in a medium saucepan over high heat.","Bring water, butter, and salt to a boil in a medium saucepan over high heat."
+0.0,0.5,0.7069348096847534,3,"Continue to stir, beating dough forcefully and rapidly",beat dough forcefully and rapidly to prevent it from sticking to the pot.
+0.0,0.8965517282485962,0.8213003873825073,3,Continue cooking until dough pulls away from sides of pot leaving a thin layer and steams slightly.,dough pulls away from sides of pot leaving a thin layer and steams slightly.
+0.0,0.0,0.16374929249286652,3,stand mixer,bowl
+1.0,1.0,0.9668411612510681,3,mustard,mustard
+1.0,1.0,0.9714995622634888,3,Add mustard and cheese and beat on medium-low speed.,Add mustard and cheese and beat on medium-low speed.
+0.0,0.7317073345184326,0.7549406886100769,3,"Add eggs one at a time, allowing dough to fully incorporate egg before adding the next one.","Add eggs one at a time, beating vigorously with each addition to prevent eggs from curdling and allowing dough to fully incorporate egg before adding the next one."
+0.0,0.0,0.733145534992218,3,egg,eggs
+1.0,1.0,0.9721786975860596,3,Transfer mixture to a gallon-sized zipper-lock bag or a pastry bag fitted with a 1/2-inch tip.,Transfer mixture to a gallon-sized zipper-lock bag or a pastry bag fitted with a 1/2-inch tip.
+0.0,0.0,0.009411761537194252,3,mustard and cheese,wooden spoon
+0.0,0.07407407462596893,0.558934211730957,3,eggs,"Add eggs one at a time, beating vigorously with each addition to prevent eggs from curdling and allowing dough to fully incorporate egg before adding the next one."
+1.0,1.0,0.9736647605895996,3,"Add eggs one at a time, beating vigorously with each addition to prevent eggs from curdling and allowing dough to fully incorporate egg before adding the next one.","Add eggs one at a time, beating vigorously with each addition to prevent eggs from curdling and allowing dough to fully incorporate egg before adding the next one."
+0.0,0.0,0.06561852991580963,3,Transfer mixture to a gallon-sized zipper-lock bag or a pastry bag fitted with a 1/2-inch tip.,wooden spoon
+0.0,0.0,0.04648716002702713,3,mixture,water
+0.0,0.6666666865348816,0.6419409513473511,3,25 minutes,15 to 25 minutes
+0.0,0.0,0.009768296964466572,3,large pot,gallon-sized zipper-lock bag
+0.0,0.05714285746216774,0.11122354865074158,3,"Meanwhile, bring a large pot of salted water to a simmer and have a rimmed baking sheet. If using a zipper-lock bag, cut off a 1/2-inch opening in one corner.",Let mixture rest 15 to 25 minutes at room temperature.
+1.0,1.0,0.9736551642417908,3,"Holding the bag over the boiling water, squeeze the mixture out of the bag, cutting it off with a paring knife into 1-inch lengths and letting them fall directly into the simmering water.","Holding the bag over the boiling water, squeeze the mixture out of the bag, cutting it off with a paring knife into 1-inch lengths and letting them fall directly into the simmering water."
+1.0,1.0,0.9686475396156311,3,paring knife,paring knife
+0.0,0.6976743936538696,0.6737553477287292,3,"Continue cooking until gnocchi are fully cooked to the center, about 3 minutes longer. Lift gnocchi with a fine mesh strainer or a metal spider and transfer to rimmed baking sheet.",Lift gnocchi with a fine mesh strainer or a metal spider and transfer to rimmed baking sheet.
+1.0,1.0,0.9702792167663574,3,fine mesh strainer,fine mesh strainer
+0.0,0.9285714030265808,0.8156877756118774,3,Lift gnocchi with a fine mesh strainer or a metal spider and transfer to rimmed baking sheet. Drizzle with a little bit of olive oil and toss to coat.,Lift gnocchi with a fine mesh strainer or a metal spider and transfer to rimmed baking sheet. Drizzle with a little bit of olive oil and toss to coat. Repeat with remaining dough.
+0.0,0.17391304671764374,0.013504932634532452,3,Drizzle with a little bit of olive oil and toss to coat.,beat dough forcefully and rapidly to prevent it from sticking to the pot.
+0.0,0.0,0.050449397414922714,3,"roasted cherry tomatoes, corn, and zucchini,",herbs
+0.0,0.0,0.009764640592038631,3,until al dente,about 7 minutes
+1.0,1.0,0.9707517027854919,3,Bring a pot of salted water to a boil.,Bring a pot of salted water to a boil.
+1.0,1.0,0.9726898670196533,3,"Add pasta and cook, stirring, until al dente.","Add pasta and cook, stirring, until al dente."
+0.0,0.0,0.1002836599946022,3,"Add pasta and cook, stirring, until al dente.",Bring a pot of salted water to a boil.
+0.0,0.9032257795333862,0.8038363456726074,3,"cook, stirring frequently, over medium heat, until fat has rendered and guanciale is crisp","cook, stirring frequently, over medium heat, until fat has rendered and guanciale is crisp, about 7 minutes."
+0.0,0.4285714328289032,0.5120949149131775,3,"until fat has rendered and guanciale is crisp, about 7 minutes",about 7 minutes
+0.0,0.6666666865348816,0.25928017497062683,3,large skillet,large
+0.0,0.9473684430122375,0.9740602970123291,3,"whole eggs and yolks, Pecorino Romano, Parmigiano-Reggiano, and black pepper","whole eggs, yolks, Pecorino Romano, Parmigiano-Reggiano, and black pepper"
+0.0,0.13793103396892548,0.3979169428348541,3,"using tongs and/or a strainer, transfer pasta to skillet with crisped guanciale and its fat; be sure not to drain boiling pasta water",Bring a pot of salted water to a boil.
+0.0,0.13333334028720856,0.5116648077964783,3,"Using tongs and/or a strainer, transfer pasta to skillet with crisped guanciale and its fat; be sure not to drain boiling pasta water.","Add pasta and cook, stirring, until al dente."
+1.0,1.0,0.9746522903442383,3,"using tongs and/or a strainer, transfer pasta to skillet with crisped guanciale and its fat; be sure not to drain boiling pasta water","Using tongs and/or a strainer, transfer pasta to skillet with crisped guanciale and its fat; be sure not to drain boiling pasta water."
+0.0,0.800000011920929,0.7495297193527222,3,1 tablespoon (15ml),1 tablespoon
+0.0,0.06451612710952759,0.4076490104198456,3,"Scrape pasta, pork, and all the fat into the egg mixture. Stir well to combine.","In a large, metal heatproof mixing bowl, whisk together whole eggs and yolks, Pecorino Romano, Parmigiano-Reggiano, and black pepper."
+0.0,0.0,0.009435856714844704,3,<no answer>,about 7 minutes
+0.0,0.8409090638160706,0.7372673749923706,3,"Set mixing bowl over pot of boiling pasta water (make sure bottom of bowl does not touch the water) and cook, stirring quickly with tongs, until sauce thickens to a creamy, silky consistency and leaves trails as you stir.","Set mixing bowl over pot of boiling pasta water (make sure bottom of bowl does not touch the water) and cook, stirring quickly with tongs, until sauce thickens to a creamy, silky consistency and leaves trails as you stir. Remove from heat, season with salt if needed, and divide into bowls. Serve right"
+0.0,0.0,0.06678276509046555,3,"until sauce thickens to a creamy, silky consistency and leaves trails as you stir",quickly
+1.0,1.0,0.9398447871208191,3,large,large
+0.0,0.1538461595773697,0.14577017724514008,3,"Remove from heat, season with salt if needed, and divide into bowls.","Serve right away, topping with more grated cheese and freshly ground pepper as desired."
+1.0,1.0,0.9570215940475464,3,fork,fork
+1.0,1.0,0.9649337530136108,3,sharp knife,sharp knife
+0.0,0.1875,0.27984631061553955,3,"Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.","Using a sharp knife, score the top side of the chicken thighs 2 or 3 times, then prick all over with a fork."
+0.0,0.0,0.009147852659225464,3,salt,peppercorns
+0.0,0.0,0.1494966447353363,3,Pulse until very smooth.,"In a blender, combine yogurt, scallions, mint, peppercorns, garlic, ginger, chile, turmeric, and salt."
+0.0,0.0,0.026740767061710358,3,"Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.",Pat the chicken dry with paper towels.
+0.0,0.25,0.5590944886207581,3,"Using a slotted spoon, remove mushrooms from soaking liquid and squeeze out excess moisture back into the bowl or measuring cup.","Reserve rehydrated mushrooms and 1/4 cup (60ml) soaking liquid, making sure to dispose of any grit that has settled at the bottom."
+0.0,0.6440678238868713,0.6905336380004883,3,"Using a slotted spoon, remove mushrooms from soaking liquid and squeeze out excess moisture back into the bowl or measuring cup. Reserve rehydrated mushrooms and 1/4 cup (60ml) soaking liquid, making sure to dispose of any grit that has settled at the bottom.","Using a slotted spoon, remove mushrooms from soaking liquid and squeeze out excess moisture back into the bowl or measuring cup."
+1.0,1.0,0.9672372937202454,3,slotted spoon,slotted spoon
+1.0,1.0,0.9555256962776184,3,cup,cup
+1.0,1.0,0.9685534834861755,3,mushrooms,mushrooms
+1.0,1.0,0.9642309546470642,3,garlic,garlic
+0.0,0.0,0.010642193257808685,3,1 tablespoon,about 20 minutes
+0.0,0.095238097012043,0.42140820622444153,3,"In a 5-quart pot, combine 1/4 cup (60ml) olive oil, garlic, pepper flakes, and 1 tablespoon minced parsley.","Set over medium heat and cook, stirring frequently, until very fragrant and garlic is just beginning to turn the lightest shade of gold, about 3 minutes."
+0.0,0.6666666865348816,0.8427115678787231,3,Set over medium heat.,medium heat
+0.0,0.0,0.009777373634278774,3,medium heat,olive
+1.0,1.0,0.966620147228241,3,about 1 minute,about 1 minute
+0.0,0.0,0.1576257348060608,3,"Cook, stirring, until lightly sautéed and fragrant.",boiling water
+0.0,0.0,0.02366337552666664,3,mushrooms,garlic
+0.0,0.0,0.018420536071062088,3,mushroom,garlic
+0.0,0.0,0.5031431317329407,3,reserved 1/4 cup (60ml) mushroom soaking liquid,mushrooms
+0.0,0.0,0.25143077969551086,3,just add as much as it does,2 tablespoons
+0.0,0.9230769276618958,0.9629490971565247,3,just add as much as it does,add as much as it does
+0.0,0.27272728085517883,0.5411497950553894,3,"In a pot of salted, boiling water, cook spaghetti, stirring frequently, until just shy of al dente, about 1 minute less than package recommends.","cook, stirring, until pasta is al dente and sauce has thickened, so it coats noodles and isn't watery, about 3 minutes."
+0.0,0.6000000238418579,0.7133125066757202,3,about 1 minute,about 1 minute less than package recommends.
+1.0,1.0,0.9580249190330505,3,water,water
+0.0,0.07692307978868484,0.3830615282058716,3,"While spaghetti is cooking, flake tuna into pasta sauce.","Cook spaghetti, stirring frequently, until just shy of al dente, about 1 minute less than package recommends."
+1.0,1.0,0.9679495692253113,3,pasta sauce,pasta sauce
+0.0,0.3333333432674408,0.5060315728187561,3,flake tuna into pasta sauce.,flake
+0.0,0.2142857164144516,0.23775643110275269,3,"Using tongs, transfer spaghetti directly into simmering sauce along with 1/4 cup (60ml) pasta cooking water, stirring to combine.",Transfer to warmed plates and sprinkle with minced parsley.
+0.0,0.2380952388048172,0.5616679787635803,3,"Cook, stirring, until pasta is al dente and sauce has thickened, so it coats noodles and isn't watery, about 3 minutes.","Add more olive oil or pasta water, 1 tablespoon at a time, stirring well between additions, until desired sauce consistency is reached."
+1.0,1.0,0.966289222240448,3,about 3 minutes,about 3 minutes
+1.0,1.0,0.9661010503768921,3,parsley,parsley
+0.0,0.0,0.20182450115680695,3,"If sauce is too thick, add more olive oil or pasta water, 1 tablespoon at a time, stirring well between additions, until desired sauce consistency is reached.",Transfer to warmed plates and sprinkle with minced parsley.
+0.0,0.6666666865348816,0.5627683997154236,3,minced parsley,parsley
+1.0,1.0,0.9669691324234009,3,paper towel,paper towel
+1.0,1.0,0.9718760251998901,3,Place a paper towel or kitchen towel directly on the surface of water to keep mushrooms mostly submerged.,Place a paper towel or kitchen towel directly on surface of water to keep mushrooms mostly submerged.
+0.0,0.0,0.024674709886312485,3,water,oil
+1.0,1.0,0.9648589491844177,3,large wok,large wok
+0.0,0.0,0.20626218616962433,3,small saucepan,large wok
+0.0,0.3636363744735718,0.6653776168823242,3,transfer fried mushrooms to a medium bowl and return oil to wok.,"Combine chopped button mushrooms and oil in the bottom of a large wok. Heat over high heat, stirring constantly, until mushrooms are shriveled and well browned, 6 to 10 minutes. Strain through a fine mesh strainer set over a small saucepan. Transfer fried mushrooms to a medium bowl and"
+1.0,1.0,0.9652275443077087,3,small bowl,small bowl
+0.0,0.6363636255264282,0.6314582824707031,3,"Discard all but 3/4 cups soaking liquid. Add cornstarch, wine, and soy sauce to liquid.",Discard all but 3/4 cups soaking liquid.
+0.0,0.6666666865348816,0.6816447973251343,3,mushrooms,button mushrooms
+1.0,1.0,0.9728977084159851,3,"Remove and discard hard central stems from woodear mushrooms, then finely chope all the mushrooms.","Remove and discard hard central stems from woodear mushrooms, then finely chope all the mushrooms."
+0.0,0.6666666865348816,0.6926964521408081,3,mushrooms,woodear mushrooms
+1.0,1.0,0.9650607109069824,3,high heat,high heat
+0.0,0.0,0.01477969903498888,3,wok,oil
+0.0,0.0,0.01477969903498888,3,wok,oil
+0.0,0.7555555701255798,0.7703701853752136,3,"Add garlic, ginger, scallion whites, chives, and yacai (if using). Stir-fry until fragrant, about 30 seconds. Add chopped mushrooms and stir-fry to combine. Add fermented chili broad bean paste and stir until all the vegetables are well coated. Stir mushroom liquid mixture to incorporate cornstarch, then add to wok.","Heat oil over high heat until lightly smoking. Add garlic, ginger, scallion whites, chives, and yacai (if using). Stir-fry until fragrant, about 30 seconds. Add chopped mushrooms and stir-fry to combine. Add fermented chili broad bean paste and stir until all the vegetables"
+1.0,1.0,0.9701576828956604,3,"garlic, ginger, scallion whites, chives, and yacai (if using)","garlic, ginger, scallion whites, chives, and yacai (if using)"
+0.0,0.6666666865348816,0.6275765299797058,3,mushrooms,chopped mushrooms
+0.0,0.0,0.2643894851207733,3,liquid mixture,rehydrated
+1.0,1.0,0.9722253084182739,3,"Add tofu and carefully fold in, trying not to break it.","Add tofu and carefully fold in, trying not to break it."
+0.0,0.0,0.02393495664000511,3,tofu,oil
+0.0,0.5,0.5795896053314209,3,"Drizzle with chili oil, and top with scallions and ground Sichuan peppercorns.",drizzle with chili oil
+0.0,0.8648648858070374,0.7434586882591248,3,"Transfer to a serving platter, drizzle with chili oil, and top with scallions and ground Sichuan peppercorns.","Transfer to a serving platter, drizzle with chili oil, and top with scallions and ground Sichuan peppercorns. Serve immediately with white rice."
+1.0,1.0,0.9675986170768738,3,peppercorns,peppercorns
+0.0,0.5714285969734192,0.6778313517570496,3,white rice,Serve immediately with white rice.
+0.0,0.0,0.02014343999326229,3,Serve immediately with white rice.,Sichuan mushrooms
+0.0,0.6440678238868713,0.6905336380004883,3,"Using a slotted spoon, remove mushrooms from soaking liquid and squeeze out excess moisture back into the bowl or measuring cup. Reserve rehydrated mushrooms and 1/4 cup (60ml) soaking liquid, making sure to dispose of any grit that has settled at the bottom.","Using a slotted spoon, remove mushrooms from soaking liquid and squeeze out excess moisture back into the bowl or measuring cup."
+0.0,0.800000011920929,0.913915753364563,3,"no, slotted spoon",slotted spoon
+0.0,0.095238097012043,0.42140820622444153,3,"In a 5-quart pot, combine 1/4 cup (60ml) olive oil, garlic, pepper flakes, and 1 tablespoon minced parsley.","Set over medium heat and cook, stirring frequently, until very fragrant and garlic is just beginning to turn the lightest shade of gold, about 3 minutes."
+0.0,0.0,0.07893892377614975,3,"no, medium heat",yes
+0.0,0.0,0.012167361564934254,3,about 1 minute,no
+0.0,0.03999999910593033,0.4145313501358032,3,"Cook, stirring, until lightly sautéed and fragrant, about 1 minute.","Using a slotted spoon, remove mushrooms from soaking liquid and squeeze out excess moisture back into the bowl or measuring cup. Reserve rehydrated mushrooms and 1/4 cup (60ml) soaking liquid, making sure to dispose of any grit that has settled at the bottom."
+0.0,0.1111111119389534,0.3354838788509369,3,"Cook, stirring, until lightly sautéed and fragrant.","soak mushrooms in boiling water until fully softened, about 20 minutes."
+1.0,1.0,0.922936201095581,3,yes,yes
+0.0,0.0,0.012907247059047222,3,yes,cup
+0.0,0.0,0.0889948159456253,3,"no, reserved 1/4 cup (60ml)",yes
+0.0,0.0,0.25143077969551086,3,just add as much as it does,2 tablespoons
+0.0,0.6666666865348816,0.5057754516601562,3,1 cup (235ml),1 cup water
+0.0,0.27272728085517883,0.5411497950553894,3,"In a pot of salted, boiling water, cook spaghetti, stirring frequently, until just shy of al dente, about 1 minute less than package recommends.","cook, stirring, until pasta is al dente and sauce has thickened, so it coats noodles and isn't watery, about 3 minutes."
+0.0,0.0,0.011965763755142689,3,no,about 1 minute less than package recommends.
+0.0,0.3333333432674408,0.5060315728187561,3,flake tuna into pasta sauce.,flake
+0.0,0.2380952388048172,0.5616679787635803,3,"Cook, stirring, until pasta is al dente and sauce has thickened, so it coats noodles and isn't watery, about 3 minutes.","Add more olive oil or pasta water, 1 tablespoon at a time, stirring well between additions, until desired sauce consistency is reached."
+0.0,0.800000011920929,0.7288548946380615,3,"If sauce is too thick, add more olive oil or pasta water, 1 tablespoon at a time, stirring well between additions, until desired sauce consistency is reached.","add more olive oil or pasta water, 1 tablespoon at a time, stirring well between additions, until desired sauce consistency is reached. Taste for seasoning, adding more salt if necessary."
+0.0,0.0,0.1552841067314148,3,Serve right away.,"Add remaining 1/4 cup minced parsley and 1/4 cup (60ml) olive oil, stirring vigorously to combine."
+1.0,1.0,0.9652275443077087,3,small bowl,small bowl
+0.0,0.6666666865348816,0.6280614733695984,3,in a small bowl and stir briefly to combine.,"Combine soy sauce, rice vinegar, and sesame oil in a small bowl and stir briefly to combine."
+0.0,0.6666666865348816,0.6482676267623901,3,vinegar,rice vinegar
+1.0,1.0,0.9721817374229431,3,"Combine soy sauce, rice vinegar, and sesame oil in a small bowl and stir briefly to combine.","Combine soy sauce, rice vinegar, and sesame oil in a small bowl and stir briefly to combine."
+1.0,1.0,0.9553631544113159,3,rice,rice
+0.0,0.800000011920929,0.9168385863304138,3,In a large bowl.,large bowl
+0.0,0.6666666865348816,0.7886538505554199,3,flour,all-purpose flour
+1.0,1.0,0.9699714779853821,3,"large bowl, whisk","large bowl, whisk"
+1.0,1.0,0.9621517062187195,3,flour,flour
+0.0,0.0,0.5674050450325012,3,Set aside.,"Add wet mixture to large mixing bowl with flour mixture and whisk together just until a smooth, loose batter forms; the consistency should be similar to pancake batter; it should flow easily off the whisk and puddle briefly on top of the batter in the bowl."
+0.0,0.5714285969734192,0.6424519419670105,3,"separate medium bowl, whisk","large bowl, whisk"
+0.0,0.0,0.009463798254728317,3,mixture,about 1 minute
+1.0,1.0,0.96306973695755,3,whisk,whisk
+0.0,0.3076923191547394,0.6578855514526367,3,the consistency should be similar to pancake batter; it should flow easily off the whisk and puddle briefly on top of the batter in the bowl.,similar to pancake batter
+0.0,0.25,0.7101187705993652,3,"whisk together just until a smooth, loose batter forms; taking care not to over-mix the batter.",whisk together
+0.0,0.0,0.4105089604854584,3,heavy 12-inch cast iron skillet,heat
+0.0,0.2083333283662796,0.44895753264427185,3,"Working in batches, cook chilies in the skillet, pressing down with a spatula, until lightly toasted and fragrant, about 5 seconds on each side; be careful not to let chilies burn.","Transfer to a large bowl and cover chilies with hot water, setting a small plate on top to keep them submerged."
+0.0,0.0,0.009278961457312107,3,skillet,chilies
+1.0,1.0,0.9730389714241028,3,"Transfer to a large bowl and cover chilies with hot water, setting a small plate on top to keep them submerged.","Transfer to a large bowl and cover chilies with hot water, setting a small plate on top to keep them submerged."
+1.0,1.0,0.9572361707687378,3,30 minutes,30 minutes
+0.0,0.0,0.008840441703796387,3,an 8 1/2- by 4 1/2-inch loaf pan,parchment paper
+0.0,0.0,0.10829220712184906,3,pan,stand mixer
+0.0,0.8999999761581421,0.9570549726486206,3,Coat bottom and sides; carefully tap out excess flour.,to lightly coat bottom and sides; carefully tap out excess flour.
+1.0,1.0,0.9621517062187195,3,flour,flour
+0.0,0.6666666865348816,0.6086221933364868,3,190°c,375°F (190°C)
+0.0,0.0,0.1656365990638733,3,flour and baking powder,butter
+0.0,0.0,0.010458273813128471,3,bowl,butter
+0.0,0.800000011920929,0.850117564201355,3,"whisk flour and baking powder until well combined, at least 30 seconds","In a small bowl, whisk flour and baking powder until well combined, at least 30 seconds; set bowl aside."
+0.0,0.0,0.08384524285793304,3,"small bowl, whisk",eggs
+1.0,1.0,0.9703265428543091,3,"medium bowl, whisk","medium bowl, whisk"
+1.0,1.0,0.9724206328392029,3,whisk miso and butter until miso is broken up,whisk miso and butter until miso is broken up
+0.0,0.0,0.01844387874007225,3,miso and butter,flour
+1.0,1.0,0.964153528213501,3,about 30 seconds,about 30 seconds
+0.0,0.4000000059604645,0.40163442492485046,3,set aside.,Whisk in remaining milk until smooth; set aside.
+1.0,1.0,0.959672749042511,3,bowl,bowl
+0.0,0.11764705926179886,0.30393028259277344,3,"(Alternatively, beat eggs and sugar in a large mixing bowl using an electric handheld mixer or a whisk, about 90 seconds for the electric mixer and 2 minutes for the whisk.)",Whisk in remaining milk until smooth; set aside.
+0.0,0.4000000059604645,0.5367230176925659,3,electric handheld mixer,stand mixer
+0.0,0.75,0.7741520404815674,3,electric handheld mixer or a whisk,electric handheld mixer
+1.0,1.0,0.9621517062187195,3,flour,flour
+0.0,0.0,0.009495072066783905,3,until no lumps remain.,at least 30 seconds
+0.0,0.0,0.1596023589372635,3,mixture,flour
+1.0,1.0,0.9675307869911194,3,large rubber spatula,large rubber spatula
+1.0,1.0,0.9646843075752258,3,apples,apples
+1.0,1.0,0.9691181182861328,3,wooden spoon,wooden spoon
+0.0,0.6666666865348816,0.7478505373001099,3,stir apples into batter until evenly coated.,"Using a large rubber spatula or wooden spoon, stir apples into batter until evenly coated."
+0.0,0.8799999952316284,0.8352725505828857,3,"Using a large rubber spatula or wooden spoon, stir apples into batter.","Using a large rubber spatula or wooden spoon, stir apples into batter until evenly coated."
+0.0,0.0,0.8591627478599548,3,apples,apple
+1.0,1.0,0.9571455121040344,3,pan,pan
+0.0,0.125,0.4544445276260376,3,"Reserve some of the largest, nicest apple slices for the top layer; you'll need roughly 40 to 50 slices for it. Continue arranging apples in even layers until apples are 1/2 inch from top; press apples down to evenly distribute.",flat sides of the apples are flush with the edges of pan
+0.0,0.21052631735801697,0.6588513851165771,3,"Arrange final layer of apples in horizontal, shingled pattern.","Using clean hands, arrange apple slices in prepared loaf pan in an overlapping pattern, making sure that flat sides of the apples are flush with the edges of pan (as you work, reserve some of the largest, nicest apple slices for the top layer; you'll need roughly 40 to 50 slices for it)."
+1.0,1.0,0.9571455121040344,3,pan,pan
+0.0,0.7179487347602844,0.781724750995636,3,"Scrape remaining batter into pan, making sure to leave 1/4 inch space from top.","Scrape remaining batter into pan, making sure to leave 1/4 inch space from top; gently tap pan to knock out air pockets and distribute batter."
+0.0,0.6111111044883728,0.750345766544342,3,Gently tap pan to knock out air pockets and distribute batter.,"Scrape remaining batter into pan, making sure to leave 1/4 inch space from top; gently tap pan to knock out air pockets and distribute batter."
+0.0,0.20408163964748383,0.5624762177467346,3,Set loaf pan on middle rack of oven and slide a rimmed baking sheet on the rack underneath to catch any drips.,"Grease an 8 1/2- by 4 1/2-inch loaf pan and line with a 8- by 13-inch sheet of parchment paper so that parchment hangs over the long sides of the pan, forming a sling."
+0.0,0.2857142984867096,0.26362472772598267,3,for 10 minutes,65 to 75 minutes
+0.0,0.0,0.22264137864112854,3,140°f,375°F (190°C)
+0.0,0.0,0.010590965859591961,3,water,flour
+0.0,0.808080792427063,0.7987320423126221,3,"In a 3-quart stainless steel saucier, combine water and sugar over medium heat. Stir with a fork until syrup comes to a boil, about 4 minutes, then simmer without stirring until syrup is honey-colored, roughly 5 minutes, shaking and swirling as needed to ensure even caramelization. Continue cooking until syrup is light to medium amber, about 1 minute longer.","Meanwhile, for the Caramel: In a 3-quart stainless steel saucier, combine water and sugar over medium heat. Stir with a fork until syrup comes to a boil, about 4 minutes, then simmer without stirring until syrup is honey-colored, roughly 5 minutes, shaking and swirling as needed to"
+1.0,1.0,0.9699606895446777,3,Shaking and swirling as needed to ensure even caramelization.,shaking and swirling as needed to ensure even caramelization.
+0.0,0.7450980544090271,0.7652084827423096,3,"Simmer without stirring until syrup is honey-colored, roughly 5 minutes, shaking and swirling as needed to ensure even caramelization. Continue cooking until syrup is light to medium amber, about 1 minute longer.","simmer without stirring until syrup is honey-colored, roughly 5 minutes, shaking and swirling as needed to ensure even caramelization."
+0.0,0.800000011920929,0.891819417476654,3,5 minutes,roughly 5 minutes
+0.0,0.3333333432674408,0.35437634587287903,3,about 1 minute,about 4 minutes
+0.0,0.0,0.14067335426807404,3,Immediately add cream,"In a small bowl, whisk flour and baking powder until well combined, at least 30 seconds; set bowl aside."
+0.0,0.4000000059604645,0.7822078466415405,3,reduce heat to medium-low,medium-low
+1.0,1.0,0.9611021280288696,3,cream,cream
+0.0,0.0,0.02351546846330166,3,225°f,medium-low
+0.0,0.0,0.01374082826077938,3,heat-resistant spatula,fork
+0.0,0.0,0.36063089966773987,3,107°c,medium heat
+1.0,1.0,0.9713054895401001,3,whisk in miso until smooth and combined.,whisk in miso until smooth and combined.
+0.0,0.2222222238779068,0.446577787399292,3,"heat, whisk",whisk in miso until smooth and combined.
+1.0,1.0,0.961075484752655,3,miso,miso
+1.0,1.0,0.9713054895401001,3,whisk in miso until smooth and combined.,whisk in miso until smooth and combined.
+0.0,0.0,0.06700969487428665,3,whisk,stand mixer
+1.0,1.0,0.9700005054473877,3,Transfer sauce to a heat-safe container.,Transfer sauce to a heat-safe container.
+0.0,0.0,0.00963560864329338,3,a serrated knife,heat-safe container
+0.0,0.27272728085517883,0.5873584151268005,3,"Pat the chicken dry with paper towels. Using a sharp knife, score the top side of the chicken thighs 2 or 3 times, then prick all over with a fork. Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.",Pat the chicken dry with paper towels.
+1.0,1.0,0.9570215940475464,3,fork,fork
+1.0,1.0,0.9649337530136108,3,sharp knife,sharp knife
+0.0,0.8695651888847351,0.6065181493759155,3,"Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.","baking dish, ziptop bag, or a food-safe storage container with a lid."
+0.0,0.0,0.1494966447353363,3,Pulse until very smooth.,"In a blender, combine yogurt, scallions, mint, peppercorns, garlic, ginger, chile, turmeric, and salt."
+1.0,1.0,0.969417154788971,3,yogurt,yogurt
+0.0,0.6315789222717285,0.7132230997085571,3,"Pour the yogurt mixture all over the chicken, then gently toss to coat well. Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.","Pour the yogurt mixture all over the chicken, then gently toss to coat well."
+0.0,0.0,0.026740767061710358,3,"Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.",Pat the chicken dry with paper towels.
+1.0,1.0,0.9688491821289062,3,"Heat a small dry skillet over medium heat. Add the coriander seeds to the hot skillet and toast until the seeds become fragrant and start to darken slightly, about 1 minute. Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.","Heat a small dry skillet over medium heat. Add the coriander seeds to the hot skillet and toast until the seeds become fragrant and start to darken slightly, about 1 minute. Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder."
+1.0,1.0,0.9713832139968872,3,small dry skillet,small dry skillet
+0.0,0.0,0.009212416596710682,3,nectarines,coriander seeds
+0.0,0.375,0.49135851860046387,3,"Toast until the seeds become fragrant and start to darken slightly, about 1 minute.",about 1 minute
+1.0,1.0,0.9727809429168701,3,Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.,Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.
+1.0,1.0,0.9661808013916016,3,coriander,coriander
+0.0,0.0,0.011953841894865036,3,salt,garlic
+1.0,1.0,0.9645510911941528,3,vinegar,vinegar
+1.0,1.0,0.9711441397666931,3,Stir in the chile flakes and coriander powder.,Stir in the chile flakes and coriander powder.
+0.0,0.1587301641702652,0.3136976659297943,3,Cut the nectarines in half and remove and discard the stone. Cut the nectarines into thin segments and add them to the vinegar mixture along with the thyme.,"Heat a small dry skillet over medium heat. Add the coriander seeds to the hot skillet and toast until the seeds become fragrant and start to darken slightly, about 1 minute. Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder."
+0.0,0.0,0.010416804812848568,3,thyme,mint
+0.0,0.0,0.010690025053918362,3,vinegar,yogurt
+0.0,0.37037035822868347,0.6766214370727539,3,Stir to coat the fruit well. Cover with a lid and refrigerate for at least 30 minutes and up to 1 day before serving.,Stir to coat the fruit well.
+0.0,0.0,0.29069751501083374,3,30 minutes,at least 2 hours
+0.0,0.0,0.013219623826444149,3,oven,350°F
+1.0,1.0,0.9718637466430664,3,Position oven racks in both the bottom-middle and top-middle positions.,position oven racks in both the bottom-middle and top-middle positions
+0.0,0.0,0.3894634544849396,3,"Spread the marinated thighs over the prepared baking sheets, 4 pieces per sheet. Bake the chicken, switching the positions of the two sheets halfway through cooking, until an instant-read thermometer registers 165°F (74°C) in the thickest part of the thighs and the edges are slightly browned, about 30 minutes.",350°F (175°C)
+1.0,1.0,0.9640272259712219,3,about 30 minutes,about 30 minutes
+1.0,1.0,0.9679058790206909,3,heavy 12-inch cast iron skillet,heavy 12-inch cast iron skillet
+0.0,0.0,0.11018503457307816,3,skillet,large bowl
+0.0,0.2083333283662796,0.44895753264427185,3,"Working in batches, cook chilies in the skillet, pressing down with a spatula, until lightly toasted and fragrant, about 5 seconds on each side; be careful not to let chilies burn.","Transfer to a large bowl and cover chilies with hot water, setting a small plate on top to keep them submerged."
+1.0,1.0,0.9730389714241028,3,"Transfer to a large bowl and cover chilies with hot water, setting a small plate on top to keep them submerged.","Transfer to a large bowl and cover chilies with hot water, setting a small plate on top to keep them submerged."
+1.0,1.0,0.9572361707687378,3,30 minutes,30 minutes
+1.0,1.0,0.9653299450874329,3,about 5 minutes,about 5 minutes
+0.0,0.1538461595773697,0.6047002077102661,3,"cook over medium heat, stirring often, until well browned, about 5 minutes",cook
+1.0,1.0,0.9672372937202454,3,slotted spoon,slotted spoon
+0.0,0.6666666865348816,0.1807541400194168,3,stock,chicken stock
+0.0,0.0,0.022180980071425438,3,onions,medium bowl
+0.0,0.5714285969734192,0.6446757912635803,3,2 minutes,about 1 to 2 minutes
+0.0,0.75,0.6829271912574768,3,"If the mixture won’t blend, add another 1/2 cup of stock.",add another 1/2 cup of stock.
+0.0,0.0,0.03247082233428955,3,strainer,large bowl
+0.0,0.8095238208770752,0.7873644828796387,3,press chili mixture through a mesh strainer set over a large bow until only chili skins remain in strainer.,"Using a wooden spoon or rubber spatula, press chili mixture through a mesh strainer set over a large bow until only chili skins remain in strainer. Discard skins."
+1.0,1.0,0.9691181182861328,3,wooden spoon,wooden spoon
+1.0,1.0,0.9674819111824036,3,Discard skins.,Discard skins.
+0.0,0.0,0.009401542134582996,3,flour,ground beef
+0.0,0.6399999856948853,0.6583548188209534,3,Add flour and stir immediately with a wire whisk. Continue to stir until roux turns light golden brown.,Add flour and stir immediately with a wire whisk.
+0.0,0.0,0.009351342916488647,3,beef,flour
+0.0,0.75,0.7489608526229858,3,"Cook, stirring occasionally, until sauce is dark red and thick like a gravy, about 30 minutes.","Cook, stirring occasionally, until sauce is dark red and thick like a gravy, about 30 minutes. If too thick, add a little water to thin it out."
+0.0,0.6666666865348816,0.7511056065559387,3,little water,water
+0.0,0.8235294222831726,0.7730165123939514,3,"If too thick, add a little water to thin it out.",add a little water to thin it out.
+0.0,0.6666666865348816,0.9312508702278137,3,to 375°f,375°F
+0.0,0.1818181872367859,0.5176244974136353,3,heat,heat oil in cast-iron skillet over medium heat until shimmering.
+0.0,0.04878048598766327,0.22996027767658234,3,"carefully slide tortillas into oil and cook, turning once, until just starting to look leathery, about 5 to 10 seconds per side","Arrange 1/4 cup of cheese and 1 tablespoon chopped onions in a line along center of tortilla, then roll up."
+0.0,0.20253165066242218,0.5903363227844238,3,"Working 1 tortilla at a time, carefully slide tortillas into oil and cook, turning once, until just starting to look leathery, about 5 to 10 seconds per side; avoid frying too long, as overly crisp tortillas will crack when folded.","Working 1 tortilla at a time, dip fried tortilla into sauce, then transfer to a plate. Arrange 1/4 cup of cheese and 1 tablespoon chopped onions in a line along center of tortilla, then roll up. Set rolled tortilla, seam-side down, in a 9-by-"
+0.0,0.47058823704719543,0.6826947331428528,3,"Avoid frying too long, as overly crisp tortillas will crack when folded.","Working 1 tortilla at a time, carefully slide tortillas into oil and cook, turning once, until just starting to look leathery, about 5 to 10 seconds per side; avoid frying too long, as overly crisp tortillas will crack when folded."
+0.0,0.0,0.01865782029926777,3,"dip fried tortilla into sauce, then transfer to a plate",heat oil in cast-iron skillet over medium heat until shimmering.
+0.0,0.0,0.009792361408472061,3,onions,cheese
+0.0,0.9142857193946838,0.7967232465744019,3,Arrange 1/4 cup of cheese and 1 tablespoon chopped onions in a line along center of tortilla,"Arrange 1/4 cup of cheese and 1 tablespoon chopped onions in a line along center of tortilla, then roll up."
+0.0,0.0,0.05991434305906296,3,pan,"Arrange 1/4 cup of cheese and 1 tablespoon chopped onions in a line along center of tortilla, then roll up."
+0.0,0.692307710647583,0.7240751385688782,3,"Set rolled tortilla, seam-side down, in a 9-by-11-inch baking pan","Set rolled tortilla, seam-side down, in a 9-by-11-inch baking pan and repeat with remaining tortillas, cheese, and onion."
+0.0,0.1599999964237213,0.2811688780784607,3,Follow it by spooning remaining cheese and onion.,"Transfer to the oven, and bake until cheese melts and just starts to bubble, 10 to 15 minutes."
+1.0,1.0,0.9669135212898254,3,remaining cheese and onion,remaining cheese and onion
+0.0,0.1111111119389534,0.49028947949409485,3,"transfer to the oven, and bake until cheese melts and just starts to bubble, 10 to 15 minutes.",bake
+1.0,1.0,0.9632601737976074,3,10 to 15 minutes,10 to 15 minutes
+1.0,1.0,0.9584270715713501,3,Serve immediately.,Serve immediately.
+1.0,1.0,0.9692448973655701,3,"Bring water, butter, and salt to a boil in a medium saucepan over high heat.","Bring water, butter, and salt to a boil in a medium saucepan over high heat."
+1.0,1.0,0.9650607109069824,3,high heat,high heat
+1.0,1.0,0.9561713337898254,3,pot,pot
+0.0,0.8965517282485962,0.8213003873825073,3,Continue cooking until dough pulls away from sides of pot leaving a thin layer and steams slightly.,dough pulls away from sides of pot leaving a thin layer and steams slightly.
+1.0,1.0,0.9652275443077087,3,small bowl,small bowl
+0.0,0.6666666865348816,0.6482676267623901,3,vinegar,rice vinegar
+1.0,1.0,0.9721817374229431,3,"Combine soy sauce, rice vinegar, and sesame oil in a small bowl and stir briefly to combine.","Combine soy sauce, rice vinegar, and sesame oil in a small bowl and stir briefly to combine."
+0.0,0.6666666865348816,0.6280614733695984,3,in a small bowl and stir briefly to combine.,"Combine soy sauce, rice vinegar, and sesame oil in a small bowl and stir briefly to combine."
+1.0,1.0,0.9553631544113159,3,rice,rice
+0.0,0.0,0.3296906650066376,3,"all-purpose flour, whole wheat flour (or other flour)",rice
+0.0,0.5,0.593473494052887,3,"large bowl, whisk",bowl
+0.0,0.0,0.08166409283876419,3,Set aside.,"In a separate medium bowl, whisk together egg, doubanjiang (or other fermented bean paste), garlic, and water until mixture is homogeneous, about 1 minute."
+0.0,0.0,0.015206456184387207,3,until mixture is homogeneous,batter
+0.0,0.3076923191547394,0.6578855514526367,3,the consistency should be similar to pancake batter; it should flow easily off the whisk and puddle briefly on top of the batter in the bowl.,similar to pancake batter
+0.0,0.25,0.7101187705993652,3,"whisk together just until a smooth, loose batter forms; taking care not to over-mix the batter.",whisk together
+0.0,0.0,0.009353049099445343,3,cabbage,salt
+1.0,1.0,0.967220664024353,3,flexible spatula,flexible spatula
+0.0,0.5714285969734192,0.6271422505378723,3,"Using a flexible spatula, fold in the vegetables gently until they are evenly incorporated.","Add salted cabbage (or kimchi), grated carrot, and sliced scallions to batter and, using flexible spatula, fold in vegetables gently until evenly incorporated."
+0.0,0.20000000298023224,0.4397050738334656,3,"salted cabbage (or kimchi), grated carrot, and sliced scallions",cabbage
+0.0,0.6060606241226196,0.6322520971298218,3,"Using flexible spatula, fold in vegetables gently until evenly incorporated.","Add salted cabbage (or kimchi), grated carrot, and sliced scallions to batter and, using flexible spatula, fold in vegetables gently until evenly incorporated."
+0.0,0.0,0.04282765835523605,3,medium-high heat,season with salt.
+1.0,1.0,0.9700694680213928,3,stainless steel,stainless steel
+1.0,1.0,0.9555256962776184,3,cup,cup
+0.0,0.774193525314331,0.682249903678894,3,"For thinner, crispier pancakes, press down on batter to flatten them out.","For thinner, crispier pancakes, press down on batter to flatten them out; for thicker, fluffier pancakes, leave batter undisturbed."
+0.0,0.27272728085517883,0.5873584151268005,3,"Pat the chicken dry with paper towels. Using a sharp knife, score the top side of the chicken thighs 2 or 3 times, then prick all over with a fork. Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.",Pat the chicken dry with paper towels.
+0.0,0.0,0.60856032371521,3,8 boneless skinless chicken thighs (1 3/4 pounds; 800g),800 g
+0.0,0.8695651888847351,0.6065181493759155,3,"Place the chicken in a baking dish, ziptop bag, or a food-safe storage container with a lid.","baking dish, ziptop bag, or a food-safe storage container with a lid."
+0.0,0.0,0.19784465432167053,3,yes,no
+1.0,1.0,0.9674129486083984,3,1 1/2 teaspoons,1 1/2 teaspoons
+0.0,0.0,0.1494966447353363,3,Pulse until very smooth.,"In a blender, combine yogurt, scallions, mint, peppercorns, garlic, ginger, chile, turmeric, and salt."
+0.0,0.6315789222717285,0.7132230997085571,3,"Pour the yogurt mixture all over the chicken, then gently toss to coat well. Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.","Pour the yogurt mixture all over the chicken, then gently toss to coat well."
+0.0,0.5,0.8086348176002502,3,plain unsweetened yogurt,yogurt
+0.0,0.0,0.026740767061710358,3,"Cover the container or seal the bag and refrigerate for at least 2 hours, preferably overnight.",Pat the chicken dry with paper towels.
+0.0,0.375,0.49135851860046387,3,"Toast until the seeds become fragrant and start to darken slightly, about 1 minute.",about 1 minute
+1.0,1.0,0.966880738735199,3,2 teaspoons,2 teaspoons
+1.0,1.0,0.9727809429168701,3,Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.,Transfer toasted coriander seeds to a mortar and pestle and crush to a coarse powder.
+0.0,0.4000000059604645,0.5622174739837646,3,apple cider vinegar,white vinegar
+0.0,0.4000000059604645,0.5939032435417175,3,1 teaspoon,1 1/2 teaspoons
+0.0,0.800000011920929,0.7518466114997864,3,2 tablespoons (30ml),2 tablespoons
+0.0,0.9333333373069763,0.9323968887329102,3,"Yes, stir in the chile flakes and coriander powder.",Stir in the chile flakes and coriander powder.
+0.0,0.6440678238868713,0.6905336380004883,3,"Using a slotted spoon, remove mushrooms from soaking liquid and squeeze out excess moisture back into the bowl or measuring cup. Reserve rehydrated mushrooms and 1/4 cup (60ml) soaking liquid, making sure to dispose of any grit that has settled at the bottom.","Using a slotted spoon, remove mushrooms from soaking liquid and squeeze out excess moisture back into the bowl or measuring cup."
+0.0,0.0,0.6519380211830139,3,1 1/2 ounces (40g),40 g
+0.0,0.6666666865348816,0.9136534929275513,3,4 medium cloves,4 medium garlic
+0.0,0.0,0.6519380211830139,3,1 1/2 ounces (40g),40 g
+0.0,0.25,0.5296636819839478,3,"Add mushrooms and cook, stirring, until lightly sautéed and fragrant, about 1 minute.","soak mushrooms in boiling water until fully softened, about 20 minutes."
+1.0,1.0,0.9711052179336548,3,lightly sautéed and fragrant,lightly sautéed and fragrant
+0.0,0.0,0.17160409688949585,3,no,yes
+1.0,1.0,0.1798468977212906,3,hard,hard
+0.0,0.27272728085517883,0.5411497950553894,3,"In a pot of salted, boiling water, cook spaghetti, stirring frequently, until just shy of al dente, about 1 minute less than package recommends.","cook, stirring, until pasta is al dente and sauce has thickened, so it coats noodles and isn't watery, about 3 minutes."
+0.0,0.6666666865348816,0.5057754516601562,3,1 cup (235ml),1 cup water
+0.0,0.3333333432674408,0.5060315728187561,3,flake tuna into pasta sauce.,flake
+0.0,0.07692307978868484,0.3830615282058716,3,"While spaghetti is cooking, flake tuna into pasta sauce.","Cook spaghetti, stirring frequently, until just shy of al dente, about 1 minute less than package recommends."
+0.0,0.2142857164144516,0.23775643110275269,3,"Using tongs, transfer spaghetti directly into simmering sauce along with 1/4 cup (60ml) pasta cooking water, stirring to combine.",Transfer to warmed plates and sprinkle with minced parsley.
+0.0,0.2380952388048172,0.5763216018676758,3,"Cook, stirring, until pasta is al dente and sauce has thickened, so it coats noodles and isn't watery, about 3 minutes.","add more olive oil or pasta water, 1 tablespoon at a time, stirring well between additions, until desired sauce consistency is reached."
+0.0,0.8717948794364929,0.8324536681175232,3,"cook, stirring, until pasta is al dente and sauce has thickened, so it coats noodles and isn't watery","Cooking, stirring, until pasta is al dente and sauce has thickened, so it coats noodles and isn't watery, about 3 minutes."
+0.0,0.800000011920929,0.7288548946380615,3,"If sauce is too thick, add more olive oil or pasta water, 1 tablespoon at a time, stirring well between additions, until desired sauce consistency is reached.","add more olive oil or pasta water, 1 tablespoon at a time, stirring well between additions, until desired sauce consistency is reached. Taste for seasoning, adding more salt if necessary."
+0.0,0.0,0.19784465432167053,3,yes,no

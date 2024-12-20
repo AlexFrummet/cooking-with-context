@@ -1,0 +1,526 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+1.0,1.0,0.9730314016342163,1,"0) In a small bowl, whisk first six ingredients until smooth; chill.","0) In a small bowl, whisk first six ingredients until smooth; chill."
+0.0,0.1428571492433548,0.31413114070892334,1,"0) In a small bowl, whisk first six ingredients until smooth; chill.","1) Just before serving, combine chicken, raisins, almonds and parsley in a large bowl; add dressing and toss."
+1.0,1.0,0.973414421081543,1,"1) Just before serving, combine chicken, raisins, almonds and parsley in a large bowl; add dressing and toss.","1) Just before serving, combine chicken, raisins, almonds and parsley in a large bowl; add dressing and toss."
+1.0,1.0,0.973414421081543,1,"1) Just before serving, combine chicken, raisins, almonds and parsley in a large bowl; add dressing and toss.","1) Just before serving, combine chicken, raisins, almonds and parsley in a large bowl; add dressing and toss."
+1.0,1.0,0.9703712463378906,1,0) Cut chicken breasts into 1 inch strips.,0) Cut chicken breasts into 1 inch strips.
+1.0,1.0,0.9744318723678589,1,"1) Place in a medium bowl with desired marinade, and marinate in the refrigerator for at least 30 minutes.","1) Place in a medium bowl with desired marinade, and marinate in the refrigerator for at least 30 minutes."
+1.0,1.0,0.9744318723678589,1,"1) Place in a medium bowl with desired marinade, and marinate in the refrigerator for at least 30 minutes.","1) Place in a medium bowl with desired marinade, and marinate in the refrigerator for at least 30 minutes."
+1.0,1.0,0.967926561832428,1,2) Preheat oven to 350 degrees F (175 degrees C).,2) Preheat oven to 350 degrees F (175 degrees C).
+1.0,1.0,0.9707363247871399,1,3) Heat oil in a large skillet over medium heat.,3) Heat oil in a large skillet over medium heat.
+1.0,1.0,0.9709390997886658,1,4) Saute chicken and onions until chicken is evenly brown.,4) Saute chicken and onions until chicken is evenly brown.
+0.0,0.07692307978868484,0.10649219900369644,1,"5) Stir in diced tomatoes with green chile peppers, stewed tomatoes, chile peppers, soup and broth.",4) Saute chicken and onions until chicken is evenly brown.
+0.0,0.1818181872367859,0.3621230125427246,1,"5) Stir in diced tomatoes with green chile peppers, stewed tomatoes, chile peppers, soup and broth.","1) Place in a medium bowl with desired marinade, and marinate in the refrigerator for at least 30 minutes."
+0.0,0.0,0.2927356958389282,1,"5) Stir in diced tomatoes with green chile peppers, stewed tomatoes, chile peppers, soup and broth.",12) Pour remaining 2 cups of skillet mixture into a 9x13 inch baking dish.
+0.0,0.0714285746216774,0.2533324062824249,1,6) Bring mixture to a boil.,"7) Reduce heat, cover skillet, and simmer for 20 to 30 minutes, or until chicken is no longer pink and juices run clear."
+0.0,0.0714285746216774,0.2533324062824249,1,6) Bring mixture to a boil.,"7) Reduce heat, cover skillet, and simmer for 20 to 30 minutes, or until chicken is no longer pink and juices run clear."
+1.0,1.0,0.9724032878875732,1,"8) Remove chicken from skillet, and shred when cool enough to handle.","8) Remove chicken from skillet, and shred when cool enough to handle."
+0.0,0.21621622145175934,0.45393410325050354,1,"10) In a medium bowl, combine shredded chicken and about 1/4 cup skillet mixture (just enough to make a paste like mixture).","1) Place in a medium bowl with desired marinade, and marinate in the refrigerator for at least 30 minutes."
+1.0,1.0,0.96982342004776,1,11) Mix together with half the chopped green onions.,11) Mix together with half the chopped green onions.
+0.0,0.0,0.26074063777923584,1,12) Pour remaining 2 cups of skillet mixture into a 9x13 inch baking dish.,11) Mix together with half the chopped green onions.
+0.0,0.06666667014360428,0.1995197981595993,1,"13) In a second skillet, heat cream over low heat, being careful not to boil.","19) Bake uncovered in preheated oven for 25 minutes, or until cheese is melted and bubbling."
+1.0,1.0,0.9712013602256775,1,14) Dip tortillas in the warm cream to soften and coat.,14) Dip tortillas in the warm cream to soften and coat.
+0.0,0.1111111119389534,0.3166769742965698,1,15) Spoon about 1/3 cup chicken mixture onto each tortilla.,0) Cut chicken breasts into 1 inch strips.
+0.0,0.0,0.02148028463125229,1,"16) Top chicken mixture with half the shredded cheese, and roll up tortillas.",3) Heat oil in a large skillet over medium heat.
+0.0,0.12903225421905518,0.16384731233119965,1,"17) Place rolled tortillas in baking dish, seam side down, and drizzle with enchilada sauce.","19) Bake uncovered in preheated oven for 25 minutes, or until cheese is melted and bubbling."
+1.0,1.0,0.9704618453979492,1,"18) Cover with remaining shredded cheese, and sprinkle remaining chopped green onion over cheese.","18) Cover with remaining shredded cheese, and sprinkle remaining chopped green onion over cheese."
+0.0,0.13333334028720856,0.4189101457595825,1,"19) Bake uncovered in preheated oven for 25 minutes, or until cheese is melted and bubbling.","18) Cover with remaining shredded cheese, and sprinkle remaining chopped green onion over cheese."
+1.0,1.0,0.9713107943534851,1,"19) Bake uncovered in preheated oven for 25 minutes, or until cheese is melted and bubbling.","19) Bake uncovered in preheated oven for 25 minutes, or until cheese is melted and bubbling."
+0.0,0.1111111119389534,0.2600514888763428,1,0) Bring a large pot of water to a boil.,"7) Cover, and cook on low 8 to 9 hours."
+1.0,1.0,0.9719408750534058,1,1) Boil cabbage leaves 2 minutes; drain.,1) Boil cabbage leaves 2 minutes; drain.
+1.0,1.0,0.973605215549469,1,"2) In large bowl, combine 1 cup cooked rice, egg, milk, onion, ground beef, salt, and pepper.","2) In large bowl, combine 1 cup cooked rice, egg, milk, onion, ground beef, salt, and pepper."
+1.0,1.0,0.9737900495529175,1,"3) Place about 1/4 cup of meat mixture in center of each cabbage leaf, and roll up, tucking in ends.","3) Place about 1/4 cup of meat mixture in center of each cabbage leaf, and roll up, tucking in ends."
+0.0,0.1538461595773697,0.38698437809944153,1,4) Place rolls in slow cooker.,"3) Place about 1/4 cup of meat mixture in center of each cabbage leaf, and roll up, tucking in ends."
+0.0,0.07999999821186066,0.4823840260505676,1,6) Pour over cabbage rolls.,"3) Place about 1/4 cup of meat mixture in center of each cabbage leaf, and roll up, tucking in ends."
+1.0,1.0,0.9705576300621033,1,"7) Cover, and cook on low 8 to 9 hours.","7) Cover, and cook on low 8 to 9 hours."
+0.0,0.08695652335882187,0.092136450111866,1,0) Bring a large pot of lightly salted water to a boil.,"1) Cook pasta for 8 to 10 minutes, or until al dente; drain."
+0.0,0.07692307978868484,0.09724131226539612,1,"1) Cook pasta for 8 to 10 minutes, or until al dente; drain.","11) Mix together soup and beef broth until smooth, and pour over casserole."
+1.0,1.0,0.9734752774238586,1,"1) Cook pasta for 8 to 10 minutes, or until al dente; drain.","1) Cook pasta for 8 to 10 minutes, or until al dente; drain."
+1.0,1.0,0.9712887406349182,1,"2) In a large skillet, brown beef over medium heat.","2) In a large skillet, brown beef over medium heat."
+1.0,1.0,0.9723489284515381,1,"4) In the same skillet, cook onion and bell pepper in butter until tender.","4) In the same skillet, cook onion and bell pepper in butter until tender."
+1.0,1.0,0.9720227718353271,1,"5) Stir in tomatoes, mushrooms, olives, and  beef, and season with oregano.","5) Stir in tomatoes, mushrooms, olives, and  beef, and season with oregano."
+1.0,1.0,0.9655593633651733,1,6) Simmer for 10 minutes.,6) Simmer for 10 minutes.
+0.0,0.0,0.03475247323513031,1,8) Lightly grease a 9x13 inch baking dish.,12) Sprinkle with Parmesan cheese.
+0.0,0.09090909361839294,0.2713865339756012,1,"9) Arrange half of the cooked fettuccine in the prepared dish, top with half of the beef and vegetable mixture, and sprinkle with 1/2 cup of Cheddar cheese and 1/2 cup of mozzarella cheese.","4) In the same skillet, cook onion and bell pepper in butter until tender."
+0.0,0.0,0.42840996384620667,1,"9) Arrange half of the cooked fettuccine in the prepared dish, top with half of the beef and vegetable mixture, and sprinkle with 1/2 cup of Cheddar cheese and 1/2 cup of mozzarella cheese.",10) Repeat layers.
+1.0,1.0,0.964598536491394,1,10) Repeat layers.,10) Repeat layers.
+1.0,1.0,0.9723939299583435,1,"11) Mix together soup and beef broth until smooth, and pour over casserole.","11) Mix together soup and beef broth until smooth, and pour over casserole."
+1.0,1.0,0.9667754173278809,1,12) Sprinkle with Parmesan cheese.,12) Sprinkle with Parmesan cheese.
+1.0,1.0,0.9716038703918457,1,"13) Bake in preheated oven for 30 to 35 minutes, or until heated through.","13) Bake in preheated oven for 30 to 35 minutes, or until heated through."
+1.0,1.0,0.9716038703918457,1,"13) Bake in preheated oven for 30 to 35 minutes, or until heated through.","13) Bake in preheated oven for 30 to 35 minutes, or until heated through."
+1.0,1.0,0.9695303440093994,1,"0) In a bowl, combine the first seven ingredients.","0) In a bowl, combine the first seven ingredients."
+1.0,1.0,0.9695303440093994,1,"0) In a bowl, combine the first seven ingredients.","0) In a bowl, combine the first seven ingredients."
+0.0,0.0,0.3234146237373352,1,"0) In a bowl, combine the first seven ingredients.",1) Crumble turkey over mixture and mix just until combined.
+0.0,0.0,0.3234146237373352,1,"0) In a bowl, combine the first seven ingredients.",1) Crumble turkey over mixture and mix just until combined.
+1.0,1.0,0.9711615443229675,1,1) Crumble turkey over mixture and mix just until combined.,1) Crumble turkey over mixture and mix just until combined.
+0.0,0.0,0.16485393047332764,1,2) Shape into four patties.,1) Crumble turkey over mixture and mix just until combined.
+0.0,0.0,0.01602635718882084,1,2) Shape into four patties.,3) Cook in a nonstick skillet coated with nonstick cooking spray until no longer pink.
+1.0,1.0,0.9732933640480042,1,3) Cook in a nonstick skillet coated with nonstick cooking spray until no longer pink.,3) Cook in a nonstick skillet coated with nonstick cooking spray until no longer pink.
+1.0,1.0,0.9732933640480042,1,3) Cook in a nonstick skillet coated with nonstick cooking spray until no longer pink.,3) Cook in a nonstick skillet coated with nonstick cooking spray until no longer pink.
+1.0,1.0,0.9730518460273743,1,"0) In a small saucepan over medium heat, combine water, 2 1/2 tablespoons sugar, salt and 2 tablespoons vegetable oil.","0) In a small saucepan over medium heat, combine water, 2 1/2 tablespoons sugar, salt and 2 tablespoons vegetable oil."
+1.0,1.0,0.9730518460273743,1,"0) In a small saucepan over medium heat, combine water, 2 1/2 tablespoons sugar, salt and 2 tablespoons vegetable oil.","0) In a small saucepan over medium heat, combine water, 2 1/2 tablespoons sugar, salt and 2 tablespoons vegetable oil."
+1.0,1.0,0.9730518460273743,1,"0) In a small saucepan over medium heat, combine water, 2 1/2 tablespoons sugar, salt and 2 tablespoons vegetable oil.","0) In a small saucepan over medium heat, combine water, 2 1/2 tablespoons sugar, salt and 2 tablespoons vegetable oil."
+0.0,0.0,0.15391327440738678,1,2) Stir in flour until mixture forms a ball.,1) Bring to a boil and remove from heat.
+0.0,0.1599999964237213,0.3539954423904419,1,3) Heat oil for frying in deep-fryer or deep skillet to 375 degrees F (190 degrees C).,1) Bring to a boil and remove from heat.
+0.0,0.0714285746216774,0.4409264326095581,1,4) Pipe strips of dough into hot oil using a pastry bag.,3) Heat oil for frying in deep-fryer or deep skillet to 375 degrees F (190 degrees C).
+0.0,0.375,0.4287882447242737,1,6) Combine 1/2 cup sugar and cinnamon.,7) Roll drained churros in cinnamon and sugar mixture.
+1.0,1.0,0.9705772399902344,1,7) Roll drained churros in cinnamon and sugar mixture.,7) Roll drained churros in cinnamon and sugar mixture.
+1.0,1.0,0.9705772399902344,1,7) Roll drained churros in cinnamon and sugar mixture.,7) Roll drained churros in cinnamon and sugar mixture.
+0.0,0.0,0.021361639723181725,1,0) Preheat oven to 350 degrees F (176 degrees C),"4) In a 2 quart saucepan, combine 1/2 cup butter, brown sugar, corn syrup, and sweetened condensed milk."
+0.0,0.0,0.031704869121313095,1,"1) In a medium bowl, mix together 2/3 cup butter, 1/4 cup white sugar, and 1 1/4 cup flour until evenly crumbly.",0) Preheat oven to 350 degrees F (176 degrees C)
+1.0,1.0,0.9702620506286621,1,2) Press into 9 inch square baking pan.,2) Press into 9 inch square baking pan.
+1.0,1.0,0.967144250869751,1,3) Bake for 20 minutes.,3) Bake for 20 minutes.
+1.0,1.0,0.9727720022201538,1,"4) In a 2 quart saucepan, combine 1/2 cup butter, brown sugar, corn syrup, and sweetened condensed milk.","4) In a 2 quart saucepan, combine 1/2 cup butter, brown sugar, corn syrup, and sweetened condensed milk."
+0.0,0.0,0.23980604112148285,1,5) Bring to a boil.,3) Bake for 20 minutes.
+0.0,0.190476194024086,0.1841161549091339,1,7) Remove from heat and beat vigorously with a wooden spoon for about 3 minutes.,6) Continue to boil for 5 minutes.
+1.0,1.0,0.967789888381958,1,8) Pour over baked crust (warm or cool).,8) Pour over baked crust (warm or cool).
+0.0,0.0,0.1049308031797409,1,9) Cool until it begins to firm.,3) Bake for 20 minutes.
+0.0,0.0,0.23694348335266113,1,10) Melt chocolate and pour over caramel layer.,9) Cool until it begins to firm.
+0.0,0.0,0.043157730251550674,1,11) Cover the layer completely.,12) Chill.
+0.0,0.0,0.03282058238983154,1,13) Cut into squares (about 48 - small because it is rich).,10) Melt chocolate and pour over caramel layer.
+0.0,0.0,0.01121713686734438,1,13) Cut into squares (about 48 - small because it is rich).,12) Chill.
+1.0,1.0,0.9673622846603394,1,0) Preheat an oven to 300 degrees F (150 degrees C).,0) Preheat an oven to 300 degrees F (150 degrees C).
+1.0,1.0,0.9691497087478638,1,1) Grease cookie sheets.,1) Grease cookie sheets.
+1.0,1.0,0.967856764793396,1,3) Pour into medium sized bowl.,3) Pour into medium sized bowl.
+0.0,0.0,0.2523033916950226,1,"4) Stir in the egg white, sugar and vanilla.",3) Pour into medium sized bowl.
+0.0,0.1111111119389534,0.22183676064014435,1,"5) Combine the flour cocoa, and salt; mix into the butter mixture.","4) Stir in the egg white, sugar and vanilla."
+1.0,1.0,0.9630175232887268,1,6) Fold in chocolate.,6) Fold in chocolate.
+0.0,0.08695652335882187,0.009725361131131649,1,7) Drop by teaspoonfuls about 2 inches apart onto cookie sheets.,"2) In a small saucepan over medium heat, melt butter till lightly browned."
+1.0,1.0,0.9683564901351929,1,8) Bake for 12 to 15 minutes.,8) Bake for 12 to 15 minutes.
+0.0,0.1111111119389534,0.16213500499725342,1,8) Bake for 12 to 15 minutes.,9) Transfer to rack to cool and dust with confectioners' sugar.
+1.0,1.0,0.9717904329299927,1,9) Transfer to rack to cool and dust with confectioners' sugar.,9) Transfer to rack to cool and dust with confectioners' sugar.
+1.0,1.0,0.9717904329299927,1,9) Transfer to rack to cool and dust with confectioners' sugar.,9) Transfer to rack to cool and dust with confectioners' sugar.
+1.0,1.0,0.9726402759552002,1,"0) In a large resealable plastic bag, combine the first five ingredients.","0) In a large resealable plastic bag, combine the first five ingredients."
+1.0,1.0,0.9726402759552002,1,"0) In a large resealable plastic bag, combine the first five ingredients.","0) In a large resealable plastic bag, combine the first five ingredients."
+0.0,0.1111111119389534,0.2957916557788849,1,"0) In a large resealable plastic bag, combine the first five ingredients.","1) In a shallow bowl, beat the egg and milk."
+1.0,1.0,0.9726402759552002,1,"0) In a large resealable plastic bag, combine the first five ingredients.","0) In a large resealable plastic bag, combine the first five ingredients."
+1.0,1.0,0.9717307090759277,1,"1) In a shallow bowl, beat the egg and milk.","1) In a shallow bowl, beat the egg and milk."
+1.0,1.0,0.9717307090759277,1,"1) In a shallow bowl, beat the egg and milk.","1) In a shallow bowl, beat the egg and milk."
+1.0,1.0,0.9708050489425659,1,"2) Add chicken to bag, a few pieces at a time, and shake to coat.","2) Add chicken to bag, a few pieces at a time, and shake to coat."
+0.0,0.23076923191547394,0.23906251788139343,1,"2) Add chicken to bag, a few pieces at a time, and shake to coat.","3) Dip into egg mixture, then return to flour mixture and shake again."
+0.0,0.08695652335882187,0.08772808313369751,1,"3) Dip into egg mixture, then return to flour mixture and shake again.",4) Remove from bag and let stand for 5 minutes.
+0.0,0.13793103396892548,0.0095675028860569,1,"3) Dip into egg mixture, then return to flour mixture and shake again.","7) Reduce heat to medium and cook until a meat thermometer reads 180 deg, about 15 minutes."
+0.0,0.08695652335882187,0.08810219168663025,1,4) Remove from bag and let stand for 5 minutes.,"3) Dip into egg mixture, then return to flour mixture and shake again."
+1.0,1.0,0.9704536199569702,1,5) Heat oil in a large skillet.,5) Heat oil in a large skillet.
+1.0,1.0,0.9707715511322021,1,6) Fry chicken until golden brown on all sides.,6) Fry chicken until golden brown on all sides.
+1.0,1.0,0.9727535247802734,1,"7) Reduce heat to medium and cook until a meat thermometer reads 180 deg, about 15 minutes.","7) Reduce heat to medium and cook until a meat thermometer reads 180 deg, about 15 minutes."
+1.0,1.0,0.9727535247802734,1,"7) Reduce heat to medium and cook until a meat thermometer reads 180 deg, about 15 minutes.","7) Reduce heat to medium and cook until a meat thermometer reads 180 deg, about 15 minutes."
+0.0,0.11764705926179886,0.04563415050506592,1,0) Preheat oven to 350 degrees F (175 degrees C).,1) Prepare stuffing according to package directions.
+0.0,0.10000000149011612,0.11275938153266907,1,"2) Wash the chicken, pat dry and pound out to about a 1/2 inch thickness.",1) Prepare stuffing according to package directions.
+0.0,0.095238097012043,0.4877971112728119,1,"3) Place a slice of cheese on each breast, followed by a scoop of prepared stuffing.",1) Prepare stuffing according to package directions.
+0.0,0.0833333358168602,0.16620168089866638,1,4) Place stuffed breasts in a lightly greased 9x13 inch baking dish.,"2) Wash the chicken, pat dry and pound out to about a 1/2 inch thickness."
+1.0,1.0,0.9694252014160156,1,"5) Bake at 350 degrees F (175 degrees C) for 25 minutes, or until chicken juices run clear, then place a second slice of cheese over each stuffed chicken, and bake for 2 more minutes, or until cheese is bubbly.","5) Bake at 350 degrees F (175 degrees C) for 25 minutes, or until chicken juices run clear, then place a second slice of cheese over each stuffed chicken, and bake for 2 more minutes, or until cheese is bubbly."
+1.0,1.0,0.9694252014160156,1,"5) Bake at 350 degrees F (175 degrees C) for 25 minutes, or until chicken juices run clear, then place a second slice of cheese over each stuffed chicken, and bake for 2 more minutes, or until cheese is bubbly.","5) Bake at 350 degrees F (175 degrees C) for 25 minutes, or until chicken juices run clear, then place a second slice of cheese over each stuffed chicken, and bake for 2 more minutes, or until cheese is bubbly."
+1.0,1.0,0.9679945707321167,1,0) Preheat the oven to 325 degrees F (165 degrees C).,0) Preheat the oven to 325 degrees F (165 degrees C).
+1.0,1.0,0.9679945707321167,1,0) Preheat the oven to 325 degrees F (165 degrees C).,0) Preheat the oven to 325 degrees F (165 degrees C).
+0.0,0.10000000149011612,0.10516843944787979,1,"2) In a large bowl, beat eggs and sugar until thick and pale.",1) Grease and flour a 9x13 inch baking pan.
+0.0,0.13333334028720856,0.10155218094587326,1,"3) Sift together the flour, baking powder, salt, cloves, cinnamon and allspice; blend into the egg mixture along with the vanilla.","7) When cool, cut into squares and roll the squares in confectioners' sugar."
+0.0,0.06666667014360428,0.37505441904067993,1,"3) Sift together the flour, baking powder, salt, cloves, cinnamon and allspice; blend into the egg mixture along with the vanilla.","2) In a large bowl, beat eggs and sugar until thick and pale."
+0.0,0.20000000298023224,0.03441717103123665,1,4) Finally fold in the chopped figs and walnuts.,"7) When cool, cut into squares and roll the squares in confectioners' sugar."
+0.0,0.23529411852359772,0.461986780166626,1,1) Grease and flour a 9x13 inch baking pan.,5) Pour the batter into the prepared pan and spread evenly.
+1.0,1.0,0.9700433611869812,1,"6) Bake for 20 to 25 minutes in the preheated oven, until lightly toasted.","6) Bake for 20 to 25 minutes in the preheated oven, until lightly toasted."
+1.0,1.0,0.972410261631012,1,"7) When cool, cut into squares and roll the squares in confectioners' sugar.","7) When cool, cut into squares and roll the squares in confectioners' sugar."
+1.0,1.0,0.972410261631012,1,"7) When cool, cut into squares and roll the squares in confectioners' sugar.","7) When cool, cut into squares and roll the squares in confectioners' sugar."
+1.0,1.0,0.972410261631012,1,"7) When cool, cut into squares and roll the squares in confectioners' sugar.","7) When cool, cut into squares and roll the squares in confectioners' sugar."
+0.0,0.11764705926179886,0.009751171804964542,1,"0) To Make Glaze: In a medium bowl combine the ketchup, pineapple juice, molasses, rum, mustard and garlic.","9) Put chicken under broiler and lightly brown on both sides, about 2 to 3 minutes each side."
+1.0,1.0,0.9705825448036194,1,1) Season with salt and pepper to taste and mix well.,1) Season with salt and pepper to taste and mix well.
+0.0,0.1111111119389534,0.31821757555007935,1,"2) Place chicken pieces in a lightly oiled 9x13 inch baking dish; brush both sides with prepared glaze, using about 1/2 of the glaze.",3) Cover dish and refrigerate to marinate for at least 2 hours or overnight.
+0.0,0.06060606241226196,0.11812803149223328,1,"2) Place chicken pieces in a lightly oiled 9x13 inch baking dish; brush both sides with prepared glaze, using about 1/2 of the glaze.",1) Season with salt and pepper to taste and mix well.
+1.0,1.0,0.9716933369636536,1,3) Cover dish and refrigerate to marinate for at least 2 hours or overnight.,3) Cover dish and refrigerate to marinate for at least 2 hours or overnight.
+0.0,0.0,0.13067792356014252,1,5) Preheat oven to 375  degrees F (190 degrees C).,"4) Also, refrigerate remaining glaze."
+1.0,1.0,0.9737805128097534,1,6) Lightly brush chicken pieces on one side with some of the reserved glaze and bake uncovered in preheated oven for about 25 minutes.,6) Lightly brush chicken pieces on one side with some of the reserved glaze and bake uncovered in preheated oven for about 25 minutes.
+1.0,1.0,0.9702762961387634,1,8) Preheat oven to broil.,8) Preheat oven to broil.
+0.0,0.08695652335882187,0.3853517174720764,1,8) Preheat oven to broil.,"9) Put chicken under broiler and lightly brown on both sides, about 2 to 3 minutes each side."
+1.0,1.0,0.971324622631073,1,"4) In a mixing bowl, combine the tomatoes, olive oil and basil.","4) In a mixing bowl, combine the tomatoes, olive oil and basil."
+0.0,0.10000000149011612,0.46277037262916565,1,1) Cover a medium sized baking sheet with a single layer of bread slices.,6) Place bread under broiler until lightly browned.
+0.0,0.2222222238779068,0.3462798297405243,1,2) Brush the slices with olive oil.,1) Cover a medium sized baking sheet with a single layer of bread slices.
+0.0,0.0,0.029528658837080002,1,6) Place bread under broiler until lightly browned.,3) Dice the tomatoes.
+1.0,1.0,0.9719855785369873,1,7) Remove from broiler and top with the tomato mixture.,7) Remove from broiler and top with the tomato mixture.
+1.0,1.0,0.9719855785369873,1,7) Remove from broiler and top with the tomato mixture.,7) Remove from broiler and top with the tomato mixture.
+0.0,0.0,0.022968808189034462,1,0) Preheat oven to 325 degrees F (165 degrees C).,"4) In a medium bowl, mix sausage, baking mix, Cheddar cheese, crushed red pepper, and garlic salt."
+0.0,0.13333334028720856,0.3967641294002533,1,2) Cut a slit in each jalapeno pepper.,7) Arrange jalapeno balls on the prepared baking sheet.
+1.0,1.0,0.9712429642677307,1,3) Remove and discard seeds and pulp.,3) Remove and discard seeds and pulp.
+1.0,1.0,0.9733577370643616,1,"4) In a medium bowl, mix sausage, baking mix, Cheddar cheese, crushed red pepper, and garlic salt.","4) In a medium bowl, mix sausage, baking mix, Cheddar cheese, crushed red pepper, and garlic salt."
+1.0,1.0,0.9709615707397461,1,5) Stuff jalapenos with the Monterey Jack cheese cubes.,5) Stuff jalapenos with the Monterey Jack cheese cubes.
+0.0,0.11764705926179886,0.6177703738212585,1,6) Shape sausage mixture around the jalapenos to form balls.,7) Arrange jalapeno balls on the prepared baking sheet.
+0.0,0.11764705926179886,0.6177703738212585,1,6) Shape sausage mixture around the jalapenos to form balls.,7) Arrange jalapeno balls on the prepared baking sheet.
+0.0,0.11764705926179886,0.6177703738212585,1,6) Shape sausage mixture around the jalapenos to form balls.,7) Arrange jalapeno balls on the prepared baking sheet.
+1.0,1.0,0.9717738032341003,1,7) Arrange jalapeno balls on the prepared baking sheet.,7) Arrange jalapeno balls on the prepared baking sheet.
+1.0,1.0,0.9698784947395325,1,"8) Bake 25 minutes in the preheated oven, until lightly browned.","8) Bake 25 minutes in the preheated oven, until lightly browned."
+1.0,1.0,0.9698784947395325,1,"8) Bake 25 minutes in the preheated oven, until lightly browned.","8) Bake 25 minutes in the preheated oven, until lightly browned."
+0.0,0.0,0.10435904562473297,1,"0) Combine the sour cream, mayonnaise, cottage cheese, salsa, cayenne pepper, lemon juice and yogurt in a blender and puree until smooth.",1) Chill before serving.
+0.0,0.0,0.10435904562473297,1,"0) Combine the sour cream, mayonnaise, cottage cheese, salsa, cayenne pepper, lemon juice and yogurt in a blender and puree until smooth.",1) Chill before serving.
+1.0,1.0,0.9670903086662292,1,1) Chill before serving.,1) Chill before serving.
+1.0,1.0,0.9738914370536804,1,"0) Mix oil, garlic, salt, pepper, cumin and oregano; spread paste on both sides of the lamb and let stand for an hour until meat comes to room temperature.","0) Mix oil, garlic, salt, pepper, cumin and oregano; spread paste on both sides of the lamb and let stand for an hour until meat comes to room temperature."
+0.0,0.1599999964237213,0.24599209427833557,1,"0) Mix oil, garlic, salt, pepper, cumin and oregano; spread paste on both sides of the lamb and let stand for an hour until meat comes to room temperature.",1) Adjust oven rack to upper or upper-middle position (depending on lamb's thickness) and preheat broiler on high for at least 10 minutes.
+0.0,0.095238097012043,0.41816776990890503,1,"0) Mix oil, garlic, salt, pepper, cumin and oregano; spread paste on both sides of the lamb and let stand for an hour until meat comes to room temperature.","2) Place lamb, cut side up, on a large wire rack set over a foil-lined roasting pan."
+1.0,1.0,0.9747294187545776,1,1) Adjust oven rack to upper or upper-middle position (depending on lamb's thickness) and preheat broiler on high for at least 10 minutes.,1) Adjust oven rack to upper or upper-middle position (depending on lamb's thickness) and preheat broiler on high for at least 10 minutes.
+1.0,1.0,0.972995400428772,1,"2) Place lamb, cut side up, on a large wire rack set over a foil-lined roasting pan.","2) Place lamb, cut side up, on a large wire rack set over a foil-lined roasting pan."
+0.0,0.07407407462596893,0.3171110153198242,1,"2) Place lamb, cut side up, on a large wire rack set over a foil-lined roasting pan.","3) Broil, moving pan so entire surface browns evenly, about 8 minutes."
+0.0,0.0,0.28390443325042725,1,"2) Place lamb, cut side up, on a large wire rack set over a foil-lined roasting pan.","8) Roast for a total of 50 minutes to 1 hour, until thermometer registers a rosy-pink 140 degrees."
+0.0,0.27586206793785095,0.5271490216255188,1,"3) Broil, moving pan so entire surface browns evenly, about 8 minutes.","4) Turn lamb over; continue to broil until well browned on the other side, about 8 minutes longer."
+1.0,1.0,0.9730334281921387,1,"4) Turn lamb over; continue to broil until well browned on the other side, about 8 minutes longer.","4) Turn lamb over; continue to broil until well browned on the other side, about 8 minutes longer."
+0.0,0.19354838132858276,0.3648134469985962,1,"5) Turn off broiler, remove lamb from oven and let rest for 10 minutes.","4) Turn lamb over; continue to broil until well browned on the other side, about 8 minutes longer."
+0.0,0.21052631735801697,0.3187119960784912,1,6) Heat oven to 325 degrees.,7) Stick a meat thermometer into the thickest portion of the lamb; return it to the oven.
+1.0,1.0,0.9728105664253235,1,7) Stick a meat thermometer into the thickest portion of the lamb; return it to the oven.,7) Stick a meat thermometer into the thickest portion of the lamb; return it to the oven.
+0.0,0.11428571492433548,0.4207881987094879,1,"11) As soon as lamb comes out of the oven, squeeze on lemon juice and sprinkle with fresh herbs.","10) If lamb gets done sooner, simply turn down oven to 170 degrees until ready to serve."
+0.0,0.0,0.009317751973867416,1,"12) Carve, slicing across the grain when possible.","8) Roast for a total of 50 minutes to 1 hour, until thermometer registers a rosy-pink 140 degrees."
+1.0,1.0,0.9690924882888794,1,"12) Carve, slicing across the grain when possible.","12) Carve, slicing across the grain when possible."
+1.0,1.0,0.9721660614013672,1,"0) In a serving bowl, mix together the chicken, celery, and red onion.","0) In a serving bowl, mix together the chicken, celery, and red onion."
+1.0,1.0,0.9738054871559143,1,"1) In a separate bowl, stir together the mayonnaise, sour cream, feta cheese, and dill.","1) In a separate bowl, stir together the mayonnaise, sour cream, feta cheese, and dill."
+1.0,1.0,0.9720092415809631,1,"2) Pour over the chicken mixture, and stir to blend.","2) Pour over the chicken mixture, and stir to blend."
+0.0,0.08695652335882187,0.04677679017186165,1,"3) Taste, and season with salt and pepper as needed.","1) In a separate bowl, stir together the mayonnaise, sour cream, feta cheese, and dill."
+0.0,0.0,0.06186667084693909,1,"1) Saute chicken breasts until no longer pink, and juices run clear; set aside.",0) Heat oil in a heavy skillet; or spray a nonstick frying pan with cooking spray.
+1.0,1.0,0.9539918899536133,1,2) Preheat oven to 375  degrees F (190 degrees C).,2) Preheat oven to 375 degrees F (190 degrees C).
+1.0,1.0,0.9711549282073975,1,3) Unroll 4 large crescent rolls.,3) Unroll 4 large crescent rolls.
+1.0,1.0,0.9731858372688293,1,"4) Layer each with 3 thin slices brie, 3 leaves spinach and 1 slice prosciutto.","4) Layer each with 3 thin slices brie, 3 leaves spinach and 1 slice prosciutto."
+0.0,0.0,0.09881260246038437,1,5) Place chicken breast in the center of dough.,"4) Layer each with 3 thin slices brie, 3 leaves spinach and 1 slice prosciutto."
+1.0,1.0,0.9723064303398132,1,6) Wrap and tuck dough around chicken until completely enclosed.,6) Wrap and tuck dough around chicken until completely enclosed.
+1.0,1.0,0.9691660404205322,1,7) Place seam side down on baking sheet.,7) Place seam side down on baking sheet.
+1.0,1.0,0.971916139125824,1,"8) Bake in preheated oven for 10 to 15 minutes, or until golden brown.","8) Bake in preheated oven for 10 to 15 minutes, or until golden brown."
+1.0,1.0,0.971916139125824,1,"8) Bake in preheated oven for 10 to 15 minutes, or until golden brown.","8) Bake in preheated oven for 10 to 15 minutes, or until golden brown."
+0.0,0.0,0.0206723865121603,1,0) Crush half the cookies (about 20) to make crumbs.,"5) Meanwhile, soften 1 quart of ice cream in microwave or on countertop."
+1.0,1.0,0.9719131588935852,1,1) Combine crumbs with melted margarine and press into the bottom of a 9-inch springform pan or pie plate.,1) Combine crumbs with melted margarine and press into the bottom of a 9-inch springform pan or pie plate.
+1.0,1.0,0.9694162607192993,1,2) Stand remaining cookies around edge of pan.,2) Stand remaining cookies around edge of pan.
+0.0,0.0,0.017419438809156418,1,3) Spread 3/4 cup fudge topping over crust.,7) Freeze 30 minutes.
+1.0,1.0,0.968149721622467,1,4) Freeze 15 minutes.,4) Freeze 15 minutes.
+0.0,0.27586206793785095,0.47578445076942444,1,"5) Meanwhile, soften 1 quart of ice cream in microwave or on countertop.",8) Scoop remaining quart of ice cream into balls and arrange over spread ice cream layer.
+1.0,1.0,0.9734722375869751,1,"6) After crust has chilled, spread softened ice cream over fudge layer.","6) After crust has chilled, spread softened ice cream over fudge layer."
+0.0,0.0,0.009537446312606335,1,7) Freeze 30 minutes.,"10) To serve, garnish with remainder of fudge topping, whipped cream and cherries."
+1.0,1.0,0.9727042317390442,1,8) Scoop remaining quart of ice cream into balls and arrange over spread ice cream layer.,8) Scoop remaining quart of ice cream into balls and arrange over spread ice cream layer.
+1.0,1.0,0.9709643721580505,1,"9) Freeze until firm, 4 hours or overnight.","9) Freeze until firm, 4 hours or overnight."
+1.0,1.0,0.9724555611610413,1,"10) To serve, garnish with remainder of fudge topping, whipped cream and cherries.","10) To serve, garnish with remainder of fudge topping, whipped cream and cherries."
+1.0,1.0,0.9724555611610413,1,"10) To serve, garnish with remainder of fudge topping, whipped cream and cherries.","10) To serve, garnish with remainder of fudge topping, whipped cream and cherries."
+1.0,1.0,0.9697086215019226,1,0) Place the apples in a Dutch oven.,0) Place the apples in a Dutch oven.
+0.0,0.0,0.020622573792934418,1,1) Pour in the cider.,7) Cook until the desired thickness has been attained.
+1.0,1.0,0.9711194038391113,1,"2) Bring to a boil and cook on medium heat 30 minutes, or until soft.","2) Bring to a boil and cook on medium heat 30 minutes, or until soft."
+0.0,0.0,0.14748835563659668,1,"4) Continue cooking at a medium boil for 30 minutes, stirring occasionally.",3) Press the softened mixture through a food mill.
+0.0,0.1818181872367859,0.08356712758541107,1,"5) Mix in the sugar, cinnamon and cloves.",1) Pour in the cider.
+0.0,0.0,0.01480160839855671,1,"6) Continue cooking over low heat until the sugar dissolves, stirring frequently.",1) Pour in the cider.
+1.0,1.0,0.9708275198936462,1,7) Cook until the desired thickness has been attained.,7) Cook until the desired thickness has been attained.
+0.0,0.0,0.13709741830825806,1,8) Refrigerate the finished apple butter in sterile containers.,7) Cook until the desired thickness has been attained.
+0.0,0.0,0.16382890939712524,1,8) Refrigerate the finished apple butter in sterile containers.,3) Press the softened mixture through a food mill.
+1.0,1.0,0.9715278744697571,1,"0) In a bowl, cut margarine into flour until crumbly.","0) In a bowl, cut margarine into flour until crumbly."
+1.0,1.0,0.9720521569252014,1,1) Press into an 11-in baking dish coated with nonstick cooking spray.,1) Press into an 11-in baking dish coated with nonstick cooking spray.
+1.0,1.0,0.970693051815033,1,2) Bake at 350 degrees F for 15-18 minutes or until lightly browned.,2) Bake at 350 degrees F for 15-18 minutes or until lightly browned.
+1.0,1.0,0.9718295335769653,1,"4) In a mixing bowl, beat cream cheese and sweetener until smooth.","4) In a mixing bowl, beat cream cheese and sweetener until smooth."
+0.0,0.0,0.26976436376571655,1,5) Fold in half of the whipped topping.,6) Carefully spread over the crust.
+1.0,1.0,0.9689299464225769,1,6) Carefully spread over the crust.,6) Carefully spread over the crust.
+0.0,0.0,0.018615158274769783,1,"7) In a mixing bowl, combine milk and pudding mix.",3) Cool completely.
+0.0,0.2857142984867096,0.24419471621513367,1,8) Beat on low speed for 2 minutes.,9) Let stand for 2-3 minutes.
+1.0,1.0,0.9683241844177246,1,9) Let stand for 2-3 minutes.,9) Let stand for 2-3 minutes.
+1.0,1.0,0.9686051607131958,1,10) Spread over the cream cheese.,10) Spread over the cream cheese.
+0.0,0.25,0.49146246910095215,1,10) Spread over the cream cheese.,"4) In a mixing bowl, beat cream cheese and sweetener until smooth."
+1.0,1.0,0.9718850255012512,1,1) Cut in the butter until the mixture resembles coarse crumbs.,1) Cut in the butter until the mixture resembles coarse crumbs.
+0.0,0.0,0.1421618014574051,1,"2) Sprinkle with the ice water, and toss the mixture with a fork until evenly moistened.",4) Refrigerate for 30 minutes.
+1.0,1.0,0.9705333709716797,1,"3) Pat into a round, and wrap in plastic.","3) Pat into a round, and wrap in plastic."
+0.0,0.0,0.18501783907413483,1,"5) In the top half of a double boiler, heat the milk until it begins to bubble.",4) Refrigerate for 30 minutes.
+1.0,1.0,0.9728457927703857,1,"6) In a bowl, beat together the egg whites, sugar, and 1 tablespoon of the hot milk.","6) In a bowl, beat together the egg whites, sugar, and 1 tablespoon of the hot milk."
+1.0,1.0,0.9705764651298523,1,7) Whisk the egg white mixture into the remaining hot milk.,7) Whisk the egg white mixture into the remaining hot milk.
+0.0,0.06896551698446274,0.317371666431427,1,"8) Cook and stir without boiling about 10 minutes, until the mixture is thick enough to coat the back of a metal spoon.",7) Whisk the egg white mixture into the remaining hot milk.
+1.0,1.0,0.9702123403549194,1,"9) Remove from heat, and stir in the vanilla.","9) Remove from heat, and stir in the vanilla."
+0.0,0.1111111119389534,0.08931739628314972,1,11) Preheat oven to 375  degrees F (190 degrees C).,"17) Remove to a wire rack, and cool completely."
+0.0,0.1818181872367859,0.44513800740242004,1,"13) On a floured surface, roll the tart dough out to 1/4 inch thickness.",12) Lightly grease an 8 inch tart pan with a removable bottom.
+1.0,1.0,0.9710681438446045,1,14) Press the chilled dough into the prepared tart pan.,14) Press the chilled dough into the prepared tart pan.
+0.0,0.0,0.12393651157617569,1,"16) Bake 15 to 18 minutes in the preheated oven, until golden brown.",12) Lightly grease an 8 inch tart pan with a removable bottom.
+0.0,0.0,0.27300432324409485,1,"17) Remove to a wire rack, and cool completely.",4) Refrigerate for 30 minutes.
+0.0,0.0,0.019343499094247818,1,18) Spoon the filling mixture into the crust.,20) Cool to room temperature on a wire rack.
+0.0,0.0,0.419192373752594,1,21) Refrigerate 8 hours.,20) Cool to room temperature on a wire rack.
+1.0,1.0,0.9725242257118225,1,"0) In a large bowl, combine the flours, sugar, baking powder, salt and caraway seeds.","0) In a large bowl, combine the flours, sugar, baking powder, salt and caraway seeds."
+0.0,0.11764705926179886,0.14690816402435303,1,"0) In a large bowl, combine the flours, sugar, baking powder, salt and caraway seeds.",1) Stir in cheese.
+0.0,0.0,0.1097884550690651,1,"0) In a large bowl, combine the flours, sugar, baking powder, salt and caraway seeds.",3) Fill greased or paper-lined muffin cups two-thirds full.
+1.0,1.0,0.9725242257118225,1,"0) In a large bowl, combine the flours, sugar, baking powder, salt and caraway seeds.","0) In a large bowl, combine the flours, sugar, baking powder, salt and caraway seeds."
+0.0,0.11764705926179886,0.06448353826999664,1,1) Stir in cheese.,"0) In a large bowl, combine the flours, sugar, baking powder, salt and caraway seeds."
+1.0,1.0,0.9725834131240845,1,"2) Combine the egg, milk and oil; stir into the dry ingredients just until moistened.","2) Combine the egg, milk and oil; stir into the dry ingredients just until moistened."
+0.0,0.1538461595773697,0.30568191409111023,1,"2) Combine the egg, milk and oil; stir into the dry ingredients just until moistened.","0) In a large bowl, combine the flours, sugar, baking powder, salt and caraway seeds."
+0.0,0.0,0.08625251054763794,1,3) Fill greased or paper-lined muffin cups two-thirds full.,1) Stir in cheese.
+0.0,0.07692307978868484,0.07762575894594193,1,3) Fill greased or paper-lined muffin cups two-thirds full.,4) Bake at 400 degrees F for 20-23 minutes or a toothpick inserted near the center comes out clean.
+0.0,0.07692307978868484,0.09481769800186157,1,4) Bake at 400 degrees F for 20-23 minutes or a toothpick inserted near the center comes out clean.,3) Fill greased or paper-lined muffin cups two-thirds full.
+1.0,1.0,0.9728894829750061,1,5) Cool for 5 minutes before removing from pan to a wire rack.,5) Cool for 5 minutes before removing from pan to a wire rack.
+1.0,1.0,0.9686561822891235,1,0) Preheat oven to 450 degrees F (230 degrees C).,0) Preheat oven to 450 degrees F (230 degrees C).
+1.0,1.0,0.9684624671936035,1,1) Grease a cookie sheet.,1) Grease a cookie sheet.
+0.0,0.095238097012043,0.5858498811721802,1,"3) Bring to a boil, stirring until butter melts completely.","2) In a medium saucepan, combine 1/2 cup butter and 1 cup water."
+1.0,1.0,0.972175657749176,1,"4) Reduce heat to low, and add flour and salt.","4) Reduce heat to low, and add flour and salt."
+1.0,1.0,0.9728711843490601,1,5) Stir vigorously until mixture leaves the sides of the pan and begins to form a stiff ball.,5) Stir vigorously until mixture leaves the sides of the pan and begins to form a stiff ball.
+0.0,0.0,0.06486240029335022,1,6) Remove from heat.,"7) Add eggs, one at a time, beating well to incorporate completely after each addition."
+1.0,1.0,0.9736269116401672,1,"8) With a spoon or a pastry bag fitted with a No. 10, or larger, tip, spoon or pipe dough onto cookie sheet in 1 1/2 x 4 inch strips.","8) With a spoon or a pastry bag fitted with a No. 10, or larger, tip, spoon or pipe dough onto cookie sheet in 1 1/2 x 4 inch strips."
+1.0,1.0,0.9736269116401672,1,"8) With a spoon or a pastry bag fitted with a No. 10, or larger, tip, spoon or pipe dough onto cookie sheet in 1 1/2 x 4 inch strips.","8) With a spoon or a pastry bag fitted with a No. 10, or larger, tip, spoon or pipe dough onto cookie sheet in 1 1/2 x 4 inch strips."
+1.0,1.0,0.9726062417030334,1,"9) Bake 15 minutes in the preheated oven, then reduce heat to 325 degrees F (165 degrees C) and bake 20 minutes more, until hollow sounding when lightly tapped on the bottom.","9) Bake 15 minutes in the preheated oven, then reduce heat to 325 degrees F (165 degrees C) and bake 20 minutes more, until hollow sounding when lightly tapped on the bottom."
+1.0,1.0,0.9726062417030334,1,"9) Bake 15 minutes in the preheated oven, then reduce heat to 325 degrees F (165 degrees C) and bake 20 minutes more, until hollow sounding when lightly tapped on the bottom.","9) Bake 15 minutes in the preheated oven, then reduce heat to 325 degrees F (165 degrees C) and bake 20 minutes more, until hollow sounding when lightly tapped on the bottom."
+0.0,0.0555555559694767,0.30288830399513245,1,"9) Bake 15 minutes in the preheated oven, then reduce heat to 325 degrees F (165 degrees C) and bake 20 minutes more, until hollow sounding when lightly tapped on the bottom.",10) Cool completely on a wire rack.
+1.0,1.0,0.9699326753616333,1,10) Cool completely on a wire rack.,10) Cool completely on a wire rack.
+0.0,0.1428571492433548,0.3037361204624176,1,"12) In a separate bowl, beat the cream with an electric mixer until soft peaks form.","11) For the filling, combine pudding mix and milk in medium bowl according to package directions."
+0.0,0.11764705926179886,0.2206060141324997,1,13) Beat in 1/4 cup confectioners' sugar and 1 teaspoon vanilla.,14) Fold whipped cream into pudding.
+0.0,0.0833333358168602,0.021336419507861137,1,15) Cut tops off of cooled pastry shells with a sharp knife.,"12) In a separate bowl, beat the cream with an electric mixer until soft peaks form."
+0.0,0.0,0.010781774297356606,1,15) Cut tops off of cooled pastry shells with a sharp knife.,0) Preheat oven to 450 degrees F (230 degrees C).
+0.0,0.1818181872367859,0.5092374682426453,1,"17) For the icing, melt the chocolate and 2 tablespoons butter in a medium saucepan over low heat.","19) Stir in hot water, one tablespoon at a time, until icing is smooth and has reached desired consistency."
+1.0,1.0,0.971598207950592,1,18) Stir in 1 cup confectioners' sugar and 1 teaspoon vanilla.,18) Stir in 1 cup confectioners' sugar and 1 teaspoon vanilla.
+0.0,0.2068965584039688,0.42284056544303894,1,18) Stir in 1 cup confectioners' sugar and 1 teaspoon vanilla.,"19) Stir in hot water, one tablespoon at a time, until icing is smooth and has reached desired consistency."
+1.0,1.0,0.9647406339645386,1,"19) Stir in hot water, one tablespoon at a time, until icing is smooth and has reached desired consistency.","19) Stir in hot water, one tablespoon at a time, until icing is smooth and has reached desired consistency."
+1.0,1.0,0.9725104570388794,1,"20) Remove from heat, cool slightly, and drizzle over filled eclairs.","20) Remove from heat, cool slightly, and drizzle over filled eclairs."
+1.0,1.0,0.9672819972038269,1,21) Refrigerate until serving.,21) Refrigerate until serving.
+1.0,1.0,0.9739997386932373,1,"0) In a large bowl, stir together the flour, 1/2 cup sugar, baking powder, salt, 1 teaspoon of cinnamon and nutmeg.","0) In a large bowl, stir together the flour, 1/2 cup sugar, baking powder, salt, 1 teaspoon of cinnamon and nutmeg."
+1.0,1.0,0.9739997386932373,1,"0) In a large bowl, stir together the flour, 1/2 cup sugar, baking powder, salt, 1 teaspoon of cinnamon and nutmeg.","0) In a large bowl, stir together the flour, 1/2 cup sugar, baking powder, salt, 1 teaspoon of cinnamon and nutmeg."
+0.0,0.1875,0.2453755885362625,1,"0) In a large bowl, stir together the flour, 1/2 cup sugar, baking powder, salt, 1 teaspoon of cinnamon and nutmeg.","1) Make a well in the center and pour in the milk, egg, butter, and vanilla."
+0.0,0.0,0.45704373717308044,1,"0) In a large bowl, stir together the flour, 1/2 cup sugar, baking powder, salt, 1 teaspoon of cinnamon and nutmeg.",2) Mix until well blended.
+0.0,0.06060606241226196,0.0389837771654129,1,"0) In a large bowl, stir together the flour, 1/2 cup sugar, baking powder, salt, 1 teaspoon of cinnamon and nutmeg.","11) Place a few warm donuts into the bag at a time, seal and shake to coat."
+0.0,0.1875,0.2453755885362625,1,"0) In a large bowl, stir together the flour, 1/2 cup sugar, baking powder, salt, 1 teaspoon of cinnamon and nutmeg.","1) Make a well in the center and pour in the milk, egg, butter, and vanilla."
+0.0,0.1875,0.2453755885362625,1,"0) In a large bowl, stir together the flour, 1/2 cup sugar, baking powder, salt, 1 teaspoon of cinnamon and nutmeg.","1) Make a well in the center and pour in the milk, egg, butter, and vanilla."
+1.0,1.0,0.9703760743141174,1,"1) Make a well in the center and pour in the milk, egg, butter, and vanilla.","1) Make a well in the center and pour in the milk, egg, butter, and vanilla."
+0.0,0.1111111119389534,0.33115172386169434,1,"1) Make a well in the center and pour in the milk, egg, butter, and vanilla.",2) Mix until well blended.
+0.0,0.1875,0.20929646492004395,1,"1) Make a well in the center and pour in the milk, egg, butter, and vanilla.","0) In a large bowl, stir together the flour, 1/2 cup sugar, baking powder, salt, 1 teaspoon of cinnamon and nutmeg."
+1.0,1.0,0.9703760743141174,1,"1) Make a well in the center and pour in the milk, egg, butter, and vanilla.","1) Make a well in the center and pour in the milk, egg, butter, and vanilla."
+0.0,0.1111111119389534,0.33115172386169434,1,"1) Make a well in the center and pour in the milk, egg, butter, and vanilla.",2) Mix until well blended.
+1.0,1.0,0.9701811075210571,1,3) Cover and refrigerate for 1 hour.,3) Cover and refrigerate for 1 hour.
+1.0,1.0,0.9733263254165649,1,4) Heat oil in a deep heavy skillet or deep-fryer to 370 degrees F (185 degrees C).,4) Heat oil in a deep heavy skillet or deep-fryer to 370 degrees F (185 degrees C).
+0.0,0.0714285746216774,0.06665072590112686,1,4) Heat oil in a deep heavy skillet or deep-fryer to 370 degrees F (185 degrees C).,"5) On a floured board, roll chilled dough out to 1/2 inch thickness."
+0.0,0.0714285746216774,0.06665072590112686,1,4) Heat oil in a deep heavy skillet or deep-fryer to 370 degrees F (185 degrees C).,"5) On a floured board, roll chilled dough out to 1/2 inch thickness."
+1.0,1.0,0.9715701937675476,1,"5) On a floured board, roll chilled dough out to 1/2 inch thickness.","5) On a floured board, roll chilled dough out to 1/2 inch thickness."
+0.0,0.27272728085517883,0.2952648103237152,1,"5) On a floured board, roll chilled dough out to 1/2 inch thickness.",6) Use a 3 inch round cutter to cut out doughnuts.
+0.0,0.27272728085517883,0.2952648103237152,1,"5) On a floured board, roll chilled dough out to 1/2 inch thickness.",6) Use a 3 inch round cutter to cut out doughnuts.
+0.0,0.42105263471603394,0.4818320870399475,1,6) Use a 3 inch round cutter to cut out doughnuts.,7) Use a smaller cutter to cut holes from center.
+1.0,1.0,0.9697477221488953,1,7) Use a smaller cutter to cut holes from center.,7) Use a smaller cutter to cut holes from center.
+0.0,0.0,0.016476325690746307,1,"8) Fry doughnuts in hot oil until golden brown, turning once.",7) Use a smaller cutter to cut holes from center.
+0.0,0.0,0.018200669437646866,1,9) Remove from oil to drain on paper plates.,10) Combine the remaining 1/2 teaspoon cinnamon and 1/2 cup sugar in a large resealable bag.
+1.0,1.0,0.9746734499931335,1,10) Combine the remaining 1/2 teaspoon cinnamon and 1/2 cup sugar in a large resealable bag.,10) Combine the remaining 1/2 teaspoon cinnamon and 1/2 cup sugar in a large resealable bag.
+1.0,1.0,0.9728838205337524,1,"11) Place a few warm donuts into the bag at a time, seal and shake to coat.","11) Place a few warm donuts into the bag at a time, seal and shake to coat."
+0.0,0.1428571492433548,0.3858056664466858,1,"11) Place a few warm donuts into the bag at a time, seal and shake to coat.",10) Combine the remaining 1/2 teaspoon cinnamon and 1/2 cup sugar in a large resealable bag.
+1.0,1.0,0.9718220829963684,1,"0) In a large pot, put the chopped onion, chicken breast meat, carrots and potatoes.","0) In a large pot, put the chopped onion, chicken breast meat, carrots and potatoes."
+1.0,1.0,0.9718220829963684,1,"0) In a large pot, put the chopped onion, chicken breast meat, carrots and potatoes.","0) In a large pot, put the chopped onion, chicken breast meat, carrots and potatoes."
+0.0,0.1111111119389534,0.12835471332073212,1,"0) In a large pot, put the chopped onion, chicken breast meat, carrots and potatoes.",1) Add the salt and turmeric.
+1.0,1.0,0.9692239165306091,1,1) Add the salt and turmeric.,1) Add the salt and turmeric.
+1.0,1.0,0.9722879528999329,1,2) Dissolve the tomato paste in water and add.,2) Dissolve the tomato paste in water and add.
+1.0,1.0,0.9721125364303589,1,"3) If desired, add garlic powder and ground black pepper to season.","3) If desired, add garlic powder and ground black pepper to season."
+0.0,0.0833333358168602,0.14347396790981293,1,4) Cook for 1 to 1 1/2 hours on medium low heat.,"3) If desired, add garlic powder and ground black pepper to season."
+0.0,0.0,0.14243488013744354,1,5) Serve.,"3) If desired, add garlic powder and ground black pepper to season."
+1.0,1.0,0.9684546589851379,1,0) Preheat oven to 350 degrees F (175 degrees C).,0) Preheat oven to 350 degrees F (175 degrees C).
+0.0,0.0,0.03839108720421791,1,"1) In a large bowl, cream together the butter, butter flavored shortening, brown sugar, white sugar, eggs, and vanilla until smooth.",0) Preheat oven to 350 degrees F (175 degrees C).
+1.0,1.0,0.9739468097686768,1,"1) In a large bowl, cream together the butter, butter flavored shortening, brown sugar, white sugar, eggs, and vanilla until smooth.","1) In a large bowl, cream together the butter, butter flavored shortening, brown sugar, white sugar, eggs, and vanilla until smooth."
+1.0,1.0,0.9739468097686768,1,"1) In a large bowl, cream together the butter, butter flavored shortening, brown sugar, white sugar, eggs, and vanilla until smooth.","1) In a large bowl, cream together the butter, butter flavored shortening, brown sugar, white sugar, eggs, and vanilla until smooth."
+1.0,1.0,0.9721586108207703,1,"2) Combine the flour, baking soda, cinnamon, cloves, and salt; stir into the sugar mixture.","2) Combine the flour, baking soda, cinnamon, cloves, and salt; stir into the sugar mixture."
+1.0,1.0,0.9721586108207703,1,"2) Combine the flour, baking soda, cinnamon, cloves, and salt; stir into the sugar mixture.","2) Combine the flour, baking soda, cinnamon, cloves, and salt; stir into the sugar mixture."
+0.0,0.21052631735801697,0.2929270565509796,1,"2) Combine the flour, baking soda, cinnamon, cloves, and salt; stir into the sugar mixture.",3) Stir in the oats and raisins.
+0.0,0.0714285746216774,0.1101410761475563,1,"2) Combine the flour, baking soda, cinnamon, cloves, and salt; stir into the sugar mixture.",7) Let them cool for 2 minutes before removing from cookie sheets to cool completely.
+1.0,1.0,0.9705528020858765,1,3) Stir in the oats and raisins.,3) Stir in the oats and raisins.
+0.0,0.0,0.20498263835906982,1,4) Drop by rounded teaspoonfuls onto ungreased cookie sheets.,3) Stir in the oats and raisins.
+1.0,1.0,0.9709624648094177,1,5) Bake 10 to 12 minutes until light and golden.,5) Bake 10 to 12 minutes until light and golden.
+1.0,1.0,0.9732128381729126,1,7) Let them cool for 2 minutes before removing from cookie sheets to cool completely.,7) Let them cool for 2 minutes before removing from cookie sheets to cool completely.
+0.0,0.0,0.15942971408367157,1,8) Store in airtight container.,7) Let them cool for 2 minutes before removing from cookie sheets to cool completely.
+1.0,1.0,0.9731147289276123,1,"0) In a large pot, combine apple juice, apple cider, sugar and cinnamon sticks.","0) In a large pot, combine apple juice, apple cider, sugar and cinnamon sticks."
+0.0,0.17391304671764374,0.31429463624954224,1,"0) In a large pot, combine apple juice, apple cider, sugar and cinnamon sticks.","2) When juice mixture is cool, stir in the grain alcohol."
+1.0,1.0,0.9732453227043152,1,"1) Bring to a boil, then remove from heat and let cool completely.","1) Bring to a boil, then remove from heat and let cool completely."
+1.0,1.0,0.9728509783744812,1,"2) When juice mixture is cool, stir in the grain alcohol.","2) When juice mixture is cool, stir in the grain alcohol."
+1.0,1.0,0.9731224179267883,1,0) Place the potatoes and sweet potatoes in a large pot with enough water to cover.,0) Place the potatoes and sweet potatoes in a large pot with enough water to cover.
+1.0,1.0,0.9648870229721069,1,1) Bring to a boil.,1) Bring to a boil.
+0.0,0.0,0.0999564677476883,1,3) Preheat the oven broiler.,0) Place the potatoes and sweet potatoes in a large pot with enough water to cover.
+0.0,0.10526315867900848,0.10704943537712097,1,"5) Gradually mix in butter, heavy cream, chicken bouillon, brown sugar, and pepper.","4) In a large bowl, mash the potatoes."
+0.0,0.0,0.15867966413497925,1,"6) Transfer the mixture to a medium baking dish, and top with Monterey Jack cheese.",3) Preheat the oven broiler.
+0.0,0.10000000149011612,0.5421881675720215,1,"7) Broil uncovered in the preheated oven 10 minutes, or until the cheese is melted and lightly browned.",3) Preheat the oven broiler.
+1.0,1.0,0.9721037745475769,1,"7) Broil uncovered in the preheated oven 10 minutes, or until the cheese is melted and lightly browned.","7) Broil uncovered in the preheated oven 10 minutes, or until the cheese is melted and lightly browned."
+0.0,0.06060606241226196,0.2643270492553711,1,0) Line a 15-in baking pan with foil; coat foil with nonstick cooking spray.,"5) Bake, uncovered, at 350 degrees F (176 degrees C) for 35-40 minutes or until fish flakes easily with a fork."
+1.0,1.0,0.9734683036804199,1,"1) In a bowl, combine the bread crumbs, garlic, Parmesan cheese, parsley, thyme, rosemary, salt and pepper.","1) In a bowl, combine the bread crumbs, garlic, Parmesan cheese, parsley, thyme, rosemary, salt and pepper."
+1.0,1.0,0.9734683036804199,1,"1) In a bowl, combine the bread crumbs, garlic, Parmesan cheese, parsley, thyme, rosemary, salt and pepper.","1) In a bowl, combine the bread crumbs, garlic, Parmesan cheese, parsley, thyme, rosemary, salt and pepper."
+1.0,1.0,0.9734683036804199,1,"1) In a bowl, combine the bread crumbs, garlic, Parmesan cheese, parsley, thyme, rosemary, salt and pepper.","1) In a bowl, combine the bread crumbs, garlic, Parmesan cheese, parsley, thyme, rosemary, salt and pepper."
+1.0,1.0,0.9734683036804199,1,"1) In a bowl, combine the bread crumbs, garlic, Parmesan cheese, parsley, thyme, rosemary, salt and pepper.","1) In a bowl, combine the bread crumbs, garlic, Parmesan cheese, parsley, thyme, rosemary, salt and pepper."
+0.0,0.0,0.16417372226715088,1,"1) In a bowl, combine the bread crumbs, garlic, Parmesan cheese, parsley, thyme, rosemary, salt and pepper.",2) Add butter; toss to coat evenly.
+0.0,0.14814814925193787,0.45787525177001953,1,"1) In a bowl, combine the bread crumbs, garlic, Parmesan cheese, parsley, thyme, rosemary, salt and pepper.",4) Spray with nonstick cooking spray and pat with bread crumb mixture.
+1.0,1.0,0.9700610637664795,1,2) Add butter; toss to coat evenly.,2) Add butter; toss to coat evenly.
+0.0,0.0,0.06539133936166763,1,3) Place salmon on prepared pan.,2) Add butter; toss to coat evenly.
+0.0,0.0,0.013604131527245045,1,3) Place salmon on prepared pan.,"1) In a bowl, combine the bread crumbs, garlic, Parmesan cheese, parsley, thyme, rosemary, salt and pepper."
+1.0,1.0,0.9711289405822754,1,4) Spray with nonstick cooking spray and pat with bread crumb mixture.,4) Spray with nonstick cooking spray and pat with bread crumb mixture.
+0.0,0.0625,0.07758811116218567,1,4) Spray with nonstick cooking spray and pat with bread crumb mixture.,"5) Bake, uncovered, at 350 degrees F (176 degrees C) for 35-40 minutes or until fish flakes easily with a fork."
+1.0,1.0,0.9736124873161316,1,"0) In a large bowl, mix barbeque sauce, teriyaki sauce, beer, garlic, ginger, onion, black pepper, and salt.","0) In a large bowl, mix barbeque sauce, teriyaki sauce, beer, garlic, ginger, onion, black pepper, and salt."
+1.0,1.0,0.9736124873161316,1,"0) In a large bowl, mix barbeque sauce, teriyaki sauce, beer, garlic, ginger, onion, black pepper, and salt.","0) In a large bowl, mix barbeque sauce, teriyaki sauce, beer, garlic, ginger, onion, black pepper, and salt."
+1.0,1.0,0.9726764559745789,1,"1) Place the roast into the marinade, cover and refrigerate for six hours, turning often.","1) Place the roast into the marinade, cover and refrigerate for six hours, turning often."
+0.0,0.0714285746216774,0.23781269788742065,1,2) Preheat an outdoor grill for indirect heat.,"7) Cook the roast for two hours, or until the internal temperature of the roast is at least 145 degrees F (63 degrees C)."
+0.0,0.10526315867900848,0.33388248085975647,1,"3) Remove the roast from the marinade, and pour the marinade into a saucepan.","4) Bring to a boil, and cook for 5 minutes."
+1.0,1.0,0.9704319834709167,1,"4) Bring to a boil, and cook for 5 minutes.","4) Bring to a boil, and cook for 5 minutes."
+0.0,0.13333334028720856,0.3237340748310089,1,"4) Bring to a boil, and cook for 5 minutes.","7) Cook the roast for two hours, or until the internal temperature of the roast is at least 145 degrees F (63 degrees C)."
+1.0,1.0,0.9690878987312317,1,5) Set aside for use as a basting sauce.,5) Set aside for use as a basting sauce.
+0.0,0.06451612710952759,0.4761364459991455,1,6) Thread the roast onto a rotating barbecue spit above indirect heat.,"7) Cook the roast for two hours, or until the internal temperature of the roast is at least 145 degrees F (63 degrees C)."
+0.0,0.0,0.11936381459236145,1,8) Baste often during the last hour with reserved marinade.,"0) In a large bowl, mix barbeque sauce, teriyaki sauce, beer, garlic, ginger, onion, black pepper, and salt."
+1.0,1.0,0.9682838320732117,1,0) Preheat oven to 400 degrees F (200 degrees C).,0) Preheat oven to 400 degrees F (200 degrees C).
+0.0,0.10000000149011612,0.1227351501584053,1,"2) Stir in the mushrooms, green onions, garlic and cayenne pepper.",1) Heat the olive oil in a medium saucepan over medium heat.
+0.0,0.0,0.17340531945228577,1,"2) Stir in the mushrooms, green onions, garlic and cayenne pepper.","3) Cook 10 minutes, or until tender."
+0.0,0.0,0.23929612338542938,1,4) Transfer the mushroom mixture to a medium bowl.,"3) Cook 10 minutes, or until tender."
+1.0,1.0,0.9709072709083557,1,5) Blend in the cream cheese and crabmeat.,5) Blend in the cream cheese and crabmeat.
+0.0,0.23999999463558197,0.4116728901863098,1,"6) On a lightly floured flat surface, roll each pastry sheet into a 12x12 inch square.",8) Place 1 tablespoon of the mushroom mixture onto each pastry square.
+0.0,0.0,0.011290586553514004,1,7) Cut each sheet into nine 4x4 inch squares.,4) Transfer the mushroom mixture to a medium bowl.
+0.0,0.0,0.008901760913431644,1,7) Cut each sheet into nine 4x4 inch squares.,0) Preheat oven to 400 degrees F (200 degrees C).
+0.0,0.07407407462596893,0.3696737587451935,1,8) Place 1 tablespoon of the mushroom mixture onto each pastry square.,"9) Fold the squares by bringing the corners to the center, creating an X. Place the squares on a medium baking sheet."
+0.0,0.07692307978868484,0.04138820990920067,1,"9) Fold the squares by bringing the corners to the center, creating an X. Place the squares on a medium baking sheet.",1) Heat the olive oil in a medium saucepan over medium heat.
+0.0,0.095238097012043,0.17049196362495422,1,"10) Bake 20 minutes in the preheated oven, or until golden brown.",1) Heat the olive oil in a medium saucepan over medium heat.
+1.0,1.0,0.9712290167808533,1,"10) Bake 20 minutes in the preheated oven, or until golden brown.","10) Bake 20 minutes in the preheated oven, or until golden brown."
+1.0,1.0,0.9714927673339844,1,0) Heat the oil in a deep-fryer to 375 degrees F (190 degrees C).,0) Heat the oil in a deep-fryer to 375 degrees F (190 degrees C).
+1.0,1.0,0.9724365472793579,1,"1) In a medium bowl, mix together the salt, black pepper, cayenne pepper, garlic salt, and onion salt.","1) In a medium bowl, mix together the salt, black pepper, cayenne pepper, garlic salt, and onion salt."
+0.0,0.06666667014360428,0.15285220742225647,1,"1) In a medium bowl, mix together the salt, black pepper, cayenne pepper, garlic salt, and onion salt.","5) Dip each rib in egg, then in flour, then egg, then flour again."
+1.0,1.0,0.9724365472793579,1,"1) In a medium bowl, mix together the salt, black pepper, cayenne pepper, garlic salt, and onion salt.","1) In a medium bowl, mix together the salt, black pepper, cayenne pepper, garlic salt, and onion salt."
+0.0,0.1818181872367859,0.31194186210632324,1,2) Place the flour in a separate bowl or plate.,"5) Dip each rib in egg, then in flour, then egg, then flour again."
+0.0,0.10000000149011612,0.4065842628479004,1,3) Whisk eggs in a large bowl.,"5) Dip each rib in egg, then in flour, then egg, then flour again."
+1.0,1.0,0.9691206812858582,1,3) Whisk eggs in a large bowl.,3) Whisk eggs in a large bowl.
+1.0,1.0,0.9704076051712036,1,4) Rub the spice mixture onto all of the ribs.,4) Rub the spice mixture onto all of the ribs.
+1.0,1.0,0.970832347869873,1,"5) Dip each rib in egg, then in flour, then egg, then flour again.","5) Dip each rib in egg, then in flour, then egg, then flour again."
+0.0,0.0,0.25157660245895386,1,"5) Dip each rib in egg, then in flour, then egg, then flour again.",7) Cook for about 8 minutes.
+0.0,0.0,0.24426326155662537,1,"6) Place the ribs in a fryer basket so they are not crowded, try 4 or 5 at a time depending on the size of your fryer.",7) Cook for about 8 minutes.
+0.0,0.0,0.24755272269248962,1,7) Cook for about 8 minutes.,0) Heat the oil in a deep-fryer to 375 degrees F (190 degrees C).
+1.0,1.0,0.971088707447052,1,0) Bring a large pot of salted water to boil.,0) Bring a large pot of salted water to boil.
+1.0,1.0,0.9713274240493774,1,1) Place the broccoli and cauliflower florets into the boiling water for one minute.,1) Place the broccoli and cauliflower florets into the boiling water for one minute.
+1.0,1.0,0.9731068015098572,1,"3) Combine broccoli, cauliflower, bell pepper, cucumber, carrot and Italian salad dressing in a medium size mixing bowl.","3) Combine broccoli, cauliflower, bell pepper, cucumber, carrot and Italian salad dressing in a medium size mixing bowl."
+1.0,1.0,0.9718736410140991,1,4) Cover the bowl and refrigerate the vegetables for one hour.,4) Cover the bowl and refrigerate the vegetables for one hour.
+1.0,1.0,0.9718736410140991,1,4) Cover the bowl and refrigerate the vegetables for one hour.,4) Cover the bowl and refrigerate the vegetables for one hour.
+0.0,0.260869562625885,0.20560592412948608,1,2) Beat in the egg and molasses until well blended.,"1) In a medium bowl, cream together the margarine and 1 cup white sugar until smooth."
+1.0,1.0,0.9741315245628357,1,"3) Combine the flour, ginger, cinnamon, baking soda and salt; stir into the molasses mixture to form a dough.","3) Combine the flour, ginger, cinnamon, baking soda and salt; stir into the molasses mixture to form a dough."
+0.0,0.06666667014360428,0.18451200425624847,1,"3) Combine the flour, ginger, cinnamon, baking soda and salt; stir into the molasses mixture to form a dough.","1) In a medium bowl, cream together the margarine and 1 cup white sugar until smooth."
+1.0,1.0,0.9741315245628357,1,"3) Combine the flour, ginger, cinnamon, baking soda and salt; stir into the molasses mixture to form a dough.","3) Combine the flour, ginger, cinnamon, baking soda and salt; stir into the molasses mixture to form a dough."
+0.0,0.2068965584039688,0.3920728862285614,1,4) Roll dough into 1 inch balls and roll the balls in the remaining sugar.,"3) Combine the flour, ginger, cinnamon, baking soda and salt; stir into the molasses mixture to form a dough."
+1.0,1.0,0.9716256856918335,1,5) Place cookies 2 inches apart onto ungreased cookie sheets.,5) Place cookies 2 inches apart onto ungreased cookie sheets.
+0.0,0.0833333358168602,0.04986397549510002,1,6) Bake for 8 to 10 minutes in the preheated oven.,"1) In a medium bowl, cream together the margarine and 1 cup white sugar until smooth."
+1.0,1.0,0.9734278321266174,1,7) Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely.,7) Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely.
+1.0,1.0,0.9734278321266174,1,7) Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely.,7) Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely.
+0.0,0.07407407462596893,0.09095195680856705,1,"0) Fill sterile containers with garlic, chopped fresh dill and cayenne pepper to within an inch of the top.",1) Mix the distilled white vinegar and salt in a medium saucepan.
+0.0,0.4166666567325592,0.5791783928871155,1,1) Mix the distilled white vinegar and salt in a medium saucepan.,3) Pour the hot distilled white vinegar and salt mixture into the containers with the garlic mixture.
+1.0,1.0,0.9651785492897034,1,2) Bring to a boil.,2) Bring to a boil.
+1.0,1.0,0.9711925983428955,1,3) Pour the hot distilled white vinegar and salt mixture into the containers with the garlic mixture.,3) Pour the hot distilled white vinegar and salt mixture into the containers with the garlic mixture.
+0.0,0.0,0.06869953870773315,1,4) Fill to approximately 1/4 inch from the top.,1) Mix the distilled white vinegar and salt in a medium saucepan.
+1.0,1.0,0.9714791774749756,1,0) Heat olive oil in a large Dutch oven over medium heat.,0) Heat olive oil in a large Dutch oven over medium heat.
+1.0,1.0,0.9714791774749756,1,0) Heat olive oil in a large Dutch oven over medium heat.,0) Heat olive oil in a large Dutch oven over medium heat.
+1.0,1.0,0.9713872671127319,1,"1) Sprinkle chicken with garlic powder, and brown on both sides.","1) Sprinkle chicken with garlic powder, and brown on both sides."
+1.0,1.0,0.971707820892334,1,"3) Spoon off chicken fat, and return pan to stove.","3) Spoon off chicken fat, and return pan to stove."
+1.0,1.0,0.9673908948898315,1,5) Remove to a medium bowl.,5) Remove to a medium bowl.
+1.0,1.0,0.9696303009986877,1,"7) Season with garlic salt, pepper, and poultry seasoning.","7) Season with garlic salt, pepper, and poultry seasoning."
+0.0,0.190476194024086,0.31318414211273193,1,"8) Stir in wine, and add to onion and mushrooms.","6) In a separate bowl, mix together basil, oregano, rosemary, and thyme."
+0.0,0.125,0.016152871772646904,1,"8) Stir in wine, and add to onion and mushrooms.",9) Return chicken to Dutch oven.
+1.0,1.0,0.9681054949760437,1,9) Return chicken to Dutch oven.,9) Return chicken to Dutch oven.
+1.0,1.0,0.9725395441055298,1,"10) Pour mushroom mixture and broth over chicken; cover, and cook over low heat until meat begins to fall off the bone, about 1 1/2 hours.","10) Pour mushroom mixture and broth over chicken; cover, and cook over low heat until meat begins to fall off the bone, about 1 1/2 hours."
+1.0,1.0,0.9684546589851379,1,0) Preheat oven to 350 degrees F (175 degrees C).,0) Preheat oven to 350 degrees F (175 degrees C).
+0.0,0.11764705926179886,0.5421359539031982,1,"2) Blend in the eggs, mixing well.","3) Mix in the flour, baking soda and salt to the egg mixture."
+1.0,1.0,0.9710113406181335,1,"3) Mix in the flour, baking soda and salt to the egg mixture.","3) Mix in the flour, baking soda and salt to the egg mixture."
+1.0,1.0,0.9708207845687866,1,4) Reserve 1/2 cup of the chopped candy bars for the topping.,4) Reserve 1/2 cup of the chopped candy bars for the topping.
+0.0,0.0,0.02701842039823532,1,8) Bake at 350 degrees F (175 degrees C) for 25 to 30 minutes or until lightly browned.,5) Stir the remaining candy into the flour mixture.
+1.0,1.0,0.9715348482131958,1,9) Cool in pan on a wire rack then cut into squares.,9) Cool in pan on a wire rack then cut into squares.
+1.0,1.0,0.9715348482131958,1,9) Cool in pan on a wire rack then cut into squares.,9) Cool in pan on a wire rack then cut into squares.
+1.0,1.0,0.9721781015396118,1,"1) In a 1-1/2 quart casserole dish, combine mayonnaise, sour cream, soup mix, artichoke hearts, cheese and crab meat.","1) In a 1-1/2 quart casserole dish, combine mayonnaise, sour cream, soup mix, artichoke hearts, cheese and crab meat."
+0.0,0.0,0.0660591870546341,1,2) Bake uncovered for 30 minutes.,"1) In a 1-1/2 quart casserole dish, combine mayonnaise, sour cream, soup mix, artichoke hearts, cheese and crab meat."
+1.0,1.0,0.9627244472503662,1,3) Serve immediately.,3) Serve immediately.
+1.0,1.0,0.9712088704109192,1,3) Cover and cook on low for 8-9 hours or until vegetables are tender and sausage is heated through.,3) Cover and cook on low for 8-9 hours or until vegetables are tender and sausage is heated through.
+1.0,1.0,0.9712088704109192,1,3) Cover and cook on low for 8-9 hours or until vegetables are tender and sausage is heated through.,3) Cover and cook on low for 8-9 hours or until vegetables are tender and sausage is heated through.
+1.0,1.0,0.9712088704109192,1,3) Cover and cook on low for 8-9 hours or until vegetables are tender and sausage is heated through.,3) Cover and cook on low for 8-9 hours or until vegetables are tender and sausage is heated through.
+1.0,1.0,0.9712192416191101,1,0) Bring a large pot of salted water to a boil.,0) Bring a large pot of salted water to a boil.
+1.0,1.0,0.9730647206306458,1,"1) Drop in potatoes and cook until tender but still firm, about 15 minutes.","1) Drop in potatoes and cook until tender but still firm, about 15 minutes."
+1.0,1.0,0.970055103302002,1,"2) Drain, cool slightly, and peel.","2) Drain, cool slightly, and peel."
+1.0,1.0,0.9714658856391907,1,"3) Season with salt, then mash potatoes with fork.","3) Season with salt, then mash potatoes with fork."
+0.0,0.0,0.04866592958569527,1,5) Knead in enough flour to make a soft dough.,"3) Season with salt, then mash potatoes with fork."
+1.0,1.0,0.9706000685691833,1,5) Knead in enough flour to make a soft dough.,5) Knead in enough flour to make a soft dough.
+0.0,0.2666666805744171,0.3941221833229065,1,"6) On a floured surface, roll dough into a long rope.",7) Cut the rope into 1/2-inch pieces.
+0.0,0.2666666805744171,0.3941221833229065,1,"6) On a floured surface, roll dough into a long rope.",7) Cut the rope into 1/2-inch pieces.
+0.0,0.07692307978868484,0.08231361210346222,1,8) Bring a large pot of lightly salted water to a boil.,"9) Drop in gnocchi, and cook until they float to the top, about 3 to 5 minutes."
+0.0,0.46666666865348816,0.31464242935180664,1,"9) Drop in gnocchi, and cook until they float to the top, about 3 to 5 minutes.","1) Drop in potatoes and cook until tender but still firm, about 15 minutes."
+0.0,0.0,0.30914372205734253,1,10) Serve with pasta sauce.,"9) Drop in gnocchi, and cook until they float to the top, about 3 to 5 minutes."
+0.0,0.17391304671764374,0.07991045713424683,1,"0) In a large bowl, lightly toss bread and water.","1) In a skillet, saute celery, onion and mushrooms in oil until tender, stirring constantly."
+1.0,1.0,0.9720945358276367,1,"1) In a skillet, saute celery, onion and mushrooms in oil until tender, stirring constantly.","1) In a skillet, saute celery, onion and mushrooms in oil until tender, stirring constantly."
+1.0,1.0,0.9667070508003235,1,2) Stir into bread mixture.,2) Stir into bread mixture.
+0.0,0.0,0.28613725304603577,1,3) Add remaining ingredients; mix well.,4) Place in a greased 2-qt casserole.
+0.0,0.10000000149011612,0.25591880083084106,1,4) Place in a greased 2-qt casserole.,"1) In a skillet, saute celery, onion and mushrooms in oil until tender, stirring constantly."
+1.0,1.0,0.970524787902832,1,5) Cover and bake at 350 degrees F (176 degrees C) for 30 minutes.,5) Cover and bake at 350 degrees F (176 degrees C) for 30 minutes.
+1.0,1.0,0.9711199402809143,1,0) Heat oil in a large saucepan over medium heat.,0) Heat oil in a large saucepan over medium heat.
+1.0,1.0,0.9721006155014038,1,"1) Stir in onion, and cook until softened, about 2 minutes.","1) Stir in onion, and cook until softened, about 2 minutes."
+1.0,1.0,0.9721006155014038,1,"1) Stir in onion, and cook until softened, about 2 minutes.","1) Stir in onion, and cook until softened, about 2 minutes."
+0.0,0.14814814925193787,0.05125303938984871,1,"2) Stir in beans and corn, then add sugar, salsa, and pepper flakes; mix well.",4) Melt 2 teaspoons of the butter in a large skillet over medium heat.
+1.0,1.0,0.9729958772659302,1,"2) Stir in beans and corn, then add sugar, salsa, and pepper flakes; mix well.","2) Stir in beans and corn, then add sugar, salsa, and pepper flakes; mix well."
+0.0,0.0,0.1307741105556488,1,"3) Cook until heated through, about 3 minutes.","2) Stir in beans and corn, then add sugar, salsa, and pepper flakes; mix well."
+0.0,0.0,0.42585501074790955,1,"3) Cook until heated through, about 3 minutes.",0) Heat oil in a large saucepan over medium heat.
+1.0,1.0,0.9707034826278687,1,4) Melt 2 teaspoons of the butter in a large skillet over medium heat.,4) Melt 2 teaspoons of the butter in a large skillet over medium heat.
+0.0,0.2142857164144516,0.2631661593914032,1,"5) Place a tortilla in the skillet, sprinkle evenly with cheese, then top with some of the bean mixture.",4) Melt 2 teaspoons of the butter in a large skillet over medium heat.
+0.0,0.12903225421905518,0.13068117201328278,1,"6) Place another tortilla on top, cook until golden, then flip and cook on the other side.","2) Stir in beans and corn, then add sugar, salsa, and pepper flakes; mix well."
+0.0,0.0,0.06991397589445114,1,7) Repeat with remaining tortillas and filling.,"3) Cook until heated through, about 3 minutes."
+1.0,1.0,0.9718461632728577,1,"0) In a medium bowl, stir together the oats, flour, baking soda and brown sugar.","0) In a medium bowl, stir together the oats, flour, baking soda and brown sugar."
+0.0,0.1875,0.24329660832881927,1,"0) In a medium bowl, stir together the oats, flour, baking soda and brown sugar.","6) Stir in 2 teaspoons of water, 1 tablespoon of raisins and 1 tablespoon of mini semisweet chocolate chips."
+0.0,0.095238097012043,0.2691222131252289,1,"0) In a medium bowl, stir together the oats, flour, baking soda and brown sugar.",1) Cut in the shortening until the mixture resembles cornmeal.
+0.0,0.0,0.23423124849796295,1,"0) In a medium bowl, stir together the oats, flour, baking soda and brown sugar.",3) Measure 1/2 cup of the mixture into re-sealable bags or containers for storage.
+0.0,0.0833333358168602,0.4854258894920349,1,"0) In a medium bowl, stir together the oats, flour, baking soda and brown sugar.","5) To make the cookies, empty one package of the mix into a bowl."
+0.0,0.095238097012043,0.250324547290802,1,1) Cut in the shortening until the mixture resembles cornmeal.,3) Measure 1/2 cup of the mixture into re-sealable bags or containers for storage.
+1.0,1.0,0.9710522890090942,1,2) There should be no lumps of shortening left.,2) There should be no lumps of shortening left.
+0.0,0.095238097012043,0.1760658323764801,1,3) Measure 1/2 cup of the mixture into re-sealable bags or containers for storage.,1) Cut in the shortening until the mixture resembles cornmeal.
+1.0,1.0,0.9717850685119629,1,3) Measure 1/2 cup of the mixture into re-sealable bags or containers for storage.,3) Measure 1/2 cup of the mixture into re-sealable bags or containers for storage.
+1.0,1.0,0.9722177982330322,1,"5) To make the cookies, empty one package of the mix into a bowl.","5) To make the cookies, empty one package of the mix into a bowl."
+0.0,0.06666667014360428,0.35473671555519104,1,"6) Stir in 2 teaspoons of water, 1 tablespoon of raisins and 1 tablespoon of mini semisweet chocolate chips.","5) To make the cookies, empty one package of the mix into a bowl."
+0.0,0.13333334028720856,0.4596242606639862,1,"6) Stir in 2 teaspoons of water, 1 tablespoon of raisins and 1 tablespoon of mini semisweet chocolate chips.",7) Mix well and shape teaspoonfuls of dough into small balls.
+1.0,1.0,0.9712305068969727,1,7) Mix well and shape teaspoonfuls of dough into small balls.,7) Mix well and shape teaspoonfuls of dough into small balls.
+1.0,1.0,0.97406005859375,1,8) Place balls on an ungreased cookie sheet and flatten with the buttered bottom of a glass dipped in sugar.,8) Place balls on an ungreased cookie sheet and flatten with the buttered bottom of a glass dipped in sugar.
+0.0,0.0,0.2833262085914612,1,8) Place balls on an ungreased cookie sheet and flatten with the buttered bottom of a glass dipped in sugar.,9) Follow you oven's instructions for baking.
+0.0,0.10000000149011612,0.03384954482316971,1,9) Follow you oven's instructions for baking.,3) Measure 1/2 cup of the mixture into re-sealable bags or containers for storage.
+1.0,1.0,0.9684546589851379,1,0) Preheat oven to 350 degrees F (175 degrees C).,0) Preheat oven to 350 degrees F (175 degrees C).
+0.0,0.1111111119389534,0.04330110922455788,1,"1) In a medium mixing bowl, whip cream cheese until fluffy.",7) Bake in preheated oven for 20 minutes.
+0.0,0.1428571492433548,0.41787639260292053,1,"1) In a medium mixing bowl, whip cream cheese until fluffy.",3) Mix until smooth.
+0.0,0.0,0.22900152206420898,1,2) Add 1/2 cup sugar and vanilla extract.,3) Mix until smooth.
+1.0,1.0,0.9717472195625305,1,2) Add 1/2 cup sugar and vanilla extract.,2) Add 1/2 cup sugar and vanilla extract.
+0.0,0.0,0.1833866834640503,1,4) Add eggs.,3) Mix until smooth.
+1.0,1.0,0.9710069894790649,1,5) Beat until all ingredients are thoroughly combined.,5) Beat until all ingredients are thoroughly combined.
+0.0,0.0,0.26369789242744446,1,6) Pour mixture into pastry shells.,5) Beat until all ingredients are thoroughly combined.
+1.0,1.0,0.9699019193649292,1,8) Remove and let stand for 5 minutes.,8) Remove and let stand for 5 minutes.
+0.0,0.0,0.36466917395591736,1,"9) In a small bowl, combine sour cream and 3 tablespoons sugar.","10) Mix well, then spread half of mixture over each pie."
+0.0,0.0,0.36466917395591736,1,"9) In a small bowl, combine sour cream and 3 tablespoons sugar.","10) Mix well, then spread half of mixture over each pie."
+1.0,1.0,0.9706564545631409,1,"10) Mix well, then spread half of mixture over each pie.","10) Mix well, then spread half of mixture over each pie."
+0.0,0.0,0.061342790722846985,1,11) Turn off oven.,"10) Mix well, then spread half of mixture over each pie."
+0.0,0.0,0.018892906606197357,1,13) Remove and chill overnight.,12) Place pies in oven for 15 minutes.
+0.0,0.0,0.022762352600693703,1,"14) Before serving, top each pie with 1 cup of strawberries.",13) Remove and chill overnight.
+0.0,0.0,0.011374076828360558,1,"14) Before serving, top each pie with 1 cup of strawberries.",8) Remove and let stand for 5 minutes.
+0.0,0.06896551698446274,0.09471103549003601,1,"0) Prepare biscuits (enough to make 4 cups crumbled), and one 8x8 inch pan cornbread according to package directions.",1) Preheat oven to 350 degrees F (175 degrees C).
+0.0,0.06896551698446274,0.09471103549003601,1,"0) Prepare biscuits (enough to make 4 cups crumbled), and one 8x8 inch pan cornbread according to package directions.",1) Preheat oven to 350 degrees F (175 degrees C).
+1.0,1.0,0.9677831530570984,1,1) Cool and crumble.,1) Cool and crumble.
+0.0,0.0,0.03523799404501915,1,"3) In a small pot, combine onion, celery, margarine and chicken broth.",2) Preheat oven to 350 degrees F (175 degrees C).
+1.0,1.0,0.9713776707649231,1,4) Bring to boil and cook vegetables until tender.,4) Bring to boil and cook vegetables until tender.
+1.0,1.0,0.9724819660186768,1,"5) In a 2-quart casserole dish, combine 4 cups crumbled cornbread, 4 cups biscuit crumbs, salt, pepper, sausage, chopped eggs and sage.","5) In a 2-quart casserole dish, combine 4 cups crumbled cornbread, 4 cups biscuit crumbs, salt, pepper, sausage, chopped eggs and sage."
+0.0,0.0,0.09558311849832535,1,"6) Pour broth and vegetables over bread mixture, and stir until combined.",7) Bake in the preheated oven for 30 to 45 minutes.
+0.0,0.0,0.03214050084352493,1,7) Bake in the preheated oven for 30 to 45 minutes.,"6) Pour broth and vegetables over bread mixture, and stir until combined."
+1.0,1.0,0.9711434841156006,1,7) Bake in the preheated oven for 30 to 45 minutes.,7) Bake in the preheated oven for 30 to 45 minutes.
+1.0,1.0,0.971807599067688,1,"1) Microwave on high heat approximately 30 seconds, until melted.","1) Microwave on high heat approximately 30 seconds, until melted."
+0.0,0.07692307978868484,0.028290921822190285,1,"2) Place apples in the bowl, and toss until coated with the caramel and light corn syrup mixture.","1) Microwave on high heat approximately 30 seconds, until melted."
+1.0,1.0,0.9684659242630005,1,3) Allow to cool before serving.,3) Allow to cool before serving.
+1.0,1.0,0.9735652208328247,1,"0) In a saucepan, cook beef, onion and garlic over medium heat until meat is no longer pink; drain.","0) In a saucepan, cook beef, onion and garlic over medium heat until meat is no longer pink; drain."
+0.0,0.07692307978868484,0.28997892141342163,1,"0) In a saucepan, cook beef, onion and garlic over medium heat until meat is no longer pink; drain.",1) Stir in the remaining ingredients; bring to a boil.
+0.0,0.19354838132858276,0.32594534754753113,1,"0) In a saucepan, cook beef, onion and garlic over medium heat until meat is no longer pink; drain.",2) Reduce heat; cover and simmer for 10-15 minutes or until heated through.
+0.0,0.07692307978868484,0.28997892141342163,1,"0) In a saucepan, cook beef, onion and garlic over medium heat until meat is no longer pink; drain.",1) Stir in the remaining ingredients; bring to a boil.
+0.0,0.07692307978868484,0.28997892141342163,1,"0) In a saucepan, cook beef, onion and garlic over medium heat until meat is no longer pink; drain.",1) Stir in the remaining ingredients; bring to a boil.
+1.0,1.0,0.9703879356384277,1,1) Stir in the remaining ingredients; bring to a boil.,1) Stir in the remaining ingredients; bring to a boil.
+1.0,1.0,0.9703879356384277,1,1) Stir in the remaining ingredients; bring to a boil.,1) Stir in the remaining ingredients; bring to a boil.
+1.0,1.0,0.9703879356384277,1,1) Stir in the remaining ingredients; bring to a boil.,1) Stir in the remaining ingredients; bring to a boil.
+1.0,1.0,0.9722207188606262,1,2) Reduce heat; cover and simmer for 10-15 minutes or until heated through.,2) Reduce heat; cover and simmer for 10-15 minutes or until heated through.
+1.0,1.0,0.9722207188606262,1,2) Reduce heat; cover and simmer for 10-15 minutes or until heated through.,2) Reduce heat; cover and simmer for 10-15 minutes or until heated through.
+0.0,0.1818181872367859,0.1633310467004776,1,1) Add 1/2 of the garlic.,7) Add the wine and tomatoes; stir.
+1.0,1.0,0.9706253409385681,1,2) Season flour with poultry seasoning.,2) Season flour with poultry seasoning.
+1.0,1.0,0.9729730486869812,1,"3) Dredge chicken parts in flour, then brown in the skillet for 4 or 5 minutes.","3) Dredge chicken parts in flour, then brown in the skillet for 4 or 5 minutes."
+1.0,1.0,0.97199946641922,1,"4) Add the sausage, and saute for a few minutes.","4) Add the sausage, and saute for a few minutes."
+0.0,0.2666666805744171,0.1839473992586136,1,"5) Add the onion, carrots, mushrooms, rosemary and the remaining garlic.",7) Add the wine and tomatoes; stir.
+1.0,1.0,0.9713143706321716,1,9) Season with salt and pepper to taste and let simmer for another 10 minutes.,9) Season with salt and pepper to taste and let simmer for another 10 minutes.
+0.0,0.0,0.06545654684305191,1,"10) Let cool covered for 10 minutes, then serve.",6) Stir all together.
+1.0,1.0,0.9682838320732117,1,0) Preheat oven to 400 degrees F (200 degrees C).,0) Preheat oven to 400 degrees F (200 degrees C).
+1.0,1.0,0.9718862771987915,1,"1) Wash beets, and place in a roasting pan.","1) Wash beets, and place in a roasting pan."
+0.0,0.0,0.08645958453416824,1,"2) Bake for 45 minutes to 1 hour, or until tender. Set aside to cool.",3) Melt butter in a large skillet over medium heat.
+0.0,0.0,0.008838686160743237,1,3) Melt butter in a large skillet over medium heat.,"5) When the beets are cool enough to handle, peel and coursely chop."
+1.0,1.0,0.971245527267456,1,"4) Stir in onion, pears, sugar, and vinegar; cook, stirring frequently, for 20 minutes.","4) Stir in onion, pears, sugar, and vinegar; cook, stirring frequently, for 20 minutes."
+1.0,1.0,0.971245527267456,1,"4) Stir in onion, pears, sugar, and vinegar; cook, stirring frequently, for 20 minutes.","4) Stir in onion, pears, sugar, and vinegar; cook, stirring frequently, for 20 minutes."
+0.0,0.1538461595773697,0.21087157726287842,1,"4) Stir in onion, pears, sugar, and vinegar; cook, stirring frequently, for 20 minutes.",7) Add salt and 1/2 of the beets; pulse 4 to 5 times.
+1.0,1.0,0.971245527267456,1,"4) Stir in onion, pears, sugar, and vinegar; cook, stirring frequently, for 20 minutes.","4) Stir in onion, pears, sugar, and vinegar; cook, stirring frequently, for 20 minutes."
+0.0,0.07692307978868484,0.05280310660600662,1,"5) When the beets are cool enough to handle, peel and coursely chop.","4) Stir in onion, pears, sugar, and vinegar; cook, stirring frequently, for 20 minutes."
+1.0,1.0,0.9719146490097046,1,6) Puree onion mixture in a food processor with metal blade.,6) Puree onion mixture in a food processor with metal blade.
+1.0,1.0,0.971986711025238,1,7) Add salt and 1/2 of the beets; pulse 4 to 5 times.,7) Add salt and 1/2 of the beets; pulse 4 to 5 times.
+1.0,1.0,0.971986711025238,1,7) Add salt and 1/2 of the beets; pulse 4 to 5 times.,7) Add salt and 1/2 of the beets; pulse 4 to 5 times.
+0.0,0.5454545617103577,0.5039827227592468,1,"8) Add remaining beets, and pulse 2 to 3 times.",7) Add salt and 1/2 of the beets; pulse 4 to 5 times.
+1.0,1.0,0.9730466604232788,1,"8) Add remaining beets, and pulse 2 to 3 times.","8) Add remaining beets, and pulse 2 to 3 times."
+0.0,0.1818181872367859,0.21186384558677673,1,"0) Microwave chocolate and 2 tablespoons of the milk in large microwave-safe bowl on high 1 1/2 to 2 minutes or until chocolate is almost melted, stirring halfway through heating time.",3) Gently fold in 3 1/2 cups of the whipped topping until no streaks remain.
+1.0,1.0,0.972671627998352,1,"1) Beat in cream cheese, sugar, and remaining milk with wire whisk until blended.","1) Beat in cream cheese, sugar, and remaining milk with wire whisk until blended."
+0.0,0.0,0.014177149161696434,1,2) Refrigerate 10 minutes.,"1) Beat in cream cheese, sugar, and remaining milk with wire whisk until blended."
+1.0,1.0,0.9722065925598145,1,3) Gently fold in 3 1/2 cups of the whipped topping until no streaks remain.,3) Gently fold in 3 1/2 cups of the whipped topping until no streaks remain.
+1.0,1.0,0.9637188911437988,1,4) Spoon into crust.,4) Spoon into crust.
+0.0,0.0,0.04628496617078781,1,5) Freeze pie 4 hours.,"1) Beat in cream cheese, sugar, and remaining milk with wire whisk until blended."
+1.0,1.0,0.9722481966018677,1,"6) Before cutting pie, let stand at room temperature 15 minutes.","6) Before cutting pie, let stand at room temperature 15 minutes."
+0.0,0.0,0.08550594747066498,1,7) Serve with remaining whipped topping.,"6) Before cutting pie, let stand at room temperature 15 minutes."
+1.0,1.0,0.9685237407684326,1,7) Serve with remaining whipped topping.,7) Serve with remaining whipped topping.
+1.0,1.0,0.9695303440093994,1,"0) In a bowl, combine the first seven ingredients.","0) In a bowl, combine the first seven ingredients."
+0.0,0.0,0.3092419505119324,1,"0) In a bowl, combine the first seven ingredients.",1) Crumble beef and sausage over mixture; mix well.
+1.0,1.0,0.9695303440093994,1,"0) In a bowl, combine the first seven ingredients.","0) In a bowl, combine the first seven ingredients."
+0.0,0.0,0.3600936830043793,1,1) Crumble beef and sausage over mixture; mix well.,"0) In a bowl, combine the first seven ingredients."
+0.0,0.0,0.2667035758495331,1,2) Shape into eight patties.,1) Crumble beef and sausage over mixture; mix well.
+0.0,0.07692307978868484,0.07609906047582626,1,"3) Grill, uncovered, over medium-hot heat for 4-6 minutes on each side or until no longer pink.",1) Crumble beef and sausage over mixture; mix well.
+1.0,1.0,0.9666212797164917,1,4) Serve on buns.,4) Serve on buns.

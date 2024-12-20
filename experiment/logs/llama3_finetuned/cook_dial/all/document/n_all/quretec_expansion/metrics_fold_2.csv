@@ -1,0 +1,731 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+0.0,0.0,0.06325729936361313,2,3 tablespoons crushed black peppercorns,1 teaspoon salt
+0.0,0.0,0.00922705139964819,2,2 (8 ounce) beef top sirloin steaks,1/2 cup heavy cream
+0.0,0.0,0.021867040544748306,2,1 tablespoon lemon pepper,1/2 cup heavy cream
+0.0,0.2857142984867096,0.1260388344526291,2,1 tablespoon lemon pepper,1 teaspoon salt
+0.0,0.0,0.061859115958213806,2,5 tablespoons butter,1 teaspoon white sugar (optional)
+0.0,0.0,0.008700191043317318,2,1/2 cup red wine,5) Reduce heat to low.
+1.0,1.0,0.9718112945556641,2,1/2 cup red wine,1/2 cup red wine
+0.0,0.0,0.01028401032090187,2,1/4 cup chopped green onions,1 teaspoon white sugar (optional)
+1.0,1.0,0.9710556268692017,2,1/2 cup heavy cream,1/2 cup heavy cream
+0.0,0.0,0.054557088762521744,2,1/2 cup heavy cream,1 teaspoon white sugar (optional)
+0.0,0.10000000149011612,0.12203534692525864,2,0) Press crushed peppercorns into both sides of each steak.,"11) Stir sugar into sauce, and then spoon over meat."
+0.0,0.0,0.05304249748587608,2,"1) Sprinkle with lemon pepper, and salt.","9) Cook, stirring sauce, until hot."
+0.0,0.10526315867900848,0.10289158672094345,2,2) Melt butter in a large skillet over medium-high heat.,"11) Stir sugar into sauce, and then spoon over meat."
+0.0,0.11764705926179886,0.48171737790107727,2,"3) Stir in garlic and wine, and cook for 1 minute.","9) Cook, stirring sauce, until hot."
+0.0,0.17391304671764374,0.19091831147670746,2,"4) Arrange steaks in pan, and cook for 5 to 10 minutes per side, or until desired doneness.",5) Reduce heat to low.
+0.0,0.0,0.020426083356142044,2,5) Reduce heat to low.,"11) Stir sugar into sauce, and then spoon over meat."
+0.0,0.0,0.008866928517818451,2,<no_answer>,"6) Pour brandy onto steaks, and carefully light with a match."
+0.0,0.125,0.49706634879112244,2,"9) Cook, stirring sauce, until hot.","11) Stir sugar into sauce, and then spoon over meat."
+0.0,0.0,0.18833740055561066,2,10) Transfer steaks to plates.,"11) Stir sugar into sauce, and then spoon over meat."
+0.0,0.0,0.18833740055561066,2,10) Transfer steaks to plates.,"11) Stir sugar into sauce, and then spoon over meat."
+0.0,0.1428571492433548,0.009122197516262531,2,"1 spaghetti squash, halved lengthwise and seeded",1) Spray a non-stick saucepan with cooking spray.
+0.0,0.1428571492433548,0.009122197516262531,2,"1 spaghetti squash, halved lengthwise and seeded",1) Spray a non-stick saucepan with cooking spray.
+0.0,0.20000000298023224,0.009231634438037872,2,"1 onion, chopped",1) Spray a non-stick saucepan with cooking spray.
+0.0,0.0,0.0349787212908268,2,2 tablespoons minced garlic,12) Top with Parmesan cheese.
+1.0,1.0,0.9708121418952942,2,2 (14 ounce) cans stewed tomatoes,2 (14 ounce) cans stewed tomatoes
+0.0,0.1818181872367859,0.009737806394696236,2,1 tablespoon dried basil,1) Spray a non-stick saucepan with cooking spray.
+0.0,0.0,0.0099550262093544,2,black pepper to taste,1) Spray a non-stick saucepan with cooking spray.
+0.0,0.1666666716337204,0.008962592110037804,2,1 cup shredded mozzarella cheese,1) Spray a non-stick saucepan with cooking spray.
+0.0,0.20000000298023224,0.35135212540626526,2,1 cup shredded mozzarella cheese,12) Top with Parmesan cheese.
+0.0,0.0,0.06308816373348236,2,0) Preheat oven to 325 degrees F (165 degrees C).,1) Spray a non-stick saucepan with cooking spray.
+0.0,0.5882353186607361,0.5860764384269714,2,1) Spray a baking sheet with a thin layer of cooking spray.,1) Spray a non-stick saucepan with cooking spray.
+0.0,0.0,0.02368878200650215,2,2) Place squash halves cut side down on the baking sheet.,"5) Meanwhile, spray a non-stick saucepan with cooking spray."
+0.0,0.10526315867900848,0.20165753364562988,2,"4) Remove from oven, and cool.","13) Bake for 20 minutes in the preheated oven, or until Parmesan cheese melts."
+0.0,0.0,0.00907184649258852,2,<no_answer>,"4) Remove from oven, and cool."
+0.0,0.0,0.026291856542229652,2,"6) Over medium heat, saute the onion and garlic until golden brown.","9) Remove squash strands with a fork, reserving the shells."
+0.0,0.0,0.0836261659860611,2,"7) Stir in tomatoes, basil, bouillon cube, and black pepper.",12) Top with Parmesan cheese.
+1.0,1.0,0.9714113473892212,2,"8) Cook for about 15 minutes, or until you have a medium thick sauce.","8) Cook for about 15 minutes, or until you have a medium thick sauce."
+0.0,0.1538461595773697,0.019404666498303413,2,"9) Remove squash strands with a fork, reserving the shells.",12) Top with Parmesan cheese.
+0.0,0.06666667014360428,0.35938596725463867,2,"10) Layer each half with a spoonful of the sauce, a layer of spaghetti squash strands, olives, and mozzarella cheese.","8) Cook for about 15 minutes, or until you have a medium thick sauce."
+0.0,0.1818181872367859,0.36718106269836426,2,"10) Layer each half with a spoonful of the sauce, a layer of spaghetti squash strands, olives, and mozzarella cheese.",12) Top with Parmesan cheese.
+0.0,0.0,0.1261565387248993,2,"11) Repeat layers until shells are full, or until all of the ingredients are used.",12) Top with Parmesan cheese.
+1.0,1.0,0.9668440818786621,2,12) Top with Parmesan cheese.,12) Top with Parmesan cheese.
+0.0,0.2222222238779068,0.5245177745819092,2,"13) Bake for 20 minutes in the preheated oven, or until Parmesan cheese melts.",12) Top with Parmesan cheese.
+0.0,0.2222222238779068,0.5245177745819092,2,"13) Bake for 20 minutes in the preheated oven, or until Parmesan cheese melts.",12) Top with Parmesan cheese.
+1.0,1.0,0.9713700413703918,2,"1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.","1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion."
+1.0,1.0,0.9713700413703918,2,"1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.","1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion."
+0.0,0.13793103396892548,0.32243767380714417,2,"1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+0.0,0.11764705926179886,0.4777300953865051,2,1/2 cup mayonnaise,"1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion."
+0.0,0.13793103396892548,0.32243767380714417,2,"1) In a medium-sized mixing bowl, stir together mayonnaise, sour cream, Parmesan cheese and onion.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+1.0,1.0,0.9735879302024841,2,"2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+1.0,1.0,0.9735879302024841,2,"2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper.","2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+0.0,0.0,0.3305257558822632,2,3) Transfer mixture to a shallow baking dish.,"2) When these ingredients are combined, mix in artichoke hearts, lemon juice, salt and pepper."
+1.0,1.0,0.9718238115310669,2,"4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top.","4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top."
+1.0,1.0,0.9718238115310669,2,"4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top.","4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top."
+1.0,1.0,0.9718238115310669,2,"4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top.","4) Bake at 400 degrees F (200 degrees C) for 20 minutes, or until light brown on top."
+0.0,0.4444444477558136,0.20112723112106323,2,2 cups all-purpose flour,2 cups packed brown sugar
+0.0,0.0,0.012184945866465569,2,1/4 teaspoon salt,2) Empty jar of brownie mix into a large mixing bowl; stir to break up lumps.
+0.0,0.0,0.017409630119800568,2,3/4 cup chopped pecans,2 beaten eggs
+0.0,0.095238097012043,0.07958271354436874,2,0) Preheat oven to 375 degrees F (190 degrees C).,6) Allow to cool in the pan some before cutting into squares.
+0.0,0.0,0.086653932929039,2,2) Empty jar of brownie mix into a large mixing bowl; stir to break up lumps.,5) Bake for 25 minutes.
+0.0,0.1764705926179886,0.18893533945083618,2,"3) Add 3/4 cup softened butter, 2 beaten eggs, and 2 teaspoons of vanilla extract; mix until well blended.",2) Empty jar of brownie mix into a large mixing bowl; stir to break up lumps.
+0.0,0.0,0.2882158160209656,2,4) Spread batter evenly in the prepared pan.,"3) Add 3/4 cup softened butter, 2 beaten eggs, and 2 teaspoons of vanilla extract; mix until well blended."
+0.0,0.05714285746216774,0.3002895712852478,2,"0) In a large stockpot or turkey fryer, heat oil to 400 degrees F (200 degrees C).",5) Make sure the hole at the neck is open at least 2 inches so the oil can flow freely through the bird.
+0.0,0.30000001192092896,0.5028814077377319,2,"0) In a large stockpot or turkey fryer, heat oil to 400 degrees F (200 degrees C).","9) Maintain the temperature of the oil at 350 degrees F (175 degrees C), and cook turkey for 3 1/2 minutes per pound, about 45 minutes."
+0.0,0.0,0.008957239799201488,2,400 degrees F,5) Make sure the hole at the neck is open at least 2 inches so the oil can flow freely through the bird.
+0.0,0.1621621549129486,0.3407810628414154,2,"1) Be sure to leave room for the turkey, or the oil will spill over.","9) Maintain the temperature of the oil at 350 degrees F (175 degrees C), and cook turkey for 3 1/2 minutes per pound, about 45 minutes."
+0.0,0.0,0.07561316341161728,2,"3) Rinse turkey, and thoroughly pat dry with paper towels.",11) Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C).
+0.0,0.0,0.10195684432983398,2,"3) Rinse turkey, and thoroughly pat dry with paper towels.",5) Make sure the hole at the neck is open at least 2 inches so the oil can flow freely through the bird.
+0.0,0.0,0.10401689261198044,2,4) Rub Creole seasoning over turkey inside and out.,5) Make sure the hole at the neck is open at least 2 inches so the oil can flow freely through the bird.
+0.0,0.0,0.008722443133592606,2,5) Make sure the hole at the neck is open at least 2 inches so the oil can flow freely through the bird.,11) Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C).
+0.0,0.0,0.04307534918189049,2,6) Place the whole onion and turkey in drain basket.,5) Make sure the hole at the neck is open at least 2 inches so the oil can flow freely through the bird.
+0.0,0.05882352963089943,0.2855456471443176,2,7) The turkey should be placed in basket neck end first.,"9) Maintain the temperature of the oil at 350 degrees F (175 degrees C), and cook turkey for 3 1/2 minutes per pound, about 45 minutes."
+0.0,0.11428571492433548,0.5368548631668091,2,8) Slowly lower basket into hot oil to completely cover turkey.,"9) Maintain the temperature of the oil at 350 degrees F (175 degrees C), and cook turkey for 3 1/2 minutes per pound, about 45 minutes."
+0.0,0.0,0.018002033233642578,2,<no_answer>,"9) Maintain the temperature of the oil at 350 degrees F (175 degrees C), and cook turkey for 3 1/2 minutes per pound, about 45 minutes."
+0.0,0.0,0.16211195290088654,2,"10) Carefully remove basket from oil, and drain turkey.",11) Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C).
+1.0,1.0,0.9741522073745728,2,11) Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C).,11) Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C).
+0.0,0.0,0.10308270901441574,2,12) Finish draining turkey on the prepared platter.,11) Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C).
+0.0,0.0,0.10308270901441574,2,12) Finish draining turkey on the prepared platter.,11) Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C).
+0.0,0.10000000149011612,0.24972784519195557,2,1 cup corn,"6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+1.0,1.0,0.9713221192359924,2,"1 cup peeled, chopped jicama","1 cup peeled, chopped jicama"
+0.0,0.5,0.16580595076084137,2,"1 cup peeled, chopped jicama",1 cup corn
+0.0,0.0,0.02570454031229019,2,"1 lime, zested and juiced",2 tablespoons olive oil
+0.0,0.0,0.08835481107234955,2,2 tablespoons salt,"6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+0.0,0.0,0.024845268577337265,2,2 tablespoons olive oil,"6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+0.0,0.0,0.024557562544941902,2,0) Preheat grill for high heat.,2 tablespoons olive oil
+0.0,0.0714285746216774,0.013714546337723732,2,"1) In a medium bowl, mix together corn, red onion, jicama, red bell pepper, and cilantro.","5) Arrange fillets on grill grate, and cook for 3 minutes per side."
+1.0,1.0,0.9700362682342529,2,2) Stir in lime juice and zest.,2) Stir in lime juice and zest.
+0.0,0.06896551698446274,0.06193988770246506,2,"3) In a small bowl, combine cayenne pepper, ground black pepper, and salt.","6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+0.0,0.2142857164144516,0.2443464696407318,2,"4) Brush each fillet with olive oil, and sprinkle with spices.","6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+0.0,0.13333334028720856,0.23265020549297333,2,"5) Arrange fillets on grill grate, and cook for 3 minutes per side.","6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+1.0,1.0,0.9725309014320374,2,"6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa.","6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+1.0,1.0,0.9725309014320374,2,"6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa.","6) For each fiery fish taco, top two corn tortillas with fish, sour cream, and corn salsa."
+0.0,0.13333334028720856,0.02404201403260231,2,"1/2 green bell pepper, cut into thin strips",1 1/2 cups sweet and sour sauce
+0.0,0.0,0.01455726195126772,2,"3 teaspoons fresh ginger root, grated",1 1/2 cups sweet and sour sauce
+0.0,0.0,0.008589212782680988,2,1 1/2 tablespoons molasses,13) Fry egg rolls in batches in the hot oil until golden brown.
+0.0,0.1538461595773697,0.011147445067763329,2,1 1/2 (14 ounce) packages egg roll wrappers,1 quart oil for frying
+1.0,1.0,0.9723312258720398,2,1 1/2 (14 ounce) packages egg roll wrappers,1 1/2 (14 ounce) packages egg roll wrappers
+0.0,0.0,0.008957227692008018,2,0) Cook pork in a large wok over medium-high heat.,1 1/2 (14 ounce) packages egg roll wrappers
+0.0,0.0,0.009590990841388702,2,1) Drain and set aside.,13) Fry egg rolls in batches in the hot oil until golden brown.
+0.0,0.23529411852359772,0.5757585167884827,2,"3) In a small bowl, mix the cornstarch, soy sauce, and molasses until smooth.",7) Stir in the cornstarch mixture.
+0.0,0.3636363744735718,0.3410610556602478,2,"5) Stir in cabbage mixture in batches, cooking each batch 3 to 4 minutes, just until tender.",5) Stir in the cornstarch mixture.
+0.0,0.0,0.024640051648020744,2,<no_answer>,"5) Stir in cabbage mixture in batches, cooking each batch 3 to 4 minutes, just until tender."
+0.0,0.1428571492433548,0.23246321082115173,2,7) Stir in the cornstarch mixture.,"6) Return vegetables to bowl, and mix in pork."
+0.0,0.10000000149011612,0.033972542732954025,2,8) Heat 1 quart oil in a deep fryer to 365 degrees F (185 degrees C).,1) Drain and set aside.
+0.0,0.08695652335882187,0.39349785447120667,2,9) Place about 1 tablespoon filling on each egg roll wrapper.,13) Fry egg rolls in batches in the hot oil until golden brown.
+0.0,0.0,0.02717651054263115,2,10) Fold one corner of wrapper over filling.,14) Drain on paper towels and serve with sweet and sour sauce.
+0.0,0.0,0.0255748201161623,2,11) Fold wrapper sides over filling.,14) Drain on paper towels and serve with sweet and sour sauce.
+0.0,0.21052631735801697,0.48326006531715393,2,12) Roll wrappers to form egg rolls.,13) Fry egg rolls in batches in the hot oil until golden brown.
+1.0,1.0,0.9723508358001709,2,13) Fry egg rolls in batches in the hot oil until golden brown.,13) Fry egg rolls in batches in the hot oil until golden brown.
+0.0,0.4000000059604645,0.4445127546787262,2,until golden brown,13) Fry egg rolls in batches in the hot oil until golden brown.
+0.0,0.0,0.013725591823458672,2,14) Drain on paper towels and serve with sweet and sour sauce.,13) Fry egg rolls in batches in the hot oil until golden brown.
+1.0,1.0,0.9705130457878113,2,14) Drain on paper towels and serve with sweet and sour sauce.,14) Drain on paper towels and serve with sweet and sour sauce.
+0.0,0.0,0.027549266815185547,2,"3 hard-cooked eggs, chopped",1/2 cup mayonnaise
+0.0,0.0,0.009197126142680645,2,1 tablespoon diced pimientos,"2 English muffins, split and toasted"
+0.0,0.0,0.008836924098432064,2,1/8 teaspoon salt,"2 English muffins, split and toasted"
+0.0,0.1818181872367859,0.01007856149226427,2,"2 English muffins, split and toasted",2) Stir into the egg mixture.
+0.0,0.0,0.4864582121372223,2,"0) In a bowl, combine the eggs, crackers, celery and pimientos.",2) Stir into the egg mixture.
+0.0,0.0,0.04416404291987419,2,"1) In another bowl, combine the mayonnaise, milk, salt, garlic salt and pepper; mix well.",4) Broil for 3-4 minutes or until lightly browned.
+0.0,0.0,0.2672632038593292,2,"1) In another bowl, combine the mayonnaise, milk, salt, garlic salt and pepper; mix well.",2) Stir into the egg mixture.
+0.0,0.0,0.15324610471725464,2,3) Spoon about 1/3 cup onto each muffin half; place on an ungreased baking sheet.,2) Stir into the egg mixture.
+1.0,1.0,0.9697708487510681,2,4) Broil for 3-4 minutes or until lightly browned.,4) Broil for 3-4 minutes or until lightly browned.
+1.0,1.0,0.9697708487510681,2,4) Broil for 3-4 minutes or until lightly browned.,4) Broil for 3-4 minutes or until lightly browned.
+0.0,0.2222222238779068,0.12101227790117264,2,2 1/2 teaspoons vegetable oil,1/2 teaspoon dried oregano
+0.0,0.0,0.011758001521229744,2,3 cups chicken broth,1/2 teaspoon dried oregano
+0.0,0.0,0.011056330054998398,2,3 cups chicken broth,1/2 teaspoon ground cumin
+0.0,0.0,0.02325393259525299,2,1/2 teaspoon dried oregano,8) Add the cilantro and half of the reserved tortilla strips.
+0.0,0.5882353186607361,0.36148425936698914,2,"1 (15 ounce) can black beans, rinsed and drained","1 (15 ounce) can whole kernel corn, drained"
+0.0,0.0,0.014540879987180233,2,"1 (15 ounce) can whole kernel corn, drained",9) Ladle into individual bowls and garnish each bowl with some of the remaining strips.
+0.0,0.0,0.11888156086206436,2,1/2 cup salsa,8) Add the cilantro and half of the reserved tortilla strips.
+0.0,0.095238097012043,0.09222164750099182,2,0) Heat 2 teaspoons of the oil in a large pot over medium heat.,8) Add the cilantro and half of the reserved tortilla strips.
+0.0,0.10000000149011612,0.11716022342443466,2,"1) Add half of the tortilla strips, stirring often, until crisp.","4) Add the broth, cumin, chili powder and oregano to the pot."
+0.0,0.0,0.012102784588932991,2,2) Drain on paper towels.,8) Add the cilantro and half of the reserved tortilla strips.
+0.0,0.3333333432674408,0.4436246156692505,2,3) Repeat with remaining 1/2 teaspoon of oil and remaining tortilla strips and set aside.,8) Add the cilantro and half of the reserved tortilla strips.
+0.0,0.21052631735801697,0.20072215795516968,2,"4) Add the broth, cumin, chili powder and oregano to the pot.",8) Add the cilantro and half of the reserved tortilla strips.
+0.0,0.21052631735801697,0.31807103753089905,2,5) Raise heat to high and bring to a boil.,"4) Add the broth, cumin, chili powder and oregano to the pot."
+1.0,1.0,0.9702636003494263,2,"6) Add the beans, corn, chicken and salsa.","6) Add the beans, corn, chicken and salsa."
+0.0,0.0625,0.11931448429822922,2,"7) Reduce heat to low, stir and simmer for about 2 minutes, or until chicken is cooked through and no longer pink inside.",8) Add the cilantro and half of the reserved tortilla strips.
+0.0,0.0625,0.11931448429822922,2,"7) Reduce heat to low, stir and simmer for about 2 minutes, or until chicken is cooked through and no longer pink inside.",8) Add the cilantro and half of the reserved tortilla strips.
+1.0,1.0,0.9704360365867615,2,8) Add the cilantro and half of the reserved tortilla strips.,8) Add the cilantro and half of the reserved tortilla strips.
+0.0,0.260869562625885,0.42526641488075256,2,9) Ladle into individual bowls and garnish each bowl with some of the remaining strips.,8) Add the cilantro and half of the reserved tortilla strips.
+1.0,1.0,0.9717625379562378,2,9) Ladle into individual bowls and garnish each bowl with some of the remaining strips.,9) Ladle into individual bowls and garnish each bowl with some of the remaining strips.
+0.0,0.1666666716337204,0.38163456320762634,2,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.","1) In a skillet, brown the chops on both sides in oil."
+0.0,0.2222222238779068,0.4171307682991028,2,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.",1/2 teaspoon garlic powder
+0.0,0.0,0.011608265340328217,2,"6 pork loin chops (3/4 inch thick), trimmed",1/2 teaspoon garlic powder
+0.0,0.1666666716337204,0.38163456320762634,2,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.","1) In a skillet, brown the chops on both sides in oil."
+0.0,0.25,0.08622642606496811,2,1/2 cup all-purpose flour,1/2 teaspoon garlic powder
+0.0,0.2222222238779068,0.4171307682991028,2,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.",1/2 teaspoon garlic powder
+0.0,0.23999999463558197,0.3985579311847687,2,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.","5) If desired, thicken pan juices and serve with the pork chops."
+0.0,0.23999999463558197,0.3985579311847687,2,"0) In a shallow bowl, combine flour, salt, mustard and garlic powder; dredge pork chops.","5) If desired, thicken pan juices and serve with the pork chops."
+0.0,0.0,0.009461000561714172,2,<no_answer>,1/3 cup water
+0.0,0.095238097012043,0.5104703307151794,2,"1) In a skillet, brown the chops on both sides in oil.","5) If desired, thicken pan juices and serve with the pork chops."
+1.0,1.0,0.9696491360664368,2,2 tablespoons vegetable oil,2 tablespoons vegetable oil
+0.0,0.095238097012043,0.5104703307151794,2,"1) In a skillet, brown the chops on both sides in oil.","5) If desired, thicken pan juices and serve with the pork chops."
+0.0,0.0,0.00943940132856369,2,<no_answer>,"1) In a skillet, brown the chops on both sides in oil."
+0.0,0.0,0.1381615400314331,2,2) Place in a slow cooker.,"5) If desired, thicken pan juices and serve with the pork chops."
+0.0,0.21052631735801697,0.5182508826255798,2,3) Combine soup and water; pour over chops.,"5) If desired, thicken pan juices and serve with the pork chops."
+0.0,0.07999999821186066,0.3485361337661743,2,4) Cover and cook on low for 6-8 hours or until meat is tender.,"5) If desired, thicken pan juices and serve with the pork chops."
+0.0,0.0,0.05430278927087784,2,low,"5) If desired, thicken pan juices and serve with the pork chops."
+1.0,1.0,0.9718858003616333,2,"5) If desired, thicken pan juices and serve with the pork chops.","5) If desired, thicken pan juices and serve with the pork chops."
+0.0,0.0,0.04344910755753517,2,"5) If desired, thicken pan juices and serve with the pork chops.",1/2 teaspoon garlic powder
+1.0,1.0,0.9718858003616333,2,"5) If desired, thicken pan juices and serve with the pork chops.","5) If desired, thicken pan juices and serve with the pork chops."
+0.0,0.10526315867900848,0.3903857469558716,2,12 ounces chopped raw bacon,1) Place bacon in a skillet and cook over medium heat until the pieces are browned.
+0.0,0.0,0.008867225609719753,2,"5 button mushrooms, chopped",1/4 cup evaporated milk
+0.0,0.0,0.08350241184234619,2,1 egg,1/4 cup evaporated milk
+0.0,0.0,0.014088615775108337,2,"6 ounces shredded Swiss cheese, divided",1/4 cup evaporated milk
+0.0,0.0,0.08718708902597427,2,0) Preheat oven to 350 degrees F (175 degrees C).,1) Place bacon in a skillet and cook over medium heat until the pieces are browned.
+1.0,1.0,0.9725406765937805,2,1) Place bacon in a skillet and cook over medium heat until the pieces are browned.,1) Place bacon in a skillet and cook over medium heat until the pieces are browned.
+0.0,0.0,0.013962102122604847,2,2) Remove with a slotted spoon to paper towels.,1) Place bacon in a skillet and cook over medium heat until the pieces are browned.
+0.0,0.10526315867900848,0.3716282248497009,2,3) Discard all but 1 tablespoon of bacon grease.,"12) Drain fat, and sprinkle with remaining cheese and bacon."
+0.0,0.20000000298023224,0.060914527624845505,2,"4) Stir in onions and mushrooms, and cook until soft.","12) Drain fat, and sprinkle with remaining cheese and bacon."
+0.0,0.0,0.009738868102431297,2,5) Remove from heat.,"9) Stir in cornflake crumbs, and mix until well blended."
+0.0,0.21052631735801697,0.2023210972547531,2,"6) In a large bowl, stir together beef, egg, and milk.","10) Shape into a loaf, and place in a meatloaf pan."
+1.0,1.0,0.9709320068359375,2,1/4 cup evaporated milk,1/4 cup evaporated milk
+0.0,0.375,0.24977995455265045,2,7) Stir in the onion and mushrooms.,"6) In a large bowl, stir together beef, egg, and milk."
+0.0,0.1818181872367859,0.1699228733778,2,"8) Mix in about 4 ounces of Swiss cheese, and all but 1 tablespoon of bacon.",7) Stir in the onion and mushrooms.
+0.0,0.125,0.015078610740602016,2,"6 ounces shredded Swiss cheese, divided","6) In a large bowl, stir together beef, egg, and milk."
+1.0,1.0,0.9714801907539368,2,"9) Stir in cornflake crumbs, and mix until well blended.","9) Stir in cornflake crumbs, and mix until well blended."
+0.0,0.21052631735801697,0.2680496275424957,2,"10) Shape into a loaf, and place in a meatloaf pan.","9) Stir in cornflake crumbs, and mix until well blended."
+1.0,1.0,0.9708772897720337,2,"10) Shape into a loaf, and place in a meatloaf pan.","10) Shape into a loaf, and place in a meatloaf pan."
+0.0,0.0,0.08139953017234802,2,11) Bake in a preheated oven for 1 hour.,"12) Drain fat, and sprinkle with remaining cheese and bacon."
+0.0,0.17391304671764374,0.2155734896659851,2,"12) Drain fat, and sprinkle with remaining cheese and bacon.","13) Return to oven, and bake until cheese is melted, about 5 minutes."
+1.0,1.0,0.9722805619239807,2,"13) Return to oven, and bake until cheese is melted, about 5 minutes.","13) Return to oven, and bake until cheese is melted, about 5 minutes."
+0.0,0.0,0.010553918778896332,2,1 teaspoon ground cinnamon,"2) Blend in applesauce, and then sour cream or buttermilk."
+0.0,0.0,0.05551065132021904,2,1/4 teaspoon baking powder,5) Stir in raisins
+0.0,0.0,0.012328428216278553,2,0) Preheat oven to 350 degrees F (175 degrees C).,5) Stir in raisins
+0.0,0.0,0.1397562175989151,2,"2) Beat together eggs, sugar, and oil.",5) Stir in raisins.
+0.0,0.1428571492433548,0.16236168146133423,2,"3) Blend in applesauce, and then sour cream or buttermilk.",5) Stir in raisins.
+0.0,0.1538461595773697,0.21917663514614105,2,"4) Mix in flour, baking powder, soda, and cinnamon.",5) Stir in raisins.
+1.0,1.0,0.9674283266067505,2,5) Stir in raisins.,5) Stir in raisins.
+0.0,0.0,0.20071303844451904,2,6) Pour batter into prepared pans.,5) Stir in raisins.
+0.0,0.0,0.3030224144458771,2,7) Bake for 80 minutes.,6) Pour batter into prepared pans.
+0.0,0.0,0.00903337076306343,2,<no_answer>,7) Bake for 80 minutes.
+0.0,0.0,0.1017107293009758,2,7) Bake for 80 minutes.,8) Cool on wire racks.
+0.0,0.0714285746216774,0.14387096464633942,2,"0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water.","3) Let cool, and shake well before serving."
+0.0,0.0714285746216774,0.14387096464633942,2,"0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water.","3) Let cool, and shake well before serving."
+0.0,0.095238097012043,0.021636616438627243,2,2 tablespoons minced fresh ginger root,"2) Remove lid, and heat jar in the microwave for 1 minute just to dissolve the honey."
+0.0,0.0714285746216774,0.14387096464633942,2,"0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water.","3) Let cool, and shake well before serving."
+0.0,0.08695652335882187,0.2499009221792221,2,"0) In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water.",1/4 cup water
+1.0,1.0,0.9691519141197205,2,3 tablespoons honey,3 tablespoons honey
+0.0,0.0,0.269589364528656,2,"1) Cover the jar with a tight fitting lid, and shake well.",4) Store covered in the refrigerator.
+0.0,0.08695652335882187,0.10729686915874481,2,"2) Remove lid, and heat jar in the microwave for 1 minute just to dissolve the honey.","3) Let cool, and shake well before serving."
+0.0,0.10000000149011612,0.10668841749429703,2,"2) Remove lid, and heat jar in the microwave for 1 minute just to dissolve the honey.",4) Store covered in the refrigerator.
+0.0,0.0,0.013391765765845776,2,"1 onion, chopped",1/3 cup uncooked long-grain white rice
+0.0,0.0,0.008731167763471603,2,"3 large potatoes, chopped",2) Pour water into the pot.
+0.0,0.13333334028720856,0.08203515410423279,2,"1 bunch fresh asparagus, trimmed and cut into 1 inch pieces",1/2 pound fresh spinach
+0.0,0.0,0.010643333196640015,2,"1 bunch fresh asparagus, trimmed and cut into 1 inch pieces",1/3 cup uncooked long-grain white rice
+0.0,0.0,0.00964084267616272,2,4 teaspoons salt,1/3 cup uncooked long-grain white rice
+0.0,0.0,0.14417092502117157,2,0) Melt the butter in a large pot over medium heat.,"6) Stir spinach and heavy cream into the soup mixture, and continue cooking about 5 minutes before serving."
+0.0,0.0,0.02093755267560482,2,0) Melt the butter in a large pot over medium heat.,1/3 cup uncooked long-grain white rice
+0.0,0.3076923191547394,0.48987409472465515,2,"1) Stir in the leeks and onion, and cook until tender.","5) Bring to a boil, reduce heat, and simmer 30 minutes, until vegetables and rice are tender."
+0.0,0.0,0.014887037687003613,2,<no_answer>,"5) Bring to a boil, reduce heat, and simmer 30 minutes, until vegetables and rice are tender."
+0.0,0.0,0.2549727261066437,2,2) Pour water into the pot.,"5) Bring to a boil, reduce heat, and simmer 30 minutes, until vegetables and rice are tender."
+0.0,0.0,0.009173952043056488,2,<no_answer>,2) Pour water into the pot.
+0.0,0.1666666716337204,0.40497609972953796,2,"3) Mix in potatoes, carrots, asparagus, and rice.","5) Bring to a boil, reduce heat, and simmer 30 minutes, until vegetables and rice are tender."
+0.0,0.0,0.031155582517385483,2,4) Season with salt.,"6) Stir spinach and heavy cream into the soup mixture, and continue cooking about 5 minutes before serving."
+0.0,0.24242424964904785,0.35910487174987793,2,"5) Bring to a boil, reduce heat, and simmer 30 minutes, until vegetables and rice are tender.","6) Stir spinach and heavy cream into the soup mixture, and continue cooking about 5 minutes before serving."
+0.0,0.24242424964904785,0.34787842631340027,2,"6) Stir spinach and heavy cream into the soup mixture, and continue cooking about 5 minutes before serving.","5) Bring to a boil, reduce heat, and simmer 30 minutes, until vegetables and rice are tender."
+1.0,1.0,0.9720107316970825,2,"6) Stir spinach and heavy cream into the soup mixture, and continue cooking about 5 minutes before serving.","6) Stir spinach and heavy cream into the soup mixture, and continue cooking about 5 minutes before serving."
+0.0,0.0,0.4399840831756592,2,"6 figs, halved",1) Stuff fig halves with goat cheese.
+0.0,0.0,0.010391383431851864,2,"1/2 cup toasted, chopped pecans","5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned."
+0.0,0.0,0.3587806224822998,2,0) Preheat the broiler.,"5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned."
+0.0,0.0,0.01255618967115879,2,<no_answer>,"5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned."
+0.0,0.14814814925193787,0.30663567781448364,2,1) Stuff fig halves with goat cheese.,"5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned."
+0.0,0.07999999821186066,0.24563980102539062,2,2) Press pecans into the cheese.,"5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned."
+0.0,0.05882352963089943,0.2886464595794678,2,"3) Wrap each stuffed fig half with half a slice of bacon, securing with toothpicks.","5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned."
+1.0,1.0,0.9734985828399658,2,"5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned.","5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned."
+1.0,1.0,0.9734985828399658,2,"5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned.","5) Broil 5 minutes, or until bacon is evenly brown and crisp and goat cheese is bubbly and lightly browned."
+0.0,0.0,0.009040197357535362,2,"2 pounds frozen crawfish, cleaned",1/4 cup butter
+0.0,0.0,0.019336773082613945,2,1 (10.75 ounce) can condensed cream of mushroom soup,1/2 teaspoon cayenne pepper
+0.0,0.0,0.01307186670601368,2,"4 ounces cream cheese, softened",1/2 teaspoon cayenne pepper
+0.0,0.20000000298023224,0.3977620005607605,2,0) Melt 1/4 cup of butter in a large skillet over medium heat.,1) Saute green onions in butter until tender.
+1.0,1.0,0.9712232947349548,2,1) Saute green onions in butter until tender.,1) Saute green onions in butter until tender.
+0.0,0.0,0.07917268574237823,2,"2) Remove from pan, and set aside.",1) Saute green onions in butter until tender.
+0.0,0.095238097012043,0.03301386162638664,2,"3) In the same skillet, melt 1/2 cup of butter, and saute the crawfish for 5 minutes; set aside.",1/2 teaspoon cayenne pepper
+0.0,0.0,0.08944497257471085,2,"4) In a large pot over medium heat, combine potato soup, mushroom soup, corn, and cream cheese.",7) Season with cayenne pepper.
+0.0,0.0,0.0376732163131237,2,7) Season with cayenne pepper.,1) Saute green onions in butter until tender.
+0.0,0.0,0.18716512620449066,2,"8) Bring to a low boil, and simmer 5 minutes to blend flavors.",7) Season with cayenne pepper.
+0.0,0.0,0.010136830620467663,2,<no_answer>,"8) Bring to a low boil, and simmer 5 minutes to blend flavors."
+1.0,1.0,0.9717146754264832,2,"8) Bring to a low boil, and simmer 5 minutes to blend flavors.","8) Bring to a low boil, and simmer 5 minutes to blend flavors."
+0.0,0.0,0.021122228354215622,2,1 cup semisweet chocolate chips,1/2 teaspoon baking soda
+0.0,0.0,0.03945454582571983,2,1 cup semisweet chocolate chips,8) Shape into 1-inch balls and place on a greased cookie sheet.
+0.0,0.0,0.29138192534446716,2,1/2 cup white sugar,2) Cream together the butter and sugars until light.
+0.0,0.0,0.024769803509116173,2,2 eggs,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.
+0.0,0.75,0.6632446050643921,2,1/2 teaspoon baking powder,1/2 teaspoon baking soda
+0.0,0.0,0.28237923979759216,2,0) Melt the chocolate chips in a heavy saucepan over very low heat.,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.
+0.0,0.0,0.009051414206624031,2,<no_answer>,1/2 teaspoon vanilla extract
+0.0,0.0,0.11661845445632935,2,2) Cream together the butter and sugars until light.,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.
+0.0,0.095238097012043,0.0865078791975975,2,"3) Beat in the eggs, one at a time.",9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.
+0.0,0.2222222238779068,0.2058233618736267,2,"5) In a bowl, whisk together the flour, baking powder and baking soda.",4) Stir in the melted chocolate and vanilla.
+0.0,0.10000000149011612,0.08628880977630615,2,6) Add to the butter mixture slowly.,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.
+0.0,0.0,0.06684701144695282,2,7) Blend thoroughly.,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.
+1.0,1.0,0.972636342048645,2,8) Shape into 1-inch balls and place on a greased cookie sheet.,8) Shape into 1-inch balls and place on a greased cookie sheet.
+1.0,1.0,0.970143735408783,2,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.
+0.0,0.0,0.009458538144826889,2,<no_answer>,9) Bake at 350 degrees F (180 degrees C) for 12 to 14 minutes.
+0.0,0.0,0.008900128304958344,2,<no_answer>,10) Let sit on cookie sheet for a minute or two before removing to a rack to cool.
+1.0,1.0,0.974027156829834,2,10) Let sit on cookie sheet for a minute or two before removing to a rack to cool.,10) Let sit on cookie sheet for a minute or two before removing to a rack to cool.
+0.0,0.3199999928474426,0.42845022678375244,2,"1 red bell pepper, sliced into thin strips","1) Place the eggplant and red bell pepper on a medium baking sheet, and season with salt and pepper."
+0.0,0.0,0.018448077142238617,2,"1 red bell pepper, sliced into thin strips",3) Cut baguette in half lengthwise.
+0.0,0.0,0.02409317158162594,2,2 ounces soft goat cheese,7) Cut into 4 pieces.
+1.0,1.0,0.9693759083747864,2,1/4 cup tapenade (olive spread),1/4 cup tapenade (olive spread)
+0.0,0.0,0.057437341660261154,2,0) Preheat the oven broiler.,"1) Place the eggplant and red bell pepper on a medium baking sheet, and season with salt and pepper."
+0.0,0.0,0.2244589477777481,2,0) Preheat the oven broiler.,8) Serve hot or cold.
+0.0,0.0,0.10469289869070053,2,"1) Place the eggplant and red bell pepper on a medium baking sheet, and season with salt and pepper.",8) Serve hot or cold.
+1.0,1.0,0.9719262719154358,2,"2) Broil 5 to 10 minutes, until tender and slightly browned.","2) Broil 5 to 10 minutes, until tender and slightly browned."
+0.0,0.625,0.6353162527084351,2,until tender and slightly browned,"2) Broil 5 to 10 minutes, until tender and slightly browned."
+0.0,0.1818181872367859,0.3722253143787384,2,3) Cut baguette in half lengthwise.,7) Cut into 4 pieces.
+0.0,0.0,0.047023579478263855,2,"4) Spread bottom half with goat cheese, followed by tapenade.",8) Serve hot or cold.
+0.0,0.0,0.05032461881637573,2,"5) Layer with eggplant and red pepper, then sprinkle with Parmesan cheese.",8) Serve hot or cold.
+0.0,0.0,0.04009532183408737,2,6) Cover with top half of baguette.,8) Serve hot or cold.
+1.0,1.0,0.9667307734489441,2,8) Serve hot or cold.,8) Serve hot or cold.
+0.0,0.0,0.0110355569049716,2,40 rectangular shortbread cookies,"1) In a small saucepan over medium-low heat, melt caramels in water, stirring frequently."
+0.0,0.0,0.009031526744365692,2,"35 individually wrapped caramels, unwrapped",4) Line baking sheets or trays with waxed paper.
+0.0,0.0,0.00895969569683075,2,1/4 cup water,4) Line baking sheets or trays with waxed paper.
+0.0,0.0,0.009383357129991055,2,0) Place shortbread cookies on a baking sheet or tray.,1/4 cup water
+0.0,0.1666666716337204,0.48378196358680725,2,0) Place shortbread cookies on a baking sheet or tray.,"7) Place on prepared sheets and let rest at room temperature several hours, until set."
+0.0,0.0,0.013660882599651814,2,"1) In a small saucepan over medium-low heat, melt caramels in water, stirring frequently.",4) Line baking sheets or trays with waxed paper.
+0.0,0.0,0.04521642252802849,2,2) Spoon a thin line of caramel over each cookie.,"7) Place on prepared sheets and let rest at room temperature several hours, until set."
+0.0,0.25,0.31533029675483704,2,3) Place cookies in refrigerator until caramel is set.,"7) Place on prepared sheets and let rest at room temperature several hours, until set."
+0.0,0.21052631735801697,0.24692106246948242,2,until caramel is set,"7) Place on prepared sheets and let rest at room temperature several hours, until set."
+0.0,0.0833333358168602,0.4675920009613037,2,4) Line baking sheets or trays with waxed paper.,"7) Place on prepared sheets and let rest at room temperature several hours, until set."
+0.0,0.0,0.025706822052598,2,"5) In a double boiler over simmering water, melt chocolate.","7) Place on prepared sheets and let rest at room temperature several hours, until set."
+1.0,1.0,0.9728112816810608,2,"6) Dip cookies in chocolate one at a time, tapping against the side of the bowl to remove excess.","6) Dip cookies in chocolate one at a time, tapping against the side of the bowl to remove excess."
+0.0,0.0,0.00959427934139967,2,<no_answer>,"7) Place on prepared sheets and let rest at room temperature several hours, until set."
+0.0,0.06451612710952759,0.012490111403167248,2,"7) Place on prepared sheets and let rest at room temperature several hours, until set.","6) Dip cookies in chocolate one at a time, tapping against the side of the bowl to remove excess."
+1.0,1.0,0.9721155762672424,2,"7) Place on prepared sheets and let rest at room temperature several hours, until set.","7) Place on prepared sheets and let rest at room temperature several hours, until set."
+0.0,0.3333333432674408,0.553207278251648,2,1 (8 pound) bone-in shank ham,1) Place ham in a roasting pan.
+0.0,0.1818181872367859,0.4696713387966156,2,1/2 cup honey,"8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves."
+0.0,0.1666666716337204,0.3991762697696686,2,2 tablespoons liquid smoke flavoring,"8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves."
+0.0,0.0,0.08311134576797485,2,0) Preheat the oven to 275 degrees F (135 degrees C).,12) Let stand for 10 minutes before serving.
+0.0,0.0,0.18066030740737915,2,1) Place ham in a roasting pan.,"5) Remove from the oven, pour off drippings and reserve."
+0.0,0.07999999821186066,0.014507710933685303,2,3) Cover with a tight fitting lid.,"8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves."
+0.0,0.0,0.008946025744080544,2,<no_answer>,"5) Remove from the oven, pour off drippings and reserve."
+0.0,0.0,0.10630591213703156,2,"6) Debone ham, removing any excess fat as well, and return to the roasting pan.",12) Let stand for 10 minutes before serving.
+0.0,0.0,0.01361318863928318,2,"7) Skim fat from the top of the drippings, and discard.",12) Let stand for 10 minutes before serving.
+1.0,1.0,0.9731165170669556,2,"8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves.","8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves."
+1.0,1.0,0.9731165170669556,2,"8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves.","8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves."
+0.0,0.06896551698446274,0.12436538189649582,2,"9) Pour this over the ham, cover and return to the oven.","8) In a small bowl, mix one cup of the drippings with honey, brown sugar, liquid smoke, Worcestershire sauce and cloves."
+0.0,0.21052631735801697,0.33441412448883057,2,11) Bake for another 30 to 40 minutes in the preheated oven.,12) Let stand for 10 minutes before serving.
+1.0,1.0,0.9689502120018005,2,12) Let stand for 10 minutes before serving.,12) Let stand for 10 minutes before serving.
+1.0,1.0,0.9689502120018005,2,12) Let stand for 10 minutes before serving.,12) Let stand for 10 minutes before serving.
+0.0,0.17391304671764374,0.3271993398666382,2,0) Heat oil in a large skillet over medium-high heat.,"1) Dip eggplant slices in egg, then in crumbs, and place in hot oil."
+0.0,0.0,0.19460242986679077,2,"1) Dip eggplant slices in egg, then in crumbs, and place in hot oil.","2) Fry 2 to 3 minutes on each side, or until golden brown."
+0.0,0.0,0.022401290014386177,2,"1) Dip eggplant slices in egg, then in crumbs, and place in hot oil.",3) Drain on paper towels.
+0.0,0.0,0.19460242986679077,2,"1) Dip eggplant slices in egg, then in crumbs, and place in hot oil.","2) Fry 2 to 3 minutes on each side, or until golden brown."
+1.0,1.0,0.9699539542198181,2,"2) Fry 2 to 3 minutes on each side, or until golden brown.","2) Fry 2 to 3 minutes on each side, or until golden brown."
+1.0,1.0,0.9665155410766602,2,3) Drain on paper towels.,3) Drain on paper towels.
+1.0,1.0,0.9665155410766602,2,3) Drain on paper towels.,3) Drain on paper towels.
+0.0,0.0,0.03298793360590935,2,2 (14 ounce) cans sweetened condensed milk,1) Freeze according to manufacturer's directions.
+1.0,1.0,0.9700338244438171,2,2 cups heavy cream,2 cups heavy cream
+0.0,0.0,0.008987411856651306,2,1/2 teaspoon salt,3 cups chopped strawberries
+0.0,0.2857142984867096,0.0918494313955307,2,3 cups chopped strawberries,5 cups milk
+0.0,0.0,0.45797044038772583,2,"0) Combine condensed milk, milk, cream, vanilla, salt and fruit in freezer canister of ice cream maker.",1) Freeze according to manufacturer's directions.
+1.0,1.0,0.9703023433685303,2,1) Freeze according to manufacturer's directions.,1) Freeze according to manufacturer's directions.
+1.0,1.0,0.9703023433685303,2,1) Freeze according to manufacturer's directions.,1) Freeze according to manufacturer's directions.
+0.0,0.07692307978868484,0.010353547520935535,2,0) Preheat oven to 375 degrees F (190 degrees C).,"1) In a large bowl, combine bread and milk, and set aside to soak for 5 minutes."
+0.0,0.13333334028720856,0.14058443903923035,2,"1) In a large bowl, combine bread and milk, and set aside to soak for 5 minutes.","2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon."
+1.0,1.0,0.9729631543159485,2,"2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon.","2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon."
+0.0,0.2222222238779068,0.2821798324584961,2,"2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon.",1/2 cup brown sugar
+0.0,0.1599999964237213,0.09863805770874023,2,"2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon.","6) Leave in baking pan to cool, then cut into squares."
+0.0,0.0,0.04216326028108597,2,3) Mix well.,"6) Leave in baking pan to cool, then cut into squares."
+0.0,0.0,0.013340866193175316,2,<no_answer>,"2) Then stir in egg, butter, raisins, mixed fruit, brown sugar, nutmeg, and cinnamon."
+1.0,1.0,0.926234245300293,2,4) Press the mixture into a  9-inch square baking pan.,4) Press the mixture into a 9-inch square baking pan.
+0.0,0.0,0.38888251781463623,2,"5) Bake in preheated oven until golden and firm to touch, about 35 minutes.",4) Press the mixture into a 9-inch square baking pan.
+1.0,1.0,0.9700294137001038,2,"5) Bake in preheated oven until golden and firm to touch, about 35 minutes.","5) Bake in preheated oven until golden and firm to touch, about 35 minutes."
+0.0,0.1599999964237213,0.22673369944095612,2,"6) Leave in baking pan to cool, then cut into squares.","5) Bake in preheated oven until golden and firm to touch, about 35 minutes."
+1.0,1.0,0.97287917137146,2,"6) Leave in baking pan to cool, then cut into squares.","6) Leave in baking pan to cool, then cut into squares."
+0.0,0.0,0.03058372624218464,2,"1 (11 ounce) can mandarin oranges, drained",2) Garnish with cherries.
+0.0,0.1818181872367859,0.07517919689416885,2,"1 (11 ounce) can mandarin oranges, drained",1 cup maraschino cherries
+0.0,0.11764705926179886,0.0562136135995388,2,"1 (8 ounce) can crushed pineapple, drained",1) Mix together well and chill 1 hour before serving.
+0.0,0.1818181872367859,0.052729107439517975,2,"1 (8 ounce) can crushed pineapple, drained",1 cup maraschino cherries
+0.0,0.0,0.010477482341229916,2,"3 1/2 cups frozen whipped topping, thawed",2) Garnish with cherries.
+0.0,0.25,0.015034145675599575,2,2 cups shredded coconut,2) Garnish with cherries.
+0.0,0.25,0.009944692254066467,2,2 cups miniature marshmallows,2) Garnish with cherries.
+0.0,0.0,0.008658761158585548,2,1/2 cup milk,2) Garnish with cherries.
+0.0,0.0,0.09123089909553528,2,"0) In a large bowl, combine the oranges, pineapple, whipped topping, coconut, marshmallows and milk.",2) Garnish with cherries.
+0.0,0.0,0.05731232464313507,2,1) Mix together well and chill 1 hour before serving.,2) Garnish with cherries.
+1.0,1.0,0.9671376943588257,2,2) Garnish with cherries.,2) Garnish with cherries.
+0.0,0.07692307978868484,0.008879655972123146,2,"1 (1 pound) loaf French bread, cut diagonally in 1 inch slices","5) In a small saucepan, combine butter, brown sugar and corn syrup; heat until bubbling."
+0.0,0.0,0.010351896286010742,2,2 teaspoons vanilla extract,"5) In a small saucepan, combine butter, brown sugar and corn syrup; heat until bubbling."
+0.0,0.0,0.00995191652327776,2,2 teaspoons vanilla extract,"3) Pour over bread slices, cover, and refrigerate overnight."
+0.0,0.0,0.02329036220908165,2,1 1/3 cups brown sugar,"3) Pour over bread slices, cover, and refrigerate overnight."
+0.0,0.1428571492433548,0.10480673611164093,2,3 tablespoons light corn syrup,"3) Pour over bread slices, cover, and refrigerate overnight."
+0.0,0.10000000149011612,0.5184360146522522,2,0) Butter a 9x13 inch baking dish.,"5) In a small saucepan, combine butter, brown sugar and corn syrup; heat until bubbling."
+0.0,0.095238097012043,0.00955804530531168,2,1) Arrange the slices of bread in the bottom.,"5) In a small saucepan, combine butter, brown sugar and corn syrup; heat until bubbling."
+0.0,0.1538461595773697,0.13990072906017303,2,"2) In a large bowl, beat together eggs, milk, cream, vanilla and cinnamon.","5) In a small saucepan, combine butter, brown sugar and corn syrup; heat until bubbling."
+0.0,0.095238097012043,0.02172941155731678,2,"3) Pour over bread slices, cover, and refrigerate overnight.","2) In a large bowl, beat together eggs, milk, cream, vanilla and cinnamon."
+1.0,1.0,0.9720991253852844,2,"4) The next morning, preheat oven to 350 degrees F (175 degrees C).","4) The next morning, preheat oven to 350 degrees F (175 degrees C)."
+0.0,0.095238097012043,0.07152687013149261,2,6) Pour over bread and egg mixture.,"5) In a small saucepan, combine butter, brown sugar and corn syrup; heat until bubbling."
+0.0,0.0,0.07799142599105835,2,"7) Bake in preheated oven, uncovered, for 40 minutes.",6) Pour over bread and egg mixture.
+0.0,0.0,0.00916503556072712,2,<no_answer>,"7) Bake in preheated oven, uncovered, for 40 minutes."
+0.0,0.1538461595773697,0.16456949710845947,2,1 fluid ounce dark rum,1) Stir to blend and serve over ice.
+0.0,0.1818181872367859,0.10582108795642853,2,3 1/2 fluid ounces fruit punch,1 fluid ounce dark rum
+0.0,0.09090909361839294,0.4375934600830078,2,"0) In a mixing glass combine the rum, apricot brandy, fruit punch and pina colada mix.",1) Stir to blend and serve over ice.
+0.0,0.0,0.010063420981168747,2,<no_answer>,1/2 fluid ounce pina colada mix
+1.0,1.0,0.9685150384902954,2,1) Stir to blend and serve over ice.,1) Stir to blend and serve over ice.
+0.0,0.9333333373069763,0.7690820693969727,2,"1 (15 ounce) can chickpeas (garbanzo beans), drained",1 (15 ounce) can chickpeas (garbanzo beans)
+0.0,0.0,0.008847128599882126,2,1/2 cup drained marinated artichoke hearts,5) Dip or spread each Quakes Ranch Flavor Rice Snack with hummus.
+0.0,0.0,0.009289983659982681,2,2 tablespoons water,5) Dip or spread each Quakes Ranch Flavor Rice Snack with hummus.
+0.0,0.43478259444236755,0.4472391903400421,2,Quaker Quakes Ranch or Sour Cream and Onion Flavor Rice Snacks,5) Dip or spread each Quakes Ranch Flavor Rice Snack with hummus.
+0.0,0.43478259444236755,0.44241854548454285,2,Quaker Quakes Ranch or Sour Cream and Onion Flavor Rice Snacks,5) Dip or spread each Quakes Ranch Flavor Rice Snack with hummus
+0.0,0.0714285746216774,0.37843799591064453,2,0) Combine all ingredients except parsley and Quaker Rice Snacks in work bowl of food processor.,5) Dip or spread each Quakes Ranch Flavor Rice Snack with hummus.
+0.0,0.0,0.06262124329805374,2,3) Cover and refrigerate until ready to serve.,5) Dip or spread each Quakes Ranch Flavor Rice Snack with hummus.
+0.0,0.0,0.041909970343112946,2,4) Stir in parsley.,5) Dip or spread each Quakes Ranch Flavor Rice Snack with hummus.
+0.0,0.20000000298023224,0.21673445403575897,2,0) Place flour in a shallow bowl.,"6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard."
+0.0,0.0,0.046318475157022476,2,1 cup all-purpose flour,1/2 teaspoon ground black pepper
+0.0,0.06666667014360428,0.025115374475717545,2,"1) Place breadcrumbs in a separate shallow bowl, and mix with ground black pepper and cayenne pepper.","5) In small batches, fry chicken 6 to 8 minutes, or until golden brown."
+1.0,1.0,0.97198885679245,2,2 cups Italian-style seasoned bread crumbs,2 cups Italian-style seasoned bread crumbs
+0.0,0.1818181872367859,0.07539355009794235,2,2) Place eggs and water in a small bowl.,"5) In small batches, fry chicken 6 to 8 minutes, or until golden brown."
+0.0,0.800000011920929,0.755517840385437,2,"2 eggs, beaten",2 eggs
+0.0,0.13333334028720856,0.4220093786716461,2,"3) One piece at a time, coat the chicken in the flour, the eggs and the bread crumbs, and set aside.","5) In small batches, fry chicken 6 to 8 minutes, or until golden brown."
+0.0,0.14814814925193787,0.31546878814697266,2,4) Heat oil in a deep fryer to 375 degrees F (190 degrees C).,"5) In small batches, fry chicken 6 to 8 minutes, or until golden brown."
+0.0,0.2142857164144516,0.09315788000822067,2,"6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard.","5) In small batches, fry chicken 6 to 8 minutes, or until golden brown."
+0.0,0.0,0.085771344602108,2,1 cup mayonnaise,1/2 teaspoon ground black pepper
+0.0,0.2222222238779068,0.3941463828086853,2,1/2 cup sour cream,"6) In a separate small bowl, combine the mayonnaise, horseradish, sour cream, Worcestershire sauce and mustard."
+0.0,0.0,0.009128163568675518,2,1/2 cup sour cream,"5) In small batches, fry chicken 6 to 8 minutes, or until golden brown."
+0.0,0.0,0.009191296994686127,2,4 egg whites,1 pint heavy cream
+0.0,0.25,0.016913503408432007,2,1 teaspoon lemon juice,1 pint heavy cream
+1.0,1.0,0.971184492111206,2,1 pint heavy cream,1 pint heavy cream
+0.0,0.0,0.009464195929467678,2,0) Preheat oven to 300 degrees F (150 degrees C).,1 pint heavy cream
+0.0,0.25,0.3666439950466156,2,1) Line a baking sheet with parchment paper.,9) Spoon mixture inside the circle drawn on the parchment paper.
+0.0,0.0,0.015295634977519512,2,"3) In a large bowl, beat egg whites until stiff but not dry.",16) Top whipped cream with kiwifruit slices.
+0.0,0.0833333358168602,0.24502988159656525,2,"4) Gradually add in the sugar, 1 tablespoon at a time, beating well after each addition.","8) Gently fold in vanilla extract, lemon juice and cornstarch."
+0.0,0.0,0.4449222981929779,2,5) Beat until thick and glossy.,"4) Gradually add in the sugar, 1 tablespoon at a time, beating well after each addition."
+0.0,0.0,0.009302692487835884,2,<no_answer>,5) Beat until thick and glossy.
+0.0,0.0833333358168602,0.21068675816059113,2,"8) Gently fold in vanilla extract, lemon juice and cornstarch.","4) Gradually add in the sugar, 1 tablespoon at a time, beating well after each addition."
+0.0,0.0,0.014765596948564053,2,"8) Gently fold in vanilla extract, lemon juice and cornstarch.",7) Be absolutely sure not a particle of grease or egg yolk gets into the whites.
+0.0,0.0,0.12034551054239273,2,9) Spoon mixture inside the circle drawn on the parchment paper.,"15) Fill the center of the meringue with whipped cream, sweetened if desired."
+0.0,0.0,0.07082655280828476,2,"10) Working from the center, spread mixture toward the outside edge, building edge slightly.",16) Top whipped cream with kiwifruit slices.
+0.0,0.0,0.014576604589819908,2,12) Bake for 1 hour.,16) Top whipped cream with kiwifruit slices.
+0.0,0.0,0.009063568897545338,2,<no_answer>,12) Bake for 1 hour.
+0.0,0.0,0.008560119196772575,2,13) Cool on a wire rack.,16) Top whipped cream with kiwifruit slices.
+0.0,0.0,0.008906440809369087,2,<no_answer>,13) Cool on a wire rack.
+0.0,0.0,0.08431974053382874,2,"14) Remove the paper, and place meringue on a flat serving plate.",16) Top whipped cream with kiwifruit slices.
+0.0,0.3333333432674408,0.46911928057670593,2,"15) Fill the center of the meringue with whipped cream, sweetened if desired.",16) Top whipped cream with kiwifruit slices.
+0.0,0.0,0.07366473227739334,2,"15) Fill the center of the meringue with whipped cream, sweetened if desired.",1 teaspoon vanilla extract
+0.0,0.0,0.07106401771306992,2,16) Top whipped cream with kiwifruit slices.,"4) Gradually add in the sugar, 1 tablespoon at a time, beating well after each addition."
+1.0,1.0,0.9714374542236328,2,16) Top whipped cream with kiwifruit slices.,16) Top whipped cream with kiwifruit slices.
+0.0,0.0,0.009719880297780037,2,8 ounces cream cheese,1/4 cup unsweetened pineapple juice
+1.0,1.0,0.9710310101509094,2,1/2 cup marshmallow creme,1/2 cup marshmallow creme
+0.0,0.0,0.05180435627698898,2,"2 cups frozen whipped topping, thawed",1/4 cup unsweetened pineapple juice
+0.0,0.0,0.05180435627698898,2,"2 cups frozen whipped topping, thawed",1/4 cup unsweetened pineapple juice
+0.0,0.0,0.10773655027151108,2,"0) Blend together the cream cheese, marshmallow cream and thawed topping.",1) Add enough pineapple juice to make it dipping consistency.
+1.0,1.0,0.9726240038871765,2,1) Add enough pineapple juice to make it dipping consistency.,1) Add enough pineapple juice to make it dipping consistency.
+0.0,0.13333334028720856,0.009291242808103561,2,2) Chill for 1 hour.,1) Add enough pineapple juice to make it dipping consistency.
+0.0,0.0,0.05771712586283684,2,0) Preheat oven to 400 degrees F (205 degrees C).,1) Beat the eggs in a large bowl.
+0.0,0.0,0.025937767699360847,2,400 degrees F,"2) Mix in sugar, salt, vanilla, and syrup."
+0.0,0.0,0.041794709861278534,2,1) Beat the eggs in a large bowl.,5) Pour filling into pie shell.
+0.0,0.07692307978868484,0.10840102285146713,2,"2) Mix in sugar, salt, vanilla, and syrup.","7) Reduce heat to 300 degrees F (150 degrees C), and continue baking for 35 to 45 minutes."
+0.0,0.1428571492433548,0.12199317663908005,2,"2) Mix in sugar, salt, vanilla, and syrup.",1) Beat the eggs in a large bowl.
+0.0,0.0,0.08473104983568192,2,"3) Melt the butter or margarine, and add it to the egg mixture.",5) Pour filling into pie shell.
+0.0,0.0,0.030535582453012466,2,4) Stir in the nuts.,"7) Reduce heat to 300 degrees F (150 degrees C), and continue baking for 35 to 45 minutes."
+0.0,0.0,0.05240842327475548,2,4) Stir in the nuts.,5) Pour filling into pie shell.
+0.0,0.3571428656578064,0.3048193156719208,2,0) Preheat oven to 400 degrees F (205 degrees C).,"7) Reduce heat to 300 degrees F (150 degrees C), and continue baking for 35 to 45 minutes."
+0.0,0.0,0.12377647310495377,2,6) Bake in preheated oven for 10 minutes.,5) Pour filling into pie shell.
+0.0,0.1538461595773697,0.45744824409484863,2,"7) Reduce heat to 300 degrees F (150 degrees C), and continue baking for 35 to 45 minutes.",6) Bake in preheated oven for 10 minutes.
+0.0,0.0,0.09204910695552826,2,"7) Reduce heat to 300 degrees F (150 degrees C), and continue baking for 35 to 45 minutes.",5) Pour filling into pie shell.
+1.0,1.0,0.9724115133285522,2,"7) Reduce heat to 300 degrees F (150 degrees C), and continue baking for 35 to 45 minutes.","7) Reduce heat to 300 degrees F (150 degrees C), and continue baking for 35 to 45 minutes."
+0.0,0.06451612710952759,0.2388116866350174,2,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.","1) Drain off the fat, and place the mixture into a slow cooker."
+0.0,0.06451612710952759,0.2388116866350174,2,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.","1) Drain off the fat, and place the mixture into a slow cooker."
+0.0,0.32258063554763794,0.5087502598762512,2,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.",3) Season with hot sauce and more crushed red pepper.
+0.0,0.0,0.02312317304313183,2,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.",1/4 cup white sugar
+0.0,0.0625,0.2727462649345398,2,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.","4) Cover, and cook on Low for 4 to 5 hours."
+0.0,0.0625,0.2727462649345398,2,"0) In a large skillet over medium heat, brown ground beef together with onion, crushed red pepper, garlic powder, and seasoned pepper.","4) Cover, and cook on Low for 4 to 5 hours."
+0.0,0.10000000149011612,0.0917009636759758,2,"1) Drain off the fat, and place the mixture into a slow cooker.",3) Season with hot sauce and more crushed red pepper.
+1.0,1.0,0.9714287519454956,2,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.","2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker."
+0.0,0.07692307978868484,0.20858772099018097,2,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.",1/4 cup white sugar
+1.0,1.0,0.9718791842460632,2,"2 (4 ounce) cans mushroom pieces, drained","2 (4 ounce) cans mushroom pieces, drained"
+0.0,0.1875,0.19961287081241608,2,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.",3) Season with hot sauce and more crushed red pepper.
+0.0,0.07692307978868484,0.14808830618858337,2,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.",1/4 cup Canadian beer
+0.0,0.07692307978868484,0.20858772099018097,2,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.",1/4 cup white sugar
+0.0,0.13333334028720856,0.2798398435115814,2,"1 green bell pepper, diced",3) Season with hot sauce and more crushed red pepper.
+0.0,0.1875,0.19961287081241608,2,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.",3) Season with hot sauce and more crushed red pepper.
+0.0,0.07692307978868484,0.20858772099018097,2,"2) Stir mushrooms, baked beans, kidney beans with liquid, tomato paste, sugar, carrots, celery, peppers, beer, and barbeque sauce into the slow cooker.",1/4 cup white sugar
+0.0,0.0,0.008900932967662811,2,3) Season with hot sauce and more crushed red pepper.,1/4 cup Canadian beer
+0.0,0.095238097012043,0.07556595653295517,2,3) Season with hot sauce and more crushed red pepper.,"4) Cover, and cook on Low for 4 to 5 hours."
+1.0,1.0,0.9711567163467407,2,"1 (16 ounce) package baby carrots, sliced","1 (16 ounce) package baby carrots, sliced"
+0.0,0.3636363744735718,0.10311490297317505,2,1 cup shredded Cheddar cheese,1 cup fine dry bread crumbs
+0.0,0.0,0.223769873380661,2,3 tablespoons all-purpose flour,1 cup fine dry bread crumbs
+0.0,0.0,0.016114573925733566,2,1/2 teaspoon salt,1 cup fine dry bread crumbs
+0.0,0.095238097012043,0.013445903547108173,2,1 tablespoon butter,"1) Place carrots and onions in a pot with enough lightly salted water to cover, and bring to a boil."
+0.0,0.0714285746216774,0.021024376153945923,2,0) Preheat oven to 350 degrees F (175 degrees C).,"1) Place carrots and onions in a pot with enough lightly salted water to cover, and bring to a boil."
+1.0,1.0,0.9730147123336792,2,"1) Place carrots and onions in a pot with enough lightly salted water to cover, and bring to a boil.","1) Place carrots and onions in a pot with enough lightly salted water to cover, and bring to a boil."
+1.0,1.0,0.9713654518127441,2,"2) Cook 5 minutes, or until tender but firm.","2) Cook 5 minutes, or until tender but firm."
+0.0,0.25,0.05136854201555252,2,"3) Drain, and spread 1/2 the carrots and onions in a baking dish.","5) In a saucepan, melt 3 tablespoons butter and mix in flour until smooth."
+0.0,0.06666667014360428,0.1719370037317276,2,"4) Cover with 3/4 cup cheese, layer with remaining carrots and onions, and top with remaining cheese.","10) Bake 20 minutes in the preheated oven, or until bubbly and lightly browned."
+0.0,0.23076923191547394,0.11864455044269562,2,"5) In a saucepan, melt 3 tablespoons butter and mix in flour until smooth.","10) Bake 20 minutes in the preheated oven, or until bubbly and lightly browned."
+0.0,0.23076923191547394,0.1293191760778427,2,"6) Gradually stir in milk until thickened, and season with salt and pepper.","5) In a saucepan, melt 3 tablespoons butter and mix in flour until smooth."
+0.0,0.375,0.5166367888450623,2,"7) Pour over the carrots, onions, and cheese in the baking dish.",9) Sprinkle evenly in the baking dish.
+1.0,1.0,0.9728230237960815,2,"8) Melt 1 tablespoon butter in a small pot, and mix in bread crumbs.","8) Melt 1 tablespoon butter in a small pot, and mix in bread crumbs."
+1.0,1.0,0.9710328578948975,2,"10) Bake 20 minutes in the preheated oven, or until bubbly and lightly browned.","10) Bake 20 minutes in the preheated oven, or until bubbly and lightly browned."
+0.0,0.5555555820465088,0.6543296575546265,2,until bubbly and lightly browned,"10) Bake 20 minutes in the preheated oven, or until bubbly and lightly browned."
+1.0,1.0,0.9710328578948975,2,"10) Bake 20 minutes in the preheated oven, or until bubbly and lightly browned.","10) Bake 20 minutes in the preheated oven, or until bubbly and lightly browned."
+0.0,0.0,0.04892411082983017,2,"0) In a mixing bowl, cream butter, shortening and sugars.",1/2 teaspoon salt
+0.0,0.0,0.3581399917602539,2,a mixing bowl,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+0.0,0.0,0.44765448570251465,2,"0) In a mixing bowl, cream butter, shortening and sugars.",2) Combine the next eight ingredients; gradually add to the creamed mixture.
+0.0,0.0,0.44765448570251465,2,"0) In a mixing bowl, cream butter, shortening and sugars.",2) Combine the next eight ingredients; gradually add to the creamed mixture.
+0.0,0.11764705926179886,0.49777311086654663,2,1) Add egg and extracts; mix well.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+1.0,1.0,0.970237135887146,2,1) Add egg and extracts; mix well.,1) Add egg and extracts; mix well.
+1.0,1.0,0.9728198647499084,2,2) Combine the next eight ingredients; gradually add to the creamed mixture.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+0.0,0.13333334028720856,0.23729844391345978,2,2) Combine the next eight ingredients; gradually add to the creamed mixture.,2 teaspoons cream of tartar
+1.0,1.0,0.9728198647499084,2,2) Combine the next eight ingredients; gradually add to the creamed mixture.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+0.0,0.0,0.00908090453594923,2,<no_answer>,2 1/2 cups all-purpose flour
+1.0,1.0,0.9728198647499084,2,2) Combine the next eight ingredients; gradually add to the creamed mixture.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+0.0,0.0,0.20704276859760284,2,3) Shape into 1-in balls; roll in sugar apart on ungreased baking sheets.,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+0.0,0.0,0.057879868894815445,2,3) Shape into 1-in balls; roll in sugar apart on ungreased baking sheets.,1/2 teaspoon salt
+1.0,1.0,0.9728382229804993,2,4) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.,4) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.
+0.0,0.0,0.07036756724119186,2,177 degrees C,2) Combine the next eight ingredients; gradually add to the creamed mixture.
+1.0,1.0,0.9728382229804993,2,4) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.,4) Bake at 350 degrees F (177 degrees C) for 10-15 minutes or until lightly browned.
+0.0,0.0,0.024921337142586708,2,"2 large onions, chopped","10) Stir in the leeks, cabbage, parsley and reserved meat."
+0.0,0.0,0.047712329775094986,2,"1 rutabaga, diced","10) Stir in the leeks, cabbage, parsley and reserved meat."
+0.0,0.0,0.008773098699748516,2,"1 rutabaga, diced",2 quarts water
+0.0,0.1428571492433548,0.020800119265913963,2,"4 potatoes, peeled and quartered","10) Stir in the leeks, cabbage, parsley and reserved meat."
+0.0,0.1428571492433548,0.2829812467098236,2,"1 small head cabbage, sliced","10) Stir in the leeks, cabbage, parsley and reserved meat."
+0.0,0.1111111119389534,0.30322399735450745,2,0) Bring water to boil in a large pot.,"1) Place beef shank in, and simmer 1 1/2 hours."
+0.0,0.1599999964237213,0.37363553047180176,2,"3) Lift meat out, trim off gristle and cut meat into medium sized pieces; set aside.","10) Stir in the leeks, cabbage, parsley and reserved meat."
+0.0,0.0,0.1146693006157875,2,"4) Skim fat from surface of stock, or strain through a fine sieve.","10) Stir in the leeks, cabbage, parsley and reserved meat."
+0.0,0.1111111119389534,0.20827223360538483,2,"5) Return stock to heat, and bring to a boil.","10) Stir in the leeks, cabbage, parsley and reserved meat."
+0.0,0.13333334028720856,0.03733573853969574,2,"6) Add onions, carrots and rutabaga.","5) Return stock to heat, and bring to a boil."
+0.0,0.13333334028720856,0.12441704422235489,2,7) Season with salt and pepper.,"10) Stir in the leeks, cabbage, parsley and reserved meat."
+0.0,0.8888888955116272,0.7147918343544006,2,"10) Stir in the leeks, cabbage, parsley and reserved meat.","11) Stir in the leeks, cabbage, parsley and reserved meat."
+0.0,0.2222222238779068,0.5017240643501282,2,"11) Simmer 10 minutes, or until cabbage is tender.","10) Stir in the leeks, cabbage, parsley and reserved meat."
+0.0,0.2222222238779068,0.4859254062175751,2,"11) Simmer 10 minutes, or until cabbage is tender.","11) Stir in the leeks, cabbage, parsley and reserved meat."
+0.0,0.0,0.012037106789648533,2,"6 large potatoes, cooked, peeled and cubed",1/2 teaspoon salt
+0.0,0.0,0.009572179988026619,2,"2 celery ribs, sliced",1/2 teaspoon salt
+0.0,0.0,0.032755423337221146,2,"2 celery ribs, sliced","6 large potatoes, cooked, peeled and cubed"
+0.0,0.0,0.009149983525276184,2,"6 radishes, sliced",1/2 teaspoon salt
+0.0,0.0,0.009647815488278866,2,1/2 teaspoon pepper,5) Pour over potato mixture; toss to coat.
+0.0,0.6666666865348816,0.17787839472293854,2,1/4 cup sugar,1/4 cup vinegar
+0.0,0.0,0.009892205707728863,2,1/2 teaspoon dry mustard,5) Pour over potato mixture; toss to coat.
+0.0,0.3448275923728943,0.3687922954559326,2,"0) In a large bowl, combine potatoes, eggs, celery, green onions, radishes, salt and pepper; set aside.","1) For dressing, combine eggs, vinegar, sugar, dry mustard and salt in a saucepan."
+0.0,0.0,0.4159069061279297,2,"0) In a large bowl, combine potatoes, eggs, celery, green onions, radishes, salt and pepper; set aside.",5) Pour over potato mixture; toss to coat.
+0.0,0.0,0.15732750296592712,2,"1) For dressing, combine eggs, vinegar, sugar, dry mustard and salt in a saucepan.",5) Pour over potato mixture; toss to coat.
+0.0,0.0,0.00930417887866497,2,<no_answer>,2) Cook and stir over medium heat until thickened.
+0.0,0.0,0.01423722691833973,2,3) Cool.,5) Pour over potato mixture; toss to coat.
+0.0,0.0,0.22587767243385315,2,4) Stir in mayonnaise; mix well.,5) Pour over potato mixture; toss to coat.
+1.0,1.0,0.9715425372123718,2,5) Pour over potato mixture; toss to coat.,5) Pour over potato mixture; toss to coat.
+1.0,1.0,0.9666460156440735,2,6) Refrigerate for several hours.,6) Refrigerate for several hours.
+0.0,0.0,0.008998898789286613,2,<no_answer>,5) Pour over potato mixture; toss to coat.
+0.0,0.0,0.0767986848950386,2,1 quart vegetable broth,1/2 cup chopped fresh cilantro
+0.0,0.0,0.014770189300179482,2,1 quart vegetable broth,4) Reheat before serving if necessary.
+1.0,1.0,0.9720978736877441,2,"1) Bring to a boil, and cook until the carrots are tender, about 10 minutes.","1) Bring to a boil, and cook until the carrots are tender, about 10 minutes."
+0.0,0.0,0.30355164408683777,2,2) Remove from heat and allow to cool slightly.,4) Reheat before serving if necessary.
+0.0,0.0,0.009113907814025879,2,<no_answer>,2) Remove from heat and allow to cool slightly.
+1.0,1.0,0.968558669090271,2,4) Reheat before serving if necessary.,4) Reheat before serving if necessary.
+0.0,0.09090909361839294,0.3519102931022644,2,"0) In a medium saucepan combine whipping cream, butter or margarine, and grated Parmesan cheese.",1) Cook over medium low heat until smooth.
+1.0,1.0,0.9708353877067566,2,1) Cook over medium low heat until smooth.,1) Cook over medium low heat until smooth.
+0.0,0.0,0.0096549391746521,2,2) Remove from heat.,3) Sauce will thicken upon standing.
+0.0,0.0,0.0096549391746521,2,2) Remove from heat.,3) Sauce will thicken upon standing.
+0.0,0.190476194024086,0.32076603174209595,2,"6 large potatoes, peeled and diced","1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone."
+0.0,0.0833333358168602,0.008829559199512005,2,"1 (12 ounce) can corned beef, cut into chunks","1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone."
+1.0,1.0,0.972366988658905,2,"1 (12 ounce) can corned beef, cut into chunks","1 (12 ounce) can corned beef, cut into chunks"
+0.0,0.10526315867900848,0.00881676934659481,2,"1 medium onion, chopped","1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone."
+0.0,0.10526315867900848,0.0186981949955225,2,1 cup beef broth,"1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone."
+0.0,0.12903225421905518,0.41402357816696167,2,"0) In a large deep skillet, over medium heat, combine the potatoes, corned beef, onion, and beef broth.","1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone."
+0.0,0.095238097012043,0.3784444034099579,2,"0) In a large deep skillet, over medium heat, combine the potatoes, corned beef, onion, and beef broth.","2) Mix well, and serve."
+0.0,0.12903225421905518,0.41402357816696167,2,"0) In a large deep skillet, over medium heat, combine the potatoes, corned beef, onion, and beef broth.","1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone."
+0.0,0.12903225421905518,0.41402357816696167,2,"0) In a large deep skillet, over medium heat, combine the potatoes, corned beef, onion, and beef broth.","1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone."
+1.0,1.0,0.9736108779907227,2,"1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone.","1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone."
+0.0,0.8461538553237915,0.7808071374893188,2,"until potatoes are of mashing consistency, and the liquid is almost gone","1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone."
+1.0,1.0,0.9671926498413086,2,"2) Mix well, and serve.","2) Mix well, and serve."
+0.0,0.10000000149011612,0.15442821383476257,2,"2) Mix well, and serve.","1) Cover and simmer until potatoes are of mashing consistency, and the liquid is almost gone."
+0.0,0.0,0.13906067609786987,2,1 tablespoon baking powder,1/2 teaspoon salt
+0.0,0.25,0.021351128816604614,2,1/2 cup semisweet chocolate chips,1/2 teaspoon salt
+0.0,0.25,0.08468706160783768,2,1/4 cup milk,1/2 cup semisweet chocolate chips
+0.0,0.0,0.029554452747106552,2,1/4 cup milk,4) Pour mixture into the well.
+0.0,0.125,0.3475852906703949,2,"0) Measure flour, sugar, baking powder, salt, and chocolate chips into a large bowl.",1/2 teaspoon salt
+0.0,0.0,0.009099364280700684,2,<no_answer>,1/2 teaspoon salt
+0.0,0.0,0.20793570578098297,2,2) Beat the egg in a small bowl until frothy.,4) Pour mixture into the well.
+0.0,0.0,0.27217403054237366,2,"3) Mix in cooking oil, milk, and bananas.",5) Stir only to moisten.
+0.0,0.0,0.12665806710720062,2,4) Pour mixture into the well.,6) Fill greased muffin cups 3/4 full.
+0.0,0.0,0.16013386845588684,2,6) Fill greased muffin cups 3/4 full.,5) Stir only to moisten.
+1.0,1.0,0.9700711965560913,2,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.
+0.0,0.0,0.009044240228831768,2,<no_answer>,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.
+1.0,1.0,0.9700711965560913,2,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.,7) Bake at 400 degrees F (205 degrees C) for 20 to 25 minutes.
+0.0,0.07692307978868484,0.008911047130823135,2,1 (8.5 ounce) package corn bread/muffin mix,"1) Meanwhile, in a large skillet, cook beef and onion over medium heat until meat is no longer pink; drain."
+1.0,1.0,0.9701414108276367,2,1 (8.5 ounce) package corn bread/muffin mix,1 (8.5 ounce) package corn bread/muffin mix
+0.0,0.25,0.1284385621547699,2,1/3 cup milk,1 cup shredded Cheddar cheese
+0.0,0.0,0.009782074950635433,2,1/3 cup milk,"1) Meanwhile, in a large skillet, cook beef and onion over medium heat until meat is no longer pink; drain."
+0.0,0.2857142984867096,0.09578636288642883,2,1/2 cup chopped onion,1/3 cup milk
+0.0,0.2222222238779068,0.04330543428659439,2,1 (26 ounce) jar meatless spaghetti sauce,1 egg
+0.0,0.0,0.022596009075641632,2,1 (26 ounce) jar meatless spaghetti sauce,1/2 cup chopped onion
+0.0,0.1666666716337204,0.016465967521071434,2,1 cup frozen corn,"1 (4 ounce) can chopped green chilies, drained"
+0.0,0.3076923191547394,0.48854517936706543,2,2 (1.3 ounce) envelopes sloppy joe mix,7) Top with sloppy joe mixture.
+0.0,0.4444444477558136,0.444452166557312,2,2 (1.3 ounce) envelopes sloppy joe mix,"2) Stir in the spaghetti sauce, corn, chilies and sloppy joe mix."
+0.0,0.06060606241226196,0.01887603849172592,2,"0) Prepare and bake corn bread according to package directions, using the egg and milk.","1) Meanwhile, in a large skillet, cook beef and onion over medium heat until meat is no longer pink; drain."
+0.0,0.0,0.009782074950635433,2,1/3 cup milk,"1) Meanwhile, in a large skillet, cook beef and onion over medium heat until meat is no longer pink; drain."
+0.0,0.0,0.060203615576028824,2,"1) Meanwhile, in a large skillet, cook beef and onion over medium heat until meat is no longer pink; drain.",7) Top with sloppy joe mixture.
+0.0,0.0,0.010397897101938725,2,until meat is no longer pink,6) Cut corn bread into six pieces; cut each piece in half.
+1.0,1.0,0.9720673561096191,2,"2) Stir in the spaghetti sauce, corn, chilies and sloppy joe mix.","2) Stir in the spaghetti sauce, corn, chilies and sloppy joe mix."
+0.0,0.0,0.042461689561605453,2,3) Bring to a boil.,7) Top with sloppy joe mixture.
+1.0,1.0,0.970927894115448,2,"4) Reduce heat; simmer, uncovered, for 10 minutes.","4) Reduce heat; simmer, uncovered, for 10 minutes."
+0.0,0.095238097012043,0.2942933142185211,2,5) Sprinkle with cheese; cover and cook for 1 minute or until cheese is melted.,7) Top with sloppy joe mixture.
+0.0,0.42105263471603394,0.7035728096961975,2,until cheese is melted,5) Sprinkle with cheese; cover and cook for 1 minute or until cheese is melted.
+0.0,0.0,0.06223884969949722,2,6) Cut corn bread into six pieces; cut each piece in half.,5) Sprinkle with cheese; cover and cook for 1 minute or until cheese is melted.
+1.0,1.0,0.9681306481361389,2,7) Top with sloppy joe mixture.,7) Top with sloppy joe mixture.
+1.0,1.0,0.9681306481361389,2,7) Top with sloppy joe mixture.,7) Top with sloppy joe mixture.
+0.0,0.0,0.008923039771616459,2,"3 cloves garlic, diced",4) Bake wings 2 hours in the preheated oven.
+0.0,0.0,0.008664129301905632,2,"1 bunch green onions, chopped",4) Bake wings 2 hours in the preheated oven.
+0.0,0.3333333432674408,0.46621963381767273,2,4 pounds chicken wings,4) Bake wings 2 hours in the preheated oven.
+0.0,0.12121212482452393,0.15767379105091095,2,"0) Place the jerk seasoning, oil, garlic, ginger, green onions, and jalapeno slices in a blender, and blend until thick and smooth.","1) Dunk wings in the mixture, and arrange in single layer on baking sheets."
+0.0,0.190476194024086,0.49509498476982117,2,"1) Dunk wings in the mixture, and arrange in single layer on baking sheets.",4) Bake wings 2 hours in the preheated oven.
+0.0,0.21052631735801697,0.07523341476917267,2,"2) Cover with aluminum foil, and refrigerate 8 hours, or overnight.",4) Bake wings 2 hours in the preheated oven.
+0.0,0.1111111119389534,0.48360976576805115,2,3) Preheat oven to 300 degrees F (150 degrees C).,4) Bake wings 2 hours in the preheated oven.
+0.0,0.0,0.008774015121161938,2,<no_answer>,4) Bake wings 2 hours in the preheated oven.
+0.0,0.1111111119389534,0.48360976576805115,2,3) Preheat oven to 300 degrees F (150 degrees C).,4) Bake wings 2 hours in the preheated oven.
+0.0,0.0,0.0770735964179039,2,"0) In a large saucepan, combine the eggs, milk and 1/3 cup sugar.",1 teaspoon vanilla extract
+0.0,0.190476194024086,0.14221307635307312,2,"0) In a large saucepan, combine the eggs, milk and 1/3 cup sugar.",9) Fold in whipped cream mixture and serve at once.
+0.0,0.0,0.021576281636953354,2,2 1/4 cups milk,1 teaspoon vanilla extract
+0.0,0.1818181872367859,0.16558720171451569,2,1) Cook and stir over medium heat until mixture coats a metal spoon.,9) Fold in whipped cream mixture and serve at once.
+0.0,0.0,0.009080295450985432,2,2) Remove from heat.,9) Fold in whipped cream mixture and serve at once.
+0.0,0.0,0.009161615744233131,2,<no_answer>,5) Chill 4 to 24 hours.
+0.0,0.1428571492433548,0.2209344208240509,2,4) Stir in the vanilla.,9) Fold in whipped cream mixture and serve at once.
+1.0,1.0,0.9692083597183228,2,2 teaspoons white sugar,2 teaspoons white sugar
+0.0,0.1111111119389534,0.11745051294565201,2,7) Transfer chilled egg mixture to a punch bowl.,9) Fold in whipped cream mixture and serve at once.
+0.0,0.0,0.18233920633792877,2,8) Sprinkle each serving with nutmeg.,9) Fold in whipped cream mixture and serve at once.
+0.0,0.0,0.18233920633792877,2,8) Sprinkle each serving with nutmeg.,9) Fold in whipped cream mixture and serve at once.
+0.0,0.125,0.08717679977416992,2,0) Heat the olive oil in a large skillet over medium heat.,1) Mix in the yogurt and vinegar.
+0.0,0.2666666805744171,0.2623504400253296,2,1) Mix in the yogurt and vinegar.,"13) Sprinkle with the food coloring, and mix to serve."
+0.0,0.1111111119389534,0.07510654628276825,2,"2) Place the onion in the skillet, and cook until tender.","13) Sprinkle with the food coloring, and mix to serve."
+0.0,0.20000000298023224,0.3113730549812317,2,"3) Mix in the garlic, ginger paste, green chile peppers, and tomatoes.","13) Sprinkle with the food coloring, and mix to serve."
+0.0,0.9090909361839294,0.7055802345275879,2,"3) Mix in the garlic, ginger paste, green chile peppers, and tomatoes.","1) Mix in the garlic, ginger paste, green chile peppers, and tomatoes."
+0.0,0.11764705926179886,0.07620947808027267,2,4) Cook and stir until tomatoes are tender.,"13) Sprinkle with the food coloring, and mix to serve."
+1.0,1.0,0.9712445139884949,2,"5) Season with garam masala, mint, salt, and pepper, and mix in the cilantro.","5) Season with garam masala, mint, salt, and pepper, and mix in the cilantro."
+0.0,0.27272728085517883,0.32694631814956665,2,"5) Season with garam masala, mint, salt, and pepper, and mix in the cilantro.","13) Sprinkle with the food coloring, and mix to serve."
+0.0,0.25,0.498359352350235,2,5 sprigs cilantro,"5) Season with garam masala, mint, salt, and pepper, and mix in the cilantro."
+0.0,0.1111111119389534,0.06231751665472984,2,6) Place the chicken in the skillet.,"5) Season with garam masala, mint, salt, and pepper, and mix in the cilantro."
+1.0,1.0,0.9722579121589661,2,"1 (3 pound) whole chicken, skin removed and cut into pieces","1 (3 pound) whole chicken, skin removed and cut into pieces"
+1.0,1.0,0.9747694730758667,2,"7) Reduce heat to medium-low, cover, and continue cooking 45 minutes, stirring occasionally, until chicken juices run clear.","7) Reduce heat to medium-low, cover, and continue cooking 45 minutes, stirring occasionally, until chicken juices run clear."
+0.0,0.0,0.009649552404880524,2,45 minutes,"13) Sprinkle with the food coloring, and mix to serve."
+0.0,0.1428571492433548,0.1952173411846161,2,8) Bring the water and rice to a boil in a large pot.,"7) Reduce heat to medium-low, cover, and continue cooking 45 minutes, stirring occasionally, until chicken juices run clear."
+0.0,0.190476194024086,0.06175747513771057,2,"9) Mix in the bay leaf, green cardamom, black cardamom, and cinnamon.",8) Bring the water and rice to a boil in a large pot.
+0.0,0.3529411852359772,0.148844376206398,2,"9) Mix in the bay leaf, green cardamom, black cardamom, and cinnamon.",1) Mix in the yogurt and vinegar.
+0.0,0.0,0.08009738475084305,2,"9) Mix in the bay leaf, green cardamom, black cardamom, and cinnamon.",1/4 teaspoon powdered yellow food coloring
+0.0,0.2666666805744171,0.09336784482002258,2,10) Season with salt to taste.,"13) Sprinkle with the food coloring, and mix to serve."
+0.0,0.21052631735801697,0.035117149353027344,2,"11) Cover, reduce heat to low, and simmer 20 minutes.","13) Sprinkle with the food coloring, and mix to serve."
+0.0,0.17391304671764374,0.17515568435192108,2,"12) In a separate pot, alternate the rice and chicken mixture in layers, topping with rice.","13) Sprinkle with the food coloring, and mix to serve."
+0.0,0.20000000298023224,0.1922137290239334,2,"12) In a separate pot, alternate the rice and chicken mixture in layers, topping with rice.",1) Mix in the yogurt and vinegar.
+1.0,1.0,0.9712122678756714,2,"13) Sprinkle with the food coloring, and mix to serve.","13) Sprinkle with the food coloring, and mix to serve."
+1.0,1.0,0.9712122678756714,2,"13) Sprinkle with the food coloring, and mix to serve.","13) Sprinkle with the food coloring, and mix to serve."
+0.0,0.0,0.008928793482482433,2,"0) In a small bowl, mix together the mustard and onion soup mix.",1) Lay out two long sheets of aluminum foil crosswise.
+0.0,0.0,0.008928793482482433,2,"0) In a small bowl, mix together the mustard and onion soup mix.",1) Lay out two long sheets of aluminum foil crosswise.
+1.0,1.0,0.9707449674606323,2,1) Lay out two long sheets of aluminum foil crosswise.,1) Lay out two long sheets of aluminum foil crosswise.
+0.0,0.0,0.008963121101260185,2,<no_answer>,1) Lay out two long sheets of aluminum foil crosswise.
+0.0,0.20000000298023224,0.28714266419410706,2,1) Lay out two long sheets of aluminum foil crosswise.,"2) Pat the roast dry, and place in the center of the foil."
+0.0,0.11764705926179886,0.22773626446723938,2,"2) Pat the roast dry, and place in the center of the foil.",10) Place on a deep serving plate before unwrapping so you can be sure to save the juices and mustard rub to slather on the beef slices.
+0.0,0.0,0.37190964818000793,2,"4) Wrap the foil tightly around the roast, then apply one more piece of foil to really seal it in so that the roast can be rotated without all of the juices spilling out.",9) Let stand for about 10 minutes before carving.
+1.0,1.0,0.974884569644928,2,"4) Wrap the foil tightly around the roast, then apply one more piece of foil to really seal it in so that the roast can be rotated without all of the juices spilling out.","4) Wrap the foil tightly around the roast, then apply one more piece of foil to really seal it in so that the roast can be rotated without all of the juices spilling out."
+0.0,0.125,0.1825409084558487,2,5) Prepare an outdoor grill for indirect heat.,9) Let stand for about 10 minutes before carving.
+0.0,0.095238097012043,0.23110930621623993,2,"6) For charcoal, light the coals, then move to one side of the grill.",9) Let stand for about 10 minutes before carving.
+0.0,0.1764705926179886,0.21313486993312836,2,"8) Cook for about 2 hours, turning every 30 to 45 minutes, or until the internal temperature is at least 145 degrees F (63 degrees C).",9) Let stand for about 10 minutes before carving.
+0.0,0.1764705926179886,0.21313486993312836,2,"8) Cook for about 2 hours, turning every 30 to 45 minutes, or until the internal temperature is at least 145 degrees F (63 degrees C).",9) Let stand for about 10 minutes before carving.
+1.0,1.0,0.970413863658905,2,9) Let stand for about 10 minutes before carving.,9) Let stand for about 10 minutes before carving.
+0.0,0.12121212482452393,0.26448526978492737,2,10) Place on a deep serving plate before unwrapping so you can be sure to save the juices and mustard rub to slather on the beef slices.,9) Let stand for about 10 minutes before carving.
+1.0,1.0,0.9746271371841431,2,10) Place on a deep serving plate before unwrapping so you can be sure to save the juices and mustard rub to slather on the beef slices.,10) Place on a deep serving plate before unwrapping so you can be sure to save the juices and mustard rub to slather on the beef slices.
+0.0,0.12121212482452393,0.26448526978492737,2,10) Place on a deep serving plate before unwrapping so you can be sure to save the juices and mustard rub to slather on the beef slices.,9) Let stand for about 10 minutes before carving.
+0.0,0.0,0.009281130507588387,2,3 pounds ground beef,1/2 cup milk
+0.0,0.0,0.013276360929012299,2,1/2 cup milk,"1) Season with garlic powder, onion powder, salt and pepper, and mix until well blended."
+0.0,0.0,0.008934195153415203,2,1/4 teaspoon ground black pepper,"16) Serve fake steak and gravy with potatoes, rice, or noodles."
+0.0,0.10000000149011612,0.3101402223110199,2,1/4 teaspoon ground black pepper,"1) Season with garlic powder, onion powder, salt and pepper, and mix until well blended."
+0.0,0.0,0.010640962980687618,2,1 tablespoon vegetable oil,"16) Serve fake steak and gravy with potatoes, rice, or noodles."
+0.0,0.10000000149011612,0.04687495529651642,2,1 (10.75 ounce) can  condensed beef and mushroom soup,"16) Serve fake steak and gravy with potatoes, rice, or noodles."
+1.0,1.0,0.9708331227302551,2,1 (10.75 ounce) can  condensed beef and mushroom soup,1 (10.75 ounce) can condensed beef and mushroom soup
+0.0,0.1666666716337204,0.05421146750450134,2,1 (10.75 ounce) can  condensed beef and mushroom soup,"1) Season with garlic powder, onion powder, salt and pepper, and mix until well blended."
+0.0,0.14814814925193787,0.223931223154068,2,"0) In a large bowl, mix together the ground beef, saltine crackers and milk.","1) Season with garlic powder, onion powder, salt and pepper, and mix until well blended."
+0.0,0.1538461595773697,0.04031108692288399,2,"1) Season with garlic powder, onion powder, salt and pepper, and mix until well blended.","16) Serve fake steak and gravy with potatoes, rice, or noodles."
+0.0,0.0,0.030902784317731857,2,"1) Season with garlic powder, onion powder, salt and pepper, and mix until well blended.",9) Heat oil in a large heavy skillet over medium-high heat.
+0.0,0.10000000149011612,0.05190831050276756,2,2) Line a 10x15 inch jellyroll pan with waxed paper.,"16) Serve fake steak and gravy with potatoes, rice, or noodles."
+0.0,0.095238097012043,0.024188317358493805,2,"4) Cover with plastic wrap, and refrigerate 8 to 10 hours, or overnight.",8) Cut into pieces (I use a pizza cutter).
+0.0,0.0,0.016082821413874626,2,5) Preheat the oven to 350 degrees F (175 degrees C).,"16) Serve fake steak and gravy with potatoes, rice, or noodles."
+0.0,0.07407407462596893,0.02226334437727928,2,"7) Flip out of the pan onto waxed paper, and rub flour on the other side as well.","16) Serve fake steak and gravy with potatoes, rice, or noodles."
+1.0,1.0,0.9699740409851074,2,8) Cut into pieces (I use a pizza cutter).,8) Cut into pieces (I use a pizza cutter).
+0.0,0.0,0.07636202871799469,2,9) Heat oil in a large heavy skillet over medium-high heat.,"16) Serve fake steak and gravy with potatoes, rice, or noodles."
+0.0,0.0,0.21209710836410522,2,"10) Fry the meat until browned on each side, turning only once.",9) Heat oil in a large heavy skillet over medium-high heat.
+0.0,0.0,0.017443450167775154,2,until browned on each side,"16) Serve fake steak and gravy with potatoes, rice, or noodles."
+0.0,0.14814814925193787,0.25071242451667786,2,"12) In a medium bowl, mix together the water, condensed soup, and gravy mix.","1) Season with garlic powder, onion powder, salt and pepper, and mix until well blended."
+0.0,0.17391304671764374,0.4019121825695038,2,"12) In a medium bowl, mix together the water, condensed soup, and gravy mix.","16) Serve fake steak and gravy with potatoes, rice, or noodles."
+0.0,0.0,0.07789602875709534,2,13) Pour over the meat in the dish.,"1) Season with garlic powder, onion powder, salt and pepper, and mix until well blended."
+0.0,0.1111111119389534,0.14554719626903534,2,14) Cover the dish loosely with aluminum foil.,"16) Serve fake steak and gravy with potatoes, rice, or noodles."
+0.0,0.0,0.13412262499332428,2,"0) In a saucepan, bring applesauce to a boil.",2) Slowly add soda and pineapple.
+0.0,0.125,0.12852860987186432,2,"0) In a saucepan, bring applesauce to a boil.",1) Remove from the heat; stir in gelatin until dissolved.
+0.0,0.0,0.00991479866206646,2,<no_answer>,1 cup applesauce
+1.0,1.0,0.9715107679367065,2,1) Remove from the heat; stir in gelatin until dissolved.,1) Remove from the heat; stir in gelatin until dissolved.
+0.0,0.13333334028720856,0.39286524057388306,2,2 (3 ounce) packages cherry gelatin,1) Remove from the heat; stir in gelatin until dissolved.
+1.0,1.0,0.9710580110549927,2,2) Slowly add soda and pineapple.,2) Slowly add soda and pineapple.
+0.0,0.1666666716337204,0.032579127699136734,2,1 (12 ounce) can lemon-lime soda,2 (3 ounce) packages cherry gelatin
+0.0,0.0,0.020096993073821068,2,3) Refrigerate until firm.,2) Slowly add soda and pineapple.
+1.0,1.0,0.9681767821311951,2,3) Refrigerate until firm.,3) Refrigerate until firm.
+0.0,0.0,0.03631448745727539,2,0) Season both sides of chicken breasts with salt and pepper.,1) Heat oil in a large skillet over medium-high heat.
+0.0,0.0,0.00904089491814375,2,<no_answer>,1/4 cup sun-dried tomato pesto
+0.0,0.0,0.19298507273197174,2,1) Heat oil in a large skillet over medium-high heat.,"7) Simmer for 5 to 10 minutes, or until chicken is cooked through."
+1.0,1.0,0.972402811050415,2,"2) Place chicken in skillet; cook, turning once to brown each side.","2) Place chicken in skillet; cook, turning once to brown each side."
+0.0,0.31578946113586426,0.3426109850406647,2,"3) Remove chicken from pan, and set aside.","5) Stir in pesto and artichokes, and return chicken to pan."
+0.0,0.19354838132858276,0.35292744636535645,2,1 (14.5 ounce) can diced tomatoes with green peppers and onions,"4) Pour tomatoes into pan; cook for 1 minute, stirring constantly, and incorporating any brown bits from bottom of pan."
+0.0,0.12903225421905518,0.34889066219329834,2,"4) Pour tomatoes into pan; cook for 1 minute, stirring constantly, and incorporating any brown bits from bottom of pan.","5) Stir in pesto and artichokes, and return chicken to pan."
+1.0,1.0,0.9714410305023193,2,"5) Stir in pesto and artichokes, and return chicken to pan.","5) Stir in pesto and artichokes, and return chicken to pan."
+0.0,0.25,0.38493916392326355,2,"5) Stir in pesto and artichokes, and return chicken to pan.","7) Simmer for 5 to 10 minutes, or until chicken is cooked through."
+0.0,0.0,0.00898372195661068,2,<no_answer>,"5) Stir in pesto and artichokes, and return chicken to pan."
+1.0,1.0,0.9716417789459229,2,"7) Simmer for 5 to 10 minutes, or until chicken is cooked through.","7) Simmer for 5 to 10 minutes, or until chicken is cooked through."
+0.0,0.0,0.026550378650426865,2,1 pound cubed beef stew meat,1/2 teaspoon ground black pepper
+0.0,0.0,0.009384256787598133,2,1 pound cubed beef stew meat,1/4 cup red wine
+0.0,0.0,0.05287668853998184,2,2 tablespoons olive oil,1/4 cup water
+0.0,0.0,0.032203931361436844,2,"1 medium yellow onion, thinly sliced",1/2 teaspoon ground black pepper
+0.0,0.6666666865348816,0.5133343935012817,2,1/4 cup red wine,1/4 cup
+0.0,0.5714285969734192,0.20259010791778564,2,1/4 cup red wine,1/4 cup water
+0.0,0.0,0.010199600830674171,2,1 beef bouillon cube,1/2 teaspoon dried thyme
+0.0,0.0,0.011601942591369152,2,"1 large potato, cubed",1/2 teaspoon ground black pepper
+0.0,0.5,0.1847245693206787,2,1/2 teaspoon rosemary,1/2 teaspoon ground black pepper
+0.0,0.2222222238779068,0.16031065583229065,2,1/2 tablespoon garlic powder,1/2 teaspoon ground black pepper
+0.0,0.75,0.9702228903770447,2,1/2 tablespoon garlic powder,1/2 teaspoon garlic powder
+0.0,0.0,0.013728903606534004,2,1/4 cup water,1/2 teaspoon garlic powder
+0.0,0.0,0.009769168682396412,2,1/4 cup water,"2) Heat the oil in a skillet over medium heat, and brown beef on all sides."
+0.0,0.25,0.22337189316749573,2,0) Place cubed beef and flour in a resealable plastic bag.,"2) Heat the oil in a skillet over medium heat, and brown beef on all sides."
+0.0,0.0,0.05094163864850998,2,"2) Heat the oil in a skillet over medium heat, and brown beef on all sides.",1/2 teaspoon ground black pepper
+0.0,0.0,0.011781061999499798,2,3) Transfer to a slow cooker.,1/2 teaspoon ground black pepper
+0.0,0.0,0.12338664382696152,2,5) Transfer to the slow cooker with the beef.,9) Mix in remaining water and Worcestershire sauce.
+0.0,0.13333334028720856,0.3012446463108063,2,"6) Pour wine into the skillet to deglaze, then pour wine into slow cooker.","8) Place potato and carrots in slow cooker, and season with rosemary, thyme, garlic powder, and pepper."
+0.0,0.0,0.016963206231594086,2,"7) Dissolve the beef bouillon cube in 1 cup hot water, and pour into slow cooker.",1/2 teaspoon dried thyme
+0.0,0.25,0.2454369217157364,2,"8) Place potato and carrots in slow cooker, and season with rosemary, thyme, garlic powder, and pepper.","7) Dissolve the beef bouillon cube in 1 cup hot water, and pour into slow cooker."
+1.0,1.0,0.9714373350143433,2,9) Mix in remaining water and Worcestershire sauce.,9) Mix in remaining water and Worcestershire sauce.
+0.0,0.1111111119389534,0.497450590133667,2,10) Add more water if needed to cover all ingredients.,9) Mix in remaining water and Worcestershire sauce.
+0.0,0.1666666716337204,0.4227874279022217,2,"11) Cover slow cooker, and cook stew 7 to 8 hours on low heat.",10) Add more water if needed to cover all ingredients.
+0.0,0.0,0.014593834057450294,2,<no_answer>,10) Add more water if needed to cover all ingredients.
+0.0,0.1666666716337204,0.4227874279022217,2,"11) Cover slow cooker, and cook stew 7 to 8 hours on low heat.",10) Add more water if needed to cover all ingredients.
+0.0,0.0,0.009273041039705276,2,"1 green bell pepper, chopped",9) Garnish with Cheddar cheese and sour cream to serve.
+0.0,0.0,0.008851687423884869,2,2 (15 ounce) cans black beans,9) Garnish with Cheddar cheese and sour cream to serve.
+0.0,0.0,0.008851687423884869,2,2 (15 ounce) cans black beans,9) Garnish with Cheddar cheese and sour cream to serve.
+0.0,0.0,0.009731549769639969,2,2 (15 ounce) cans black beans,1 cup shredded Cheddar cheese
+0.0,0.0,0.010561471804976463,2,2 cups cubed cooked ham,9) Garnish with Cheddar cheese and sour cream to serve.
+0.0,0.13333334028720856,0.011298439465463161,2,ground black pepper to taste,9) Garnish with Cheddar cheese and sour cream to serve.
+0.0,0.13333334028720856,0.011298439465463161,2,ground black pepper to taste,9) Garnish with Cheddar cheese and sour cream to serve.
+0.0,0.0,0.013807150535285473,2,<no_answer>,"1) Stir in the onion, bell pepper, carrot, and garlic, and cook 5 minutes, until tender."
+1.0,1.0,0.9720707535743713,2,"1) Stir in the onion, bell pepper, carrot, and garlic, and cook 5 minutes, until tender.","1) Stir in the onion, bell pepper, carrot, and garlic, and cook 5 minutes, until tender."
+0.0,0.0,0.3174085021018982,2,2) Mix in 1 can black beans and chicken broth.,5) Bring soup to a boil.
+0.0,0.1111111119389534,0.1328728348016739,2,"3) In a blender, puree remaining can of beans until smooth.","7) Mix in ham, cumin, salt, and pepper."
+0.0,0.1666666716337204,0.3913275897502899,2,4) Mix into the pot.,"7) Mix in ham, cumin, salt, and pepper."
+0.0,0.13333334028720856,0.07690230756998062,2,5) Bring soup to a boil.,9) Garnish with Cheddar cheese and sour cream to serve.
+0.0,0.20000000298023224,0.16708561778068542,2,6) Reduce heat to low.,5) Bring soup to a boil.
+0.0,0.1111111119389534,0.08716411143541336,2,"7) Mix in ham, cumin, salt, and pepper.",9) Garnish with Cheddar cheese and sour cream to serve.
+1.0,1.0,0.970686674118042,2,9) Garnish with Cheddar cheese and sour cream to serve.,9) Garnish with Cheddar cheese and sour cream to serve.
+0.0,0.0,0.00922302808612585,2,"4 skinless, boneless chicken breast halves",1/2 cup orange juice
+0.0,0.2222222238779068,0.041097212582826614,2,1 cup grated Parmesan cheese,1/2 cup orange juice
+0.0,0.1666666716337204,0.28813856840133667,2,"1 orange, sliced into rounds",1/4 cup brandy-based orange liqueur (Grand Marnier)
+0.0,0.0,0.00986968819051981,2,1 (10.5 ounce) can chicken broth,1/4 cup brandy-based orange liqueur (Grand Marnier)
+0.0,0.08695652335882187,0.32748985290527344,2,0) Slice chicken breasts in thirds horizontally to make 12 thin chicken fillets.,"16) Pour the sauce over the chicken, then drizzle with Grand Marinier."
+1.0,1.0,0.969394326210022,2,1) Lightly pound each piece.,1) Lightly pound each piece.
+0.0,0.0,0.012744300067424774,2,3) Soak for 10 minutes.,"2) Place in a dish, and pour milk over them."
+1.0,1.0,0.9615445733070374,2,5) Set aside.,5) Set aside.
+0.0,0.0,0.01968616247177124,2,5) Set aside.,"16) Pour the sauce over the chicken, then drizzle with Grand Marinier."
+0.0,0.095238097012043,0.24704742431640625,2,"7) Dredge chicken pieces in the bread crumb mixture, and place in the hot oil.","12) Drain the oil from the skillet, reserving 1/4 cup."
+0.0,0.06896551698446274,0.3417198657989502,2,"8) Quickly brown on both sides, then remove to a buttered 9x13 inch baking dish, or similar size.","16) Bake for 20 to 25 minutes in the preheated oven, until bubbly."
+0.0,0.10000000149011612,0.011619256809353828,2,9) Season with salt and pepper to taste.,"16) Bake for 20 to 25 minutes in the preheated oven, until bubbly."
+0.0,0.0,0.04367583245038986,2,10) Place orange slices over the top of the chicken.,"16) Bake for 20 to 25 minutes in the preheated oven, until bubbly."
+0.0,0.1818181872367859,0.42999106645584106,2,11) Preheat the oven to 350 degrees F (175 degrees C).,"16) Bake for 20 to 25 minutes in the preheated oven, until bubbly."
+0.0,0.0,0.09666986018419266,2,"12) Drain the oil from the skillet, reserving 1/4 cup.","16) Bake for 20 to 25 minutes in the preheated oven, until bubbly."
+0.0,0.0,0.17641443014144897,2,"14) Add broth and orange juice, and reduce by 1/2 again.","15) Pour the sauce over the chicken, then drizzle with Grand Marinier."
+1.0,1.0,0.9732093214988708,2,"15) Pour the sauce over the chicken, then drizzle with Grand Marinier.","15) Pour the sauce over the chicken, then drizzle with Grand Marinier."
+1.0,1.0,0.9705939888954163,2,"16) Bake for 20 to 25 minutes in the preheated oven, until bubbly.","16) Bake for 20 to 25 minutes in the preheated oven, until bubbly."
+0.0,0.0,0.06261180341243744,2,until bubbly,"16) Pour the sauce over the chicken, then drizzle with Grand Marinier."
+0.0,0.25,0.13999266922473907,2,"1 stalk celery, chopped","1 medium tomato, diced"
+0.0,0.190476194024086,0.20711761713027954,2,1 cup shredded Cheddar cheese,"1) In a medium bowl, stir together the onion, tomato, celery, bell pepper, cheese, chili powder and salt."
+0.0,0.190476194024086,0.20711761713027954,2,1 cup shredded Cheddar cheese,"1) In a medium bowl, stir together the onion, tomato, celery, bell pepper, cheese, chili powder and salt."
+0.0,0.0,0.00893920473754406,2,1/4 teaspoon salt,5) Watch closely to prevent burning.
+0.0,0.13333334028720856,0.03050975874066353,2,4 slices white bread,"4) Broil for 4 to 5 minutes, or until cheese melts."
+0.0,0.0,0.14928790926933289,2,0) Preheat your oven's broiler.,5) Watch closely to prevent burning.
+0.0,0.07407407462596893,0.20836025476455688,2,"1) In a medium bowl, stir together the onion, tomato, celery, bell pepper, cheese, chili powder and salt.","4) Broil for 4 to 5 minutes, or until cheese melts."
+0.0,0.0,0.027618473395705223,2,2) Arrange slices of bread on a baking sheet or broiling pan.,"1) In a medium bowl, stir together the onion, tomato, celery, bell pepper, cheese, chili powder and salt."
+0.0,0.08695652335882187,0.11228182911872864,2,"3) Top each one with 1/4 of the mixture, spreading out to the edges.","4) Broil for 4 to 5 minutes, or until cheese melts."
+1.0,1.0,0.9710054397583008,2,"4) Broil for 4 to 5 minutes, or until cheese melts.","4) Broil for 4 to 5 minutes, or until cheese melts."
+0.0,0.23529411852359772,0.15254855155944824,2,"4) Broil for 4 to 5 minutes, or until cheese melts.",5) Watch closely to prevent burning.
+0.0,0.0,0.009350641630589962,2,6) Serve immediately.,5) Watch closely to prevent burning.

@@ -1,0 +1,415 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+0.0,0.800000011920929,0.8844881057739258,2,thick cilantro,thick cilantro stems
+0.0,0.3333333432674408,0.5418612957000732,2,bowl,bowl of a mortar and pestle
+1.0,1.0,0.9699666500091553,2,"garlic, ginger, thick cilantro stems, and half of the chili","garlic, ginger, thick cilantro stems, and half of the chili"
+1.0,1.0,0.968511700630188,2,mortar and pestle,mortar and pestle
+1.0,1.0,0.9714833498001099,2,Thinly slice remaining half chili and set aside for garnish.,Thinly slice remaining half chili and set aside for garnish.
+1.0,1.0,0.9690185785293579,2,coconut milk,coconut milk
+1.0,1.0,0.9716690182685852,2,Carefully spoon off about 3 tablespoons of the solid fat from the surface and place it in a large Dutch oven.,Carefully spoon off about 3 tablespoons of the solid fat from the surface and place it in a large Dutch oven.
+1.0,1.0,0.9656605124473572,2,about 4 minutes,about 4 minutes
+1.0,1.0,0.9665487408638,2,medium-high heat.,medium-high heat
+1.0,1.0,0.9611756801605225,2,ginger,ginger
+0.0,0.8965517282485962,0.840105414390564,2,"Add half of sliced scallions and turmeric and cook, stirring, until lightly softened.","Add half of sliced scallions and turmeric and cook, stirring, until lightly softened, about 1 minute."
+1.0,1.0,0.950712263584137,2,stock,stock
+1.0,1.0,0.9653207063674927,2,1 quart,1 quart
+0.0,0.0,0.20922242105007172,2,bare simmer,medium-high heat
+1.0,1.0,0.9732787609100342,2,"Cook until sweet potatoes are totally softened, about 15 minutes.","Cook until sweet potatoes are totally softened, about 15 minutes."
+0.0,0.16393442451953888,0.34004759788513184,2,"combine peanuts and remaining tablespoon oil in a medium skillet set over medium heat. Cook, tossing and stirring frequently, until peanuts are a deep golden brown","Transfer half of the remaining peanuts to the now-empty mortar and pestle. Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup. Repeat with the other half of the remaining peanuts."
+0.0,0.0,0.08115924149751663,2,medium skillet,bowl
+0.0,0.3529411852359772,0.41493138670921326,2,about 8 minutes.,"Cook, tossing and stirring frequently, until peanuts are a deep golden brown, about 8 minutes."
+1.0,1.0,0.9646674394607544,2,about 8 minutes,about 8 minutes
+1.0,1.0,0.9698712825775146,2,Immediately transfer to a bowl to prevent scorching.,Immediately transfer to a bowl to prevent scorching.
+0.0,0.0,0.1475490778684616,2,bowl,pot of soup
+0.0,0.0,0.009943636134266853,2,cup,peanuts
+0.0,0.19607843458652496,0.4548798203468323,2,Transfer 1/2 cup of peanuts to a cutting board and roughly chop. Reserve for garnish.,"Transfer half of the remaining peanuts to the now-empty mortar and pestle. Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup. Repeat with the other half of the remaining peanuts."
+0.0,0.89552241563797,0.8601643443107605,2,"Transfer half of the remaining peanuts to the now-empty mortar and pestle. Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup.","Transfer half of the remaining peanuts to the now-empty mortar and pestle. Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup. Repeat with the other half of the remaining peanuts."
+0.0,0.8510638475418091,0.6909438371658325,2,"Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup. Repeat with the other half of the remaining peanuts.","Sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup."
+0.0,0.0,0.014258135110139847,2,repeat,"sprinkle with 1 teaspoon sugar and a pinch of salt. Pound to form a rough paste, then transfer to pot of soup."
+1.0,1.0,0.9668850898742676,2,peanuts,peanuts
+1.0,1.0,0.9732662439346313,2,blend soup until mostly smooth but a little texture remains using a hand blender directly in the pot or by transferring to a countertop blender in batches.,Blend soup until mostly smooth but a little texture remains using a hand blender directly in the pot or by transferring to a countertop blender in batches.
+0.0,0.6764705777168274,0.6483467221260071,2,"blend soup until mostly smooth but a little texture remains using a hand blender directly in the pot or by transferring to a countertop blender in batches. Bring to a simmer, stir in kale, and cook until kale is completely wilted and tender, about 5 minutes. Stir in lime juice.",Blend soup until mostly smooth but a little texture remains using a hand blender directly in the pot or by transferring to a countertop blender in batches.
+0.0,0.6000000238418579,0.6294453144073486,2,"cook until kale is completely wilted and tender, about 5 minutes. Stir in lime juice. Season soup to taste with salt, pepper, and hot sauce. Stir in cilantro, reserving some for garnish.","Bring to a simmer, stir in kale, and cook until kale is completely wilted and tender, about 5 minutes."
+0.0,0.6666666865348816,0.8451792001724243,2,lime,lime juice
+1.0,1.0,0.9639416933059692,2,pepper,pepper
+1.0,1.0,0.9614855051040649,2,cilantro,cilantro
+0.0,0.6829268336296082,0.6951229572296143,2,"Adjust oven rack to center position and preheat to 350°F (180°C). Working with one pumpkin at a time, use a sharp paring knife to cut the top of the pumpkin off in one piece. Carefully run knife along the cavity of the pumpkin to loosen seeds and stringy pulp, then use a spoon to scoop them out and scrape the cavity clean. Using the paring knife, scrape seeds and pulp from the tops as well. Discard seeds and pulp or reserve for another use. Repeat with remaining pumpkins.","Working with one pumpkin at a time, use a sharp paring knife to cut the top of the pumpkin off in one piece (as when making a jack-o'-lantern). Carefully run knife along the cavity of the pumpkin to loosen seeds and stringy pulp, then use a spoon to scoop them out and scrape"
+0.0,0.800000011920929,0.9200237393379211,2,to 350°F (180°C).,350°F (180°C)
+0.0,0.6666666865348816,0.6445892453193665,2,180°c,350°F (180°C)
+0.0,0.7058823704719543,0.7982885837554932,2,"Carefully run knife along the cavity of the pumpkin to loosen seeds and stringy pulp, then use a spoon to scoop them out and scrape the cavity clean. Using the paring knife, scrape seeds and pulp from the tops as well. Discard seeds and pulp or reserve for another use.","Carefully run knife along the cavity of the pumpkin to loosen seeds and stringy pulp, then use a spoon to scoop them out and scrape the cavity clean."
+1.0,1.0,0.9723204374313354,2,"Lightly drizzle the cut and inner surfaces of kabocha squash, pumpkins, and pumpkin tops with olive oil, rubbing them with your hands to evenly coat. Season heavily with salt and pepper.","Lightly drizzle the cut and inner surfaces of kabocha squash, pumpkins, and pumpkin tops with olive oil, rubbing them with your hands to evenly coat. Season heavily with salt and pepper."
+1.0,1.0,0.973347544670105,2,"Lightly drizzle the cut and inner surfaces of kabocha squash, pumpkins, and pumpkin tops with olive oil, rubbing them with your hands to evenly coat.","Lightly drizzle the cut and inner surfaces of kabocha squash, pumpkins, and pumpkin tops with olive oil, rubbing them with your hands to evenly coat."
+1.0,1.0,0.9662688374519348,2,Season heavily with salt and pepper.,Season heavily with salt and pepper.
+1.0,1.0,0.972493588924408,2,"Place pumpkin tops on pumpkins, then set pumpkins on prepared baking sheet. Set kabocha squash, cut side down, on the same baking sheet.","Place pumpkin tops on pumpkins, then set pumpkins on prepared baking sheet. Set kabocha squash, cut side down, on the same baking sheet."
+1.0,1.0,0.974075436592102,2,"Roast until kabocha squash is tender and can easily be pierced with a paring knife, and sugar pumpkins have slightly softened, 45 minutes to 1 hour.","Roast until kabocha squash is tender and can easily be pierced with a paring knife, and sugar pumpkins have slightly softened, 45 minutes to 1 hour."
+0.0,0.32258063554763794,0.6030882596969604,2,Lift pumpkin tops from pumpkins to allow steam to escape and set all roasted squash aside to cool on baking sheet.,"Set kabocha squash, cut side down, on the same baking sheet."
+1.0,1.0,0.9734741449356079,2,"heat oil over medium-high heat until shimmering. Add mushrooms, season with salt and pepper, and cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes.","Heat oil over medium-high heat until shimmering. Add mushrooms, season with salt and pepper, and cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes."
+0.0,0.3921568691730499,0.621491551399231,2,"cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes.","Push mushrooms to outer edge of skillet, add kale to now-empty center of skillet, and cook, stirring frequently, until kale is slightly wilted and softened and has mixed with mushrooms, about 3 minutes."
+0.0,0.6122449040412903,0.6937201023101807,2,Push mushrooms and kale to outer edge of skillet and add butter to center of skillet.,"Push mushrooms to outer edge of skillet, add kale to now-empty center of skillet, and cook, stirring frequently, until kale is slightly wilted and softened and has mixed with mushrooms, about 3 minutes."
+1.0,1.0,0.9745060205459595,2,"Once butter has melted and begun foaming, add shallots, garlic, and thyme to center of skillet and cook, stirring constantly, until fragrant, about 30 seconds.","Once butter has melted and begun foaming, add shallots, garlic, and thyme to center of skillet and cook, stirring constantly, until fragrant, about 30 seconds."
+0.0,0.5625,0.6418443918228149,2,Add sherry and sherry vinegar and stir to combine. Season with salt and pepper and transfer mixture to a heatproof medium bowl to cool.,Add sherry and sherry vinegar and stir to combine.
+1.0,1.0,0.9708812236785889,2,"Stuff pumpkins by evenly dividing and layering half the ingredients in the following order: mashed kabocha squash, bread, mushroom-kale mixture, pepitas, pecans, Gruyère, and spiced cream.","Stuff pumpkins by evenly dividing and layering half the ingredients in the following order: mashed kabocha squash, bread, mushroom-kale mixture, pepitas, pecans, Gruyère, and spiced cream."
+1.0,1.0,0.9712197780609131,2,Use a pastry brush to paint glaze onto pumpkins and pumpkin tops.,Use a pastry brush to paint glaze onto pumpkins and pumpkin tops.
+0.0,0.4117647111415863,0.640224814414978,2,pumpkins are tender and easily pierced by a paring knife.,"Roast until kabocha squash is tender and can easily be pierced with a paring knife, and sugar pumpkins have slightly softened, 45 minutes to 1 hour."
+0.0,0.13333334028720856,0.03494103625416756,2,30 to 45 minutes.,Set tops on pumpkins and continue roasting for 10 minutes longer.
+1.0,1.0,0.9718970656394958,2,Set tops on pumpkins and continue roasting for 10 minutes longer.,Set tops on pumpkins and continue roasting for 10 minutes longer.
+0.0,0.6666666865348816,0.34887149930000305,2,about 4 minutes,about 40 minutes
+1.0,1.0,0.969273567199707,2,medium-high heat,medium-high heat
+1.0,1.0,0.9745078086853027,2,"Heat pumpkin seeds in the base of a large Dutch oven over medium-high heat, stirring constantly, until they start to pop and smell nutty, about 4 minutes.","Heat pumpkin seeds in the base of a large Dutch oven over medium-high heat, stirring constantly, until they start to pop and smell nutty, about 4 minutes."
+1.0,1.0,0.9678078293800354,2,large dutch oven,large Dutch oven
+0.0,0.24242424964904785,0.3895799219608307,2,Transfer pumpkin seeds to a bowl and set aside.,"heat pumpkin seeds in the base of a large Dutch oven over medium-high heat, stirring constantly, until they start to pop and smell nutty, about 4 minutes."
+1.0,1.0,0.9643511176109314,2,salt,salt
+0.0,0.8823529481887817,0.7694413661956787,2,"Add chicken, tomatillos, onion, peppers, chicken stock, oregano, epazote (if using), and a large pinch of salt to the Dutch oven.","chicken, tomatillos, onion, peppers, chicken stock, oregano, epazote (if using), and a large pinch of salt"
+1.0,1.0,0.9640725255012512,2,chicken,chicken
+0.0,0.3076923191547394,0.6131091713905334,2,"Bring to a boil over high heat then reduce to a bare simmer. Cook, stirring occasionally, until chicken and vegetables are completely tender, about 40 minutes.","Bring to a bare simmer, stir in hominy, season to taste with salt, and keep warm."
+0.0,0.375,0.49676576256752014,2,about 40 minutes,"Cook, stirring occasionally, until chicken and vegetables are completely tender, about 40 minutes."
+0.0,0.8695651888847351,0.8229609727859497,2,"until chicken and vegetables are completely tender, about 40 minutes.","Cook, stirring occasionally, until chicken and vegetables are completely tender, about 40 minutes."
+0.0,0.3333333432674408,0.5584323406219482,2,Transfer chicken to a large plate or bowl and set aside.,Set aside.
+1.0,1.0,0.9637096524238586,2,tongs,tongs
+0.0,0.4000000059604645,0.6863936185836792,2,bowl,large plate or bowl
+0.0,0.0,0.00999628845602274,2,broth,stock
+0.0,0.6760563254356384,0.6518937349319458,2,"Add it to the Dutch oven and heat over high heat, swirling and stirring until the watery stock completely evaporates and starts to form a browned layer in the bottom of the pan.","Heat over high heat, swirling and stirring until the watery stock completely evaporates and starts to form a browned layer in the bottom of the pan. (It will spatter a bit. The more you stir, the less it will spatter.) As soon as the chicken fat starts to smoke, pour in the"
+1.0,1.0,0.94759601354599,2,dutch oven,Dutch oven
+0.0,0.52173912525177,0.6638256311416626,2,"Cook, stirring, for about 15 seconds. Immediately pour in strained chicken stock and fat and stir to combine.","As soon as the chicken fat starts to smoke, pour in the contents of the blender all at once and cook, stirring, for about 15 seconds (it will spatter a lot—wear an apron!)."
+1.0,1.0,0.9643511176109314,2,salt,salt
+0.0,0.8461538553237915,0.8165015578269958,2,"Stir in hominy, season to taste with salt, and keep warm.","Bring to a bare simmer, stir in hominy, season to taste with salt, and keep warm."
+0.0,0.47058823704719543,0.6449655294418335,2,Discard the skin and bones.,Discard the skin and bones and shred the meat into bite-sized pieces with your fingertips.
+0.0,0.761904776096344,0.7308135032653809,2,Shred the meat into bite-sized pieces with your fingertips.,Discard the skin and bones and shred the meat into bite-sized pieces with your fingertips.
+0.0,0.6666666865348816,0.6552033424377441,2,chicken,pulled chicken
+0.0,0.0,0.02976624108850956,2,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion",chicken
+0.0,0.9230769276618958,0.8385238647460938,2,"garnish with diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion.","diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion"
+0.0,0.9166666865348816,0.9718202948570251,2,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion","diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion"
+0.0,0.9523809552192688,0.8542759418487549,2,"Ladle the hot soup into bowls and garnish with diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion. Serve immediately.","Ladle the hot soup into bowls and garnish with diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion."
+0.0,0.9166666865348816,0.9718202948570251,2,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion","diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion"
+0.0,0.0,0.010875631123781204,2,fish,chili
+1.0,1.0,0.9612960815429688,2,sugar,sugar
+1.0,1.0,0.967517614364624,2,lime juice,lime juice
+1.0,1.0,0.9542423486709595,2,Set aside.,Set aside.
+0.0,0.7450980544090271,0.6815428733825684,2,"Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes.","Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes. Transfer a medium bowl. Add onion, pineapple, and cilantro; toss to combine. Set aside."
+1.0,1.0,0.9602798223495483,2,cashews,cashews
+1.0,1.0,0.9729043245315552,2,"Transfer a medium bowl. Add onion, pineapple, and cilantro; toss to combine. Set aside.","Transfer a medium bowl. Add onion, pineapple, and cilantro; toss to combine. Set aside."
+1.0,1.0,0.9570634961128235,2,onion,onion
+1.0,1.0,0.9654948115348816,2,pineapple,pineapple
+0.0,0.04878048598766327,0.052555542439222336,2,"Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and arrange the coals on one side of the charcoal grate.","Whisk together lime juice, fish sauce, sesame oil, sugar, and chili in a small bowl."
+0.0,0.34375,0.6848419308662415,2,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.,"Season breast liberally all over with salt and pepper. Place duck breast on hot side of grill, skin side down, and cook until skin has browned and crisped, 5 to 7 minutes. Flip and brown on other side, about 4 minutes. Move duck to cool side of grill, cover,"
+1.0,1.0,0.966008722782135,2,salt and pepper,salt and pepper
+1.0,1.0,0.9662637114524841,2,duck,duck
+1.0,1.0,0.9614264369010925,2,130 degrees,130 degrees
+1.0,1.0,0.9716563820838928,2,"Thinly slice duck, halving any long strips into bite-size pieces.","Thinly slice duck, halving any long strips into bite-size pieces."
+0.0,0.0,0.009567664936184883,2,duck,dressing
+1.0,1.0,0.9662637114524841,2,duck,duck
+0.0,0.0,0.009520183317363262,2,pineapple,dressing
+0.0,0.0,0.010298848152160645,2,Pour on dressing and toss to combine.,Set aside.
+1.0,1.0,0.9657336473464966,2,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9657336473464966,2,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+0.0,0.1818181872367859,0.4930478632450104,2,Rinse chickpeas and place in a large bowl.,"Cover with cold water, adding enough to allow the chickpeas to at least triple in volume."
+1.0,1.0,0.9687236547470093,2,cold water,cold water
+1.0,1.0,0.9741165041923523,2,"Cover with cold water, adding enough to allow the chickpeas to at least triple in volume.","Cover with cold water, adding enough to allow the chickpeas to at least triple in volume."
+0.0,0.5,0.5151891708374023,2,in a salad spinner,"drain, rinse, and carefully dry chickpeas in a salad spinner."
+0.0,0.8999999761581421,0.8157793879508972,2,"The next day, drain, rinse, and carefully dry chickpeas in a salad spinner.","Drain, rinse, and carefully dry chickpeas in a salad spinner."
+0.0,0.0,0.13854137063026428,2,yes,"Combine chickpeas, herbs, scallions, garlic, cumin, coriander, and salt in the work bowl of a food processor."
+0.0,0.0,0.13854137063026428,2,yes,"Combine chickpeas, herbs, scallions, garlic, cumin, coriander, and salt in the work bowl of a food processor."
+0.0,0.4761904776096344,0.7385509610176086,2,until chickpeas are very finley minced,"until chickpeas are very finely minced, stopping the food processor to scrape down the sides as necessary."
+0.0,0.6000000238418579,0.571677565574646,2,Pulse until chickpeas are very finely minced.,very finely minced
+1.0,1.0,0.9551274180412292,2,a bowl,bowl
+0.0,0.6451612710952759,0.6001029014587402,2,to allow time for more starch to seep out of chickpeas. This will help the balls retain their shape better once formed.,This will help the balls retain their shape better once formed.
+0.0,0.0,0.35689935088157654,2,yes,"Using a tablespoon measure, scoop out heaping spoonfuls of the mixture into your hand."
+0.0,0.2857142984867096,0.6472392678260803,2,"Using a tablespoon measure, scoop out heaping spoonfuls of the mixture into your hand. Gently shape each into a ball.",Gently shape each into a ball (you will not be able to roll the mixture like cookie dough; this is okay) and place them on a clean plate.
+0.0,0.9655172228813171,0.9687014818191528,2,you will not be able to roll the mixture like cookie dough; this is okay.,"No, you will not be able to roll the mixture like cookie dough; this is okay."
+1.0,1.0,0.9636133909225464,2,375°f,375°F
+0.0,0.13636364042758942,0.36873212456703186,2,"Carefully lower chickpea balls into oil one at a time, allowing a little space between each ball and cooking in batches if necessary.","Transfer mixture to a bowl, cover, and place in refrigerator for 15 minutes to allow time for more starch to seep out of chickpeas."
+1.0,1.0,0.9656605124473572,2,about 4 minutes,about 4 minutes
+0.0,0.0,0.009246116504073143,2,a paper towel–lined plate,oil
+0.0,0.0,0.4470205008983612,2,yes,"Serve immediately with tahini and/or hummus on the side, or stuffed into pita bread with tahini, tomatoes, cucumber, pickles, and shredded cabbage."
+1.0,1.0,0.9424877762794495,2,1 teaspoon,1 teaspoon
+1.0,1.0,0.9542423486709595,2,Set aside.,Set aside.
+0.0,0.5,0.8349180817604065,2,raw unsalted,"plain, unsalted"
+0.0,0.7450980544090271,0.6815428733825684,2,"Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes.","Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes. Transfer a medium bowl. Add onion, pineapple, and cilantro; toss to combine. Set aside."
+0.0,0.04878048598766327,0.052555542439222336,2,"Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and arrange the coals on one side of the charcoal grate.","Whisk together lime juice, fish sauce, sesame oil, sugar, and chili in a small bowl."
+0.0,0.49180328845977783,0.725959837436676,2,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.,"Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper. Place duck breast on hot side of grill, skin side down, and cook until skin has browned and crisped, 5 to 7 minutes. Flip and brown on other side, about 4"
+1.0,1.0,0.9716563820838928,2,"Thinly slice duck, halving any long strips into bite-size pieces.","Thinly slice duck, halving any long strips into bite-size pieces."
+1.0,1.0,0.9716563820838928,2,"Thinly slice duck, halving any long strips into bite-size pieces.","Thinly slice duck, halving any long strips into bite-size pieces."
+1.0,1.0,0.9704458713531494,2,Pour on dressing and toss to combine.,Pour on dressing and toss to combine.
+0.0,0.0,0.010298848152160645,2,Pour on dressing and toss to combine.,Set aside.
+1.0,1.0,0.9657336473464966,2,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9657336473464966,2,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+0.0,0.3333333432674408,0.5105300545692444,2,"garlic, and anchovies (if using)",garlic
+0.0,0.8985507488250732,0.8636477589607239,2,"Increase heat to medium-high and add wine. Bring to a simmer and cook, swirling pan and scraping up any stuck-on bits with a wooden spoon, until wine has emulsified with olive oil and mixture is slightly reduced, about 30 seconds.","Bring to a simmer and cook, swirling pan and scraping up any stuck-on bits with a wooden spoon, until wine has emulsified with olive oil and mixture is slightly reduced, about 30 seconds."
+0.0,0.0,0.012786636129021645,2,scraping up any stuck-on bits,"using a wooden spoon, crush roughly one-quarter of the beans against the sides and bottom of pan."
+0.0,0.0,0.020982632413506508,2,emulsified with olive oil,bring to a simmer
+0.0,0.0,0.01341382134705782,2,together with beans and bean cooking liquid,when do I need to add the stock? wine
+0.0,0.1599999964237213,0.2961192727088928,2,Use a wooden spoon to crush roughly one-quarter of the beans against the sides and bottom of the pan.,"Stir well, season lightly with salt, and bring to a simmer."
+1.0,1.0,0.9723432064056396,2,"Add beans and bean cooking liquid (if using cooked dry beans) or stock (if using canned beans), and, using a wooden spoon, crush roughly one-quarter of the beans against the sides and bottom of pan.","Add beans and bean cooking liquid (if using cooked dry beans) or stock (if using canned beans), and, using a wooden spoon, crush roughly one-quarter of the beans against the sides and bottom of pan."
+0.0,0.0,0.009226943366229534,2,<no answer>,season lightly with salt
+0.0,0.0,0.14862491190433502,2,10 to 15 minutes,about 30 seconds
+0.0,0.20000000298023224,0.532905101776123,2,"Cook, stirring occasionally, until bean mixture is thickened to a creamy, saucy consistency, 10 to 15 minutes.","No, you don't need to keep stirring the beans continuously after they start to simmer."
+1.0,1.0,0.9754367470741272,2,"cook pasta until softened on the exterior, but well shy of al dente and still uncooked in the center (about 3 minutes less than the package directions).","Cook pasta until softened on the exterior, but well shy of al dente and still uncooked in the center (about 3 minutes less than the package directions)."
+1.0,1.0,0.9630816578865051,2,pasta,pasta
+1.0,1.0,0.9734043478965759,2,"Right before the pasta reaches this level of doneness, add the kale to the pan with the beans.","Right before the pasta reaches this level of doneness, add the kale to the pan with the beans."
+0.0,0.5517241358757019,0.6824330687522888,2,"Using a spider skimmer or slotted spoon, transfer pasta to pan with beans and kale along with 1 cup (240ml) pasta cooking water. Alternatively, drain pasta using a colander or fine-mesh strainer, making sure to reserve at least 2 cups (475ml) pasta cooking water.",Transfer pasta to pan with beans and kale along with 1 cup (240ml) pasta cooking water.
+0.0,0.6666666865348816,0.6188936233520508,2,right before the pasta reaches a level of doneness,"Right before the pasta reaches this level of doneness, add the kale to the pan with the beans."
+1.0,1.0,0.9696922898292542,2,1 cup (240ml),1 cup (240ml)
+0.0,0.0,0.008903536945581436,2,<no answer>,a little looser than you would normally serve a sauce
+0.0,0.1538461595773697,0.23650355637073517,2,al dente,"cook pasta until softened on the exterior, but well shy of al dente and still uncooked in the center (about 3 minutes less than the package directions)."
+0.0,0.0,0.6373271346092224,2,"At this point, the sauce should coat the pasta but still be loose enough to pool around the edges of the pan; because of the starch in the beans and pasta water, the sauce will continue to tighten up in the time it takes to plate and serve, so make sure it's a little looser than you would normally serve a sauce.",coats noodles
+0.0,0.20000000298023224,0.21253365278244019,2,2 1/4 ounces (3/4 cup; 65g),3/4 of grated cheese
+0.0,0.800000011920929,0.8861011862754822,2,light brown sugar,brown sugar
+1.0,1.0,0.9542423486709595,2,Set aside.,Set aside.
+0.0,0.7450980544090271,0.6815428733825684,2,"Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes.","Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes. Transfer a medium bowl. Add onion, pineapple, and cilantro; toss to combine. Set aside."
+0.0,0.0,0.010306418873369694,2,diced pineapple,Yes
+0.0,0.04878048598766327,0.052555542439222336,2,"Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and arrange the coals on one side of the charcoal grate.","Whisk together lime juice, fish sauce, sesame oil, sugar, and chili in a small bowl."
+0.0,0.49180328845977783,0.725959837436676,2,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.,"Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper. Place duck breast on hot side of grill, skin side down, and cook until skin has browned and crisped, 5 to 7 minutes. Flip and brown on other side, about 4"
+0.0,0.0,0.106371209025383,2,1 teaspoon,season breast liberally all over with salt and pepper.
+0.0,0.3333333432674408,0.1356736719608307,2,yes,"Yes, that is 130 degrees."
+0.0,0.0,0.08514845371246338,2,"Thinly slice duck, halving any long strips into bite-size pieces.",Season breast liberally all over with salt and pepper.
+1.0,1.0,0.9716563820838928,2,"Thinly slice duck, halving any long strips into bite-size pieces.","Thinly slice duck, halving any long strips into bite-size pieces."
+0.0,0.0,0.010298848152160645,2,Pour on dressing and toss to combine.,Set aside.
+1.0,1.0,0.9657336473464966,2,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9657336473464966,2,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+0.0,0.31578946113586426,0.44637858867645264,2,"in a large bowl, combine bulgur, tomato paste, and 1/2 teaspoon salt",Set a colander or fine-mesh strainer in a large bowl.
+1.0,1.0,0.9716989398002625,2,Whisk until well combined; set aside.,whisk until well combined; set aside.
+1.0,1.0,0.9717725515365601,2,whisk until well combined; set aside,whisk until well combined; set aside.
+1.0,1.0,0.9688277840614319,2,12-inch skillet,12-inch skillet
+0.0,0.0,0.40084996819496155,2,1/2 teaspoon,2 1/4 teaspoons
+0.0,0.8421052694320679,0.6877288818359375,2,"Add garlic and cook, stirring constantly, until fragrant, about 30 seconds.","cook, stirring constantly, until fragrant, about 30 seconds."
+0.0,0.4000000059604645,0.6662341952323914,2,"Set a colander or fine-mesh strainer in a large bowl. Add tomatoes to prepared colander, season with 1/2 teaspoon salt, and toss to combine. Set tomatoes aside and allow to drain for 20 minutes.",Set a colander or fine-mesh strainer in a large bowl.
+0.0,0.3076923191547394,0.6545411944389343,2,set a colander or fine-mesh strainer in a large bowl.,"Set a colander or fine-mesh strainer in a large bowl. Add tomatoes to prepared colander, season with 1/2 teaspoon salt, and toss to combine. Set tomatoes aside and allow to drain for 20 minutes. Place mixed herbs and scallions in a small bowl and toss to combine."
+0.0,0.8571428656578064,0.8203575015068054,2,"Add tomatoes to prepared colander, season with 1/2 teaspoon salt, and toss to combine. Set tomatoes aside and allow to drain for 20 minutes.","Set a colander or fine-mesh strainer in a large bowl. Add tomatoes to prepared colander, season with 1/2 teaspoon salt, and toss to combine. Set tomatoes aside and allow to drain for 20 minutes."
+0.0,0.800000011920929,0.9407268166542053,2,for 20 minutes,20 minutes
+1.0,1.0,0.9652275443077087,2,small bowl,small bowl
+1.0,1.0,0.9726012349128723,2,"Add onion, leek, carrots, celery, and rosemary or thyme sprigs.","Add onion, leek, carrots, celery, and rosemary or thyme sprigs."
+0.0,0.7142857313156128,0.682096004486084,2,Add more oil as necessary.,Add more oil as necessary if the pot looks dry.
+0.0,0.8235294222831726,0.7615107893943787,2,"stir until it is incorporated, about 30 seconds.","Cook, stirring, until it is incorporated, about 30 seconds."
+0.0,0.0,0.009282078593969345,2,Add bread,tomato paste
+1.0,1.0,0.97305828332901,2,"Add water, 1/2 cup at a time, if soup becomes too thick and dry.","Add water, 1/2 cup at a time, if soup becomes too thick and dry."
+0.0,0.7111111283302307,0.6549639701843262,2,"The soup can be served at varying consistencies: more wet and brothy, like a thick, chunky soup, or cooked down until thickened like a porridge. Slide it onto a plate. To serve at any consistency, discard bay leaves, rosemary or thyme sprigs, and Parmesan rind, drizzle with fresh olive oil and top with freshly ground black pepper and more grated cheese (optional).","To serve at any consistency, discard bay leaves, rosemary or thyme sprigs, and Parmesan rind, drizzle with fresh olive oil and top with freshly ground black pepper and more grated cheese (optional)."
+0.0,0.04545454680919647,0.19019655883312225,2,"Once reduced to a thick porridge, you can ladle some of it into a small (8-inch) nonstick skillet with 1 tablespoon oil and cook over medium-high heat, stirring frequently, until it coalesces into a dense mass; it will eventually take the shape of a pancake.",Slide it onto a plate.
+0.0,0.6666666865348816,0.8023880124092102,2,olive,olive oil
+1.0,1.0,0.9708840250968933,2,"Increase heat to medium-high and add wine. Bring to a simmer and cook, swirling pan and scraping up any stuck-on bits with a wooden spoon, until wine has emulsified with olive oil and mixture is slightly reduced, about 30 seconds.","Increase heat to medium-high and add wine. Bring to a simmer and cook, swirling pan and scraping up any stuck-on bits with a wooden spoon, until wine has emulsified with olive oil and mixture is slightly reduced, about 30 seconds."
+1.0,1.0,0.9691181182861328,2,wooden spoon,wooden spoon
+1.0,1.0,0.960623562335968,2,wine,wine
+0.0,0.1599999964237213,0.2961192727088928,2,Use a wooden spoon to crush roughly one-quarter of the beans against the sides and bottom of the pan.,"Stir well, season lightly with salt, and bring to a simmer."
+1.0,1.0,0.9723432064056396,2,"Add beans and bean cooking liquid (if using cooked dry beans) or stock (if using canned beans), and, using a wooden spoon, crush roughly one-quarter of the beans against the sides and bottom of pan.","Add beans and bean cooking liquid (if using cooked dry beans) or stock (if using canned beans), and, using a wooden spoon, crush roughly one-quarter of the beans against the sides and bottom of pan."
+1.0,1.0,0.9643511176109314,2,salt,salt
+0.0,0.06896551698446274,0.4952239990234375,2,"1 pound 5 ounces (3 cups; 600g) cooked dry white beans (such as cannellini or great northern) or two (15-ounce; 425g) cans low-sodium white beans, drained and rinsed",beans
+1.0,1.0,0.9754367470741272,2,"cook pasta until softened on the exterior, but well shy of al dente and still uncooked in the center (about 3 minutes less than the package directions).","Cook pasta until softened on the exterior, but well shy of al dente and still uncooked in the center (about 3 minutes less than the package directions)."
+0.0,0.6000000238418579,0.6629801392555237,2,about 3 minutes,about 3 minutes less than the package directions
+0.0,0.125,0.4490796625614166,2,"Right before the pasta reaches this level of doneness, add the kale to the pan with the beans.",Cook pasta
+0.0,0.0,0.011371751315891743,2,pasta cooking water,wine
+1.0,1.0,0.9575389623641968,2,kale,kale
+1.0,1.0,0.969386100769043,2,"Using a spider skimmer or slotted spoon, transfer pasta to pan with beans and kale along with 1 cup (240ml) pasta cooking water. Alternatively, drain pasta using a colander or fine-mesh strainer, making sure to reserve at least 2 cups (475ml) pasta cooking water.","Using a spider skimmer or slotted spoon, transfer pasta to pan with beans and kale along with 1 cup (240ml) pasta cooking water. Alternatively, drain pasta using a colander or fine-mesh strainer, making sure to reserve at least 2 cups (475ml) pasta cooking water."
+0.0,0.7213114500045776,0.790778636932373,2,"Increase heat to high and cook, stirring and tossing rapidly, until pasta is al dente and sauce is thickened and coats noodles, 2 to 3 minutes, adding more pasta cooking water in 1/4 cup (60ml) increments as needed.","When the sauce is thickened and coats noodles, 2 to 3 minutes, adding more pasta cooking water in 1/4 cup (60ml) increments as needed."
+0.0,0.0,0.6373271346092224,2,"At this point, the sauce should coat the pasta but still be loose enough to pool around the edges of the pan; because of the starch in the beans and pasta water, the sauce will continue to tighten up in the time it takes to plate and serve, so make sure it's a little looser than you would normally serve a sauce.",coats noodles
+1.0,1.0,0.9672579169273376,2,grated cheese,grated cheese
+1.0,1.0,0.9707173109054565,2,"Serve immediately, passing remaining grated cheese at the table.","Serve immediately, passing remaining grated cheese at the table."
+1.0,1.0,0.9666937589645386,2,large bowl,large bowl
+1.0,1.0,0.9716989398002625,2,Whisk until well combined; set aside.,whisk until well combined; set aside.
+0.0,0.0,0.10633900761604309,2,whisk,"Add water as needed, 1 tablespoon (15ml) at a time, until mixture is moist but still holds its shape when scooped."
+0.0,0.0,0.05179548263549805,2,12-inch skillet,large bowl
+1.0,1.0,0.969273567199707,2,medium-high heat,medium-high heat
+0.0,0.1666666716337204,0.2759617567062378,2,"onions, 2 teaspoons aleppo pepper, cumin, and 1/2 teaspoon salt","water, salt"
+0.0,0.8421052694320679,0.6877288818359375,2,"Add garlic and cook, stirring constantly, until fragrant, about 30 seconds.","cook, stirring constantly, until fragrant, about 30 seconds."
+0.0,0.0,0.11041196435689926,2,colander,"Add water as needed, 1 tablespoon (15ml) at a time, until mixture is moist but still holds its shape when scooped."
+0.0,0.4000000059604645,0.6662341952323914,2,"Set a colander or fine-mesh strainer in a large bowl. Add tomatoes to prepared colander, season with 1/2 teaspoon salt, and toss to combine. Set tomatoes aside and allow to drain for 20 minutes.",Set a colander or fine-mesh strainer in a large bowl.
+0.0,0.2857142984867096,0.3176191747188568,2,for 20 minutes,30 to 60 minutes
+1.0,1.0,0.9723255038261414,2,Place mixed herbs and scallions in a small bowl and toss to combine.,Place mixed herbs and scallions in a small bowl and toss to combine.
+0.0,0.6285714507102966,0.726989209651947,2,"set aside 2/3 of the tomatoes for garnishing; reserve drained tomato liquid. Add remaining 1/3 of tomatoes to prepared bulgur, along with reserved tomato liquid",Set aside 2/3 of the tomatoes for garnishing; reserve drained tomato liquid.
+0.0,0.0,0.4262481927871704,2,1/4 cup,about 1/3
+0.0,0.5384615659713745,0.6046698689460754,2,"as needed, 1 tablespoon (15ml) at a time","water as needed, 1 tablespoon (15ml) at a time, until mixture is moist but still holds its shape when scooped."
+0.0,0.8888888955116272,0.7361767292022705,2,mixture is moist but still holds its shape when scooped.,moist but still holds its shape when scooped
+0.0,0.4000000059604645,0.5759499073028564,2,"Season with additional salt, pepper, and lemon juice to taste.",season with 1/2 teaspoon salt
+1.0,1.0,0.9740056395530701,2,"transfer eetch to a serving platter or bowl, top with remaining tomatoes, sprinkle with 1 teaspoon of herb mixture and remaining 1/4 teaspoon aleppo pepper","Transfer eetch to a serving platter or bowl, top with remaining tomatoes, sprinkle with 1 teaspoon of herb mixture and remaining 1/4 teaspoon Aleppo pepper."
+0.0,0.0,0.10802038013935089,2,1 teaspoon,1/4 cup
+0.0,0.24390244483947754,0.423737108707428,2,"Serve, passing remaining herb mixture, Aleppo pepper, lettuce leaves, and lavash at the table.","remaining 1/3 of tomatoes to prepared bulgur, along with reserved tomato liquid, pomegranate molasses, lemon juice, 1/4 cup of herb mixture, remaining 1/2 teaspoon salt, and black pepper."
+0.0,0.5,0.7181164026260376,2,to 350°f,350°F (180°C)
+1.0,1.0,0.9662363529205322,2,sharp paring knife,sharp paring knife
+0.0,0.7058823704719543,0.7982885837554932,2,"Carefully run knife along the cavity of the pumpkin to loosen seeds and stringy pulp, then use a spoon to scoop them out and scrape the cavity clean. Using the paring knife, scrape seeds and pulp from the tops as well. Discard seeds and pulp or reserve for another use.","Carefully run knife along the cavity of the pumpkin to loosen seeds and stringy pulp, then use a spoon to scoop them out and scrape the cavity clean."
+0.0,0.800000011920929,0.8643007278442383,2,paring knife,sharp paring knife
+1.0,1.0,0.972493588924408,2,"Place pumpkin tops on pumpkins, then set pumpkins on prepared baking sheet. Set kabocha squash, cut side down, on the same baking sheet.","Place pumpkin tops on pumpkins, then set pumpkins on prepared baking sheet. Set kabocha squash, cut side down, on the same baking sheet."
+0.0,0.0,0.46384090185165405,2,1 hour,45 minutes
+1.0,1.0,0.974075436592102,2,"Roast until kabocha squash is tender and can easily be pierced with a paring knife, and sugar pumpkins have slightly softened, 45 minutes to 1 hour.","Roast until kabocha squash is tender and can easily be pierced with a paring knife, and sugar pumpkins have slightly softened, 45 minutes to 1 hour."
+1.0,1.0,0.9583045244216919,2,45 minutes,45 minutes
+0.0,0.800000011920929,0.8643007278442383,2,paring knife,sharp paring knife
+0.0,0.6451612710952759,0.6083118319511414,2,Lift pumpkin tops from pumpkins to allow steam to escape and set all roasted squash aside to cool on baking sheet.,Set all roasted squash aside to cool on baking sheet.
+1.0,1.0,0.9725562334060669,2,use a large spoon to scoop the flesh into a medium bowl and roughly mash with the back of the spoon.,Use a large spoon to scoop the flesh into a medium bowl and roughly mash with the back of the spoon.
+0.0,0.6666666865348816,0.8561497330665588,2,spoon,large spoon
+1.0,1.0,0.9676108956336975,2,medium bowl,medium bowl
+1.0,1.0,0.9666078090667725,2,large spoon,large spoon
+1.0,1.0,0.969126284122467,2,Discard squash skin.,Discard squash skin.
+0.0,0.0,0.2669740915298462,2,medium-high heat,350°F (180°C)
+0.0,0.7058823704719543,0.720973014831543,2,"heat oil over medium-high heat until shimmering. Add mushrooms, season with salt and pepper, and cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes.","Cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes."
+1.0,1.0,0.964808464050293,2,about 10 minutes,about 10 minutes
+0.0,0.3921568691730499,0.621491551399231,2,"cook, stirring frequently with a wooden spoon, until moisture has evaporated and mushrooms are well browned, about 10 minutes.","Push mushrooms to outer edge of skillet, add kale to now-empty center of skillet, and cook, stirring frequently, until kale is slightly wilted and softened and has mixed with mushrooms, about 3 minutes."
+0.0,0.0,0.4626563787460327,2,"Push mushrooms to outer edge of skillet, add kale to now-empty center of skillet, and cook, stirring frequently, until kale is slightly wilted and softened and has mixed with mushrooms, about 3 minutes.","Set kabocha squash, cut side down, on the same baking sheet."
+1.0,1.0,0.966289222240448,2,about 3 minutes,about 3 minutes
+0.0,0.2222222238779068,0.689473569393158,2,skillet,large 12-inch stainless steel or cast iron skillet
+0.0,0.5833333134651184,0.6867634057998657,2,Push mushrooms and kale to outer edge of skillet and add butter to center of skillet.,"mushrooms to outer edge of skillet, add kale to now-empty center of skillet, and cook, stirring frequently, until kale is slightly wilted and softened and has mixed with mushrooms, about 3 minutes."
+1.0,1.0,0.9745060205459595,2,"Once butter has melted and begun foaming, add shallots, garlic, and thyme to center of skillet and cook, stirring constantly, until fragrant, about 30 seconds.","Once butter has melted and begun foaming, add shallots, garlic, and thyme to center of skillet and cook, stirring constantly, until fragrant, about 30 seconds."
+0.0,0.2222222238779068,0.689473569393158,2,skillet,large 12-inch stainless steel or cast iron skillet
+0.0,0.5625,0.6418443918228149,2,Add sherry and sherry vinegar and stir to combine. Season with salt and pepper and transfer mixture to a heatproof medium bowl to cool.,Add sherry and sherry vinegar and stir to combine.
+1.0,1.0,0.9729610085487366,2,"After squashes have cooled and kabocha is mashed, whisk together cream, milk, cinnamon, paprika, nutmeg, ginger, and cloves in a large liquid measuring cup. Season to taste with salt and pepper.","After squashes have cooled and kabocha is mashed, whisk together cream, milk, cinnamon, paprika, nutmeg, ginger, and cloves in a large liquid measuring cup. Season to taste with salt and pepper."
+1.0,1.0,0.9700632095336914,2,large liquid measuring cup,large liquid measuring cup
+1.0,1.0,0.9375166893005371,2,", whisk",whisk
+1.0,1.0,0.967810869216919,2,Season to taste with salt and pepper.,Season to taste with salt and pepper.
+1.0,1.0,0.9715816974639893,2,Whisk ingredients together in a small bowl and set aside.,Whisk ingredients together in a small bowl and set aside.
+0.0,0.4000000059604645,0.47557368874549866,2,small bowl,heatproof medium bowl
+0.0,0.0,0.11626582592725754,2,small bowl,large spoon
+0.0,0.800000011920929,0.8643007278442383,2,paring knife,sharp paring knife
+0.0,0.1538461595773697,0.21856293082237244,2,45 minutes,"until kabocha squash is tender and can easily be pierced with a paring knife, and sugar pumpkins have slightly softened, 45 minutes to 1 hour."
+0.0,0.4117647111415863,0.640224814414978,2,pumpkins are tender and easily pierced by a paring knife.,"Roast until kabocha squash is tender and can easily be pierced with a paring knife, and sugar pumpkins have slightly softened, 45 minutes to 1 hour."
+0.0,0.190476194024086,0.2013516128063202,2,Set tops on pumpkins and continue roasting for 10 minutes longer.,"Set kabocha squash, cut side down, on the same baking sheet."
+1.0,1.0,0.9582111835479736,2,oven,oven
+1.0,1.0,0.9642309546470642,2,garlic,garlic
+1.0,1.0,0.9726012349128723,2,"Add onion, leek, carrots, celery, and rosemary or thyme sprigs.","Add onion, leek, carrots, celery, and rosemary or thyme sprigs."
+1.0,1.0,0.9643511176109314,2,salt,salt
+0.0,0.8235294222831726,0.7615107893943787,2,"stir until it is incorporated, about 30 seconds.","Cook, stirring, until it is incorporated, about 30 seconds."
+0.0,0.2857142984867096,0.5681557059288025,2,"bay leaves, rosemary or thyme sprigs",thyme
+0.0,0.13333334028720856,0.3665674328804016,2,salt and pepper,"Season gently with salt and cook, stirring, until the vegetables are fully softened but not browned, about 10 minutes, adding more oil as necessary if the pot looks dry."
+1.0,1.0,0.9646338224411011,2,about 15 minutes,about 15 minutes
+1.0,1.0,0.9580249190330505,2,water,water
+1.0,1.0,0.97305828332901,2,"Add water, 1/2 cup at a time, if soup becomes too thick and dry.","Add water, 1/2 cup at a time, if soup becomes too thick and dry."
+0.0,0.1538461595773697,0.19998067617416382,2,cup,"water, 1/2 cup at a time, if soup becomes too thick and dry."
+0.0,0.7111111283302307,0.6549639701843262,2,"The soup can be served at varying consistencies: more wet and brothy, like a thick, chunky soup, or cooked down until thickened like a porridge. Slide it onto a plate. To serve at any consistency, discard bay leaves, rosemary or thyme sprigs, and Parmesan rind, drizzle with fresh olive oil and top with freshly ground black pepper and more grated cheese (optional).","To serve at any consistency, discard bay leaves, rosemary or thyme sprigs, and Parmesan rind, drizzle with fresh olive oil and top with freshly ground black pepper and more grated cheese (optional)."
+0.0,0.04545454680919647,0.19019655883312225,2,"Once reduced to a thick porridge, you can ladle some of it into a small (8-inch) nonstick skillet with 1 tablespoon oil and cook over medium-high heat, stirring frequently, until it coalesces into a dense mass; it will eventually take the shape of a pancake.",Slide it onto a plate.
+0.0,0.9756097793579102,0.9291040301322937,2,"Once reduced to a thick porridge, you can ladle some of it into a small (8-inch) nonstick skillet with 1 tablespoon oil and cook over medium-high heat, stirring frequently, until it coalesces into a dense mass; it will eventually take the shape of a pancake.","Once reduced to a thick porridge, you can ladle some of it into a small (8-inch) nonstick skillet with 1 tablespoon oil and cook over medium-high heat, stirring frequently, until it coalesces into a dense mass; it will eventually take the shape of a pancake. (If your"
+0.0,0.5714285969734192,0.7249377965927124,2,inch) nonstick skillet,small (8-inch) nonstick skillet
+0.0,0.2857142984867096,0.5681557059288025,2,"bay leaves, rosemary or thyme sprigs",thyme
+1.0,1.0,0.9692832827568054,2,black pepper,black pepper
+1.0,1.0,0.9720034003257751,2,"Using the tines of a fork, poke holes in potato all over.","Using the tines of a fork, poke holes in potato all over."
+0.0,0.39344263076782227,0.7180808186531067,2,a paring knife can be inserted in middle of potato with no resistance,"Place potato on a plate and microwave on high until a paring knife can be inserted in middle of potato with no resistance, 9 to 12 minutes, checking and flipping the potato every 3 minutes. Alternatively, place potato in 425°F oven and cook until a paring knife can be inserted in middle of"
+0.0,0.125,0.3563757538795471,2,can be inserted in middle of potato with no resistance,to check if a potato is cooked
+0.0,0.0,0.19784465432167053,2,yes,no
+0.0,0.0,0.6783955693244934,2,yes,small bowl
+0.0,0.0,0.2138577699661255,2,"Using a spoon, scoop out flesh in a small bowl, discard skin.","Split potato open and allow to cool slightly, 5 to 10 minutes."
+0.0,0.0,0.011257287114858627,2,yes,medium heat
+0.0,0.1111111119389534,0.09975764155387878,2,celery,"When foaming subsides, add onion and celery and cook, stirring occasionally, until softened, 5 to 7 minutes."
+0.0,0.604651153087616,0.6460114121437073,2,"Stir in sage, thyme, and garlic and cook until fragrant, about 30 seconds.","When foaming subsides, add onion and celery and cook, stirring occasionally, until softened, 5 to 7 minutes. Stir in sage, thyme, and garlic and cook until fragrant, about 30 seconds."
+0.0,0.0,0.07736916840076447,2,garlic,"cook until fragrant, about 30 seconds."
+1.0,1.0,0.922936201095581,2,yes,yes
+0.0,0.0,0.4365406036376953,2,yes,medium bowl
+0.0,0.0,0.21486224234104156,2,yes,Season with salt and pepper to taste.
+0.0,0.1111111119389534,0.5194591283798218,2,"When all the charcoal is lit and covered with gray ash, pour out and spread the coals evenly over entire surface of charcoal grate.","Set cooking grate in place, cover grill and allow to preheat for 5 minutes."
+0.0,0.0,0.3984730541706085,2,yes,"Set cooking grate in place, cover grill and allow to preheat for 5 minutes."
+0.0,0.19512194395065308,0.5677189826965332,2,"Clean and oil the grilling grate. Grill burgers over direct heat until an instant read thermometer reads at least 145°F in the center of burger, but no more than 165°F.","Set cooking grate in place, cover grill and allow to preheat for 5 minutes."
+0.0,0.0,0.32033681869506836,2,yes,"Grill burgers over direct heat until an instant read thermometer reads at least 145°F in the center of burger, but no more than 165°F."
+1.0,1.0,0.973109781742096,2,"Grill burgers over direct heat until an instant read thermometer reads at least 145°F in the center of burger, but no more than 165°F.","Grill burgers over direct heat until an instant read thermometer reads at least 145°F in the center of burger, but no more than 165°F."
+0.0,0.0,0.19784465432167053,2,yes,no
+1.0,1.0,0.9720540642738342,2,"Lightly toast potato rolls on grill, about 30 seconds.","Lightly toast potato rolls on grill, about 30 seconds."
+0.0,0.20000000298023224,0.21261729300022125,2,fish,"lime juice, fish sauce, sesame oil, sugar, and chili"
+0.0,0.0,0.009542438201606274,2,lime,pineapple
+1.0,1.0,0.9612960815429688,2,sugar,sugar
+1.0,1.0,0.9542423486709595,2,Set aside.,Set aside.
+1.0,1.0,0.9602798223495483,2,cashews,cashews
+0.0,0.7450980544090271,0.6815428733825684,2,"Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes.","Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes. Transfer a medium bowl. Add onion, pineapple, and cilantro; toss to combine. Set aside."
+0.0,0.0,0.01000893022865057,2,onion,duck
+1.0,1.0,0.9654948115348816,2,pineapple,pineapple
+0.0,0.34375,0.6848419308662415,2,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.,"Season breast liberally all over with salt and pepper. Place duck breast on hot side of grill, skin side down, and cook until skin has browned and crisped, 5 to 7 minutes. Flip and brown on other side, about 4 minutes. Move duck to cool side of grill, cover,"
+1.0,1.0,0.966008722782135,2,salt and pepper,salt and pepper
+1.0,1.0,0.9614264369010925,2,130 degrees,130 degrees
+1.0,1.0,0.9662637114524841,2,duck,duck
+1.0,1.0,0.9716563820838928,2,"Thinly slice duck, halving any long strips into bite-size pieces.","Thinly slice duck, halving any long strips into bite-size pieces."
+1.0,1.0,0.9716563820838928,2,"Thinly slice duck, halving any long strips into bite-size pieces.","Thinly slice duck, halving any long strips into bite-size pieces."
+1.0,1.0,0.9662637114524841,2,duck,duck
+0.0,0.0,0.06527909636497498,2,pineapple mixture,bowl
+1.0,1.0,0.9704458713531494,2,Pour on dressing and toss to combine.,Pour on dressing and toss to combine.
+0.0,0.0,0.010298848152160645,2,Pour on dressing and toss to combine.,Set aside.
+1.0,1.0,0.9657336473464966,2,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9657336473464966,2,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.8343263268470764,2,2 tablespoons,2 tablespoons
+0.0,0.6666666865348816,0.7125607132911682,2,1 teaspoon,teaspoon
+1.0,1.0,0.9674291610717773,2,1 tablespoon,1 tablespoon
+0.0,0.0,0.0669391006231308,2,Set aside.,"Whisk together lime juice, fish sauce, sesame oil, sugar, and chili in a small bowl."
+0.0,0.1818181872367859,0.4930478632450104,2,Rinse chickpeas and place in a large bowl.,"Cover with cold water, adding enough to allow the chickpeas to at least triple in volume."
+1.0,1.0,0.9741165041923523,2,"Cover with cold water, adding enough to allow the chickpeas to at least triple in volume.","Cover with cold water, adding enough to allow the chickpeas to at least triple in volume."
+1.0,1.0,0.9684532284736633,2,chickpeas,chickpeas
+0.0,0.8999999761581421,0.8157793879508972,2,"The next day, drain, rinse, and carefully dry chickpeas in a salad spinner.","Drain, rinse, and carefully dry chickpeas in a salad spinner."
+0.0,0.3076923191547394,0.17916566133499146,2,the next day,"The next day, drain, rinse, and carefully dry chickpeas in a salad spinner."
+0.0,0.3333333432674408,0.5694677233695984,2,"garlic, cumin, coriander, and salt",garlic
+0.0,0.0,0.010667195543646812,2,salt,cumin
+1.0,1.0,0.9684532284736633,2,chickpeas,chickpeas
+1.0,1.0,0.9713715314865112,2,A handful of the mixture squeezed into a ball should be able to barely hold together.,A handful of the mixture squeezed into a ball should be able to barely hold together.
+0.0,0.6451612710952759,0.6001029014587402,2,to allow time for more starch to seep out of chickpeas. This will help the balls retain their shape better once formed.,This will help the balls retain their shape better once formed.
+0.0,0.4000000059604645,0.6519210934638977,2,mixture,heaping spoonfuls of the mixture
+0.0,0.2857142984867096,0.6472392678260803,2,"Using a tablespoon measure, scoop out heaping spoonfuls of the mixture into your hand. Gently shape each into a ball.",Gently shape each into a ball (you will not be able to roll the mixture like cookie dough; this is okay) and place them on a clean plate.
+0.0,0.6666666865348816,0.6188919544219971,2,dough,cookie dough
+0.0,0.9655172228813171,0.9687014818191528,2,you will not be able to roll the mixture like cookie dough; this is okay.,"No, you will not be able to roll the mixture like cookie dough; this is okay."
+0.0,0.3076923191547394,0.4699484407901764,2,instant-read thermometer,Heat over high heat until oil registers 375°F on an instant-read thermometer.
+0.0,0.0625,0.28871288895606995,2,"Carefully lower chickpea balls into oil one at a time, allowing a little space between each ball and cooking in batches if necessary.",Heat over high heat until oil registers 375°F on an instant-read thermometer.
+1.0,1.0,0.9656605124473572,2,about 4 minutes,about 4 minutes
+0.0,0.800000011920929,0.818132758140564,2,chickpea balls,cooked chickpea balls
+0.0,0.0,0.034457046538591385,2,pickles,tomatoes
+1.0,1.0,0.9672093987464905,2,tomatoes,tomatoes
+1.0,1.0,0.9666032195091248,2,"Serve immediately with tahini and/or hummus on the side, or stuffed into pita bread with tahini, tomatoes, cucumber, pickles, and shredded cabbage.","Serve immediately with tahini and/or hummus on the side, or stuffed into pita bread with tahini, tomatoes, cucumber, pickles, and shredded cabbage."
+1.0,1.0,0.9658735394477844,2,cucumber,cucumber
+1.0,1.0,0.9674291610717773,2,1 tablespoon,1 tablespoon
+1.0,1.0,0.8343263268470764,2,2 tablespoons,2 tablespoons
+0.0,0.0,0.009515966288745403,2,teaspoon,whisk
+0.0,0.7450980544090271,0.6815428733825684,2,"Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes.","Place cashews in a small cast iron skillet over medium heat. Toast until fragrant and lightly browned, about 4 minutes. Transfer a medium bowl. Add onion, pineapple, and cilantro; toss to combine. Set aside."
+1.0,1.0,0.9669032692909241,2,medium heat,medium heat
+1.0,1.0,0.9729043245315552,2,"Transfer a medium bowl. Add onion, pineapple, and cilantro; toss to combine. Set aside.","Transfer a medium bowl. Add onion, pineapple, and cilantro; toss to combine. Set aside."
+0.0,0.0,0.06696422398090363,2,diced pineapple,juice
+0.0,0.04878048598766327,0.052555542439222336,2,"Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and arrange the coals on one side of the charcoal grate.","Whisk together lime juice, fish sauce, sesame oil, sugar, and chili in a small bowl."
+0.0,0.49180328845977783,0.725959837436676,2,Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper.,"Score duck skin diagonally every 1/2-inch. Season breast liberally all over with salt and pepper. Place duck breast on hot side of grill, skin side down, and cook until skin has browned and crisped, 5 to 7 minutes. Flip and brown on other side, about 4"
+0.0,0.0,0.06106129288673401,2,kosher salt,pepper
+0.0,0.800000011920929,0.9066394567489624,2,about 1 pound,1 pound
+1.0,1.0,0.9614264369010925,2,130 degrees,130 degrees
+1.0,1.0,0.9716563820838928,2,"Thinly slice duck, halving any long strips into bite-size pieces.","Thinly slice duck, halving any long strips into bite-size pieces."
+0.0,0.25,0.5077005624771118,2,"1 large duck breast, about 1 pound",duck
+1.0,1.0,0.9704458713531494,2,Pour on dressing and toss to combine.,Pour on dressing and toss to combine.
+0.0,0.0,0.010298848152160645,2,Pour on dressing and toss to combine.,Set aside.
+1.0,1.0,0.9657336473464966,2,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+1.0,1.0,0.9657336473464966,2,Transfer to plates and serve immediately.,Transfer to plates and serve immediately.
+0.0,0.5714285969734192,0.6490665674209595,2,a traditional cake pan of those dimensions,"Otherwise, a traditional cake pan of those dimensions will work, with a touch more effort to unmold."
+0.0,0.3333333432674408,0.6006139516830444,2,traditional cake pan,"otherwise, a traditional cake pan of those dimensions will work, with a touch more effort to unmold."
+1.0,1.0,0.9571455121040344,2,pan,pan
+0.0,0.75,0.6676054000854492,2,"cheesecake can be baked in any size or style of pan, but the volume of batter, bake temperatures, and times will require individual adjustments which have not been tested here.","Yes, but the volume of batter, bake temperatures, and times will require individual adjustments which have not been tested here."
+0.0,0.13333334028720856,0.34847375750541687,2,pan,"the bottom piece in foil before assembly, then tear away the excess so the pan sits flat."
+1.0,1.0,0.9732605814933777,2,"wrap the bottom piece in foil before assembly, then tear away the excess so the pan sits flat","Wrap the bottom piece in foil before assembly, then tear away the excess so the pan sits flat."
+0.0,0.25,0.4104389548301697,2,a two-piece pan,an 8- by 4-inch non-reactive aluminum pan
+0.0,0.10000000149011612,0.056634217500686646,2,line the bottom with a parchment round,"Otherwise, a traditional cake pan of those dimensions will work, with a touch more effort to unmold."
+0.0,0.13333334028720856,0.4629005491733551,2,traditional cake pan,Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula.
+0.0,0.8571428656578064,0.9437236189842224,2,lightly grease the pan,"Yes, lightly grease the pan."
+0.0,0.0,0.4380608797073364,2,fork,"Combine cream cheese, goat cheese, lemon juice, vanilla extract, salt, and orange flower water in the bowl of a stand mixer fitted with a paddle attachment. Do not add the sugar at this time. Mix on low until roughly combined, then increase to medium and cream until no lumps of cheese remain, and the"
+0.0,0.6000000238418579,0.59662926197052,2,"graham cracker crumbs, melted butter, and salt",graham cracker crumbs
+1.0,1.0,0.9735035300254822,2,"Add the graham cracker crumbs, melted butter, and salt to the pan, and stir with a fork until well combined.","Add the graham cracker crumbs, melted butter, and salt to the pan, and stir with a fork until well combined."
+0.0,0.09090909361839294,0.5297932624816895,2,pan,"For the Graham Cracker Crust: Add the graham cracker crumbs, melted butter, and salt to the pan, and stir with a fork until well combined."
+0.0,0.125,0.3363106846809387,2,"With your fingers, compress into an even layer along the bottom of the pan.","For the Graham Cracker Crust: Add the graham cracker crumbs, melted butter, and salt to the pan, and stir with a fork until well combined."
+1.0,1.0,0.9720529317855835,2,orange flower water,orange flower water
+0.0,0.3333333432674408,0.4260927140712738,2,"salt, and orange flower water",salt
+0.0,0.0,0.09173174947500229,2,Do not add the sugar at this time.,"Combine cream cheese, goat cheese, lemon juice, vanilla extract, salt, and orange flower water in the bowl of a stand mixer fitted with a paddle attachment."
+0.0,0.07407407462596893,0.4255318343639374,2,cream,"Mix on low until roughly combined, then increase to medium and cream until no lumps of cheese remain, and the mixture is perfectly smooth; about 5 minutes."
+0.0,0.05263157933950424,0.2535440921783447,2,"Reduce speed to medium-low, add the sugar all at once, and mix only until well combined.","Combine cream cheese, goat cheese, lemon juice, vanilla extract, salt, and orange flower water in the bowl of a stand mixer fitted with a paddle attachment."
+0.0,0.0,0.014033589512109756,2,bowl,sugar
+0.0,0.0,0.041988909244537354,2,eggs,"cream cheese, goat cheese, lemon juice, vanilla extract, salt, and orange flower water"
+0.0,0.3333333432674408,0.6207008957862854,2,whisk,whisk until they pass through
+1.0,1.0,0.9722893238067627,2,Discard any clots of chalazae that remain trapped in the strainer.,Discard any clots of chalazae that remain trapped in the strainer.
+0.0,0.4615384638309479,0.46695461869239807,2,stainless steel pot,"In a 1-quart stainless steel pot, bring the cream to a full boil."
+1.0,1.0,0.9611021280288696,2,cream,cream
+1.0,1.0,0.974782407283783,2,"While mixing on low, add the hot cream all at once in a steady stream, and mix a few seconds more.","While mixing on low, add the hot cream all at once in a steady stream, and mix a few seconds more."
+0.0,0.6666666865348816,0.7905102968215942,2,hot cream,cream
+0.0,0.6666666865348816,0.7889361381530762,2,"Refrigerate the batter in an airtight container until needed, up to one week.","Use immediately, or refrigerate the batter in an airtight container until needed, up to one week. Bring cold batter to room temperature before baking."
+0.0,0.2222222238779068,0.558622419834137,2,Bring cold batter to room temperature before baking.,Pour batter into the prepared pan and place on a baking sheet.
+0.0,0.0,0.08452564477920532,2,Place it on a baking sheet.,Bounce a spoon across the surface to dislodge any air bubbles that may have slipped through.
+1.0,1.0,0.9605576992034912,2,spoon,spoon
+1.0,1.0,0.9722785949707031,2,Bounce a spoon across the surface to dislodge any air bubbles that may have slipped through.,Bounce a spoon across the surface to dislodge any air bubbles that may have slipped through.
+0.0,0.0,0.3263546824455261,2,250°f,450°F
+0.0,0.8275862336158752,0.8865775465965271,2,Skip to the next step and bake only at 250°F until done; this may take an hour or more.,Bake only at 250°F until done; this may take an hour or more.
+1.0,1.0,0.9568932056427002,2,10 minutes,10 minutes
+0.0,0.3589743673801422,0.6207533478736877,2,"Close the door and set the oven to 250°F. Continue baking until the outer edge of the cheesecake feels firm, though the innermost ring of cheesecake will wobble quite freely if you shake the pan, about 35 minutes.",Close the door and set the oven to 250°F.
+1.0,1.0,0.9636724591255188,2,about 35 minutes,about 35 minutes
+0.0,0.20000000298023224,0.4632333815097809,2,The cheesecake will be done when the very center registers 145°F on a digital thermometer inserted to a depth of 2-inches.,"When the outer edge of the cheesecake feels firm, though the innermost ring of cheesecake will wobble quite freely if you shake the pan, about 35 minutes."
+0.0,0.2222222238779068,0.5786198973655701,2,Cracking is the result of over-baking and nothing more.,over-baking
+1.0,1.0,0.9653001427650452,2,thin knife,thin knife
+0.0,0.7142857313156128,0.6300971508026123,2,Run a thin knife or offset spatula around the sides to loosen (this helps the cake settle evenly as it cools).,Run a thin knife or offset spatula around the sides to loosen.
+0.0,0.7142857313156128,0.6300971508026123,2,Run a thin knife or offset spatula around the sides to loosen (this helps the cake settle evenly as it cools).,Run a thin knife or offset spatula around the sides to loosen.
+0.0,0.4000000059604645,0.6859589219093323,2,1 hour,at least 1 hour (or up to 4)
+0.0,0.6666666865348816,0.9219686388969421,2,12 hours,at least 12 hours
+0.0,0.7166666388511658,0.792988121509552,2,"Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula. Place the pan on a large can of tomatoes or a similarly sized object; something tall enough to lift the cheesecake 4-inches from the counter, and wide enough to form a stable base. With both hands on the sides of the pan, pull downward to drop the outer ring away from the bottom. Place the cake onto a flat work surface, loosen it from the bottom of the pan with an offset spatula, and transfer to a large, flat serving plate.","Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula. Place the pan on a large can of tomatoes or a similarly sized object; something tall enough to lift the cheesecake 4-inches from the counter, and wide enough to form a stable base. With both hands on"
+1.0,1.0,0.9653001427650452,2,thin knife,thin knife
+0.0,0.4000000059604645,0.6458489894866943,2,tomatoes,large can of tomatoes
+0.0,0.6666666865348816,0.9438804388046265,2,10 days,up to 10 days
+0.0,0.7230769395828247,0.7288869023323059,2,"Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula. Stand the cake in a few inches of scalding hot water until the pan feels warm (a roasting pan works well for this). Drape the cake in plastic wrap to protect its surface, then invert onto a large, flat plate, and lift the pan to pull it away. It should slide free without any resistance; if not, continue standing in hot water a few minutes more. After removing the pan, peel the parchment from the crust, and re-invert the cheesecake onto a serving plate.","Stand the cake in a few inches of scalding hot water until the pan feels warm (a roasting pan works well for this). Drape the cake in plastic wrap to protect its surface, then invert onto a large, flat plate, and lift the pan to pull it away. It should slide free without any"
+1.0,1.0,0.9678768515586853,2,roasting pan,roasting pan
+1.0,1.0,0.9571455121040344,2,pan,pan
+0.0,0.7678571343421936,0.6994754672050476,2,"Combine the fresh fruit and warmed fruit syrup or jam in a large bowl, and gently fold with a flexible spatula until the fruit is well coated and glistening (optional). Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade under hot running water between each slice. Top with spoonfuls of the sauced fruit, if using, or other toppings and sauces as desired.","Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade under hot running water between each slice. Top with spoonfuls of the sauced fruit, if using, or other toppings and sauces as desired."
+1.0,1.0,0.9742515683174133,2,"Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade under hot running water between each slice.","Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade under hot running water between each slice."
+0.0,0.25,0.5875128507614136,2,knife,large chef's knife dipped in hot water

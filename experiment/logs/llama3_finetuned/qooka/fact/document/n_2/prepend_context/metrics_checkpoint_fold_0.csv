@@ -1,0 +1,200 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+1.0,1.0,0.9713695049285889,0,Answer: old-fashioned flaky pie dough,Answer: old-fashioned flaky pie dough
+1.0,1.0,0.9667707681655884,0,Answer: 2 hours,Answer: 2 hours
+0.0,0.800000011920929,0.8500995635986328,0,Answer: ripe peaches,Answer: peaches
+0.0,0.800000011920929,0.6752140522003174,0,Answer: medium bowl,Answer: medium
+0.0,0.5,0.9660786986351013,0,Answer: peaches,Answer: peach
+1.0,1.0,0.9672412872314453,0,Answer: sharp knife,Answer: sharp knife
+0.0,0.2222222238779068,0.4399447739124298,0,Answer: 1 large egg|1 large egg yolk,Answer: 2
+0.0,0.4000000059604645,0.01657738909125328,0,Answer: silver rum,Answer: brush
+0.0,0.6666666865348816,0.6533923745155334,0,Answer: 3 1/2 ounces sugar (1/2 cup; 100g),Answer: 3 1/2 ounces
+0.0,0.2222222238779068,0.3244917690753937,0,Answer: one 2–inch piece fresh ginger,Answer: 2 inch
+1.0,1.0,0.9653390645980835,0,Answer: yogurt,Answer: yogurt
+1.0,1.0,0.965289294719696,0,Answer: lamb,Answer: lamb
+0.0,0.4000000059604645,0.21728405356407166,0,Answer: saucepan,Answer: dutch oven
+0.0,0.75,0.6762748956680298,0,Answer: 30 minutes,Answer: 25 to 30 minutes
+1.0,1.0,0.9593908190727234,0,Answer: 3,Answer: 3
+0.0,0.5714285969734192,0.9017651677131653,0,Answer: heat to medium-high,Answer: medium heat
+0.0,0.75,0.7633082270622253,0,Answer: 45 minutes,Answer: 30 to 45 minutes
+0.0,0.5,0.11700284481048584,0,Answer: rice,Answer: lamb
+0.0,0.800000011920929,0.7707551121711731,0,Answer: water,Answer: soaking water
+0.0,0.3333333432674408,0.21140578389167786,0,Answer: large wooden spoon,Answer: fork
+1.0,1.0,0.9644612073898315,0,Answer: rice,Answer: rice
+1.0,1.0,0.9690374135971069,0,Answer: small saucepan,Answer: small saucepan
+1.0,1.0,0.9677125215530396,0,Answer: low heat,Answer: low heat
+0.0,0.8571428656578064,0.9556493759155273,0,Answer: for 10 minutes,Answer: 10 minutes
+0.0,0.8571428656578064,0.8764071464538574,0,Answer: caramelized onions,Answer: reserved caramelized onions
+1.0,1.0,0.9635211825370789,0,Answer: pot,Answer: pot
+1.0,1.0,0.9630480408668518,0,Answer: flour,Answer: flour
+0.0,0.6666666865348816,0.79558926820755,0,Answer: stiff rubber spatula,Answer: spatula
+1.0,1.0,0.9621492624282837,0,Answer: bowl,Answer: bowl
+1.0,1.0,0.9619284868240356,0,Answer: egg,Answer: egg
+1.0,1.0,0.9650679230690002,0,Answer: spatula,Answer: spatula
+0.0,0.6666666865348816,0.4849231541156769,0,Answer: medium bowl,Answer: large bowl
+0.0,0.800000011920929,0.8092724084854126,0,Answer: medium bowl,Answer: bowl
+1.0,1.0,0.9630480408668518,0,Answer: flour,Answer: flour
+1.0,1.0,0.9630976915359497,0,Answer: butter,Answer: butter
+0.0,0.800000011920929,0.9585569500923157,0,Answer: to 375°f,Answer: 375°f
+0.0,0.3333333432674408,0.051300179213285446,0,Answer: flour,Answer: at room temperature
+1.0,1.0,0.9631524682044983,0,Answer: dough,Answer: dough
+1.0,1.0,0.9631524682044983,0,Answer: dough,Answer: dough
+1.0,1.0,0.9631524682044983,0,Answer: dough,Answer: dough
+1.0,1.0,0.9631524682044983,0,Answer: dough,Answer: dough
+1.0,1.0,0.9675979614257812,0,Answer: 1 inch,Answer: 1 inch
+1.0,1.0,0.9619284868240356,0,Answer: egg,Answer: egg
+0.0,0.75,0.9113002419471741,0,Answer: 20 minutes,Answer: at least 20 minutes
+1.0,1.0,0.971082866191864,0,Answer: sharp boning knife,Answer: sharp boning knife
+1.0,1.0,0.9667292833328247,0,Answer: 5 days,Answer: 5 days
+0.0,0.800000011920929,0.9598634839057922,0,Answer: to 145°f,Answer: 145°f
+1.0,1.0,0.9672765135765076,0,Answer: 63°c,Answer: 63°c
+1.0,1.0,0.9641192555427551,0,Answer: oven,Answer: oven
+0.0,0.5,0.24454694986343384,0,Answer: 200°c,Answer: 400°c
+1.0,1.0,0.966222882270813,0,Answer: 45 minutes,Answer: 45 minutes
+0.0,0.8571428656578064,0.9592097997665405,0,Answer: for 1 hour,Answer: 1 hour
+1.0,1.0,0.9695029854774475,0,Answer: fine-mesh strainer,Answer: fine-mesh strainer
+0.0,0.8571428656578064,0.7180211544036865,0,Answer: 1 quart,Answer: 1 quart (900ml)
+0.0,0.800000011920929,0.8368372321128845,0,Answer: medium saucepan,Answer: saucepan
+1.0,1.0,0.968802809715271,0,Answer: medium heat,Answer: medium heat
+1.0,1.0,0.9695862531661987,0,Answer: about 3 minutes,Answer: about 3 minutes
+0.0,0.800000011920929,0.7427931427955627,0,Answer: large dutch oven,Answer: base of a large Dutch oven
+1.0,1.0,0.9704205989837646,0,Answer: medium-high heat,Answer: medium-high heat
+1.0,1.0,0.9691389799118042,0,Answer: about 4 minutes,Answer: about 4 minutes
+1.0,1.0,0.963180661201477,0,Answer: chicken,Answer: chicken
+1.0,1.0,0.9633761048316956,0,Answer: salt,Answer: salt
+1.0,1.0,0.9681981205940247,0,Answer: about 40 minutes,Answer: about 40 minutes
+1.0,1.0,0.9660218358039856,0,Answer: tongs,Answer: tongs
+0.0,0.4000000059604645,0.24413171410560608,0,Answer: bowl,Answer: large plate
+1.0,1.0,0.9667553901672363,0,Answer: broth,Answer: broth
+0.0,0.4000000059604645,0.19658376276493073,0,Answer: dutch oven,Answer: bowl
+1.0,1.0,0.9633761048316956,0,Answer: salt,Answer: salt
+1.0,1.0,0.963180661201477,0,Answer: chicken,Answer: chicken
+0.0,0.375,0.6491627097129822,0,"Answer: diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion",Answer: diced avocado
+0.0,0.2666666805744171,0.4872628450393677,0,"Answer: diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion",Answer: radish
+1.0,1.0,0.9721270799636841,0,"Answer: diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion","Answer: diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion"
+0.0,0.8235294222831726,0.9308515787124634,0,Answer: 2 hours or up to 24,Answer: at least 2 hours or up to 24 hours
+1.0,1.0,0.9671919941902161,0,Answer: 510g,Answer: 510g
+1.0,1.0,0.968742847442627,0,Answer: medium bowl,Answer: medium bowl
+0.0,0.4000000059604645,0.02211146242916584,0,Answer: dominoes,Answer: in a ring
+1.0,1.0,0.9672412872314453,0,Answer: sharp knife,Answer: sharp knife
+1.0,1.0,0.9661965370178223,0,Answer: peaches,Answer: peaches
+1.0,1.0,0.9619284868240356,0,Answer: egg,Answer: egg
+1.0,1.0,0.9619284868240356,0,Answer: egg,Answer: egg
+0.0,0.800000011920929,0.6835998892784119,0,Answer: dough,Answer: chilled dough
+1.0,1.0,0.9689534902572632,0,Answer: about 20 minutes,Answer: about 20 minutes
+1.0,1.0,0.9660494327545166,0,Answer: rum,Answer: rum
+1.0,1.0,0.9630045890808105,0,Answer: sugar,Answer: sugar
+1.0,1.0,0.9641192555427551,0,Answer: oven,Answer: oven
+0.0,0.5,0.08620566129684448,0,Answer: salt,Answer: rosemary
+0.0,0.75,0.4147423505783081,0,Answer: about 30 minutes,Answer: about 10 minutes
+1.0,1.0,0.9672412872314453,0,Answer: sharp knife,Answer: sharp knife
+1.0,1.0,0.9621492624282837,0,Answer: bowl,Answer: bowl
+1.0,1.0,0.9655696153640747,0,Answer: tomatoes,Answer: tomatoes
+0.0,0.6666666865348816,0.48674216866493225,0,Answer: reserved tomato,Answer: tomato pulp
+1.0,1.0,0.9649613499641418,0,Answer: tomato,Answer: tomato
+0.0,0.6666666865348816,0.7009003758430481,0,Answer: broth,Answer: low-sodium chicken broth
+0.0,0.5,0.34510502219200134,0,Answer: salt,Answer: lightly
+1.0,1.0,0.9633632898330688,0,Answer: garlic,Answer: garlic
+1.0,1.0,0.9633632898330688,0,Answer: garlic,Answer: garlic
+0.0,0.5,0.14334401488304138,0,Answer: rice,Answer: garlic
+1.0,1.0,0.9696784615516663,0,Answer: tomato paste,Answer: tomato paste
+0.0,0.800000011920929,0.757434070110321,0,Answer: rice,Answer: rice mixture
+0.0,0.3333333432674408,0.12687531113624573,0,Answer: tomato pulp,Answer: fish sauce
+1.0,1.0,0.9633761048316956,0,Answer: salt,Answer: salt
+0.0,0.800000011920929,0.5174410343170166,0,Answer: tomato cavities,Answer: tomato
+1.0,1.0,0.9655696153640747,0,Answer: tomatoes,Answer: tomatoes
+0.0,0.8571428656578064,0.7477056384086609,0,Answer: 1 tablespoon,Answer: 1 tablespoon (15ml)
+0.0,0.5,0.23885764181613922,0,Answer: tomatoes,Answer: potatoes
+0.0,0.6666666865348816,0.6598322987556458,0,Answer: rice and potatoes,Answer: rice
+1.0,1.0,0.9649104475975037,0,Answer: potatoes,Answer: potatoes
+1.0,1.0,0.9682098627090454,0,Answer: high heat,Answer: high heat
+0.0,0.8571428656578064,0.9552339911460876,0,Answer: for 5 minutes,Answer: 5 minutes
+1.0,1.0,0.9696123600006104,0,Answer: tuna steaks,Answer: tuna steaks
+1.0,1.0,0.9646095037460327,0,Answer: fish,Answer: fish
+0.0,0.6666666865348816,0.8000513315200806,0,Answer: thin metal spatula,Answer: spatula
+0.0,0.75,0.8036332130432129,0,Answer: carving fork,Answer: tines of a carving fork
+1.0,1.0,0.9637165665626526,0,Answer: heat,Answer: heat
+1.0,1.0,0.9646095037460327,0,Answer: fish,Answer: fish
+0.0,0.1666666716337204,0.013681464828550816,0,Answer: tuna,Answer: from a deep purple when raw to a beige when cooked
+0.0,0.2857142984867096,0.6575385332107544,0,Answer: 2 pounds (900g),Answer: 900 g
+0.0,0.5,0.7964199185371399,0,Answer: aluminium-foil,Answer: foil
+0.0,0.75,0.7668098211288452,0,Answer: diamond crystal kosher salt,Answer: kosher salt
+0.0,0.8571428656578064,0.9594781398773193,0,Answer: preground spices,Answer: using pre-ground spices
+0.0,0.2857142984867096,0.6608449220657349,0,Answer: 1 ounce (28g),Answer: 28 g
+0.0,0.8571428656578064,0.8965461850166321,0,Answer: about 1 minute,Answer: 1 minute
+1.0,1.0,0.9629536271095276,0,Answer: yes,Answer: yes
+0.0,0.800000011920929,0.7987456917762756,0,Answer: 1 medium,Answer: 1
+0.0,0.8571428656578064,0.622113823890686,0,Answer: 4 tablespoons (60g),Answer: 4 tablespoons
+0.0,0.1538461595773697,0.060936108231544495,0,"Answer: 2 pounds (900g) boneless, skinless chicken thighs (about 4)",Answer: 1/2 cup
+0.0,0.4000000059604645,0.26901960372924805,0,Answer: serving bowl,Answer: small
+0.0,0.3333333432674408,0.0149522814899683,0,Answer: small skillet,Answer: fenugreek leaves
+0.0,0.800000011920929,0.7568780183792114,0,Answer: fenugreek,Answer: fenugreek leaves
+1.0,1.0,0.968802809715271,0,Answer: medium heat,Answer: medium heat
+0.0,0.4444444477558136,0.44869956374168396,0,Answer: 9- by 13-inch with 1-inch sides,Answer: 1-inch
+1.0,1.0,0.962594211101532,0,Answer: ginger,Answer: ginger
+1.0,1.0,0.9680714011192322,0,Answer: fenugreek,Answer: fenugreek
+0.0,0.6666666865348816,0.9692516922950745,0,Answer: chicken thigh,Answer: chicken thighs
+0.0,0.6666666865348816,0.6911486387252808,0,Answer: chicken thigh pieces,Answer: chicken
+0.0,0.3333333432674408,0.18039371073246002,0,Answer: prepared baking sheet,Answer: bowl
+1.0,1.0,0.963180661201477,0,Answer: chicken,Answer: chicken
+1.0,1.0,0.9680714011192322,0,Answer: fenugreek,Answer: fenugreek
+0.0,0.3333333432674408,0.4547129273414612,0,Answer: 2 teaspoons,Answer: 1 teaspoon
+1.0,1.0,0.963180661201477,0,Answer: chicken,Answer: chicken
+1.0,1.0,0.9679284691810608,0,Answer: small skillet,Answer: small skillet
+1.0,1.0,0.9680714011192322,0,Answer: fenugreek,Answer: fenugreek
+0.0,0.25,0.18515466153621674,0,Answer: medium mixing bowl,Answer: rimmed baking sheet
+1.0,1.0,0.9674355983734131,0,Answer: black salt,Answer: black salt
+0.0,0.4000000059604645,0.2894434928894043,0,Answer: bowl,Answer: baking sheet
+1.0,1.0,0.963180661201477,0,Answer: chicken,Answer: chicken
+1.0,1.0,0.9651297926902771,0,Answer: aluminum,Answer: aluminum
+1.0,1.0,0.968802809715271,0,Answer: medium heat,Answer: medium heat
+0.0,0.4000000059604645,0.05930496007204056,0,Answer: salt,Answer: brown cardamom
+0.0,0.2857142984867096,0.2482391595840454,0,Answer: shortcut spice mix,Answer: brown cardamom
+1.0,1.0,0.9644491672515869,0,Answer: water,Answer: water
+1.0,1.0,0.9648638367652893,0,Answer: cashews,Answer: cashews
+0.0,0.8571428656578064,0.8965461850166321,0,Answer: about 1 minute,Answer: 1 minute
+0.0,0.4000000059604645,0.3551805317401886,0,Answer: dutch oven,Answer: broiler
+0.0,0.3333333432674408,0.24737584590911865,0,Answer: pot,Answer: with a wooden spoon
+0.0,0.7272727489471436,0.46754592657089233,0,Answer: about 1 minute,"Answer: until quite fragrant, about 1 minute"
+1.0,1.0,0.9630274176597595,0,Answer: onions,Answer: onions
+0.0,0.75,0.7307058572769165,0,Answer: wooden spoon,Answer: back of wooden spoon
+1.0,1.0,0.9655696153640747,0,Answer: tomatoes,Answer: tomatoes
+1.0,1.0,0.9681981205940247,0,Answer: about 40 minutes,Answer: about 40 minutes
+1.0,1.0,0.963180661201477,0,Answer: chicken,Answer: chicken
+1.0,1.0,0.9682908654212952,0,Answer: about 14 minutes,Answer: about 14 minutes
+1.0,1.0,0.9693501591682434,0,Answer: immersion blender,Answer: immersion blender
+1.0,1.0,0.9630976915359497,0,Answer: butter,Answer: butter
+1.0,1.0,0.963180661201477,0,Answer: chicken,Answer: chicken
+1.0,1.0,0.9621492624282837,0,Answer: bowl,Answer: bowl
+0.0,0.25,0.05338673293590546,0,Answer: garlic,Answer: 3 tablespoons extra-virgin olive oil
+1.0,1.0,0.9633761048316956,0,Answer: salt,Answer: salt
+0.0,0.4444444477558136,0.580909788608551,0,"Answer: bay leaves, rosemary or thyme sprigs",Answer: rosemary
+0.0,0.6666666865348816,0.7370421290397644,0,Answer: salt and pepper,Answer: salt
+0.0,0.8571428656578064,0.9014307260513306,0,Answer: about 15 minutes,Answer: 15 minutes
+1.0,1.0,0.9644491672515869,0,Answer: water,Answer: water
+0.0,0.800000011920929,0.6583735942840576,0,Answer: cup,Answer: 1/2 cup
+0.0,0.6666666865348816,0.8024346828460693,0,Answer: inch) nonstick skillet,Answer: small (8-inch) nonstick skillet
+0.0,0.4444444477558136,0.580909788608551,0,"Answer: bay leaves, rosemary or thyme sprigs",Answer: rosemary
+1.0,1.0,0.965600848197937,0,Answer: black pepper,Answer: black pepper
+1.0,1.0,0.9365582466125488,0,Answer: 2 teaspoons,Answer: 2 teaspoons
+1.0,1.0,0.9629536271095276,0,Answer: yes,Answer: yes
+0.0,0.3333333432674408,0.29033976793289185,0,Answer: medium mixing bowl,Answer: small
+1.0,1.0,0.9629536271095276,0,Answer: yes,Answer: yes
+0.0,0.5,0.23417548835277557,0,Answer: no,Answer: yes
+1.0,1.0,0.9691014289855957,0,Answer: 1/4 cup (60ml),Answer: 1/4 cup (60ml)
+0.0,0.6666666865348816,0.41514092683792114,0,Answer: 1 ounce (28g),Answer: 1
+0.0,0.8571428656578064,0.8965461850166321,0,Answer: about 1 minute,Answer: 1 minute
+1.0,1.0,0.9704205989837646,0,Answer: medium-high heat,Answer: medium-high heat
+0.0,0.75,0.9143087267875671,0,"Answer: yes, about 40 minutes",Answer: 40 minutes
+1.0,1.0,0.9656065106391907,0,Answer: sheet pan,Answer: sheet pan
+0.0,0.800000011920929,0.6868423819541931,0,Answer: serving bowl,Answer: serving
+0.0,0.6666666865348816,0.4849231541156769,0,Answer: medium bowl,Answer: large bowl
+0.0,0.800000011920929,0.41278910636901855,0,Answer: large,Answer: large egg
+0.0,0.5714285969734192,0.6457535624504089,0,Answer: spatula followed by hands,Answer: spatula
+0.0,0.800000011920929,0.6752140522003174,0,Answer: medium bowl,Answer: medium
+0.0,0.4000000059604645,0.05794646963477135,0,Answer: flour,Answer: rubber spatula
+1.0,1.0,0.9630976915359497,0,Answer: butter,Answer: butter
+0.0,0.800000011920929,0.9585569500923157,0,Answer: to 375°f,Answer: 375°f
+1.0,1.0,0.9630480408668518,0,Answer: flour,Answer: flour
+1.0,1.0,0.9675979614257812,0,Answer: 1 inch,Answer: 1 inch
+1.0,1.0,0.9670831561088562,0,Answer: egg wash,Answer: egg wash
+0.0,0.75,0.9113002419471741,0,Answer: 20 minutes,Answer: at least 20 minutes

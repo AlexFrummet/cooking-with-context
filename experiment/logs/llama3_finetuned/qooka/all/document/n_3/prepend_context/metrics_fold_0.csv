@@ -1,0 +1,471 @@
+em_testing,f1_score_testing,sas_testing,fold,gold_answers,model_answers
+0.0,0.2857142984867096,0.6474133729934692,0,flour a 12-cup bundt or tube pan,flour
+0.0,0.0,0.07895621657371521,0,Preheat the oven to 350 degrees F.,Grease and flour a 12-cup Bundt or tube pan.
+0.0,0.3333333432674408,0.5545993447303772,0,12-cup Bundt or tube pan.,Bundt
+1.0,1.0,0.9700459241867065,0,Grease and flour a 12-cup Bundt or tube pan.,Grease and flour a 12-cup Bundt or tube pan.
+0.0,0.0,0.00954475998878479,0,cream cheese,vegetable shortening
+1.0,1.0,0.9626728296279907,0,about 5 minutes.,about 5 minutes
+0.0,0.5,0.359321653842926,0,1/2 cup (1 stick),1 stick unsalted butter
+0.0,0.5806451439857483,0.7502254843711853,0,"combine the flour, baking powder, and salt in a smaller bowl. Add the flour mixture to the creamed mixture and mix on low speed until blended.","In a smaller bowl, combine the flour, baking powder, and salt."
+1.0,1.0,0.9561583995819092,0,"the flour, baking powder, and salt.","flour, baking powder, and salt"
+0.0,0.0,0.07492101192474365,0,one at a time,6
+0.0,0.7777777910232544,0.6802528500556946,0,"continue beating, scraping down the sides of the bowl once or twice, until the batter is smooth.","Add the vanilla and the remaining 1 cup sugar and continue beating, scraping down the sides of the bowl once or twice, until the batter is smooth."
+0.0,0.0,0.15715385973453522,0,the mixture for the dough so far,12-cup Bundt or tube pan
+1.0,1.0,0.9724262952804565,0,Top with the melted chocolate and swirl a knife through the batter to marble it.,Top with the melted chocolate and swirl a knife through the batter to marble it.
+1.0,1.0,0.9663211703300476,0,Top with the remaining batter.,Top with the remaining batter.
+0.0,0.695652186870575,0.6757632493972778,0,until a toothpick inserted in the center comes out clean,"Bake for 60 to 65 minutes, or until a toothpick inserted in the center comes out clean."
+0.0,0.6666666865348816,0.6670784950256348,0,Cool on a wire rack for 15 minutes. Invert the cake onto a platter and cool completely.,Cool on a wire rack for 15 minutes.
+0.0,0.875,0.8306782841682434,0,"Before serving, dust with a generous amount of confectioner's sugar.",Dust with a generous amount of confectioner's sugar.
+0.0,0.03921568766236305,0.5356636047363281,0,set aside,Spread skin evenly over a piece of parchment paper set in a rimmed baking sheet. Season generously with salt and pepper. Place a second sheet of parchment on top and carefully squeeze out any air bubbles using the side of your hand. Place a second rimmed baking sheet on top and transfer to oven.
+0.0,0.4000000059604645,0.6753142476081848,0,sharp boning knife,"Using a sharp boning knife, remove breast meat from breastbone. Set breastbone aside."
+1.0,1.0,0.964373767375946,0,a sharp boning knife,sharp boning knife
+0.0,0.8461538553237915,0.7689085602760315,0,Turkey can be refrigerated for up to 5 days before proceeding.,Transfer to a zipper-lock bag. Turkey can be refrigerated for up to 5 days before proceeding.
+1.0,1.0,0.9659245014190674,0,up to 5 days,up to 5 days
+0.0,0.6666666865348816,0.9393014311790466,0,5 days,up to 5 days
+1.0,1.0,0.9570639133453369,0,145°F (63°C),145°F (63°C)
+0.0,0.5,0.7390617728233337,0,to 145°f,145°F (63°C)
+1.0,1.0,0.9618771076202393,0,63°c,63°C
+0.0,0.9387755393981934,0.8698139190673828,0,"With bag open, slowly lower bagged turkey into water, letting water pressure squeeze air out of bag until just the seal remains above the waterline. Seal bag completely.","With bag open, slowly lower bagged turkey into water, letting water pressure squeeze air out of bag until just the seal remains above the waterline."
+0.0,0.8571428656578064,0.9431506395339966,0,for 2 1/2 hours,2 1/2 hours
+0.0,0.6666666865348816,0.571566641330719,0,200°c,400°F (200°C)
+1.0,1.0,0.9582111835479736,0,oven,oven
+0.0,0.957446813583374,0.8047155141830444,0,Spread skin evenly over a piece of parchment paper set in a rimmed baking sheet. Season generously with salt and pepper. Place a second sheet of parchment on top and carefully squeeze out any air bubbles using the side of your hand. Place a second rimmed baking sheet on top.,Spread skin evenly over a piece of parchment paper set in a rimmed baking sheet. Season generously with salt and pepper. Place a second sheet of parchment on top and carefully squeeze out any air bubbles using the side of your hand. Place a second rimmed baking sheet on top and transfer to oven.
+0.0,0.6666666865348816,0.7472936511039734,0,45 minutes,30 to 45 minutes
+1.0,1.0,0.9719275832176208,0,Allow to cool and set aside at room temperature.,Allow to cool and set aside at room temperature.
+0.0,0.9090909361839294,0.6316343545913696,0,"To re-crisp, place in a hot oven for a few minutes just before serving.",Place in a hot oven for a few minutes just before serving.
+0.0,0.9213483333587646,0.820480227470398,0,"Using a cleaver, chop breastbone into 1-inch chunks. In a medium saucepan over high heat, heat oil until smoking. Add breastbone, onion, carrot, and celery and cook, stirring occasionally, until well browned, about 10 minutes total. Add stock, bay leaves, and soy sauce. Bring to a boil, then reduce to a simmer.","Using a cleaver, chop breastbone into 1-inch chunks. In a medium saucepan over high heat, heat oil until smoking. Add breastbone, onion, carrot, and celery and cook, stirring occasionally, until well browned, about 10 minutes total. Add stock, bay leaves, and soy sauce"
+0.0,0.800000011920929,0.9426606297492981,0,for 1 hour,1 hour
+1.0,1.0,0.9616690278053284,0,fine-mesh strainer,a fine-mesh strainer
+0.0,0.2380952388048172,0.5903399586677551,0,"Strain through a fine-mesh strainer. You should have a little over 1 quart (900ml) of fortified stock; if not, add water or more chicken stock to equal 1 quart. Discard solids and set stock aside.","Simmer for 1 hour, then strain through a fine-mesh strainer."
+1.0,1.0,0.9653207063674927,0,1 quart,1 quart
+0.0,0.9090909361839294,0.8340665698051453,0,"If not, add water or more chicken stock to equal 1 quart.",Add water or more chicken stock to equal 1 quart.
+0.0,0.6666666865348816,0.6359298825263977,0,medium heat,medium
+1.0,1.0,0.9670958518981934,0,medium saucepan,medium saucepan
+1.0,1.0,0.9730667471885681,0,"Add flour and cook, stirring constantly, until golden brown, about 3 minutes.","Add flour and cook, stirring constantly, until golden brown, about 3 minutes."
+1.0,1.0,0.966289222240448,0,about 3 minutes,about 3 minutes
+0.0,0.0,0.010109089314937592,0,"until golden brown, about 3 minutes",medium heat
+0.0,0.6538461446762085,0.6986082792282104,0,"Bring to a boil, reduce to a simmer, and cook until thickened and reduced to about 3 cups (720ml).","Whisking constantly, add fortified broth in a thin, steady stream. Bring to a boil, reduce to a simmer, and cook until thickened and reduced to about 3 cups (720ml). Season to taste with salt and pepper. Keep warm."
+0.0,0.16129031777381897,0.3589896261692047,0,"Break skin into serving-sized pieces and add to platter, along with a pitcher of gravy.",For the Crispy Skin: Adjust oven rack to center position and preheat oven to 400°F (200°C). Spread skin evenly over a piece of parchment paper set in a rimmed baking sheet. Season generously with salt and pepper. Place a second sheet of parchment on top and carefully squeeze out any air bubbles
+0.0,0.6666666865348816,0.34887149930000305,0,about 4 minutes,about 40 minutes
+0.0,0.6666666865348816,0.8800576329231262,0,medium-high heat,medium-high
+1.0,1.0,0.9745078086853027,0,"Heat pumpkin seeds in the base of a large Dutch oven over medium-high heat, stirring constantly, until they start to pop and smell nutty, about 4 minutes.","Heat pumpkin seeds in the base of a large Dutch oven over medium-high heat, stirring constantly, until they start to pop and smell nutty, about 4 minutes."
+0.0,0.75,0.8879205584526062,0,large dutch oven,base of a large Dutch oven
+1.0,1.0,0.97263103723526,0,Transfer pumpkin seeds to a bowl and set aside.,Transfer pumpkin seeds to a bowl and set aside.
+0.0,0.0,0.009351219981908798,0,salt,8 g dried oregano
+0.0,0.8823529481887817,0.7694413661956787,0,"Add chicken, tomatillos, onion, peppers, chicken stock, oregano, epazote (if using), and a large pinch of salt to the Dutch oven.","chicken, tomatillos, onion, peppers, chicken stock, oregano, epazote (if using), and a large pinch of salt"
+1.0,1.0,0.9640725255012512,0,chicken,chicken
+0.0,0.2857142984867096,0.6027681231498718,0,"Bring to a boil over high heat then reduce to a bare simmer. Cook, stirring occasionally, until chicken and vegetables are completely tender, about 40 minutes.",Bring to a bare simmer.
+1.0,1.0,0.9638596177101135,0,about 40 minutes,about 40 minutes
+0.0,0.8695651888847351,0.8229609727859497,0,"until chicken and vegetables are completely tender, about 40 minutes.","Cook, stirring occasionally, until chicken and vegetables are completely tender, about 40 minutes."
+1.0,1.0,0.9720737934112549,0,Transfer chicken to a large plate or bowl and set aside.,Transfer chicken to a large plate or bowl and set aside.
+1.0,1.0,0.9637096524238586,0,tongs,tongs
+0.0,0.4000000059604645,0.6863936185836792,0,bowl,large plate or bowl
+1.0,1.0,0.929252564907074,0,broth,the broth
+0.0,0.3272727131843567,0.6082046627998352,0,"Add it to the Dutch oven and heat over high heat, swirling and stirring until the watery stock completely evaporates and starts to form a browned layer in the bottom of the pan.","Using a ladle, carefully skim off a few tablespoons of fat from the strained stock and add it to the Dutch oven (it's okay if a little stock gets in as well)."
+1.0,1.0,0.94759601354599,0,dutch oven,Dutch oven
+0.0,0.52173912525177,0.6638256311416626,0,"Cook, stirring, for about 15 seconds. Immediately pour in strained chicken stock and fat and stir to combine.","As soon as the chicken fat starts to smoke, pour in the contents of the blender all at once and cook, stirring, for about 15 seconds (it will spatter a lot—wear an apron!)."
+1.0,1.0,0.9643511176109314,0,salt,salt
+0.0,0.625,0.5667513608932495,0,"Stir in hominy, season to taste with salt, and keep warm.",season to taste with salt
+0.0,0.47058823704719543,0.6449655294418335,0,Discard the skin and bones.,Discard the skin and bones and shred the meat into bite-sized pieces with your fingertips.
+0.0,0.5925925970077515,0.6246938109397888,0,Shred the meat into bite-sized pieces with your fingertips.,Discard the skin and bones and shred the meat into bite-sized pieces with your fingertips. Stir the picked chicken back into the soup.
+0.0,0.6666666865348816,0.7991970777511597,0,chicken,picked chicken
+0.0,0.5,0.6893129944801331,0,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion",diced avocado and radish
+0.0,0.8461538553237915,0.8404240012168884,0,"garnish with diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion.","diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion"
+0.0,0.9166666865348816,0.9718202948570251,0,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion","diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion"
+1.0,1.0,0.9710675477981567,0,"Ladle the hot soup into bowls and garnish with diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion. Serve immediately.","Ladle the hot soup into bowls and garnish with diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion. Serve immediately."
+0.0,0.9166666865348816,0.9718202948570251,0,"diced avocado and radish, sliced chilies, chopped cilantro, and chopped white onion","diced avocado and radish, sliced chiles, chopped cilantro, and chopped white onion"
+1.0,1.0,0.9623141884803772,0,500°f (260°c),500°F (260°C)
+0.0,0.6972476840019226,0.7179484367370605,0,"Using sharp kitchen shears, remove backbone from chicken and cut spine into 5 to 6 one-inch-long pieces. Flatten chicken by placing skin side up on a cutting board and applying firm pressure to breastbone. Transfer to a wire rack set in a foil-lined rimmed baking sheet. Position chicken so that breasts are aligned with center of baking sheet and legs are close to edge.","Place oven rack in upper-middle position and preheat oven to 500°F (260°C). Using sharp kitchen shears, remove backbone from chicken and cut spine into 5 to 6 one-inch-long pieces. Set backbone aside. Flatten chicken by placing skin side up on a cutting board and applying firm pressure to breast"
+1.0,1.0,0.9726162552833557,0,"1 tablespoon (15g) kosher salt, 1/2 teaspoon ground black pepper, and 1 teaspoon (5g) baking powder (if using)","1 tablespoon (15g) kosher salt, 1/2 teaspoon ground black pepper, and 1 teaspoon (5g) baking powder (if using)"
+1.0,1.0,0.9603113532066345,0,15g,15g
+1.0,1.0,0.9688478112220764,0,1/2 teaspoon,1/2 teaspoon
+1.0,1.0,0.9701300859451294,0,"Sprinkle chicken with herbs, if using.","Sprinkle chicken with herbs, if using."
+1.0,1.0,0.9637883901596069,0,about 45 minutes,about 45 minutes
+0.0,0.800000011920929,0.9696886539459229,0,reducing heat to 450°F (232°C),reduce heat to 450°F (232°C)
+1.0,1.0,0.9697906970977783,0,reducing heat to 450°f (232°c),reducing heat to 450°F (232°C)
+0.0,0.6666666865348816,0.6548687219619751,0,66°c,150°F (66°C)
+1.0,1.0,0.9739766716957092,0,"Add chicken backbone and cook, stirring frequently, until well browned, about 3 minutes.","Add chicken backbone and cook, stirring frequently, until well browned, about 3 minutes."
+0.0,0.19672131538391113,0.3225035071372986,0,"Add bay leaf and deglaze with vermouth or sherry and 1 cup (240ml) water, using a wooden spoon to scrape up any browned bits from bottom of pan. Reduce heat to maintain simmer and cook for 20 minutes. Strain out solids and return liquid to pan.","Add onion, carrot, and celery and cook, stirring frequently, until beginning to brown, about 3 minutes."
+0.0,0.8571428656578064,0.8231554627418518,0,"soy sauce, butter, and lemon juice","whisk in soy sauce, butter, and lemon juice"
+1.0,1.0,0.9586168527603149,0,5 minutes,5 minutes
+0.0,0.8888888955116272,0.6805678009986877,0,"Transfer to cutting board, tent loosely with foil, and allow to rest 5 minutes before carving. Serve with hot jus.","Transfer to cutting board, tent loosely with foil, and allow to rest 5 minutes before carving."
+0.0,0.0,0.009438536129891872,0,oven,cutting board
+0.0,0.0833333358168602,0.1620745211839676,0,"Remove chicken from oven, transfer to cutting board, tent loosely with foil, and allow to rest 5 minutes before carving.",Serve with hot jus.
+0.0,0.7346938848495483,0.7548844218254089,0,Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water. Let soak 15 minutes,"Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water. Let soak 15 minutes, then arrange on a clean kitchen towel or paper towels to dry. Set aside."
+1.0,1.0,0.9678341746330261,0,warm water,warm water
+0.0,0.6666666865348816,0.826461672782898,0,clean kitchen towel,a clean kitchen towel or paper towels
+1.0,1.0,0.9592249989509583,0,15 minutes,15 minutes
+1.0,1.0,0.9706441760063171,0,arrange on a clean kitchen towel or paper towels to dry.,arrange on a clean kitchen towel or paper towels to dry.
+1.0,1.0,0.9685534834861755,0,mushrooms,mushrooms
+1.0,1.0,0.9696536064147949,0,"Pulse until roughly chopped, 6 to 8 short pulses.","pulse until roughly chopped, 6 to 8 short pulses."
+1.0,1.0,0.9679955840110779,0,large bowl,a large bowl
+0.0,0.10526315867900848,0.15609078109264374,0,Fit food processor with grater attachment and grate all of the Brussels sprouts.,Transfer to a large bowl and set aside.
+1.0,1.0,0.9666937589645386,0,large bowl,large bowl
+1.0,1.0,0.9726364612579346,0,Place oven rack in upper-middle position and preheat oven to 500°F (260°C).,Place oven rack in upper-middle position and preheat oven to 500°F (260°C).
+1.0,1.0,0.9637883901596069,0,about 45 minutes,about 45 minutes
+0.0,0.8256880640983582,0.7853464484214783,0,"Using sharp kitchen shears, remove backbone from chicken and cut spine into 5 to 6 one-inch-long pieces. Flatten chicken by placing skin side up on a cutting board and applying firm pressure to breastbone. Transfer to a wire rack set in a foil-lined rimmed baking sheet. Position chicken so that breasts are aligned with center of baking sheet and legs are close to edge.","Using sharp kitchen shears, remove backbone from chicken and cut spine into 5 to 6 one-inch-long pieces. Set backbone aside. Flatten chicken by placing skin side up on a cutting board and applying firm pressure to breastbone. Transfer to a wire rack set in a foil-lined rimmed baking sheet. Position chicken"
+0.0,0.0,0.636878490447998,0,yes,"Sprinkle chicken with herbs, if using. Rub chicken to distribute seasoning evenly all over skin."
+0.0,0.0,0.06053216755390167,0,ground black pepper,1 teaspoon (5g) baking powder (if using)
+1.0,1.0,0.9482375383377075,0,no,no
+0.0,0.36000001430511475,0.6747828722000122,0,Rub chicken to distribute seasoning evenly all over skin.,"Combine 1 tablespoon (15g) kosher salt, 1/2 teaspoon ground black pepper, and 1 teaspoon (5g) baking powder (if using) in a small bowl. Sprinkle all over chicken. Sprinkle chicken with herbs, if using. Rub chicken to distribute seasoning evenly all over skin."
+0.0,0.75,0.6971756219863892,0,"Add bay leaf and deglaze with vermouth or sherry and 1 cup (240ml) water, using a wooden spoon to scrape up any browned bits from bottom of pan. Reduce heat to maintain simmer and cook for 20 minutes. Strain out solids and return liquid to pan.","Add bay leaf and deglaze with vermouth or sherry and 1 cup (240ml) water, using a wooden spoon to scrape up any browned bits from bottom of pan."
+0.0,0.9090909361839294,0.7131106853485107,0,"Transfer to cutting board, tent loosely with foil, and allow to rest 5 minutes before carving. Serve with hot jus.","Remove chicken from oven, transfer to cutting board, tent loosely with foil, and allow to rest 5 minutes before carving. Serve with hot jus."
+0.0,0.800000011920929,0.6969349384307861,0,"Remove chicken from oven, transfer to cutting board, tent loosely with foil, and allow to rest 5 minutes before carving.","Transfer to cutting board, tent loosely with foil, and allow to rest 5 minutes before carving. Serve with hot jus."
+0.0,0.4583333432674408,0.6981344819068909,0,Pour out and spread coals evenly over half of coal grate.,"Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and spread coals evenly over half of coal grate. Alternatively, set all the burners of a gas grill to high heat."
+1.0,1.0,0.9650607109069824,0,high heat,high heat
+1.0,1.0,0.9701046943664551,0,Set all the burners of a gas grill to high heat.,Set all the burners of a gas grill to high heat.
+0.0,0.800000011920929,0.9397533535957336,0,for 5 minutes,5 minutes
+1.0,1.0,0.970819890499115,0,Clean and oil grilling grate.,Clean and oil grilling grate.
+1.0,1.0,0.9695623517036438,0,Lightly brush them all over with oil.,Lightly brush them all over with oil.
+0.0,0.0,0.009457073174417019,0,tuna steaks,paper towels
+1.0,1.0,0.9695623517036438,0,Lightly brush them all over with oil.,Lightly brush them all over with oil.
+0.0,0.7586206793785095,0.7975143790245056,0,"Season tuna steaks all over with salt and, if desired, pepper.","season tuna steaks all over with salt and, if desired, pepper. Then set over hot side of grill."
+1.0,1.0,0.9211228489875793,0,fish,the fish
+1.0,1.0,0.9693458080291748,0,thin metal spatula,thin metal spatula
+1.0,1.0,0.9734559655189514,0,Try to gently lift it from below using a thin metal spatula or the tines of a carving fork inserted down between the grill grates.,try to gently lift it from below using a thin metal spatula or the tines of a carving fork inserted down between the grill grates.
+0.0,0.3636363744735718,0.7038790583610535,0,carving fork,the tines of a carving fork inserted down between the grill grates.
+1.0,1.0,0.9380396604537964,0,fish,fish
+1.0,1.0,0.9501233696937561,0,heat,the heat
+0.0,0.0,0.009783653542399406,0,tuna,from a deep purple when raw to a beige when cooked
+0.0,0.2545454502105713,0.6308972835540771,0,Use the side of the fish to gauge doneness,"Use the side of the fish to gauge doneness: if you want it very rare in the center, the sides of the steaks should still look purple, with the color of the cooked fish just starting to creep in from above and below. If you want it a little more done, let the cooked color creep up"
+0.0,0.7407407164573669,0.7241538763046265,0,"If you want it a little more done, let the cooked color creep up a bit more from both sides.",Let the cooked color creep up a bit more from both sides.
+0.0,0.3333333432674408,0.5105300545692444,0,"garlic, and anchovies (if using)",garlic
+1.0,1.0,0.9708840250968933,0,"Increase heat to medium-high and add wine. Bring to a simmer and cook, swirling pan and scraping up any stuck-on bits with a wooden spoon, until wine has emulsified with olive oil and mixture is slightly reduced, about 30 seconds.","Increase heat to medium-high and add wine. Bring to a simmer and cook, swirling pan and scraping up any stuck-on bits with a wooden spoon, until wine has emulsified with olive oil and mixture is slightly reduced, about 30 seconds."
+0.0,0.625,0.6804773807525635,0,scraping up any stuck-on bits,swirling pan and scraping up any stuck-on bits with a wooden spoon
+0.0,0.22857142984867096,0.4893697500228882,0,emulsified with olive oil,"Bring to a simmer and cook, swirling pan and scraping up any stuck-on bits with a wooden spoon, until wine has emulsified with olive oil and mixture is slightly reduced, about 30 seconds."
+0.0,0.20000000298023224,0.4053500294685364,0,together with beans and bean cooking liquid,when canned beans
+0.0,0.0,0.10869424790143967,0,Use a wooden spoon to crush roughly one-quarter of the beans against the sides and bottom of the pan.,season lightly with salt
+0.0,0.0,0.3628719747066498,0,"Add beans and bean cooking liquid (if using cooked dry beans) or stock (if using canned beans), and, using a wooden spoon, crush roughly one-quarter of the beans against the sides and bottom of pan.",season lightly with salt
+0.0,0.0,0.009226943366229534,0,<no answer>,season lightly with salt
+1.0,1.0,0.9632518887519836,0,10 to 15 minutes,10 to 15 minutes.
+0.0,0.0,0.03011542558670044,0,"Cook, stirring occasionally, until bean mixture is thickened to a creamy, saucy consistency, 10 to 15 minutes.",no
+0.0,0.08955223858356476,0.48700305819511414,0,"cook pasta until softened on the exterior, but well shy of al dente and still uncooked in the center (about 3 minutes less than the package directions).","Right before the pasta reaches this level of doneness, add the kale to the pan with the beans. Using a spider skimmer or slotted spoon, transfer pasta to pan with beans and kale along with 1 cup (240ml) pasta cooking water. Alternatively, drain pasta using a colander or fine-mesh"
+1.0,1.0,0.9630816578865051,0,pasta,pasta
+1.0,1.0,0.9734043478965759,0,"Right before the pasta reaches this level of doneness, add the kale to the pan with the beans.","Right before the pasta reaches this level of doneness, add the kale to the pan with the beans."
+1.0,1.0,0.969386100769043,0,"Using a spider skimmer or slotted spoon, transfer pasta to pan with beans and kale along with 1 cup (240ml) pasta cooking water. Alternatively, drain pasta using a colander or fine-mesh strainer, making sure to reserve at least 2 cups (475ml) pasta cooking water.","Using a spider skimmer or slotted spoon, transfer pasta to pan with beans and kale along with 1 cup (240ml) pasta cooking water. Alternatively, drain pasta using a colander or fine-mesh strainer, making sure to reserve at least 2 cups (475ml) pasta cooking water."
+0.0,0.6666666865348816,0.6188936233520508,0,right before the pasta reaches a level of doneness,"Right before the pasta reaches this level of doneness, add the kale to the pan with the beans."
+1.0,1.0,0.9696922898292542,0,1 cup (240ml),1 cup (240ml)
+0.0,0.0,0.010024690069258213,0,<no answer>,2 to 3 minutes
+0.0,0.25,0.3271752893924713,0,al dente,"softened on the exterior, but well shy of al dente and still uncooked in the center"
+0.0,0.035087719559669495,0.54807049036026,0,"At this point, the sauce should coat the pasta but still be loose enough to pool around the edges of the pan; because of the starch in the beans and pasta water, the sauce will continue to tighten up in the time it takes to plate and serve, so make sure it's a little looser than you would normally serve a sauce.","thickened to a creamy, saucy consistency"
+0.0,0.20000000298023224,0.21253365278244019,0,2 1/4 ounces (3/4 cup; 65g),3/4 of grated cheese
+0.0,0.6399999856948853,0.7121445536613464,0,Adjust oven rack center position and preheat oven to 400°F. Place carrots in a large skillet and cover with cold water. Season gently with salt.,"Adjust oven rack center position and preheat oven to 400°F. Place carrots in a large skillet and cover with cold water. Season gently with salt. Bring to a boil and cook until carrots are tender and water has mostly evaporated (If there's still lots of water left after the carrots are fully tender, drain"
+0.0,0.5833333134651184,0.7270627021789551,0,Bring to a boil and cook until carrots are tender and water has mostly evaporated.,"Bring to a boil and cook until carrots are tender and water has mostly evaporated (If there's still lots of water left after the carrots are fully tender, drain.) Season cooked carrots with salt and pepper."
+1.0,1.0,0.9592024087905884,0,thyme,thyme
+0.0,0.6666666865348816,0.91653972864151,0,to 350°f,350°F
+1.0,1.0,0.9747080206871033,0,"Place mushrooms in the work bowl of a food processor. Pulse until finely chopped, scraping down sides with a rubber spatula as necessary, 8 to 10 short pulses.","Place mushrooms in the work bowl of a food processor. Pulse until finely chopped, scraping down sides with a rubber spatula as necessary, 8 to 10 short pulses."
+0.0,0.1428571492433548,0.4205620586872101,0,heat,Heat 3 tablespoons olive oil in a large skillet over high heat until shimmering.
+1.0,1.0,0.9636203646659851,0,about 12 minutes,about 12 minutes
+0.0,0.3333333432674408,0.38303396105766296,0,about 1 minute,about 30 seconds
+0.0,0.52173912525177,0.6464759707450867,0,"Cook until almost dry, about 2 minutes. Add breadcrumbs and stir to combine. Transfer mixture to a bowl.",Add breadcrumbs and stir to combine.
+1.0,1.0,0.9721295833587646,0,toss bacon mushrooms with maple syrup until thoroughly coated,Toss bacon mushrooms with maple syrup until thoroughly coated.
+0.0,0.3333333432674408,0.5131985545158386,0,"half of parsley, and chervil",parsley
+1.0,1.0,0.9709180593490601,0,fold mixture together until homogenous.,fold mixture together until homogenous.
+0.0,0.0,0.011340368539094925,0,chervil,chives
+0.0,0.3333333432674408,0.6193773150444031,0,salt,generously with salt and pepper
+1.0,1.0,0.9639416933059692,0,pepper,pepper
+0.0,0.095238097012043,0.13422518968582153,0,"Pulse until finely chopped, scraping down sides with a rubber spatula as necessary, 8 to 10 short pulses.",Transfer to a large bowl.
+0.0,0.9333333373069763,0.8014799952507019,0,"Transfer to oven and roast, stirring occasionally, until beans are mostly split open and outer skins are beginning to get crunchy.","Transfer to oven and roast, stirring occasionally, until beans are mostly split open and outer skins are beginning to get crunchy, about 35 minutes."
+1.0,1.0,0.9636724591255188,0,about 35 minutes,about 35 minutes
+1.0,1.0,0.9727861285209656,0,Transfer mixture to the work bowl of a food processor and set aside.,Transfer mixture to the work bowl of a food processor and set aside.
+0.0,0.0,0.14164842665195465,0,work bowl,food processor
+1.0,1.0,0.9582111835479736,0,oven,oven
+0.0,0.8823529481887817,0.7894423604011536,0,"Cook, stirring frequently, until moisture evaporates and mushrooms are beginning to brown, about 12 minutes.","Add shiitake mushrooms and cook, stirring frequently, until moisture evaporates and mushrooms are beginning to brown, about 12 minutes."
+1.0,1.0,0.9636203646659851,0,about 12 minutes,about 12 minutes
+0.0,0.5416666865348816,0.7068610191345215,0,"Add leeks and celery and cook, stirring frequently, until softened, about 4 minutes.","Add leeks and celery and cook, stirring frequently, until softened, about 4 minutes. Add garlic and cook stirring, until fragrant, about 30 seconds. Season with salt and pepper and add to food processor work bowl."
+0.0,0.8888888955116272,0.9706307053565979,0,food processor work bowl,the work bowl of a food processor
+0.0,0.0,0.011953841894865036,0,salt,garlic
+0.0,0.8979591727256775,0.732280969619751,0,"Process dried beans and mushroom mixture until roughly chopped, scraping down sides with a rubber spatula as necessary, 8 to 10 short pulses.","Process dried beans and mushroom mixture until roughly chopped, scraping down sides with a rubber spatula as necessary, 8 to 10 short pulses. Transfer to bowl with cashews."
+0.0,0.7272727489471436,0.7449501752853394,0,Transfer to bowl with cashews.,Transfer to bowl with bean/cashew mixture.
+1.0,1.0,0.9690544009208679,0,rubber spatula,rubber spatula
+0.0,0.3333333432674408,0.5899788737297058,0,bowl,work bowl of the food processor
+0.0,0.17391304671764374,0.09413393586874008,0,"Pulse until roughly chopped, scraping down sides with a rubber spatula as necessary, 8 to 10 short pulses.",Transfer to bowl with bean/cashew mixture.
+1.0,1.0,0.9625500440597534,0,chervil,chervil
+0.0,0.20000000298023224,0.49916765093803406,0,Fold together.,"Add remaining parsley, tarragon, chives, and chervil to mixture and fold together. Season generously with salt and pepper."
+0.0,0.800000011920929,0.7587234973907471,0,"Add remaining parsley, tarragon, chives, and chervil to mixture and fold together.","Add remaining parsley, tarragon, chives, and chervil to mixture and fold together. Season generously with salt and pepper."
+0.0,0.3333333432674408,0.6316483020782471,0,salt,generously with salt and pepper.
+0.0,0.0,0.010141151957213879,0,cup,parsley
+1.0,1.0,0.9720446467399597,0,Lay a single sheet of phyllo on a clean work surface and brush with olive oil.,Lay a single sheet of phyllo on a clean work surface and brush with olive oil.
+0.0,0.25,0.5388320684432983,0,Make sure to keep remaining phyllo covered with plastic wrap to avoid drying out.,plastic wrap
+0.0,0.09302325546741486,0.3851298391819,0,"Roll the phyllo and stuffing up like a burrito, tucking in the sides about half way through rolling.",Lay a single sheet of phyllo on a clean work surface and brush with olive oil. (Make sure to keep remaining phyllo covered with plastic wrap to avoid drying out.)
+1.0,1.0,0.9701868295669556,0,Set the cigar-shaped roll aside.,Set the cigar-shaped roll aside.
+0.0,0.5333333611488342,0.7169744968414307,0,Brush each phyllo sheet with olive oil as you layer them.,Brush with olive oil.
+1.0,1.0,0.9723551273345947,0,"Lay a clean sheet of phyllo on your work surface and brush with olive oil. Lay two more sheets on top, brushing each with olive oil as you layer them.","Lay a clean sheet of phyllo on your work surface and brush with olive oil. Lay two more sheets on top, brushing each with olive oil as you layer them."
+0.0,0.6666666865348816,0.6954610347747803,0,mushroom,mushroom duxelles
+0.0,0.0,0.029569493606686592,0,roasted carrots,"even, parallel rows in the mushrooms and cover with remaining mushrooms, pressing down with clean hands to form an even layer."
+0.0,0.5625,0.7426134943962097,0,"Lay roasted carrots in even, parallel rows in the mushrooms","Lay roasted carrots in even, parallel rows in the mushrooms and cover with remaining mushrooms, pressing down with clean hands to form an even layer."
+0.0,0.25,0.5050302743911743,0,Roll the phyllo sheet up into a tight cylinder and set aside.,Lay a clean sheet of phyllo on your work surface and brush with olive oil.
+0.0,0.6666666865348816,0.7123993039131165,0,"Press down firmly all over the baking sheet to spread mixture into a thin, even layer.","Press down firmly all over the baking sheet to spread mixture into a thin, even layer that will roughly fit on a piece of phyllo dough leaving a 2-inch border all around."
+1.0,1.0,0.9618083834648132,0,dough,dough
+0.0,0.6666666865348816,0.4198004901409149,0,mixture,bean/cashew mixture
+1.0,1.0,0.9703547358512878,0,Place a single layer of phyllo dough on top.,Place a single layer of phyllo dough on top.
+0.0,0.43478259444236755,0.6868639588356018,0,"add another sheet of phyllo, and repeat, adding a total of 5 to 6 layers of phyllo and oil",add another sheet of phyllo
+1.0,1.0,0.972976803779602,0,Place the existing carrot/mushroom roll on top and roll up to secure.,Place the existing carrot/mushroom roll on top and roll up to secure.
+0.0,0.20000000298023224,0.559014618396759,0,mushroom,mushroom roll on top and roll up to secure.
+0.0,0.7586206793785095,0.784669041633606,0,Lay out a fresh sheet of phyllo and brush with olive oil.,Lay out a fresh sheet of phyllo and brush with olive oil. Place roll on top and roll up.
+0.0,0.6666666865348816,0.8023880124092102,0,olive,olive oil
+0.0,0.6329113841056824,0.7398444414138794,0,"Transfer roll, seam-side down, to a parchment-lined rimmed baking sheet. Brush with more olive oil, sprinkle with coarse sea salt, and score gently with a sharp paring knife at 1-inch intervals all the way across the top.","Place roll on top and roll up. Repeat, adding more layers of phyllo and olive oil until all of the phyllo is used up. Transfer roll, seam-side down, to a parchment-lined rimmed baking sheet. Brush with more olive oil, sprinkle with coarse sea salt, and score gently with a"
+1.0,1.0,0.9662363529205322,0,sharp paring knife,sharp paring knife
+0.0,0.0,0.36867424845695496,0,"The dish is cooked when it is golden brown, crisp, and puffed.",bake
+1.0,1.0,0.9638596177101135,0,about 40 minutes,about 40 minutes
+0.0,0.800000011920929,0.9424626231193542,0,for 10 minutes,10 minutes
+0.0,0.0,0.13302446901798248,0,"After removing the dish from the oven, let it cool for 10 minutes.","Remove the top baking sheet and the top parchment. You should now have 6 layers of phyllo with a thin, even layer of bean/cashew mixture on top."
+0.0,0.7678571343421936,0.7176069021224976,0,"Combine 3 tablespoons olive oil and flour in a medium saucepan over medium-high heat and cook, stirring constantly with a whisk until flour is nutty brown, about 3 minutes. Whisking constantly, slowly drizzle in stock. Add soy sauce, thyme sprigs, and bay leaves. Bring to a boil, reduce to a simmer, and cook until thickened and reduced to 3 cups, about 20 minutes. Season to taste with salt and lots of black pepper.","Combine 3 tablespoons olive oil and flour in a medium saucepan over medium-high heat and cook, stirring constantly with a whisk until flour is nutty brown, about 3 minutes. Whisking constantly, slowly drizzle in stock. Add soy sauce, thyme sprigs, and bay leaves. Bring to a"
+1.0,1.0,0.96306973695755,0,whisk,whisk
+0.0,0.9629629850387573,0.9733765721321106,0,"Combine 3 tablespoons olive oil and flour in a medium saucepan over medium-high heat and cook, stirring constantly with a whisk until flour is nutty brown, around 3 minutes.","Combine 3 tablespoons olive oil and flour in a medium saucepan over medium-high heat and cook, stirring constantly with a whisk until flour is nutty brown, about 3 minutes."
+1.0,1.0,0.950712263584137,0,stock,stock
+0.0,0.0,0.011441285721957684,0,thyme,bay leaves
+0.0,0.6666666865348816,0.6876528859138489,0,"Trim ends off of roast and discard. Carve roast at table, passing gravy alongside.",Trim ends off of roast and discard.
+0.0,0.6666666865348816,0.6561298370361328,0,"Trim ends off of roast and discard. Carve roast at table, passing gravy alongside.","Carve roast at table, passing gravy alongside."
+0.0,0.10810811072587967,0.026221055537462234,0,"In the center of a rimmed baking sheet, create a roughly 9- by 13-inch aluminum-foil boat with 1-inch sides, and set aside.","In a medium mixing bowl, stir together yogurt, garam masala, salt, black salt, grated ginger, and ground fenugreek leaves."
+0.0,0.5,0.6916954517364502,0,"if you have a 1/4 rimmed baking sheet, use that instead, omitting foil.",1/4 rimmed baking sheet
+0.0,0.0,0.6064385175704956,0,2 pounds (900g),900 g
+0.0,0.0,0.8108381032943726,0,aluminium-foil,aluminum
+0.0,0.782608687877655,0.7208760380744934,0,"Add fenugreek leaves (or seeds, if using), chiles de arbol, brown cardamon (or green cardamom, if using), and clove to small skillet and place it over medium heat.","Add fenugreek leaves (or seeds, if using), chiles de arbol, brown cardamom (or green cardamom, if using), and clove to small skillet and place it over medium heat. Toast, tossing frequently, until spices are quite fragrant, about 1 to 2 minutes"
+0.0,0.0714285746216774,0.5299471020698547,0,"Toast, tossing frequently, until spices are quite fragrant, about 1 to 2 minutes.",Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder.
+0.0,0.6666666865348816,0.7035663723945618,0,diamond crystal kosher salt,kosher salt
+0.0,0.1666666716337204,0.5701882839202881,0,Set aside.,Transfer spices to spice grinder or mortar and pestle along with garam masala and salt and grind to a fine powder. Set aside.
+0.0,0.5714285969734192,0.7629470825195312,0,preground spices,a spice mix using pre-ground spices
+1.0,1.0,0.966620147228241,0,about 1 minute,about 1 minute
+0.0,0.1538461595773697,0.43706992268562317,0,Microwaving the cashews combined with water causes them to look plump and soften.,water
+0.0,0.0,0.30108213424682617,0,1 ounce (28g),28
+1.0,1.0,0.9542423486709595,0,Set aside.,Set aside.
+0.0,0.10526315867900848,0.5967097878456116,0,stir to coat onions in oil and distribute baking soda.,"Add ginger and garlic to pot and cook, stirring constantly, until quite fragrant, about 1 minute. Using a wooden spoon, push onions into center of pot to form a mound. Add ground spice mixture to the mounded onions to prevent spices from scorching. Cook, stirring constantly, until onions are coated"
+1.0,1.0,0.972176194190979,0,add a tablespoon (15ml) of water and scrape up any brown bits that form on the bottom of the pot.,add a tablespoon (15ml) of water and scrape up any brown bits that form on the bottom of the pot.
+0.0,0.0,0.19784465432167053,0,yes,no
+0.0,0.5079365372657776,0.713205099105835,0,"Add ginger and garlic to pot and cook, stirring constantly, until quite fragrant, about 1 minute.","Add ginger and garlic to pot and cook, stirring constantly, until quite fragrant, about 1 minute. Using a wooden spoon, push onions into center of pot to form a mound. Add ground spice mixture to the mounded onions to prevent spices from scorching. Cook, stirring constantly, until onions are coated"
+0.0,0.6666666865348816,0.6144262552261353,0,1 medium,1
+0.0,0.5882353186607361,0.6523186564445496,0,Add ground spice mixture to the mounded onions to prevent spices from scorching.,to prevent spices from scorching
+0.0,0.15789473056793213,0.14353181421756744,0,"Bring to a boil, then reduce heat to maintain gentle simmer. Cook, stirring occasionally, until tomatoes are completely broken down and liquid has reduced","Add cashews and their soaking liquid, scraping up any bits stuck to the bottom of the pot."
+0.0,0.6666666865348816,0.7439109683036804,0,"Cook, stirring occasionally, until tomatoes are completely broken down and liquid has reduced","Bring to a boil, then reduce heat to maintain gentle simmer. Cook, stirring occasionally, until tomatoes are completely broken down and liquid has reduced, about 40 minutes."
+0.0,0.125,0.2853902578353882,0,"Ensure it's not burning, until chicken is charred in spots and is fully cooked through.",burning
+0.0,0.5396825671195984,0.7264301776885986,0,"Using an immersion blender and off the heat, blend contents of Dutch oven until completely smooth, about 2 minutes.","Using an immersion blender and off the heat, blend contents of Dutch oven until completely smooth, about 2 minutes. Alternatively, transfer contents of pot to blender and blend until completely smooth, about 2 minutes. Add butter and cream, and blend until completely smooth and emulsified, about 2 minutes."
+0.0,0.6086956262588501,0.6226018071174622,0,"Add butter and cream, and blend until completely smooth and emulsified, about 2 minutes. At this point, you may remove 1 1/2 (360ml) cups of sauce and reserve it for another use.","Add butter and cream, and blend until completely smooth and emulsified, about 2 minutes."
+0.0,0.4000000059604645,0.2228960394859314,0,4 tablespoons (60g),2 tablespoons
+1.0,1.0,0.9727908372879028,0,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.
+1.0,1.0,0.9727908372879028,0,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.
+0.0,0.0,0.013496790081262589,0,"2 pounds (900g) boneless, skinless chicken thighs (about 4)",1/2 cup
+0.0,0.0,0.16459256410598755,0,serving bowl,medium
+0.0,0.0,0.28891849517822266,0,small skillet,"fenugreek leaves (or fenugreek seeds, if using)"
+0.0,0.25,0.7556813359260559,0,fenugreek,"fenugreek leaves (or fenugreek seeds, if using)"
+0.0,0.3333333432674408,0.6640040874481201,0,"Toast fenugreek leaves over medium heat, tossing them constantly, until quite fragrant, about 30 seconds, and then grind to fine powder.",Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder.
+0.0,0.6666666865348816,0.6359298825263977,0,medium heat,medium
+0.0,0.7301587462425232,0.7229670882225037,0,"In a small skillet, toast fenugreek leaves (or fenugreek seeds, if using) over medium heat, tossing them constantly, until quite fragrant, about 30 seconds.","In a small skillet, toast fenugreek leaves (or fenugreek seeds, if using) over medium heat, tossing them constantly, until quite fragrant, about 30 seconds. Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder. Set aside."
+1.0,1.0,0.9722265601158142,0,Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder.,Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder.
+0.0,0.6666666865348816,0.7476634383201599,0,9- by 13-inch with 1-inch sides,9- by 13-inch
+1.0,1.0,0.9737865328788757,0,"In the center of a rimmed baking sheet, create a roughly 9- by 13-inch aluminum-foil boat with 1-inch sides, and set aside.","In the center of a rimmed baking sheet, create a roughly 9- by 13-inch aluminum-foil boat with 1-inch sides, and set aside."
+1.0,1.0,0.9611756801605225,0,ginger,ginger
+0.0,0.6666666865348816,0.7760022878646851,0,fenugreek,fenugreek leaves
+0.0,0.0,0.009940805844962597,0,chicken thigh pieces,yogurt
+0.0,0.3333333432674408,0.7647340297698975,0,chicken thigh,"boneless, skinless chicken thighs"
+0.0,0.44999998807907104,0.6512195467948914,0,"Arranging pieces in a single, even layer in the aluminum-foil boat.","Add chicken thigh pieces to bowl and, using clean hands, toss with marinade until evenly coated. Transfer chicken to prepared baking sheet, arranging pieces in a single, even layer in the aluminum-foil boat."
+0.0,0.0,0.009632737375795841,0,prepared baking sheet,aluminum-foil boat
+0.0,0.5,0.7413637638092041,0,olive,extra-virgin olive oil
+1.0,1.0,0.9708840250968933,0,"Increase heat to medium-high and add wine. Bring to a simmer and cook, swirling pan and scraping up any stuck-on bits with a wooden spoon, until wine has emulsified with olive oil and mixture is slightly reduced, about 30 seconds.","Increase heat to medium-high and add wine. Bring to a simmer and cook, swirling pan and scraping up any stuck-on bits with a wooden spoon, until wine has emulsified with olive oil and mixture is slightly reduced, about 30 seconds."
+1.0,1.0,0.9691181182861328,0,wooden spoon,wooden spoon
+1.0,1.0,0.960623562335968,0,wine,wine
+0.0,0.1599999964237213,0.2961192727088928,0,Use a wooden spoon to crush roughly one-quarter of the beans against the sides and bottom of the pan.,"Stir well, season lightly with salt, and bring to a simmer."
+0.0,0.0,0.3628719747066498,0,"Add beans and bean cooking liquid (if using cooked dry beans) or stock (if using canned beans), and, using a wooden spoon, crush roughly one-quarter of the beans against the sides and bottom of pan.",season lightly with salt
+0.0,0.5,0.7482766509056091,0,salt,lightly with salt
+0.0,0.0,0.47972920536994934,0,"1 pound 5 ounces (3 cups; 600g) cooked dry white beans (such as cannellini or great northern) or two (15-ounce; 425g) cans low-sodium white beans, drained and rinsed",bean mixture
+0.0,0.08955223858356476,0.48700305819511414,0,"cook pasta until softened on the exterior, but well shy of al dente and still uncooked in the center (about 3 minutes less than the package directions).","Right before the pasta reaches this level of doneness, add the kale to the pan with the beans. Using a spider skimmer or slotted spoon, transfer pasta to pan with beans and kale along with 1 cup (240ml) pasta cooking water. Alternatively, drain pasta using a colander or fine-mesh"
+0.0,0.800000011920929,0.9396705627441406,0,about 3 minutes,3 minutes
+0.0,0.4912280738353729,0.7140187621116638,0,"Right before the pasta reaches this level of doneness, add the kale to the pan with the beans.","Right before the pasta reaches this level of doneness, add the kale to the pan with the beans. Using a spider skimmer or slotted spoon, transfer pasta to pan with beans and kale along with 1 cup (240ml) pasta cooking water. Alternatively, drain pasta using a colander or fine-mesh"
+1.0,1.0,0.9712689518928528,0,pasta cooking water,pasta cooking water
+1.0,1.0,0.9575389623641968,0,kale,kale
+0.0,0.6875,0.7164064645767212,0,"Using a spider skimmer or slotted spoon, transfer pasta to pan with beans and kale along with 1 cup (240ml) pasta cooking water. Alternatively, drain pasta using a colander or fine-mesh strainer, making sure to reserve at least 2 cups (475ml) pasta cooking water.","Using a spider skimmer or slotted spoon, transfer pasta to pan with beans and kale along with 1 cup (240ml) pasta cooking water."
+1.0,1.0,0.9734964370727539,0,"Increase heat to high and cook, stirring and tossing rapidly, until pasta is al dente and sauce is thickened and coats noodles, 2 to 3 minutes, adding more pasta cooking water in 1/4 cup (60ml) increments as needed.","Increase heat to high and cook, stirring and tossing rapidly, until pasta is al dente and sauce is thickened and coats noodles, 2 to 3 minutes, adding more pasta cooking water in 1/4 cup (60ml) increments as needed."
+0.0,0.9702970385551453,0.9711869955062866,0,"At this point, the sauce should coat the pasta but still be loose enough to pool around the edges of the pan; because of the starch in the beans and pasta water, the sauce will continue to tighten up in the time it takes to plate and serve, so make sure it's a little looser than you would normally serve a sauce.","At this point, the sauce should coat the pasta but still be loose enough to pool around the edges of the pan; because of the starch in the beans and pasta water, the sauce will continue to tighten up in the time it takes to plate and serve, so make sure it's a little looser than you would"
+0.0,0.6666666865348816,0.6591320633888245,0,grated cheese,3/4 of grated cheese
+1.0,1.0,0.9707173109054565,0,"Serve immediately, passing remaining grated cheese at the table.","Serve immediately, passing remaining grated cheese at the table."
+0.0,0.6666666865348816,0.7760022878646851,0,fenugreek,fenugreek leaves
+0.0,0.5,0.5142520070075989,0,chicken,chicken thigh pieces
+0.0,0.6666666865348816,0.3304900825023651,0,small skillet,small
+0.0,0.7301587462425232,0.7229670882225037,0,"In a small skillet, toast fenugreek leaves (or fenugreek seeds, if using) over medium heat, tossing them constantly, until quite fragrant, about 30 seconds.","In a small skillet, toast fenugreek leaves (or fenugreek seeds, if using) over medium heat, tossing them constantly, until quite fragrant, about 30 seconds. Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder. Set aside."
+0.0,0.3333333432674408,0.6640040874481201,0,"Toast fenugreek leaves over medium heat, tossing them constantly, until quite fragrant, about 30 seconds, and then grind to fine powder.",Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder.
+0.0,0.9375,0.8870347738265991,0,Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder.,Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder. Set aside.
+1.0,1.0,0.9737865328788757,0,"In the center of a rimmed baking sheet, create a roughly 9- by 13-inch aluminum-foil boat with 1-inch sides, and set aside.","In the center of a rimmed baking sheet, create a roughly 9- by 13-inch aluminum-foil boat with 1-inch sides, and set aside."
+0.0,0.5,0.6916954517364502,0,"if you have a 1/4 rimmed baking sheet, use that instead, omitting foil.",1/4 rimmed baking sheet
+0.0,0.0,0.41638511419296265,0,2 teaspoons,1 tablespoon
+0.0,0.7346938848495483,0.7548844218254089,0,Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water. Let soak 15 minutes,"Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water. Let soak 15 minutes, then arrange on a clean kitchen towel or paper towels to dry. Set aside."
+1.0,1.0,0.9678341746330261,0,warm water,warm water
+1.0,1.0,0.9592249989509583,0,15 minutes,15 minutes
+0.0,0.9090909361839294,0.9125434756278992,0,arrange on a clean kitchen towel or paper towels to dry.,Arrange on a clean kitchen towel or paper towels to dry. Set aside.
+0.0,0.6666666865348816,0.8238691687583923,0,clean kitchen towel,clean kitchen towel or paper towels
+0.0,0.5,0.5556877851486206,0,mushrooms,1/4 of mushrooms
+1.0,1.0,0.9696536064147949,0,"Pulse until roughly chopped, 6 to 8 short pulses.","pulse until roughly chopped, 6 to 8 short pulses."
+0.0,0.4444444477558136,0.7364490628242493,0,large bowl,Transfer to a large bowl and set aside.
+0.0,0.0,0.18687714636325836,0,emaining three batches of mushrooms,Brussels sprouts
+1.0,1.0,0.9666937589645386,0,large bowl,large bowl
+0.0,0.8888888955116272,0.7245669364929199,0,"Heat butter in a large non-stick or cast iron skillet over high heat until foaming subsides. Add mushrooms and cook, stirring occasionally, until all excess moisture evaporates and mushrooms begin to sizzle and brown, about 12 minutes.","Heat butter in a large non-stick or cast iron skillet over high heat until foaming subsides. Add mushrooms and cook, stirring occasionally, until all excess moisture evaporates and mushrooms begin to sizzle and brown, about 12 minutes. When mushrooms are browned, add shallots, garlic, and thyme"
+0.0,0.8888888955116272,0.9235280752182007,0,add 1 cup heavy cream,1 cup heavy cream
+1.0,1.0,0.9662765264511108,0,about 2 minutes,about 2 minutes
+1.0,1.0,0.9679955840110779,0,large bowl,a large bowl
+0.0,0.6666666865348816,0.6002299785614014,0,Transfer to a large bowl and wipe out skillet.,Transfer to a large bowl.
+0.0,0.6666666865348816,0.8064173460006714,0,fenugreek,fenugreek seeds
+0.0,0.7301587462425232,0.7229670882225037,0,"In a small skillet, toast fenugreek leaves (or fenugreek seeds, if using) over medium heat, tossing them constantly, until quite fragrant, about 30 seconds.","In a small skillet, toast fenugreek leaves (or fenugreek seeds, if using) over medium heat, tossing them constantly, until quite fragrant, about 30 seconds. Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder. Set aside."
+0.0,0.5,0.5142520070075989,0,chicken,chicken thigh pieces
+1.0,1.0,0.9678947329521179,0,small skillet,small skillet
+0.0,0.6818181872367859,0.7288767099380493,0,"Toast fenugreek leaves over medium heat, tossing them constantly, until quite fragrant, about 30 seconds, and then grind to fine powder.","In a small skillet, toast fenugreek leaves (or fenugreek seeds, if using) over medium heat, tossing them constantly, until quite fragrant, about 30 seconds."
+1.0,1.0,0.9722265601158142,0,Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder.,Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder.
+1.0,1.0,0.9737865328788757,0,"In the center of a rimmed baking sheet, create a roughly 9- by 13-inch aluminum-foil boat with 1-inch sides, and set aside.","In the center of a rimmed baking sheet, create a roughly 9- by 13-inch aluminum-foil boat with 1-inch sides, and set aside."
+0.0,0.5,0.6113798022270203,0,fenugreek,ground fenugreek leaves
+1.0,1.0,0.9690426588058472,0,black salt,black salt
+1.0,1.0,0.9688625931739807,0,medium mixing bowl,medium mixing bowl
+0.0,0.0,0.019893750548362732,0,Toss with marinade until evenly coated.,"Transfer chicken to prepared baking sheet, arranging pieces in a single, even layer in the aluminum-foil boat."
+0.0,0.0,0.010243035852909088,0,bowl,"Transfer chicken to prepared baking sheet, arranging pieces in a single, even layer in the aluminum-foil boat."
+0.0,0.0,0.8284918069839478,0,aluminum,aluminum-foil
+0.0,0.5,0.5142520070075989,0,chicken,chicken thigh pieces
+0.0,0.9642857313156128,0.9700762033462524,0,"Add fenugreek leaves (or seeds, if using), chiles de arbol, brown cardamon (or green cardamom, if using), and clove to small skillet and place it over medium heat.","Add fenugreek leaves (or seeds, if using), chiles de arbol, brown cardamom (or green cardamom, if using), and clove to small skillet and place it over medium heat."
+0.0,0.6666666865348816,0.6359298825263977,0,medium heat,medium
+0.0,0.9629629850387573,0.972233772277832,0,"Toast, tossing frequently, until spices are quite fragrant, about 1 to 2 minutes.","to toast, tossing frequently, until spices are quite fragrant, about 1 to 2 minutes."
+0.0,0.0,0.00955895334482193,0,salt,cardamom
+0.0,0.1666666716337204,0.5701882839202881,0,Set aside.,Transfer spices to spice grinder or mortar and pestle along with garam masala and salt and grind to a fine powder. Set aside.
+0.0,0.0,0.014787144027650356,0,shortcut spice mix,fenugreek seeds
+0.0,0.9629629850387573,0.8874231576919556,0,"In a small, microwave-safe bowl, combine cashew nuts and 1/4 cup (60ml) water. Microwave on high until cashews look plump and have softened slightly, about 1 minute. Set aside.","In a small, microwave-safe bowl, combine cashew nuts and 1/4 cup (60ml) water. Microwave on high until cashews look plump and have softened slightly, about 1 minute."
+1.0,1.0,0.9580249190330505,0,water,water
+0.0,0.1538461595773697,0.43706992268562317,0,Microwaving the cashews combined with water causes them to look plump and soften.,water
+1.0,1.0,0.966620147228241,0,about 1 minute,about 1 minute
+1.0,1.0,0.9602798223495483,0,cashews,cashews
+0.0,0.13333334028720856,0.615857720375061,0,Set aside.,"In a small, microwave-safe bowl, combine cashew nuts and 1/4 cup (60ml) water. Microwave on high until cashews look plump and have softened slightly, about 1 minute. Set aside."
+0.0,0.2222222238779068,0.41161417961120605,0,heat,heat canola oil over medium-high heat until shimmering.
+1.0,1.0,0.94759601354599,0,dutch oven,Dutch oven
+0.0,0.11320754885673523,0.6270899176597595,0,using a wooden spoon,"In a Dutch oven, heat canola oil over medium-high heat until shimmering. Add onions and baking soda and, using a wooden spoon, stir to coat onions in oil and distribute baking soda. Cook, stirring occasionally, until onions have completely broken down, most of their moisture has cooked off, and they begin to"
+0.0,0.0,0.07199664413928986,0,stir to coat onions in oil and distribute baking soda.,using a wooden spoon
+0.0,0.0,0.01144403126090765,0,pot,onions
+1.0,1.0,0.972176194190979,0,add a tablespoon (15ml) of water and scrape up any brown bits that form on the bottom of the pot.,add a tablespoon (15ml) of water and scrape up any brown bits that form on the bottom of the pot.
+1.0,1.0,0.966620147228241,0,about 1 minute,about 1 minute
+0.0,0.5882353186607361,0.6523186564445496,0,Add ground spice mixture to the mounded onions to prevent spices from scorching.,to prevent spices from scorching
+1.0,1.0,0.9613491892814636,0,onions,onions
+0.0,0.6666666865348816,0.7287383675575256,0,wooden spoon,back of wooden spoon
+1.0,1.0,0.9719736576080322,0,reduce heat to maintain gentle simmer,reduce heat to maintain gentle simmer
+1.0,1.0,0.9672093987464905,0,tomatoes,tomatoes
+0.0,0.6666666865348816,0.7439109683036804,0,"Cook, stirring occasionally, until tomatoes are completely broken down and liquid has reduced","Bring to a boil, then reduce heat to maintain gentle simmer. Cook, stirring occasionally, until tomatoes are completely broken down and liquid has reduced, about 40 minutes."
+1.0,1.0,0.9638596177101135,0,about 40 minutes,about 40 minutes
+0.0,0.20512820780277252,0.6228542923927307,0,Transfer chicken to broiler.,"Transfer chicken to broiler. Cook, checking the chicken frequently to ensure it's not burning, until chicken is charred in spots and is fully cooked through, about 14 minutes (time will vary depending on the strength of the broiler)."
+0.0,0.5945945978164673,0.6580711603164673,0,"Ensure it's not burning, until chicken is charred in spots and is fully cooked through.","until chicken is charred in spots and is fully cooked through, about 14 minutes (time will vary depending on the strength of the broiler)."
+1.0,1.0,0.9640725255012512,0,chicken,chicken
+1.0,1.0,0.9642106890678406,0,about 14 minutes,about 14 minutes
+1.0,1.0,0.9691334366798401,0,immersion blender,immersion blender
+0.0,0.6938775777816772,0.9054412245750427,0,"Using an immersion blender and off the heat, blend contents of Dutch oven until completely smooth, about 2 minutes.","Using an immersion blender and off the heat, blend contents of Dutch oven until completely smooth, about 2 minutes. Alternatively, transfer contents of pot to blender and blend until completely smooth, about 2 minutes."
+0.0,0.6086956262588501,0.6226018071174622,0,"Add butter and cream, and blend until completely smooth and emulsified, about 2 minutes. At this point, you may remove 1 1/2 (360ml) cups of sauce and reserve it for another use.","Add butter and cream, and blend until completely smooth and emulsified, about 2 minutes."
+1.0,1.0,0.9618204236030579,0,butter,butter
+1.0,1.0,0.9727908372879028,0,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.
+1.0,1.0,0.9640725255012512,0,chicken,chicken
+1.0,1.0,0.9727908372879028,0,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.
+0.0,0.1428571492433548,0.47147443890571594,0,. ladle,Ladle chicken and sauce into serving bowl and drizzle with additional heavy cream.
+0.0,0.0,0.01272306777536869,0,bowl,chicken
+0.0,0.930232584476471,0.8130028247833252,0,"in a small skillet, toast fenugreek leaves (or fenugreek seeds, if using) over medium heat, tossing them constantly, until quite fragrant, about 30 seconds.","Toast fenugreek leaves (or fenugreek seeds, if using) over medium heat, tossing them constantly, until quite fragrant, about 30 seconds."
+0.0,0.20512820780277252,0.40836015343666077,0,"Toast fenugreek leaves over medium heat, tossing them constantly, until quite fragrant, about 30 seconds, and then grind to fine powder.","In a medium mixing bowl, stir together yogurt, garam masala, salt, black salt, grated ginger, and ground fenugreek leaves."
+0.0,0.9375,0.8870347738265991,0,Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder.,Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder. Set aside.
+0.0,0.0,0.10284563899040222,0,yes,Set aside.
+0.0,0.6666666865348816,0.6111434102058411,0,2 teaspoons,2 teaspoons kosher salt
+0.0,0.2857142984867096,0.47251272201538086,0,medium mixing bowl,"In a medium mixing bowl, stir together yogurt, garam masala, salt, black salt, grated ginger, and ground fenugreek leaves."
+0.0,0.5454545617103577,0.6319247484207153,0,Toss with marinade until evenly coated.,"Add chicken thigh pieces to bowl and, using clean hands, toss with marinade until evenly coated."
+0.0,0.5,0.6144472360610962,0,medium mixing bowl,medium
+1.0,1.0,0.9733268618583679,0,"Transfer chicken to prepared baking sheet, arranging pieces in a single, even layer in the aluminum-foil boat.","Transfer chicken to prepared baking sheet, arranging pieces in a single, even layer in the aluminum-foil boat."
+0.0,0.0,0.20211191475391388,0,yes,No
+0.0,0.0,0.010864440351724625,0,yes,1-inch
+0.0,0.875,0.8037427067756653,0,"Arranging pieces in a single, even layer in the aluminum-foil boat.","in a single, even layer in the aluminum-foil boat."
+0.0,0.9642857313156128,0.9700762033462524,0,"Add fenugreek leaves (or seeds, if using), chiles de arbol, brown cardamon (or green cardamom, if using), and clove to small skillet and place it over medium heat.","Add fenugreek leaves (or seeds, if using), chiles de arbol, brown cardamom (or green cardamom, if using), and clove to small skillet and place it over medium heat."
+0.0,0.0714285746216774,0.5299471020698547,0,"Toast, tossing frequently, until spices are quite fragrant, about 1 to 2 minutes.",Transfer toasted leaves to spice grinder or mortar and pestle and grind to fine powder.
+1.0,1.0,0.9482375383377075,0,no,no
+0.0,0.1666666716337204,0.5701882839202881,0,Set aside.,Transfer spices to spice grinder or mortar and pestle along with garam masala and salt and grind to a fine powder. Set aside.
+1.0,1.0,0.9501457810401917,0,set aside.,Set aside.
+1.0,1.0,0.9737286567687988,0,"In a small, microwave-safe bowl, combine cashew nuts and 1/4 cup (60ml) water. Microwave on high until cashews look plump and have softened slightly, about 1 minute. Set aside.","In a small, microwave-safe bowl, combine cashew nuts and 1/4 cup (60ml) water. Microwave on high until cashews look plump and have softened slightly, about 1 minute. Set aside."
+1.0,1.0,0.9695694446563721,0,1/4 cup (60ml),1/4 cup (60ml)
+0.0,0.0,0.6474032998085022,0,1 ounce (28g),28 g
+0.0,0.0,0.555354118347168,0,Microwaving the cashews combined with water causes them to look plump and soften.,Microwave
+0.0,0.3529411852359772,0.26058366894721985,0,about 1 minute,"Microwave on high until cashews look plump and have softened slightly, about 1 minute."
+1.0,1.0,0.9542423486709595,0,Set aside.,Set aside.
+0.0,0.6666666865348816,0.8800576329231262,0,medium-high heat,medium-high
+0.0,0.7407407164573669,0.8301982879638672,0,stir to coat onions in oil and distribute baking soda.,"Add baking soda and, using a wooden spoon, stir to coat onions in oil and distribute baking soda."
+1.0,1.0,0.972176194190979,0,add a tablespoon (15ml) of water and scrape up any brown bits that form on the bottom of the pot.,add a tablespoon (15ml) of water and scrape up any brown bits that form on the bottom of the pot.
+0.0,0.0,0.06066395714879036,0,scrape up any brown bits that form on the bottom of the pot,reduce heat to medium low.
+0.0,0.5079365372657776,0.713205099105835,0,"Add ginger and garlic to pot and cook, stirring constantly, until quite fragrant, about 1 minute.","Add ginger and garlic to pot and cook, stirring constantly, until quite fragrant, about 1 minute. Using a wooden spoon, push onions into center of pot to form a mound. Add ground spice mixture to the mounded onions to prevent spices from scorching. Cook, stirring constantly, until onions are coated"
+1.0,1.0,0.9736613035202026,0,"add ginger and garlic to pot and cook, stirring constantly, until quite fragrant, about 1 minute.","Add ginger and garlic to pot and cook, stirring constantly, until quite fragrant, about 1 minute."
+0.0,0.4444444477558136,0.3092292547225952,0,into center of pot,center of a rimmed baking sheet
+0.0,0.5882353186607361,0.6523186564445496,0,Add ground spice mixture to the mounded onions to prevent spices from scorching.,to prevent spices from scorching
+1.0,1.0,0.9730039834976196,0,"Add cashews and their soaking liquid, scraping up any bits stuck to the bottom of the pot.","Add cashews and their soaking liquid, scraping up any bits stuck to the bottom of the pot."
+0.0,0.20000000298023224,0.4240139424800873,0,"Bring to a boil, then reduce heat to maintain gentle simmer. Cook, stirring occasionally, until tomatoes are completely broken down and liquid has reduced","Add ginger and garlic to pot and cook, stirring constantly, until quite fragrant, about 1 minute. Using a wooden spoon, push onions into center of pot to form a mound. Add ground spice mixture to the mounded onions to prevent spices from scorching. Cook, stirring constantly, until onions are coated"
+0.0,0.5142857432365417,0.7160796523094177,0,"cook, stirring occasionally, until tomatoes are completely broken down","Bring to a boil, then reduce heat to maintain gentle simmer. Cook, stirring occasionally, until tomatoes are completely broken down and liquid has reduced, about 40 minutes."
+0.0,0.6666666865348816,0.7439109683036804,0,"Cook, stirring occasionally, until tomatoes are completely broken down and liquid has reduced","Bring to a boil, then reduce heat to maintain gentle simmer. Cook, stirring occasionally, until tomatoes are completely broken down and liquid has reduced, about 40 minutes."
+0.0,0.4000000059604645,0.5450983047485352,0,"yes, about 40 minutes",minutes
+1.0,1.0,0.974513828754425,0,adjust oven rack to about 3 inches below broiler element and preheat broiler on high,adjust oven rack to about 3 inches below broiler element and preheat broiler on high
+0.0,0.20512820780277252,0.6228542923927307,0,Transfer chicken to broiler.,"Transfer chicken to broiler. Cook, checking the chicken frequently to ensure it's not burning, until chicken is charred in spots and is fully cooked through, about 14 minutes (time will vary depending on the strength of the broiler)."
+0.0,0.5945945978164673,0.6580711603164673,0,"Ensure it's not burning, until chicken is charred in spots and is fully cooked through.","until chicken is charred in spots and is fully cooked through, about 14 minutes (time will vary depending on the strength of the broiler)."
+0.0,0.7843137383460999,0.7516372203826904,0,"cook, checking the chicken frequently to ensure it's not burning, until chicken is charred in spots and is fully cooked through","cook, checking the chicken frequently to ensure it's not burning, until chicken is charred in spots and is fully cooked through, about 14 minutes (time will vary depending on the strength of the broiler)."
+0.0,0.5396825671195984,0.7264301776885986,0,"Using an immersion blender and off the heat, blend contents of Dutch oven until completely smooth, about 2 minutes.","Using an immersion blender and off the heat, blend contents of Dutch oven until completely smooth, about 2 minutes. Alternatively, transfer contents of pot to blender and blend until completely smooth, about 2 minutes. Add butter and cream, and blend until completely smooth and emulsified, about 2 minutes."
+0.0,0.7857142686843872,0.785865068435669,0,"blend contents of dutch oven until completely smooth, about 2 minutes","Using an immersion blender and off the heat, blend contents of Dutch oven until completely smooth, about 2 minutes."
+0.0,0.0,0.3727206587791443,0,blender,"Add butter and cream, and blend until completely smooth and emulsified, about 2 minutes."
+0.0,0.6086956262588501,0.6226018071174622,0,"Add butter and cream, and blend until completely smooth and emulsified, about 2 minutes. At this point, you may remove 1 1/2 (360ml) cups of sauce and reserve it for another use.","Add butter and cream, and blend until completely smooth and emulsified, about 2 minutes."
+1.0,1.0,0.9727908372879028,0,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.
+1.0,1.0,0.9643842577934265,0,sheet pan,sheet pan
+1.0,1.0,0.9727908372879028,0,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.,Add reserved broiled chicken along with any juices in the sheet pan to sauce and stir until chicken is well incorporated and warmed through.
+1.0,1.0,0.9662389159202576,0,serving bowl,serving bowl
+1.0,1.0,0.9726269841194153,0,Ladle chicken and sauce into serving bowl and drizzle with additional heavy cream. Serve immediately with rice alongside.,Ladle chicken and sauce into serving bowl and drizzle with additional heavy cream. Serve immediately with rice alongside.
+1.0,1.0,0.9726364612579346,0,Place oven rack in upper-middle position and preheat oven to 500°F (260°C).,Place oven rack in upper-middle position and preheat oven to 500°F (260°C).
+0.0,0.8256880640983582,0.7853464484214783,0,"Using sharp kitchen shears, remove backbone from chicken and cut spine into 5 to 6 one-inch-long pieces. Flatten chicken by placing skin side up on a cutting board and applying firm pressure to breastbone. Transfer to a wire rack set in a foil-lined rimmed baking sheet. Position chicken so that breasts are aligned with center of baking sheet and legs are close to edge.","Using sharp kitchen shears, remove backbone from chicken and cut spine into 5 to 6 one-inch-long pieces. Set backbone aside. Flatten chicken by placing skin side up on a cutting board and applying firm pressure to breastbone. Transfer to a wire rack set in a foil-lined rimmed baking sheet. Position chicken"
+1.0,1.0,0.9670842885971069,0,sharp kitchen shears,sharp kitchen shears
+1.0,1.0,0.9640725255012512,0,chicken,chicken
+1.0,1.0,0.9708554148674011,0,Drizzle chicken with 1 tablespoon (15ml) oil.,Drizzle chicken with 1 tablespoon (15ml) oil.
+0.0,0.0,0.9633506536483765,0,150°c,150 degrees Celsius
+0.0,0.6666666865348816,0.9257670044898987,0,to 300°f,300°F
+1.0,1.0,0.9725625514984131,0,Place stock in a medium bowl or 1-quart liquid measure and sprinkle with gelatin. Set aside.,Place stock in a medium bowl or 1-quart liquid measure and sprinkle with gelatin. Set aside.
+1.0,1.0,0.9728547930717468,0,Purée tomatoes in the can using an immersion blender or transfer to the bowl of a countertop blender and purée until smooth.,Purée tomatoes in the can using an immersion blender or transfer to the bowl of a countertop blender and purée until smooth.
+0.0,0.5,0.7413637638092041,0,olive,extra-virgin olive oil
+1.0,1.0,0.964808464050293,0,about 10 minutes,about 10 minutes
+0.0,0.3333333432674408,0.39264369010925293,0,"sage, and half of parsley",sage
+1.0,1.0,0.9713448286056519,0,"Add onion, carrots, celery, garlic, sage, and half of parsley and cook, stirring and tossing, until vegetables are completely softened but not browned, about 8 minutes.","Add onion, carrots, celery, garlic, sage, and half of parsley and cook, stirring and tossing, until vegetables are completely softened but not browned, about 8 minutes."
+0.0,0.0,0.691861093044281,0,high heat,medium-high
+0.0,0.6451612710952759,0.7504254579544067,0,"Cook, stirring, until most of the liquid has evaporated from the pan.","Return Dutch oven to high heat and cook, stirring, until most of the liquid has evaporated from the pan, about 10 minutes longer."
+0.0,0.6666666865348816,0.7156255841255188,0,about 10 minutes,10 minutes longer
+0.0,0.0,0.10731954127550125,0,"Cook, stirring, until mostly evaporated.","Add reserved stock, tomatoes, milk, and bay leaves. Season gently with salt and pepper."
+1.0,1.0,0.9689938426017761,0,"milk, and bay leaves",milk and bay leaves.
+0.0,0.37037035822868347,0.5190340280532837,0,"tomatoes, milk, and bay leaves","Add wine and cook, stirring, until mostly evaporated. Add reserved stock, tomatoes, milk, and bay leaves. Season gently with salt and pepper."
+0.0,0.0,0.023004109039902687,0,"reserved stock, tomatoes, milk, and bay leaves",wine
+0.0,0.9090909361839294,0.9183021187782288,0,Season gently with salt and pepper.,gently with salt and pepper
+0.0,0.7692307829856873,0.7111169099807739,0,"sauce is rich and thick underneath a heavy layer of fat,",liquid has almost completely reduced and sauce is rich and thick underneath a heavy layer of fat
+0.0,0.6666666865348816,0.6680004000663757,0,4 hours,3 to 4 hours
+1.0,1.0,0.9721284508705139,0,"transfer to stovetop and finish cooking at a brisk simmer, stirring frequently.","Transfer to stovetop and finish cooking at a brisk simmer, stirring frequently."
+0.0,0.6666666865348816,0.6680004000663757,0,4 hours,3 to 4 hours
+0.0,0.6666666865348816,0.8510763645172119,0,1 cup,about 1 cup total
+1.0,1.0,0.9666885137557983,0,1 cup,1 cup
+1.0,1.0,0.9733459949493408,0,"let the sauce cool at this point and store in the fridge overnight to let the fat solidify and flavors meld. Then remove the solid fat, reserving a cup to add back in when the sauce is warmed.","Let the sauce cool at this point and store in the fridge overnight to let the fat solidify and flavors meld. Then remove the solid fat, reserving a cup to add back in when the sauce is warmed."
+0.0,0.6666666865348816,0.7165907621383667,0,cup,1 cup
+0.0,0.0,0.009420524351298809,0,fish,heavy cream
+0.0,0.6666666865348816,0.6624189019203186,0,stirring constantly to emulsify.,to emulsify
+1.0,1.0,0.9740414023399353,0,"Bolognese can be cooled and stored in sealed containers in the refrigerator for up to 1 week, or frozen for later use.","Bolognese can be cooled and stored in sealed containers in the refrigerator for up to 1 week, or frozen for later use."
+0.0,0.4262295067310333,0.7079532742500305,0,Cook pasta in a large pot of well-salted water until just barely al dente.,"Cook pasta in a large pot of well-salted water until just barely al dente. Drain, reserving 1/2 cup cooking liquid. Return pasta to pot and add just enough sauce to coat, along with some of the cooking liquid. Cook over high heat, tossing and stirring gently, until sauce is thick"
+0.0,0.8500000238418579,0.698753833770752,0,"Drain, reserving 1/2 cup cooking liquid. Return pasta to pot and add just enough sauce to coat, along with some of the cooking liquid.","Return pasta to pot and add just enough sauce to coat, along with some of the cooking liquid."
+1.0,1.0,0.9678341746330261,0,warm water,warm water
+0.0,0.7346938848495483,0.7548844218254089,0,Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water. Let soak 15 minutes,"Place lasagna noodles in a 9- by 13-inch baking dish and cover with warm water. Let soak 15 minutes, then arrange on a clean kitchen towel or paper towels to dry. Set aside."
+1.0,1.0,0.9592249989509583,0,15 minutes,15 minutes
+0.0,0.6666666865348816,0.826461672782898,0,clean kitchen towel,a clean kitchen towel or paper towels
+0.0,0.5,0.5556877851486206,0,mushrooms,1/4 of mushrooms
+1.0,1.0,0.9699572920799255,0,"Pulse until roughly chopped, 6 to 8 short pulses.","pulse until roughly chopped, 6 to 8 short pulses"
+1.0,1.0,0.9666937589645386,0,large bowl,large bowl
+1.0,1.0,0.9685534834861755,0,mushrooms,mushrooms
+0.0,0.774193525314331,0.8059973120689392,0,Fit food processor with grater attachment and grate all of the Brussels sprouts.,Fit food processor with grater attachment and grate all of the Brussels sprouts. Transfer to a large bowl and set aside.
+1.0,1.0,0.9666937589645386,0,large bowl,large bowl
+0.0,0.8888888955116272,0.7245669364929199,0,"Heat butter in a large non-stick or cast iron skillet over high heat until foaming subsides. Add mushrooms and cook, stirring occasionally, until all excess moisture evaporates and mushrooms begin to sizzle and brown, about 12 minutes.","Heat butter in a large non-stick or cast iron skillet over high heat until foaming subsides. Add mushrooms and cook, stirring occasionally, until all excess moisture evaporates and mushrooms begin to sizzle and brown, about 12 minutes. When mushrooms are browned, add shallots, garlic, and thyme"
+1.0,1.0,0.9726144671440125,0,"When mushrooms are browned, add shallots, garlic, and thyme.","When mushrooms are browned, add shallots, garlic, and thyme."
+1.0,1.0,0.964927077293396,0,heavy cream,heavy cream
+1.0,1.0,0.9662765264511108,0,about 2 minutes,about 2 minutes
+0.0,0.0,0.009327215142548084,0,<no_answer>,to taste with salt and pepper
+1.0,1.0,0.9650607109069824,0,high heat,high heat
+1.0,1.0,0.9716899394989014,0,"Cook, tossing occasionally, until well-charred on most sides, about 10 minutes.","cook, tossing occasionally, until well-charred on most sides, about 10 minutes"
+1.0,1.0,0.9735393524169922,0,Add remaining cup heavy cream and cook until reduced to a loose sauce-like consistency. Season to taste with salt and pepper and transfer to a large bowl.,Add remaining cup heavy cream and cook until reduced to a loose sauce-like consistency. Season to taste with salt and pepper and transfer to a large bowl.
+0.0,0.6666666865348816,0.7165907621383667,0,cup,1 cup
+1.0,1.0,0.9666937589645386,0,large bowl,large bowl
+0.0,0.6666666865348816,0.8800576329231262,0,medium-high heat,medium-high
+0.0,0.800000011920929,0.934609591960907,0,about 2 minutes,2 minutes
+1.0,1.0,0.9621517062187195,0,flour,flour
+1.0,1.0,0.9697892069816589,0,"To assemble lasagna, lay 1/6th of cheese sauce on bottom of lasagna pan. Add three noodles. Top with 1/4 of Brussels sprouts mixture, 1/4 of mushroom mixture, another 1/6th of cheese sauce, and a sprinkle of grated mozzarella.","To assemble lasagna, lay 1/6th of cheese sauce on bottom of lasagna pan. Add three noodles. Top with 1/4 of Brussels sprouts mixture, 1/4 of mushroom mixture, another 1/6th of cheese sauce, and a sprinkle of grated mozzarella."
+0.0,0.6666666865348816,0.6294079422950745,0,lasagna pan,lasagna
+0.0,0.07692307978868484,0.009410606697201729,0,"Repeat noodle, sprouts, and mushroom layer three more times.","Transfer to oven and bake until heated through and top is browned and bubbly, about 30 minutes."
+0.0,0.6666666865348816,0.8174744248390198,0,cheese,cheese sauce
+0.0,0.0,0.32928621768951416,0,oven,in a large non-stick or cast iron skillet
+1.0,1.0,0.9661010503768921,0,parsley,parsley
+0.0,0.8799999952316284,0.8073709011077881,0,"Sprinkle with Parmesan and parsley, let rest 10 minutes, and serve.","Remove from oven sprinkle with Parmesan and parsley, let rest 10 minutes, and serve."
+0.0,0.9655172228813171,0.9738028049468994,0,"Remove from oven sprinkle with Parmesan and parsley, let rest 10 minutes, and serve.","Remove from oven and sprinkle with Parmesan and parsley, let rest 10 minutes, and serve."
