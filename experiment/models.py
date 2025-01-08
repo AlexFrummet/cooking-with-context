@@ -323,7 +323,7 @@ class FiD():
                 line = fp.readline()
         return generated_answers
 
-    
+# code adapted from https://github.com/terrierteam/monoQA/blob/main/pyterrier_monoQA/__init__.py
 class MonoT5UQA(L.LightningModule):
     def __init__(self, model, tokenizer, fold, batch_size, learning_rate=1e-5):
         super().__init__()        
@@ -535,7 +535,7 @@ class MonoT5UQA(L.LightningModule):
         return optimizer
 
     
-
+# code adapted from https://github.com/terrierteam/monoQA/blob/main/pyterrier_monoQA/__init__.py
 class MonoQookA(L.LightningModule):
     def __init__(self, model, tokenizer, fold, batch_size, learning_rate=1e-5):
         super().__init__()        
